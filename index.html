@@ -322,7 +322,7 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
           <button class="btn" id="fSubmit" type="submit">Enregistrer l'achat</button>
           <div class="form-msg" id="formMsg" role="status"></div>
           <div class="export" id="exportBox" hidden>
-            <p><strong>Dernière étape pour que Claude le suive chaque soir :</strong> copie ce bloc, ouvre ton fichier d'achats sur GitHub et colle-le juste avant le dernier <code>]</code>, en ajoutant une virgule après le bloc précédent. Puis clique sur « Commit changes ». Tu peux aussi simplement envoyer une capture à Claude.</p>
+            <p><strong>Dernière étape pour que Claude le suive chaque soir :</strong> copie ce bloc, ouvre ton fichier d'achats sur GitHub et colle-le juste avant le dernier <code>]</code>, en ajoutant une virgule après le bloc précédent (et en gardant le point pour les décimales : 0.50, pas 0,50). Puis clique sur « Commit changes ». Tu peux aussi simplement envoyer une capture à Claude.</p>
             <pre id="exportCode"></pre>
             <div class="export-acts"><button type="button" class="btn-ghost" id="copyBtn">Copier</button><a class="btn-ghost" href="https://github.com/corentin190105-coder/no-risk-no-rari/edit/main/data/achats.json" target="_blank" rel="noopener">Ouvrir mon fichier d'achats</a></div>
           </div>
@@ -744,9 +744,11 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
     return r.json();
   }
   async function boot() {
+    let achatsOk = true;
     try {
-      const [marche, achats] = await Promise.all([getJSON("data/marche.json"), getJSON("data/achats.json")]);
-      fileAchats = Array.isArray(achats) ? achats : [];
+      const marche = await getJSON("data/marche.json");
+      try { const a = await getJSON("data/achats.json"); fileAchats = Array.isArray(a) ? a : []; }
+      catch (e) { achatsOk = false; fileAchats = []; }
       state.achats = mergeAchats();
       const m = {}; (marche.actifs || []).forEach((f) => { if (f && f.isin) m[f.isin] = f; }); state.actifs = m;
       state.agenda = marche.agenda || [];
@@ -754,6 +756,10 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
       state.meta = marche.meta || null;
       state.db = true;
       renderAll();
+      if (!achatsOk) {
+        $("statusDot").className = "dot stale";
+        $("statusTxt").textContent = "Ton fichier d'achats contient une erreur de format : vérifie les virgules et les décimales (0.76, pas 0,76)";
+      }
     } catch (e) {
       $("statusDot").className = "dot stale"; $("statusTxt").textContent = "Données introuvables, recharge la page";
     }
