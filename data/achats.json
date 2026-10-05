@@ -5,7 +5,7 @@
     "nom": "Amundi PEA Monde (MSCI World)",
     "qte": 24,
     "prix": 6.37,
-    "frais": 1,
+    "frais": 0,76,
     "date": "2026-10-05",
     "compte": "PEA"
   }
@@ -15,7 +15,7 @@
   "nom": "Amundi PEA Nasdaq-100 (part à petit prix)",
   "qte": 20,
   "prix": 7.26,
-  "frais": 1,
+  "frais": 0,72,
   "date": "2026-10-05",
   "compte": "PEA"
 }
@@ -25,7 +25,7 @@
   "nom": "STMicroelectronics",
   "qte": 2,
   "prix": 50.56,
-  "frais": 1,
+  "frais": 0,50,
   "date": "2026-10-05",
   "compte": "PEA"
 }
