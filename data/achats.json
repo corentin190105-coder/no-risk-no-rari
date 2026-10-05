@@ -9,4 +9,23 @@
     "date": "2026-10-05",
     "compte": "PEA"
   }
-]
+]{
+  "id": "fr001400zgr7-2026-10-05-jdui",
+  "isin": "FR001400ZGR7",
+  "nom": "Amundi PEA Nasdaq-100 (part à petit prix)",
+  "qte": 20,
+  "prix": 7.26,
+  "frais": 1,
+  "date": "2026-10-05",
+  "compte": "PEA"
+}
+{
+  "id": "nl0000226223-2026-10-05-fqk1",
+  "isin": "NL0000226223",
+  "nom": "STMicroelectronics",
+  "qte": 2,
+  "prix": 50.56,
+  "frais": 1,
+  "date": "2026-10-05",
+  "compte": "PEA"
+}
