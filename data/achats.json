@@ -4,7 +4,7 @@
     "isin": "FR001400U5Q4",
     "nom": "Amundi PEA Monde (MSCI World)",
     "qte": 24,
-    "prix": 6.37,
+    "prix": 6.339,
     "frais": 0.76,
     "date": "2026-10-05",
     "compte": "PEA"
@@ -14,7 +14,7 @@
     "isin": "FR001400ZGR7",
     "nom": "Amundi PEA Nasdaq-100 (part à petit prix)",
     "qte": 20,
-    "prix": 7.26,
+    "prix": 7.223,
     "frais": 0.72,
     "date": "2026-10-05",
     "compte": "PEA"
@@ -24,7 +24,7 @@
     "isin": "NL0000226223",
     "nom": "STMicroelectronics",
     "qte": 2,
-    "prix": 50.56,
+    "prix": 50.31,
     "frais": 0.50,
     "date": "2026-10-05",
     "compte": "PEA"
