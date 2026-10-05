@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "date": null,
+    "resume": ""
+  },
+  "actifs": [
+    {
+      "activite": "PME française (121 salariés), leader mondial des machines d'épitaxie par jets moléculaires : elles déposent des matériaux couche d'atomes par couche d'atomes pour fabriquer des semi-conducteurs avancés (lasers, capteurs, puces radio).",
+      "actus": [],
+      "isin": "FR0000075954",
+      "marche": "Clients laboratoires et industriels, machines de production à plusieurs millions d'euros pièce. Chiffre d'affaires 2025 de 40,3 millions d'euros, réparti entre Europe, Asie et Amérique du Nord. Cotée sur Euronext Growth, éligible PEA et PEA-PME.",
+      "nom": "Riber",
+      "pea": true,
+      "potentiel": "Sa machine Rosie vise la photonique sur silicium (et les matériaux quantiques), avec 2 à 3 livraisons par an prévues dès 2026-2027. Une seule commande pèse 5 à 10 % de l'activité annuelle.",
+      "rendezvous": [],
+      "risque": "Très élevé",
+      "risques": "Très petite capitalisation : mouvements violents (+176 % depuis janvier mais -26 % sur un mois à un moment de 2026). Revenus irréguliers selon les commandes, pas d'objectif chiffré pour 2026.",
+      "secteur": "Équipements semi-conducteurs",
+      "ticker": "ALRIB",
+      "type": "Action",
+      "historique": []
+    },
+    {
+      "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
+      "actus": [],
+      "isin": "FR0000120073",
+      "marche": "Un oligopole mondial (avec Linde, Air Products, Messer) qui fournit l'industrie, la santé et l'électronique.",
+      "nom": "Air Liquide",
+      "pea": true,
+      "potentiel": "La façon la plus sûre de s'exposer à l'hydrogène dans un PEA : un groupe rentable et diversifié avec une option sur la transition énergétique.",
+      "rendezvous": [],
+      "risque": "Modéré",
+      "risques": "Croissance plus lente qu'un pari pur. Le secteur hydrogène reste difficile en Bourse et ses spécialistes sont souvent déficitaires.",
+      "secteur": "Gaz industriels · hydrogène",
+      "ticker": "AI",
+      "type": "Action",
+      "historique": []
+    },
+    {
+      "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
+      "actus": [],
+      "isin": "FR0000121329",
+      "marche": "Le réarmement européen : Berlin prévoit environ 150 milliards de dollars de dépenses de défense en 2026 (+30 %), et les achats d'équipements militaires européens pourraient croître de 16 % par an jusqu'en 2030.",
+      "nom": "Thales",
+      "pea": true,
+      "potentiel": "Commandes défense en hausse de 75 % au premier trimestre 2026, contrat-cadre avec Rheinmetall pour des systèmes de vision, rachat d'Exail (drones sous-marins).",
+      "rendezvous": [],
+      "risque": "Élevé",
+      "risques": "Le secteur corrige (ETF défense européenne près de -10 % en un mois) car les États sous pression budgétaire peuvent reporter des commandes. Cours multiplié par 3,1 en quatre ans : beaucoup de bonnes nouvelles déjà dans le prix. Part autour de 238 €.",
+      "secteur": "Défense · technologies",
+      "ticker": "HO",
+      "type": "Action",
+      "historique": []
+    },
+    {
+      "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
+      "actus": [],
+      "isin": "FR0004125920",
+      "marche": "Encours proches de 2 600 milliards d'euros fin juin 2026, plateforme ETF au-delà de 400 milliards. Logique des pelles et pioches : il gagne quand les épargnants investissent en ETF.",
+      "nom": "Amundi",
+      "pea": true,
+      "potentiel": "Meilleur semestre de son histoire au S1 2026 avec 56,4 milliards d'euros collectés. Dividende 2025 de 4,25 € par action, soit environ 5,5 % de rendement.",
+      "rendezvous": [],
+      "risque": "Modéré",
+      "risques": "Ses revenus baissent quand les marchés chutent, en même temps que tes ETF. Guerre des prix sur les ETF face à BlackRock et Vanguard.",
+      "secteur": "Gestion d'actifs",
+      "ticker": "AMUN",
+      "type": "Action",
+      "historique": []
+    },
+    {
+      "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
+      "actus": [],
+      "isin": "FR0011871110",
+      "marche": "Les 100 plus grandes valeurs non financières du Nasdaq, dominées par la tech et l'IA.",
+      "nom": "Amundi PEA Nasdaq-100",
+      "pea": true,
+      "potentiel": "Croissance des géants technologiques américains sur le long terme.",
+      "rendezvous": [],
+      "risque": "Modéré",
+      "risques": "Concentration sur la tech US, sensibilité aux taux d'intérêt, corrections fortes possibles.",
+      "secteur": "Tech US",
+      "ticker": "PUST",
+      "type": "ETF",
+      "historique": []
+    },
+    {
+      "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
+      "actus": [
+        {
+          "date": "2026-09-02",
+          "titre": "Soitec relève sa prévision : croissance d'environ 50 % au trimestre clos fin septembre"
+        }
+      ],
+      "isin": "FR0013227113",
+      "marche": "Trois marchés : les smartphones (RF-SOI, en difficulté à cause du surstock des clients), l'automobile (faible) et surtout l'Edge & Cloud AI avec le Photonics-SOI, utilisé dans les data centers pour transporter les données par la lumière.",
+      "nom": "Soitec",
+      "pea": true,
+      "potentiel": "Début septembre 2026, Soitec a relevé sa prévision de croissance trimestrielle à environ 50 % et vise des ventes Photonics-SOI multipliées par 2,5 à 3 sur l'exercice, avec des contrats pluriannuels de réservation de capacités.",
+      "rendezvous": [
+        {
+          "date": "2026-11-18",
+          "titre": "Résultats du premier semestre (publiés le soir, réaction en Bourse le 19)"
+        }
+      ],
+      "risque": "Très élevé",
+      "risques": "Encore en perte (220 millions d'euros sur le dernier exercice). Volatilité extrême : chute d'environ 73 % en 2025, puis cours multiplié par près de 4 au printemps 2026, puis -27 % en un mois en août. Le mobile et l'auto freinent encore.",
+      "secteur": "Semi-conducteurs",
+      "ticker": "SOI",
+      "type": "Action",
+      "historique": []
+    },
+    {
+      "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
+      "actus": [],
+      "isin": "FR0014002IH8",
+      "marche": "L'écosystème du Bitcoin coté en Bourse. Part autour de 15 € en juillet 2026.",
+      "nom": "Melanion Bitcoin Equities",
+      "pea": true,
+      "potentiel": "Profite d'une hausse du Bitcoin, souvent amplifiée par les mineurs.",
+      "rendezvous": [],
+      "risque": "Très élevé",
+      "risques": "Volatilité extrême (séances à -9 % ou +8 %). Ne suit pas mécaniquement le cours du Bitcoin.",
+      "secteur": "Crypto",
+      "ticker": "BTC",
+      "type": "ETF",
+      "historique": []
+    },
+    {
+      "activite": "Un seul produit qui achète environ 1 400 grandes entreprises de 23 pays développés, pondérées selon leur taille. Les États-Unis pèsent environ 70 % et la tech environ 25 %.",
+      "actus": [],
+      "isin": "FR001400U5Q4",
+      "marche": "L'économie mondiale cotée. Amundi le rend éligible au PEA grâce à un contrat d'échange (swap) : il détient des actions européennes et échange leur performance contre celle du MSCI World. Frais : 0,20 % par an, part autour de 6 €.",
+      "nom": "Amundi PEA Monde (MSCI World)",
+      "pea": true,
+      "potentiel": "Profite de la croissance de toutes les grandes entreprises mondiales sans avoir à choisir. Historiquement, l'indice s'est toujours rattrapé sur 10 à 15 ans après les crises.",
+      "rendezvous": [],
+      "risque": "Socle",
+      "risques": "Baisse en même temps que tout le marché lors d'une crise (souvent 20 à 30 %). Exposé au dollar et fortement aux États-Unis.",
+      "secteur": "Monde",
+      "ticker": "DCAM",
+      "type": "ETF",
+      "historique": []
+    },
+    {
+      "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
+      "actus": [],
+      "isin": "FR001400ZGR7",
+      "marche": "La tech américaine, au cœur de l'intelligence artificielle. Les 10 premières lignes pèsent environ la moitié de l'ETF. Frais : 0,30 % par an.",
+      "nom": "Amundi PEA Nasdaq-100 (part à petit prix)",
+      "pea": true,
+      "potentiel": "Capte la croissance des géants de l'IA et du cloud. C'est un satellite de croissance à côté du socle MSCI World.",
+      "rendezvous": [],
+      "risque": "Modéré",
+      "risques": "Très sensible aux hausses de taux (le contexte actuel avec la BCE et la Fed) et concentré sur un pays et un secteur. Le Nasdaq-100 a perdu près de 33 % en 2022.",
+      "secteur": "Tech US",
+      "ticker": "PNAS",
+      "type": "ETF",
+      "historique": []
+    },
+    {
+      "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
+      "actus": [],
+      "isin": "IE0002XZSHO1",
+      "marche": "L'économie mondiale cotée. Frais : 0,20 % par an, part autour de 7 €. Le choisir permet de ne pas tout mettre chez le même gestionnaire si tu as déjà des ETF Amundi.",
+      "nom": "iShares MSCI World Swap PEA",
+      "pea": true,
+      "potentiel": "Identique à DCAM : la croissance de long terme des grandes entreprises mondiales, avec une diversification maximale.",
+      "rendezvous": [],
+      "risque": "Socle",
+      "risques": "Baisse avec l'ensemble des marchés en cas de crise, forte part des États-Unis et du dollar.",
+      "secteur": "Monde",
+      "ticker": "WPEA",
+      "type": "ETF",
+      "historique": []
+    },
+    {
+      "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
+      "actus": [
+        {
+          "date": "2026-09-30",
+          "titre": "Jefferies optimiste sur le dossier"
+        },
+        {
+          "date": "2026-09-28",
+          "titre": "UBS réitère sa recommandation à l'achat"
+        },
+        {
+          "date": "2026-09-09",
+          "titre": "L'optique représentera environ 80 % des revenus IA en 2027 (directeur financier)"
+        }
+      ],
+      "isin": "NL0000226223",
+      "marche": "L'automobile est son premier marché (de l'ordre de 40 % des ventes), puis l'industrie, l'électronique grand public (Apple) et les télécoms. Nouveau relais : les data centers IA.",
+      "nom": "STMicroelectronics",
+      "pea": true,
+      "potentiel": "Revenus data centers IA visés au-dessus de 1 milliard de dollars en 2026 et bien au-dessus de 2 milliards en 2027, dont environ 80 % viendront des puces de liaisons par fibre optique. Le cycle des semi-conducteurs repart (stocks des distributeurs bas) et la direction vise une marge brute de 44 à 46 %.",
+      "prix": 48.79,
+      "prixDate": "2026-10-02",
+      "rendezvous": [
+        {
+          "date": "2026-10-22",
+          "titre": "Résultats du troisième trimestre 2026 (avant l'ouverture)"
+        }
+      ],
+      "risque": "Élevé",
+      "risques": "Dépendance à l'automobile. Le 23 juillet 2026, l'action a chuté de 15 % malgré de bons résultats car la prévision était légèrement sous les attentes : ce sont les prévisions qui font le cours. Sensible aux annonces sur l'IA (-6,6 % le 14 septembre).",
+      "secteur": "Semi-conducteurs",
+      "ticker": "STMPA",
+      "type": "Action",
+      "historique": []
+    }
+  ],
+  "agenda": [
+    {
+      "id": "stm-t3-2026",
+      "date": "2026-10-22",
+      "titre": "STMicroelectronics : résultats du 3e trimestre",
+      "detail": "Prévision donnée en juillet : 3,70 milliards de dollars de chiffre d'affaires, marge brute de 37 %"
+    },
+    {
+      "id": "soitec-s1-2026",
+      "date": "2026-11-18",
+      "titre": "Soitec : résultats du 1er semestre",
+      "detail": "Publication le soir, réaction en Bourse le 19 novembre"
+    }
+  ],
+  "historique": []
+}

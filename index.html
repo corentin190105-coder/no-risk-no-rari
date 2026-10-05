@@ -1,0 +1,765 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#050505">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="No Risk No Rari">
+<meta name="robots" content="noindex">
+<title>No Risk No Rari</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800;900&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+html,body{margin:0}
+/* Layout: a pit-wall console. Black ground, condensed racing display type for the title and big figures,
+   a checkered strip as the one ornament, everything else quiet. Single dark look by design. */
+:root {
+  color-scheme: dark;
+  --bg: #050505;
+  --surface: #0f0f0e;
+  --surface-2: #161615;
+  --line: #262624;
+  --line-strong: #383835;
+  --fg: #f4f3ee;
+  --fg-2: #c3c2b7;
+  --muted: #8c8a83;
+  --accent: #e0322b;
+  --accent-ink: #ffffff;
+  --good: #2fbf4f;
+  --bad: #ef6a62;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+  --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
+  --r1: #1c5cab; --r2: #2a78d6; --r3: #5598e7; --r4: #9ec5f4;
+  --font-display: "Big Shoulders Display", Impact, "Arial Narrow", sans-serif;
+  --font-body: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --radius: 10px;
+}
+* { box-sizing: border-box; }
+html, body { background: var(--bg); }
+body { color: var(--fg); font-family: var(--font-body); font-size: 15px; line-height: 1.5; }
+a { color: var(--fg); }
+.wrap { max-width: 1180px; margin: 0 auto; padding-inline: 20px; padding-block: 28px 64px; display: grid; gap: 36px; }
+
+/* Header */
+.top { display: grid; gap: 14px; }
+.topline { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; }
+.eyebrow { font-family: var(--font-data); font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+.title { font-family: var(--font-display); font-weight: 900; font-size: clamp(52px, 11vw, 132px); line-height: .86; letter-spacing: -.01em; margin: 0; text-transform: uppercase; text-wrap: balance; }
+.title span { display: block; }
+.title .red { color: var(--accent); }
+.checker { height: 10px; background: repeating-conic-gradient(var(--fg) 0 25%, var(--bg) 0 50%) 0 0 / 10px 10px; opacity: .9; border-radius: 2px; }
+.status { display: inline-flex; align-items: center; gap: 8px; font-family: var(--font-data); font-size: 12px; color: var(--fg-2); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; }
+.dot { width: 8px; height: 8px; border-radius: 50%; background: var(--muted); }
+.dot.live { background: var(--good); }
+.dot.stale { background: #e8a317; }
+nav.tabs { display: flex; flex-wrap: wrap; gap: 6px; }
+nav.tabs a { font-size: 13px; font-weight: 600; text-decoration: none; color: var(--fg-2); padding: 7px 12px; border: 1px solid var(--line); border-radius: 999px; }
+nav.tabs a:hover, nav.tabs a:focus-visible { color: var(--fg); border-color: var(--line-strong); outline: none; }
+
+section { display: grid; gap: 16px; scroll-margin-top: 16px; }
+.sec-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px; border-bottom: 1px solid var(--line); padding-bottom: 10px; }
+h2 { font-family: var(--font-display); font-weight: 800; font-size: 34px; line-height: 1; margin: 0; text-transform: uppercase; letter-spacing: .01em; }
+.sec-note { color: var(--muted); font-size: 13px; }
+
+/* KPIs */
+.kpis { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+.kpi { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; display: grid; gap: 6px; min-width: 0; }
+.kpi.hero { background: var(--surface-2); }
+.kpi .lab { font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.kpi .val { font-family: var(--font-display); font-weight: 800; font-size: 40px; line-height: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.kpi .sub { font-family: var(--font-data); font-size: 12.5px; color: var(--fg-2); }
+.up { color: var(--good); } .down { color: var(--bad); }
+
+/* Panels & charts */
+.grid-charts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px 18px; display: grid; gap: 12px; align-content: start; min-width: 0; }
+.panel.wide { grid-column: span 2; }
+.panel h3 { margin: 0; font-size: 14px; font-weight: 700; letter-spacing: .02em; }
+.panel .hint { font-size: 12.5px; color: var(--muted); margin: -6px 0 0; }
+.chart { position: relative; width: 100%; }
+.chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis-t { fill: var(--muted); font-family: var(--font-data); font-size: 11px; }
+.grid-l { stroke: var(--line); stroke-width: 1; }
+.tip { position: absolute; pointer-events: none; background: var(--surface-2); border: 1px solid var(--line-strong); border-radius: 8px; padding: 8px 10px; font-size: 12.5px; font-family: var(--font-data); color: var(--fg); white-space: nowrap; transform: translate(-50%, calc(-100% - 12px)); z-index: 2; }
+.tip b { font-weight: 600; }
+.empty { border: 1px dashed var(--line-strong); border-radius: var(--radius); padding: 22px; color: var(--fg-2); font-size: 14px; display: grid; gap: 6px; place-items: start; }
+.empty strong { color: var(--fg); }
+
+.donut-wrap { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 16px; align-items: center; }
+.legend { list-style: none; margin: 0; padding: 0; display: grid; gap: 7px; min-width: 0; }
+.legend li { display: grid; grid-template-columns: 10px minmax(0, 1fr) auto; gap: 8px; align-items: center; font-size: 13px; }
+.legend .sw { width: 10px; height: 10px; border-radius: 3px; }
+.legend .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--fg-2); }
+.legend .pc { font-family: var(--font-data); font-variant-numeric: tabular-nums; color: var(--fg); }
+.legend li.hl .nm { color: var(--fg); }
+
+.bars { display: grid; gap: 8px; }
+.bar-row { display: grid; grid-template-columns: minmax(0, 110px) minmax(0, 1fr) 78px; gap: 10px; align-items: center; font-size: 13px; }
+.bar-row .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--fg-2); }
+.bar-track { position: relative; height: 16px; }
+.bar-track::before { content: ""; position: absolute; left: 50%; top: -3px; bottom: -3px; width: 1px; background: var(--line-strong); }
+.bar { position: absolute; top: 2px; height: 12px; border-radius: 3px; }
+.bar.pos { left: 50%; background: var(--good); border-radius: 0 3px 3px 0; }
+.bar.neg { right: 50%; background: var(--bad); border-radius: 3px 0 0 3px; }
+.bar-row .v { font-family: var(--font-data); font-variant-numeric: tabular-nums; text-align: right; }
+
+/* Table */
+.table-scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; min-width: 760px; }
+th, td { padding: 11px 14px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; }
+th:first-child, td:first-child { text-align: left; }
+th { font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; background: var(--surface-2); }
+td { font-family: var(--font-data); font-variant-numeric: tabular-nums; }
+td:first-child { font-family: var(--font-body); }
+tr:last-child td { border-bottom: none; }
+.asset-cell { display: flex; align-items: center; gap: 10px; }
+.asset-cell .sw { width: 10px; height: 10px; border-radius: 3px; flex: none; }
+.asset-cell small { display: block; color: var(--muted); font-family: var(--font-data); font-size: 11.5px; }
+.pending { color: var(--muted); font-style: italic; }
+
+/* Chips */
+.chip { display: inline-flex; align-items: center; gap: 6px; font-size: 11.5px; font-weight: 600; letter-spacing: .03em; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--line-strong); color: var(--fg-2); white-space: nowrap; }
+.chip .sw { width: 8px; height: 8px; border-radius: 2px; }
+.chip.held { border-color: var(--fg-2); color: var(--fg); }
+
+/* Fiches */
+.fiches { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.fiche { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; display: grid; gap: 12px; align-content: start; min-width: 0; }
+.fiche-head { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; align-items: start; }
+.fiche h3 { margin: 0; font-family: var(--font-display); font-weight: 800; font-size: 26px; line-height: 1.05; text-transform: uppercase; }
+.fiche .ids { font-family: var(--font-data); font-size: 11.5px; color: var(--muted); margin-top: 4px; }
+.fiche .price { text-align: right; }
+.fiche .price .p { font-family: var(--font-display); font-weight: 800; font-size: 26px; line-height: 1; }
+.fiche .price .d { font-family: var(--font-data); font-size: 12px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.fiche p { margin: 0; color: var(--fg-2); max-width: 65ch; }
+.fiche .lead { color: var(--fg); }
+.spark { height: 46px; }
+details { border-top: 1px solid var(--line); padding-top: 10px; }
+summary { cursor: pointer; font-size: 13px; font-weight: 700; color: var(--fg); list-style: none; display: flex; align-items: center; gap: 8px; }
+summary::-webkit-details-marker { display: none; }
+summary::before { content: "+"; font-family: var(--font-data); color: var(--muted); width: 12px; }
+details[open] summary::before { content: "−"; }
+summary:focus-visible { outline: 2px solid var(--fg-2); outline-offset: 3px; border-radius: 4px; }
+.blocks { display: grid; gap: 12px; margin-top: 12px; }
+.blk h4 { margin: 0 0 3px; font-size: 11.5px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+.mini-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; font-size: 13.5px; color: var(--fg-2); }
+.mini-list .dt { font-family: var(--font-data); color: var(--fg); margin-right: 8px; font-size: 12.5px; }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; }
+.filters button { font: inherit; font-size: 13px; font-weight: 600; color: var(--fg-2); background: transparent; border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; cursor: pointer; }
+.filters button[aria-pressed="true"] { color: var(--bg); background: var(--fg); border-color: var(--fg); }
+
+/* Agenda */
+.agenda { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.agenda li { display: grid; grid-template-columns: 74px minmax(0, 1fr) auto; gap: 14px; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px 16px; }
+.agenda .day { font-family: var(--font-display); font-weight: 800; font-size: 30px; line-height: .9; text-transform: uppercase; }
+.agenda .day small { display: block; font-family: var(--font-data); font-weight: 500; font-size: 11.5px; color: var(--muted); letter-spacing: .06em; margin-top: 4px; }
+.agenda .what { min-width: 0; }
+.agenda .what strong { display: block; font-size: 14px; }
+.agenda .what span { color: var(--muted); font-size: 13px; }
+.agenda .cd { font-family: var(--font-data); font-size: 12.5px; color: var(--fg-2); white-space: nowrap; }
+.agenda .cd.soon { color: var(--accent); }
+
+/* Form */
+.add-grid { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 12px; align-items: start; }
+form { display: grid; gap: 12px; }
+.fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.field { display: grid; gap: 5px; min-width: 0; }
+.field.full { grid-column: 1 / -1; }
+label { font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+input, select { font: inherit; font-size: 14.5px; color: var(--fg); background: var(--surface-2); border: 1px solid var(--line-strong); border-radius: 8px; padding: 10px 12px; width: 100%; min-width: 0; }
+input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outline-offset: 1px; }
+.btn { font: inherit; font-weight: 700; font-size: 14px; border-radius: 8px; padding: 11px 18px; cursor: pointer; border: 1px solid var(--accent); background: var(--accent); color: var(--accent-ink); justify-self: start; }
+.btn:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+.btn[disabled] { opacity: .5; cursor: not-allowed; }
+.btn-ghost { font: inherit; font-size: 12.5px; font-weight: 600; background: transparent; border: 1px solid var(--line-strong); color: var(--fg-2); border-radius: 6px; padding: 5px 10px; cursor: pointer; }
+.btn-ghost.danger { border-color: var(--bad); color: var(--bad); }
+.btn-ghost:focus-visible { outline: 2px solid var(--fg-2); outline-offset: 2px; }
+.export { display: grid; gap: 10px; border: 1px solid var(--line-strong); border-radius: 8px; padding: 14px; background: var(--surface-2); }
+.export p { margin: 0; font-size: 13.5px; color: var(--fg-2); }
+.export code { font-family: var(--font-data); }
+.export pre { margin: 0; font-family: var(--font-data); font-size: 12.5px; color: var(--fg); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 10px; overflow-x: auto; }
+.export-acts { display: flex; flex-wrap: wrap; gap: 8px; }
+.export-acts a { text-decoration: none; display: inline-flex; align-items: center; }
+.hint-s { font-size: 12.5px; color: var(--muted); }
+.hint-s.ok { color: var(--fg-2); }
+.form-msg { font-size: 13px; color: var(--fg-2); min-height: 1.2em; }
+.form-msg.err { color: var(--bad); }
+.achats { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; max-height: 420px; overflow-y: auto; }
+.achats li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; align-items: center; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface-2); font-size: 13px; }
+.achats .meta { font-family: var(--font-data); color: var(--muted); font-size: 12px; }
+.achats .acts { display: flex; gap: 6px; }
+
+.foot { color: var(--muted); font-size: 12.5px; border-top: 1px solid var(--line); padding-top: 14px; display: grid; gap: 4px; }
+
+@media (max-width: 900px) {
+  .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .grid-charts { grid-template-columns: minmax(0, 1fr); }
+  .panel.wide { grid-column: auto; }
+  .fiches, .add-grid { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 480px) {
+  .wrap { padding-inline: 16px; }
+  .kpi .val { font-size: 32px; }
+  .donut-wrap { grid-template-columns: minmax(0, 1fr); }
+  .donut-wrap .chart { max-width: 180px; justify-self: center; }
+  .fields { grid-template-columns: minmax(0, 1fr); }
+  .agenda li { grid-template-columns: 60px minmax(0, 1fr); }
+  .agenda .cd { grid-column: 2; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; scroll-behavior: auto !important; } }
+</style>
+
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="topline">
+      <span class="eyebrow">Tableau de bord · PEA Trade Republic</span>
+      <span class="status" id="status"><span class="dot" id="statusDot"></span><span id="statusTxt">Connexion aux données…</span></span>
+    </div>
+    <h1 class="title"><span>No risk</span><span class="red">No rari</span></h1>
+    <div class="checker" aria-hidden="true"></div>
+    <nav class="tabs" aria-label="Sections">
+      <a href="#portefeuille">Portefeuille</a>
+      <a href="#positions">Positions</a>
+      <a href="#comprendre">Comprendre mes actifs</a>
+      <a href="#agenda">Agenda</a>
+      <a href="#ajouter">Ajouter un achat</a>
+    </nav>
+  </header>
+
+  <section id="portefeuille" aria-labelledby="h-pf">
+    <div class="sec-head"><h2 id="h-pf">Portefeuille</h2><span class="sec-note">Cours de clôture mis à jour chaque soir vers 21h</span></div>
+    <div class="kpis">
+      <div class="kpi hero"><span class="lab">Valeur actuelle</span><span class="val" id="kValeur">—</span><span class="sub" id="kValeurSub">Ajoute ton premier achat</span></div>
+      <div class="kpi"><span class="lab">Investi</span><span class="val" id="kInvesti">—</span><span class="sub" id="kInvestiSub">Somme de tes achats, frais compris</span></div>
+      <div class="kpi"><span class="lab">Plus ou moins-value</span><span class="val" id="kPv">—</span><span class="sub" id="kPvSub">Depuis tes achats</span></div>
+      <div class="kpi"><span class="lab">Part du socle ETF</span><span class="val" id="kSocle">—</span><span class="sub" id="kSocleSub">Objectif conseillé : 70 % ou plus</span></div>
+    </div>
+    <div class="grid-charts">
+      <div class="panel wide">
+        <h3>Évolution du portefeuille</h3>
+        <p class="hint">Valeur chaque soir comparée à la somme investie</p>
+        <div class="chart" id="lineChart"></div>
+      </div>
+      <div class="panel">
+        <h3>Répartition par actif</h3>
+        <div id="donutAssets"></div>
+      </div>
+      <div class="panel">
+        <h3>Répartition par niveau de risque</h3>
+        <div id="donutRisk"></div>
+      </div>
+      <div class="panel wide">
+        <h3>Gain ou perte par ligne</h3>
+        <p class="hint">En euros, depuis ton prix d'achat</p>
+        <div id="pvBars"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="positions" aria-labelledby="h-pos">
+    <div class="sec-head"><h2 id="h-pos">Positions</h2><span class="sec-note" id="posNote"></span></div>
+    <div id="posTable"></div>
+  </section>
+
+  <section id="comprendre" aria-labelledby="h-fi">
+    <div class="sec-head"><h2 id="h-fi">Comprendre mes actifs</h2>
+      <div class="filters" role="group" aria-label="Filtrer les fiches">
+        <button type="button" id="fHeld" aria-pressed="false">Mes positions</button>
+        <button type="button" id="fAll" aria-pressed="true">Tout ce que je suis</button>
+      </div>
+    </div>
+    <div class="fiches" id="fiches"></div>
+  </section>
+
+  <section id="agenda" aria-labelledby="h-ag">
+    <div class="sec-head"><h2 id="h-ag">Agenda</h2><span class="sec-note">Résultats, dividendes, banques centrales</span></div>
+    <ul class="agenda" id="agendaList"></ul>
+  </section>
+
+  <section id="ajouter" aria-labelledby="h-add">
+    <div class="sec-head"><h2 id="h-add">Ajouter un achat</h2><span class="sec-note">Recopie les infos de ton ordre Trade Republic</span></div>
+    <div class="add-grid">
+      <div class="panel">
+        <form id="buyForm" novalidate>
+          <div class="fields">
+            <div class="field full">
+              <label for="fAsset">Actif</label>
+              <input id="fAsset" type="text" list="assetList" placeholder="Tape un nom, un ticker ou un ISIN (ex. Ferrari, WPEA, Air Liquide)" autocomplete="off">
+              <datalist id="assetList"></datalist>
+              <span class="hint-s" id="assetHint">Choisis dans les suggestions ou écris n'importe quel actif : sa fiche sera rédigée ce soir.</span>
+            </div>
+            <div class="field full">
+              <label for="fIsin">ISIN (facultatif)</label>
+              <input id="fIsin" type="text" placeholder="ex. FR0000121972, visible sur la fiche Trade Republic" autocomplete="off">
+            </div>
+            <div class="field">
+              <label for="fQte">Nombre de parts</label>
+              <input id="fQte" type="number" inputmode="decimal" min="0" step="any" placeholder="ex. 20">
+            </div>
+            <div class="field">
+              <label for="fPrix">Prix payé par part (€)</label>
+              <input id="fPrix" type="number" inputmode="decimal" min="0" step="any" placeholder="ex. 5,12">
+            </div>
+            <div class="field">
+              <label for="fFrais">Frais de l'ordre (€)</label>
+              <input id="fFrais" type="number" inputmode="decimal" min="0" step="any" value="0">
+            </div>
+            <div class="field">
+              <label for="fDate">Date</label>
+              <input id="fDate" type="date">
+            </div>
+            <div class="field full">
+              <label for="fCompte">Compte</label>
+              <select id="fCompte"><option value="PEA">PEA</option><option value="CTO">Compte-titres (CTO)</option></select>
+            </div>
+          </div>
+          <button class="btn" id="fSubmit" type="submit">Enregistrer l'achat</button>
+          <div class="form-msg" id="formMsg" role="status"></div>
+          <div class="export" id="exportBox" hidden>
+            <p><strong>Dernière étape pour que Claude le suive chaque soir :</strong> copie ce bloc, ouvre ton fichier d'achats sur GitHub et colle-le juste avant le dernier <code>]</code>, en ajoutant une virgule après le bloc précédent. Puis clique sur « Commit changes ». Tu peux aussi simplement envoyer une capture à Claude.</p>
+            <pre id="exportCode"></pre>
+            <div class="export-acts"><button type="button" class="btn-ghost" id="copyBtn">Copier</button><a class="btn-ghost" href="https://github.com/corentin190105-coder/no-risk-no-rari/edit/main/data/achats.json" target="_blank" rel="noopener">Ouvrir mon fichier d'achats</a></div>
+          </div>
+        </form>
+      </div>
+      <div class="panel">
+        <h3>Mes achats enregistrés</h3>
+        <ul class="achats" id="achatsList"></ul>
+      </div>
+    </div>
+  </section>
+
+  <footer class="foot">
+    <span>Les cours sont des cours de clôture récupérés chaque soir par Claude : Trade Republic reste la référence pour le prix en temps réel.</span>
+    <span>Ce tableau de bord sert à suivre et comprendre tes placements. Ce n'est pas un conseil en investissement.</span>
+  </footer>
+</div>
+
+<script>
+(() => {
+  const RISKS = ["Socle", "Modéré", "Élevé", "Très élevé"];
+  const RISK_VARS = ["--r1", "--r2", "--r3", "--r4"];
+  const SERIES = ["--s1", "--s2", "--s3", "--s4", "--s5", "--s6", "--s7", "--s8"];
+  const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+  const eur = new Intl.NumberFormat("fr-FR", { style: "currency", currency: "EUR" });
+  const eur0 = new Intl.NumberFormat("fr-FR", { style: "currency", currency: "EUR", maximumFractionDigits: 0 });
+  const num = new Intl.NumberFormat("fr-FR", { maximumFractionDigits: 4 });
+  const pct = (x) => (x >= 0 ? "+" : "") + x.toLocaleString("fr-FR", { minimumFractionDigits: 1, maximumFractionDigits: 1 }) + " %";
+  const signEur = (x) => (x >= 0 ? "+" : "−") + eur.format(Math.abs(x));
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const $ = (id) => document.getElementById(id);
+  const todayISO = () => new Date(Date.now() - new Date().getTimezoneOffset() * 60000).toISOString().slice(0, 10);
+  const fmtDate = (d, opts = { day: "numeric", month: "short", year: "numeric" }) => {
+    if (!d) return "";
+    const dt = new Date(d.length <= 10 ? d + "T12:00:00" : d);
+    return isNaN(dt) ? esc(d) : dt.toLocaleDateString("fr-FR", opts);
+  };
+
+  /* Catalogue of common PEA-eligible names to speed up typing. ISINs are left to the nightly update when not listed here. */
+  const CATALOGUE = [
+    ["Amundi PEA Monde (MSCI World)", "DCAM", "FR001400U5Q4"], ["iShares MSCI World Swap PEA", "WPEA", "IE0002XZSHO1"], ["Amundi MSCI World Swap", "CW8", "LU1681043599"],
+    ["Amundi PEA Nasdaq-100 (part à petit prix)", "PNAS", "FR001400ZGR7"], ["Amundi PEA Nasdaq-100", "PUST", "FR0011871110"],
+    ["BNP Paribas Easy S&P 500", "ESE", ""], ["Amundi PEA S&P 500", "PE500", ""], ["Amundi CAC 40", "CACC", ""], ["Amundi PEA Emerging Markets", "PAEEM", "FR0013412020"],
+    ["Amundi Stoxx Europe 600", "", ""], ["Amundi Euro Stoxx 50", "", ""], ["Amundi Stoxx Europe Defense", "", ""], ["Melanion Bitcoin Equities", "BTC", "FR0014002IH8"],
+    ["Accor", "AC", ""], ["Air Liquide", "AI", "FR0000120073"], ["Airbus", "AIR", ""], ["ArcelorMittal", "MT", ""], ["AXA", "CS", ""], ["BNP Paribas", "BNP", ""],
+    ["Bouygues", "EN", ""], ["Bureau Veritas", "BVI", ""], ["Capgemini", "CAP", ""], ["Carrefour", "CA", ""], ["Crédit Agricole", "ACA", ""], ["Danone", "BN", ""],
+    ["Dassault Aviation", "AM", ""], ["Dassault Systèmes", "DSY", ""], ["Engie", "ENGI", ""], ["EssilorLuxottica", "EL", ""], ["Eurofins Scientific", "ERF", ""],
+    ["Hermès", "RMS", ""], ["Kering", "KER", ""], ["Legrand", "LR", ""], ["L'Oréal", "OR", ""], ["LVMH", "MC", ""], ["Michelin", "ML", ""], ["Orange", "ORA", ""],
+    ["Pernod Ricard", "RI", ""], ["Publicis", "PUB", ""], ["Renault", "RNO", ""], ["Safran", "SAF", ""], ["Saint-Gobain", "SGO", ""], ["Sanofi", "SAN", ""],
+    ["Schneider Electric", "SU", ""], ["Société Générale", "GLE", ""], ["Stellantis", "STLAP", ""], ["STMicroelectronics", "STMPA", "NL0000226223"],
+    ["Thales", "HO", "FR0000121329"], ["TotalEnergies", "TTE", ""], ["Unibail-Rodamco-Westfield", "URW", ""], ["Veolia", "VIE", ""], ["Vinci", "DG", ""],
+    ["Amundi", "AMUN", "FR0004125920"], ["Soitec", "SOI", "FR0013227113"], ["Riber", "ALRIB", "FR0000075954"], ["Lhyfe", "LHYFE", ""], ["HDF Energy", "HDF", ""],
+    ["Exail Technologies", "EXA", ""], ["Euronext", "ENX", ""], ["GTT", "GTT", ""], ["Rexel", "RXL", ""], ["Nexans", "NEX", ""], ["Valneva", "VLA", ""],
+    ["ASML", "ASML", ""], ["BE Semiconductor (Besi)", "BESI", ""], ["Infineon", "IFX", ""], ["SAP", "SAP", ""], ["Siemens", "SIE", ""], ["Siemens Energy", "ENR", ""],
+    ["Rheinmetall", "RHM", ""], ["Hensoldt", "HAG", ""], ["Leonardo", "LDO", ""], ["Saab", "SAAB-B", ""], ["Ferrari", "RACE", ""], ["Prosus", "PRX", ""],
+    ["Novo Nordisk", "NOVO-B", ""], ["Nel ASA", "NEL", ""], ["Iberdrola", "IBE", ""], ["Enel", "ENEL", ""], ["Adyen", "ADYEN", ""], ["Allianz", "ALV", ""],
+  ].map(([nom, ticker, isin]) => ({ nom, ticker, isin }));
+  const labelOf = (o) => o.nom + (o.ticker ? " (" + o.ticker + ")" : "");
+
+  const state = { db: null, achats: [], actifs: {}, hist: [], meta: null, agenda: [], filter: "all", confirmId: null, loaded: false };
+
+  /* ---------- Derived data ---------- */
+  function positions() {
+    const map = new Map();
+    for (const a of state.achats) {
+      const key = (a.isin || a.nom) + "|" + (a.compte || "PEA");
+      const p = map.get(key) || { isin: a.isin, nom: a.nom, compte: a.compte || "PEA", qte: 0, cout: 0 };
+      p.qte += Number(a.qte) || 0;
+      p.cout += (Number(a.qte) || 0) * (Number(a.prix) || 0) + (Number(a.frais) || 0);
+      map.set(key, p);
+    }
+    const list = [...map.values()].filter((p) => p.qte > 0);
+    list.sort((x, y) => String(x.isin).localeCompare(String(y.isin)));
+    list.forEach((p, i) => {
+      const f = findFiche(p.isin, p.nom) || {};
+      p.fiche = f;
+      if (!p.isin && f.isin) p.isin = f.isin;
+      p.nom = f.nom || p.nom || p.isin;
+      p.pru = p.cout / p.qte;
+      p.cours = typeof f.prix === "number" ? f.prix : null;
+      p.valeur = p.cours != null ? p.cours * p.qte : p.cout;
+      p.pv = p.valeur - p.cout;
+      p.pvPct = p.cout ? (p.pv / p.cout) * 100 : 0;
+      p.risque = RISKS.includes(f.risque) ? f.risque : "Élevé";
+      p.color = i < 8 ? css(SERIES[i]) : css("--muted");
+    });
+    return list;
+  }
+  function findFiche(isin, nom) {
+    if (isin && state.actifs[isin]) return state.actifs[isin];
+    const n = String(nom || "").trim().toLowerCase();
+    if (!n) return null;
+    return Object.values(state.actifs).find((f) => String(f.nom || "").toLowerCase() === n || String(f.ticker || "").toLowerCase() === n) || null;
+  }
+  function colorFor(isin, pos) {
+    const p = pos.find((x) => x.isin === isin);
+    return p ? p.color : null;
+  }
+
+  /* ---------- Charts ---------- */
+  function donut(el, items, centerLabel) {
+    const total = items.reduce((s, i) => s + i.value, 0);
+    if (!total) { el.innerHTML = '<div class="empty"><strong>Rien à afficher pour l\'instant</strong>Le camembert apparaît dès ton premier achat.</div>'; return; }
+    const R = 70, r = 46, C = 75;
+    let a0 = -Math.PI / 2;
+    const gap = items.length > 1 ? 0.025 : 0;
+    const paths = items.map((it, idx) => {
+      const ang = (it.value / total) * Math.PI * 2;
+      const s = a0 + gap / 2, e = a0 + ang - gap / 2;
+      a0 += ang;
+      const large = e - s > Math.PI ? 1 : 0;
+      const p = (rad, t) => [C + rad * Math.cos(t), C + rad * Math.sin(t)].map((n) => n.toFixed(2)).join(" ");
+      const d = ang >= Math.PI * 2 - 0.0001
+        ? `M ${C} ${C - R} A ${R} ${R} 0 1 1 ${C - 0.01} ${C - R} L ${C - 0.01} ${C - r} A ${r} ${r} 0 1 0 ${C} ${C - r} Z`
+        : `M ${p(R, s)} A ${R} ${R} 0 ${large} 1 ${p(R, e)} L ${p(r, e)} A ${r} ${r} 0 ${large} 0 ${p(r, s)} Z`;
+      return `<path d="${d}" fill="${it.color}" data-i="${idx}" tabindex="0" role="img" aria-label="${esc(it.label)} ${((it.value / total) * 100).toFixed(1)} %"></path>`;
+    }).join("");
+    el.innerHTML = `<div class="donut-wrap"><div class="chart"><svg viewBox="0 0 150 150" aria-hidden="false">${paths}
+      <text x="75" y="72" text-anchor="middle" fill="${css("--fg")}" style="font-family:var(--font-display);font-weight:800;font-size:22px" id="${el.id}-c1">${esc(centerLabel)}</text>
+      <text x="75" y="90" text-anchor="middle" fill="${css("--muted")}" style="font-family:var(--font-data);font-size:10px" id="${el.id}-c2">${items.length} ligne${items.length > 1 ? "s" : ""}</text></svg></div>
+      <ul class="legend">${items.map((it, idx) => `<li data-i="${idx}"><span class="sw" style="background:${it.color}"></span><span class="nm">${esc(it.label)}</span><span class="pc">${((it.value / total) * 100).toFixed(1)} %</span></li>`).join("")}</ul></div>`;
+    const c1 = el.querySelector(`#${el.id}-c1`), c2 = el.querySelector(`#${el.id}-c2`);
+    const hl = (i) => {
+      el.querySelectorAll("path").forEach((pth) => pth.style.opacity = i == null || pth.dataset.i == i ? 1 : .35);
+      el.querySelectorAll(".legend li").forEach((li) => li.classList.toggle("hl", li.dataset.i == i));
+      if (i == null) { c1.textContent = centerLabel; c2.textContent = `${items.length} ligne${items.length > 1 ? "s" : ""}`; }
+      else { c1.textContent = ((items[i].value / total) * 100).toFixed(1) + " %"; c2.textContent = eur0.format(items[i].value); }
+    };
+    el.querySelectorAll("path, .legend li").forEach((n) => {
+      n.addEventListener("mouseenter", () => hl(n.dataset.i));
+      n.addEventListener("focus", () => hl(n.dataset.i));
+      n.addEventListener("mouseleave", () => hl(null));
+      n.addEventListener("blur", () => hl(null));
+    });
+  }
+
+  function lineChart(el, points) {
+    if (points.length < 2) {
+      el.innerHTML = `<div class="empty"><strong>La courbe se construit soir après soir</strong>Chaque soir vers 21h, Claude enregistre la valeur de ton portefeuille. Il faut au moins deux soirs de données pour tracer la courbe.${points.length === 1 ? `<span>Premier point : ${eur.format(points[0].valeur)} le ${fmtDate(points[0].d)}.</span>` : ""}</div>`;
+      return;
+    }
+    const W = Math.max(320, el.clientWidth || 640), H = 230, padL = 56, padR = 14, padT = 14, padB = 26;
+    const xs = points.map((p) => new Date(p.d + "T12:00:00").getTime());
+    const vals = points.flatMap((p) => [p.valeur, p.investi ?? p.valeur]);
+    let lo = Math.min(...vals), hi = Math.max(...vals);
+    const span = hi - lo || hi * 0.1 || 10; lo -= span * 0.12; hi += span * 0.12; if (lo < 0) lo = 0;
+    const x = (t) => padL + ((t - xs[0]) / ((xs[xs.length - 1] - xs[0]) || 1)) * (W - padL - padR);
+    const y = (v) => padT + (1 - (v - lo) / (hi - lo)) * (H - padT - padB);
+    const ticks = 4, grid = [];
+    for (let i = 0; i <= ticks; i++) {
+      const v = lo + (i / ticks) * (hi - lo);
+      grid.push(`<line class="grid-l" x1="${padL}" x2="${W - padR}" y1="${y(v).toFixed(1)}" y2="${y(v).toFixed(1)}"/><text class="axis-t" x="${padL - 8}" y="${(y(v) + 4).toFixed(1)}" text-anchor="end">${eur0.format(v)}</text>`);
+    }
+    const xl = [0, Math.floor((points.length - 1) / 2), points.length - 1].filter((v, i, a) => a.indexOf(v) === i)
+      .map((i) => `<text class="axis-t" x="${x(xs[i]).toFixed(1)}" y="${H - 6}" text-anchor="${i === 0 ? "start" : i === points.length - 1 ? "end" : "middle"}">${fmtDate(points[i].d, { day: "numeric", month: "short" })}</text>`).join("");
+    const pathV = points.map((p, i) => `${i ? "L" : "M"}${x(xs[i]).toFixed(1)} ${y(p.valeur).toFixed(1)}`).join(" ");
+    const area = `${pathV} L${x(xs[xs.length - 1]).toFixed(1)} ${(H - padB).toFixed(1)} L${x(xs[0]).toFixed(1)} ${(H - padB).toFixed(1)} Z`;
+    const pathI = points.map((p, i) => `${i ? "L" : "M"}${x(xs[i]).toFixed(1)} ${y(p.investi ?? p.valeur).toFixed(1)}`).join(" ");
+    const last = points[points.length - 1];
+    const blue = css("--s1");
+    el.innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Évolution de la valeur du portefeuille">
+      <defs><linearGradient id="gv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${blue}" stop-opacity=".28"/><stop offset="1" stop-color="${blue}" stop-opacity="0"/></linearGradient></defs>
+      ${grid.join("")}${xl}
+      <path d="${area}" fill="url(#gv)"/>
+      <path d="${pathI}" fill="none" stroke="${css("--muted")}" stroke-width="1.5" stroke-dasharray="4 4"/>
+      <path d="${pathV}" fill="none" stroke="${blue}" stroke-width="2" stroke-linejoin="round"/>
+      <circle cx="${x(xs[xs.length - 1]).toFixed(1)}" cy="${y(last.valeur).toFixed(1)}" r="4.5" fill="${blue}" stroke="${css("--surface")}" stroke-width="2"/>
+      <line id="lc-x" class="grid-l" y1="${padT}" y2="${H - padB}" x1="0" x2="0" stroke="${css("--line-strong")}" visibility="hidden"/>
+      <circle id="lc-d" r="4" fill="${blue}" stroke="${css("--surface")}" stroke-width="2" visibility="hidden"/>
+      <rect x="${padL}" y="${padT}" width="${W - padL - padR}" height="${H - padT - padB}" fill="transparent" id="lc-hit"/>
+    </svg>
+    <div class="tip" id="lc-tip" hidden></div>
+    <ul class="legend" style="grid-template-columns:repeat(2,max-content);gap:6px 18px;margin-top:6px">
+      <li style="grid-template-columns:14px auto"><span class="sw" style="background:${blue};height:3px;width:14px"></span><span class="nm">Valeur du portefeuille</span></li>
+      <li style="grid-template-columns:14px auto"><span class="sw" style="background:none;border-top:2px dashed ${css("--muted")};height:0;width:14px"></span><span class="nm">Somme investie</span></li>
+    </ul>`;
+    const svg = el.querySelector("svg"), hit = el.querySelector("#lc-hit"), tip = el.querySelector("#lc-tip"), lx = el.querySelector("#lc-x"), ld = el.querySelector("#lc-d");
+    hit.addEventListener("mousemove", (ev) => {
+      const r = svg.getBoundingClientRect(), sx = ((ev.clientX - r.left) / r.width) * W;
+      let best = 0; xs.forEach((t, i) => { if (Math.abs(x(t) - sx) < Math.abs(x(xs[best]) - sx)) best = i; });
+      const p = points[best], px = x(xs[best]), py = y(p.valeur);
+      lx.setAttribute("x1", px); lx.setAttribute("x2", px); lx.setAttribute("visibility", "visible");
+      ld.setAttribute("cx", px); ld.setAttribute("cy", py); ld.setAttribute("visibility", "visible");
+      const inv = p.investi ?? p.valeur, d = p.valeur - inv;
+      tip.innerHTML = `<b>${fmtDate(p.d)}</b><br>Valeur ${eur.format(p.valeur)}<br>Investi ${eur.format(inv)}<br><span class="${d >= 0 ? "up" : "down"}">${signEur(d)}</span>`;
+      tip.style.left = (px / W) * r.width + "px"; tip.style.top = (py / H) * r.height + "px"; tip.hidden = false;
+    });
+    hit.addEventListener("mouseleave", () => { tip.hidden = true; lx.setAttribute("visibility", "hidden"); ld.setAttribute("visibility", "hidden"); });
+  }
+
+  function sparkline(hist) {
+    if (!Array.isArray(hist) || hist.length < 2) return "";
+    const W = 300, H = 46, vals = hist.map((h) => h.p);
+    const lo = Math.min(...vals), hi = Math.max(...vals), sp = hi - lo || 1;
+    const pts = hist.map((h, i) => [(i / (hist.length - 1)) * (W - 6) + 3, 4 + (1 - (h.p - lo) / sp) * (H - 8)]);
+    const up = vals[vals.length - 1] >= vals[0];
+    const col = up ? css("--good") : css("--bad");
+    const d = pts.map((p, i) => (i ? "L" : "M") + p[0].toFixed(1) + " " + p[1].toFixed(1)).join(" ");
+    const l = pts[pts.length - 1];
+    return `<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Cours sur ${hist.length} séances, ${up ? "en hausse" : "en baisse"}"><path d="${d}" fill="none" stroke="${col}" stroke-width="1.8" vector-effect="non-scaling-stroke"/><circle cx="${l[0]}" cy="${l[1]}" r="3" fill="${col}"/></svg>`;
+  }
+
+  /* ---------- Renderers ---------- */
+  function renderKpis(pos) {
+    const val = pos.reduce((s, p) => s + p.valeur, 0), cout = pos.reduce((s, p) => s + p.cout, 0), pv = val - cout;
+    const socle = pos.filter((p) => p.risque === "Socle").reduce((s, p) => s + p.valeur, 0);
+    if (!pos.length) {
+      ["kValeur", "kInvesti", "kPv", "kSocle"].forEach((k) => $(k).textContent = "—");
+      $("kValeurSub").textContent = "Ajoute ton premier achat en bas de page";
+      $("kPvSub").textContent = "Depuis tes achats"; $("kPv").className = "val";
+      return;
+    }
+    $("kValeur").textContent = eur.format(val);
+    const missing = pos.filter((p) => p.cours == null).length;
+    $("kValeurSub").textContent = missing ? `${missing} ligne${missing > 1 ? "s" : ""} au prix d'achat en attendant le cours de 21h` : `${pos.length} ligne${pos.length > 1 ? "s" : ""} en portefeuille`;
+    $("kInvesti").textContent = eur.format(cout);
+    $("kPv").textContent = signEur(pv); $("kPv").className = "val " + (pv >= 0 ? "up" : "down");
+    $("kPvSub").textContent = pct(cout ? (pv / cout) * 100 : 0) + " depuis tes achats";
+    const sp = val ? (socle / val) * 100 : 0;
+    $("kSocle").textContent = Math.round(sp) + " %";
+    $("kSocleSub").textContent = sp >= 70 ? "Dans l'objectif : 70 % ou plus" : "En dessous de l'objectif de 70 %";
+  }
+
+  function renderCharts(pos) {
+    lineChart($("lineChart"), state.hist);
+    const byAsset = pos.map((p) => ({ label: p.nom, value: p.valeur, color: p.color }));
+    donut($("donutAssets"), byAsset, pos.length ? eur0.format(pos.reduce((s, p) => s + p.valeur, 0)) : "");
+    const byRisk = RISKS.map((r, i) => ({ label: r, value: pos.filter((p) => p.risque === r).reduce((s, p) => s + p.valeur, 0), color: css(RISK_VARS[i]) })).filter((x) => x.value > 0);
+    donut($("donutRisk"), byRisk, pos.length ? byRisk.length + " niveau" + (byRisk.length > 1 ? "x" : "") : "");
+    const el = $("pvBars");
+    if (!pos.length) { el.innerHTML = '<div class="empty"><strong>Aucune ligne pour l\'instant</strong>Tes gains et pertes par actif s\'afficheront ici.</div>'; return; }
+    const max = Math.max(...pos.map((p) => Math.abs(p.pv)), 1);
+    el.innerHTML = `<div class="bars">${[...pos].sort((a, b) => b.pv - a.pv).map((p) => {
+      const w = (Math.abs(p.pv) / max) * 50;
+      return `<div class="bar-row" title="${esc(p.nom)} : ${signEur(p.pv)} (${pct(p.pvPct)})"><span class="nm">${esc(p.nom)}</span><div class="bar-track"><div class="bar ${p.pv >= 0 ? "pos" : "neg"}" style="width:${w.toFixed(2)}%"></div></div><span class="v ${p.pv >= 0 ? "up" : "down"}">${signEur(p.pv)}</span></div>`;
+    }).join("")}</div>`;
+  }
+
+  function renderTable(pos) {
+    const el = $("posTable");
+    if (!pos.length) { el.innerHTML = '<div class="empty"><strong>Aucune position enregistrée</strong>Utilise le formulaire « Ajouter un achat » en bas de page, ou envoie une capture de ton portefeuille à Claude.</div>'; $("posNote").textContent = ""; return; }
+    const total = pos.reduce((s, p) => s + p.valeur, 0);
+    $("posNote").textContent = `${pos.length} ligne${pos.length > 1 ? "s" : ""}`;
+    el.innerHTML = `<div class="table-scroll"><table><thead><tr><th>Actif</th><th>Compte</th><th>Parts</th><th>Prix moyen</th><th>Cours</th><th>Valeur</th><th>+/- €</th><th>+/- %</th><th>Poids</th></tr></thead><tbody>${pos.map((p) => `
+      <tr><td><div class="asset-cell"><span class="sw" style="background:${p.color}"></span><div>${esc(p.nom)}<small>${esc(p.isin || "")} · ${esc(p.risque)}</small></div></div></td>
+      <td>${esc(p.compte)}</td><td>${num.format(p.qte)}</td><td>${eur.format(p.pru)}</td>
+      <td>${p.cours != null ? eur.format(p.cours) : '<span class="pending">en attente</span>'}</td>
+      <td>${eur.format(p.valeur)}</td><td class="${p.pv >= 0 ? "up" : "down"}">${signEur(p.pv)}</td><td class="${p.pv >= 0 ? "up" : "down"}">${pct(p.pvPct)}</td>
+      <td>${total ? ((p.valeur / total) * 100).toFixed(1) : "0"} %</td></tr>`).join("")}</tbody></table></div>`;
+  }
+
+  function renderFiches(pos) {
+    const held = new Set(pos.map((p) => p.isin));
+    let list = Object.values(state.actifs);
+    if (state.filter === "held") list = list.filter((f) => held.has(f.isin));
+    list.sort((a, b) => (held.has(b.isin) - held.has(a.isin)) || RISKS.indexOf(a.risque) - RISKS.indexOf(b.risque) || String(a.nom).localeCompare(String(b.nom)));
+    const el = $("fiches");
+    if (!list.length) {
+      el.innerHTML = `<div class="empty" style="grid-column:1/-1"><strong>${state.filter === "held" ? "Aucune fiche pour tes positions" : "Les fiches arrivent"}</strong>${state.filter === "held" ? "Ajoute un achat : sa fiche explicative sera rédigée lors de la mise à jour du soir." : "Chaque actif que tu suis aura sa fiche : ce que fait l'entreprise, son marché, ses risques et ses prochains rendez-vous."}</div>`;
+      return;
+    }
+    el.innerHTML = list.map((f) => {
+      const isHeld = held.has(f.isin);
+      const col = colorFor(f.isin, pos);
+      const varj = typeof f.variationJour === "number" ? `<span class="d ${f.variationJour >= 0 ? "up" : "down"}">${pct(f.variationJour)} sur la séance</span>` : (f.prixDate ? `<span class="d" style="color:var(--muted)">au ${fmtDate(f.prixDate, { day: "numeric", month: "short" })}</span>` : "");
+      const rdv = (f.rendezvous || []).filter((r) => !r.date || r.date >= todayISO()).slice(0, 4);
+      const actus = (f.actus || []).slice(0, 4);
+      return `<article class="fiche">
+        <div class="fiche-head"><div><h3>${esc(f.nom)}</h3><div class="ids">${esc(f.ticker || "")}${f.ticker ? " · " : ""}${esc(f.isin || "")}${f.pea === false ? " · non éligible PEA" : f.pea ? " · éligible PEA" : ""}</div></div>
+          <div class="price">${typeof f.prix === "number" ? `<div class="p">${eur.format(f.prix)}</div>${varj}` : '<div class="d" style="color:var(--muted)">Cours au prochain<br>point de 21h</div>'}</div></div>
+        <div class="chips">${isHeld ? `<span class="chip held">${col ? `<span class="sw" style="background:${col}"></span>` : ""}Dans mon portefeuille</span>` : '<span class="chip">À surveiller</span>'}<span class="chip"><span class="sw" style="background:${css(RISK_VARS[Math.max(0, RISKS.indexOf(f.risque))])}"></span>Risque ${esc((f.risque || "?").toLowerCase())}</span>${f.type ? `<span class="chip">${esc(f.type)}</span>` : ""}${f.secteur ? `<span class="chip">${esc(f.secteur)}</span>` : ""}</div>
+        ${sparkline(f.historique)}
+        <p class="lead">${esc(f.activite || "")}</p>
+        <details ${isHeld ? "open" : ""}><summary>Marché, potentiel et risques</summary><div class="blocks">
+          ${f.marche ? `<div class="blk"><h4>Son marché</h4><p>${esc(f.marche)}</p></div>` : ""}
+          ${f.potentiel ? `<div class="blk"><h4>Pourquoi ça peut monter</h4><p>${esc(f.potentiel)}</p></div>` : ""}
+          ${f.risques ? `<div class="blk"><h4>Les risques</h4><p>${esc(f.risques)}</p></div>` : ""}
+          ${rdv.length ? `<div class="blk"><h4>Prochains rendez-vous</h4><ul class="mini-list">${rdv.map((r) => `<li><span class="dt">${fmtDate(r.date, { day: "numeric", month: "short" })}</span>${esc(r.titre)}</li>`).join("")}</ul></div>` : ""}
+          ${actus.length ? `<div class="blk"><h4>Actus récentes</h4><ul class="mini-list">${actus.map((a) => `<li><span class="dt">${fmtDate(a.date, { day: "numeric", month: "short" })}</span>${a.url ? `<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.titre)}</a>` : esc(a.titre)}</li>`).join("")}</ul></div>` : ""}
+        </div></details>
+      </article>`;
+    }).join("");
+  }
+
+  function renderAgenda() {
+    const el = $("agendaList"), t = todayISO();
+    const fromFiches = Object.values(state.actifs).flatMap((f) => (f.rendezvous || []).map((r) => ({ date: r.date, titre: r.titre, sous: f.nom })));
+    const seen = new Set();
+    const items = [...state.agenda.map((a) => ({ date: a.date, titre: a.titre, sous: a.detail || "" })), ...fromFiches]
+      .filter((a) => a.date && a.date >= t)
+      .filter((a) => { const k = a.date + a.titre; if (seen.has(k)) return false; seen.add(k); return true; })
+      .sort((a, b) => a.date.localeCompare(b.date)).slice(0, 12);
+    if (!items.length) { el.innerHTML = '<li style="grid-template-columns:1fr"><span class="what"><strong>Pas encore de date</strong><span>Les rendez-vous de tes actifs s\'ajoutent ici automatiquement.</span></span></li>'; return; }
+    el.innerHTML = items.map((a) => {
+      const d = new Date(a.date + "T12:00:00"), days = Math.round((d - new Date(t + "T12:00:00")) / 86400000);
+      return `<li><div class="day">${d.getDate()}<small>${d.toLocaleDateString("fr-FR", { month: "short" }).replace(".", "")} ${String(d.getFullYear()).slice(2)}</small></div>
+        <div class="what"><strong>${esc(a.titre)}</strong><span>${esc(a.sous)}</span></div>
+        <span class="cd ${days <= 7 ? "soon" : ""}">${days === 0 ? "aujourd'hui" : days === 1 ? "demain" : "dans " + days + " j"}</span></li>`;
+    }).join("");
+  }
+
+  function renderForm() {
+    $("assetList").innerHTML = suggestions().map((o) => `<option value="${esc(labelOf(o))}">${o.isin ? esc(o.isin) : ""}</option>`).join("");
+    const el = $("achatsList");
+    if (!state.achats.length) { el.innerHTML = '<li style="grid-template-columns:1fr"><span class="meta">Aucun achat enregistré. Ton premier achat apparaîtra ici.</span></li>'; return; }
+    el.innerHTML = [...state.achats].sort((a, b) => String(b.date).localeCompare(String(a.date))).map((a) => {
+      const nom = (findFiche(a.isin, a.nom) || {}).nom || a.nom || a.isin;
+      const confirming = state.confirmId === a.id;
+      return `<li><div><strong>${esc(nom)}</strong><div class="meta">${fmtDate(a.date)} · ${num.format(a.qte)} part${a.qte > 1 ? "s" : ""} à ${eur.format(a.prix)} · ${esc(a.compte || "PEA")}</div></div>
+        <div class="acts">${!a.pending ? '<span class="chip">Suivi</span>' : confirming ? `<button type="button" class="btn-ghost danger" data-del="${esc(a.id)}">Retirer</button><button type="button" class="btn-ghost" data-cancel="1">Annuler</button>` : `<span class="chip">Sur cet appareil</span><button type="button" class="btn-ghost" data-ask="${esc(a.id)}">Retirer</button>`}</div></li>`;
+    }).join("");
+  }
+
+  function renderStatus() {
+    const dot = $("statusDot"), txt = $("statusTxt");
+    if (!state.db) return;
+    const m = state.meta;
+    if (!m || !m.date) { dot.className = "dot"; txt.textContent = "Première mise à jour ce soir vers 21h"; return; }
+    const ageH = (Date.now() - new Date(m.date).getTime()) / 3600000;
+    dot.className = "dot " + (ageH < 30 ? "live" : "stale");
+    txt.textContent = "Mis à jour le " + new Date(m.date).toLocaleString("fr-FR", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+  }
+
+  function renderAll() {
+    const pos = positions();
+    renderStatus(); renderKpis(pos); renderCharts(pos); renderTable(pos); renderFiches(pos); renderAgenda(); renderForm();
+  }
+
+  /* ---------- Form ---------- */
+  function suggestions() {
+    const seen = new Set(), out = [];
+    const push = (o) => { const k = (o.isin || o.nom).toLowerCase(); if (seen.has(k)) return; seen.add(k); out.push(o); };
+    Object.values(state.actifs).forEach((f) => push({ nom: f.nom, ticker: f.ticker || "", isin: f.isin || "" }));
+    CATALOGUE.forEach(push);
+    return out.sort((a, b) => a.nom.localeCompare(b.nom, "fr"));
+  }
+  function matchAsset(text) {
+    const t = text.trim().toLowerCase();
+    if (!t) return null;
+    return suggestions().find((o) => labelOf(o).toLowerCase() === t || o.nom.toLowerCase() === t || (o.ticker && o.ticker.toLowerCase() === t) || (o.isin && o.isin.toLowerCase() === t)) || null;
+  }
+  $("fAsset").addEventListener("input", () => {
+    const m = matchAsset($("fAsset").value), h = $("assetHint");
+    if (m && m.isin) { $("fIsin").value = m.isin; h.textContent = "Actif reconnu, ISIN rempli automatiquement."; h.className = "hint-s ok"; }
+    else if (m) { h.textContent = "Actif reconnu. Ajoute l'ISIN si tu l'as, sinon il sera retrouvé ce soir."; h.className = "hint-s ok"; }
+    else { h.textContent = "Choisis dans les suggestions ou écris n'importe quel actif : sa fiche sera rédigée ce soir."; h.className = "hint-s"; }
+  });
+  $("fDate").value = todayISO();
+  const msg = (t, err) => { $("formMsg").textContent = t; $("formMsg").className = "form-msg" + (err ? " err" : ""); };
+
+  const LS = "nrnr-achats-en-attente";
+  const loadPending = () => { try { return JSON.parse(localStorage.getItem(LS) || "[]"); } catch (e) { return []; } };
+  const savePending = (arr) => { try { localStorage.setItem(LS, JSON.stringify(arr)); } catch (e) {} };
+  const EDIT_URL = "https://github.com/corentin190105-coder/no-risk-no-rari/edit/main/data/achats.json";
+
+  $("buyForm").addEventListener("submit", (ev) => {
+    ev.preventDefault();
+    const typed = $("fAsset").value.trim();
+    if (!typed) return msg("Indique l'actif que tu as acheté.", true);
+    const m = matchAsset(typed);
+    let nom = m ? m.nom : typed;
+    let isin = $("fIsin").value.trim().toUpperCase().replace(/\s+/g, "") || (m && m.isin) || "";
+    if (isin && !/^[A-Z]{2}[A-Z0-9]{9}[0-9]$/.test(isin)) return msg("L'ISIN doit faire 12 caractères, comme FR0013227113. Laisse le champ vide si tu ne l'as pas.", true);
+    if (!isin && /^[A-Z]{2}[A-Z0-9]{9}[0-9]$/.test(typed.toUpperCase())) { isin = typed.toUpperCase(); }
+    const qte = parseFloat(String($("fQte").value).replace(",", ".")), prix = parseFloat(String($("fPrix").value).replace(",", ".")), frais = parseFloat(String($("fFrais").value || "0").replace(",", ".")) || 0;
+    if (!(qte > 0)) return msg("Indique un nombre de parts supérieur à zéro.", true);
+    if (!(prix > 0)) return msg("Indique le prix payé pour une part.", true);
+    const date = $("fDate").value || todayISO();
+    const id = (String(isin || nom).toLowerCase().replace(/[^a-z0-9]+/g, "-").slice(0, 24) + "-" + date + "-" + Math.random().toString(36).slice(2, 6));
+    const entry = { id, isin, nom, qte, prix, frais, date, compte: $("fCompte").value };
+    const pend = loadPending(); pend.push(entry); savePending(pend);
+    state.achats = mergeAchats();
+    renderAll();
+    showExport(entry);
+    msg(`Achat ajouté sur cet appareil : ${num.format(qte)} part${qte > 1 ? "s" : ""} de ${nom}. Pour qu'il soit suivi chaque soir, enregistre-le dans ton fichier d'achats (étape ci-dessous).`);
+    $("fQte").value = ""; $("fPrix").value = ""; $("fFrais").value = "0"; $("fAsset").value = ""; $("fIsin").value = "";
+    $("assetHint").textContent = "Choisis dans les suggestions ou écris n'importe quel actif : sa fiche sera rédigée ce soir."; $("assetHint").className = "hint-s";
+  });
+
+  function showExport(entry) {
+    const box = $("exportBox");
+    const txt = JSON.stringify(entry, null, 2);
+    box.hidden = false;
+    $("exportCode").textContent = txt;
+  }
+  $("copyBtn").addEventListener("click", async () => {
+    const t = $("exportCode").textContent;
+    try { await navigator.clipboard.writeText(t); $("copyBtn").textContent = "Copié"; setTimeout(() => $("copyBtn").textContent = "Copier", 1500); }
+    catch (e) { const r = document.createRange(); r.selectNodeContents($("exportCode")); const s = getSelection(); s.removeAllRanges(); s.addRange(r); }
+  });
+
+  $("achatsList").addEventListener("click", (ev) => {
+    const b = ev.target.closest("button"); if (!b) return;
+    if (b.dataset.ask) { state.confirmId = b.dataset.ask; renderForm(); return; }
+    if (b.dataset.cancel) { state.confirmId = null; renderForm(); return; }
+    if (b.dataset.del) {
+      savePending(loadPending().filter((a) => a.id !== b.dataset.del));
+      state.confirmId = null; state.achats = mergeAchats(); renderAll();
+    }
+  });
+
+  $("fHeld").addEventListener("click", () => { state.filter = "held"; $("fHeld").setAttribute("aria-pressed", "true"); $("fAll").setAttribute("aria-pressed", "false"); renderFiches(positions()); });
+  $("fAll").addEventListener("click", () => { state.filter = "all"; $("fAll").setAttribute("aria-pressed", "true"); $("fHeld").setAttribute("aria-pressed", "false"); renderFiches(positions()); });
+
+  let rt; window.addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => lineChart($("lineChart"), state.hist), 150); });
+
+  /* ---------- Data ---------- */
+  renderAll();
+  let fileAchats = [];
+  function mergeAchats() {
+    const ids = new Set(fileAchats.map((a) => a.id));
+    const pend = loadPending().filter((a) => !ids.has(a.id));
+    if (pend.length !== loadPending().length) savePending(pend);
+    return [...fileAchats, ...pend.map((a) => ({ ...a, pending: true }))];
+  }
+  async function getJSON(path) {
+    const r = await fetch(path + "?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error(path);
+    return r.json();
+  }
+  async function boot() {
+    try {
+      const [marche, achats] = await Promise.all([getJSON("data/marche.json"), getJSON("data/achats.json")]);
+      fileAchats = Array.isArray(achats) ? achats : [];
+      state.achats = mergeAchats();
+      const m = {}; (marche.actifs || []).forEach((f) => { if (f && f.isin) m[f.isin] = f; }); state.actifs = m;
+      state.agenda = marche.agenda || [];
+      state.hist = [...(marche.historique || [])].sort((a, b) => String(a.d).localeCompare(String(b.d)));
+      state.meta = marche.meta || null;
+      state.db = true;
+      renderAll();
+    } catch (e) {
+      $("statusDot").className = "dot stale"; $("statusTxt").textContent = "Données introuvables, recharge la page";
+    }
+  }
+  boot();
+})();
+</script>
+</body>
+</html>
