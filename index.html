@@ -11,207 +11,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800;900&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
-<style>
-html,body{margin:0}
-/* Layout: a pit-wall console. Black ground, condensed racing display type for the title and big figures,
-   a checkered strip as the one ornament, everything else quiet. Single dark look by design. */
-:root {
-  color-scheme: dark;
-  --bg: #050505;
-  --surface: #0f0f0e;
-  --surface-2: #161615;
-  --line: #262624;
-  --line-strong: #383835;
-  --fg: #f4f3ee;
-  --fg-2: #c3c2b7;
-  --muted: #8c8a83;
-  --accent: #e0322b;
-  --accent-ink: #ffffff;
-  --good: #2fbf4f;
-  --bad: #ef6a62;
-  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
-  --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
-  --r1: #1c5cab; --r2: #2a78d6; --r3: #5598e7; --r4: #9ec5f4;
-  --font-display: "Big Shoulders Display", Impact, "Arial Narrow", sans-serif;
-  --font-body: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --font-data: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
-  --radius: 10px;
-}
-* { box-sizing: border-box; }
-html, body { background: var(--bg); }
-body { color: var(--fg); font-family: var(--font-body); font-size: 15px; line-height: 1.5; }
-a { color: var(--fg); }
-.wrap { max-width: 1180px; margin: 0 auto; padding-inline: 20px; padding-block: 28px 64px; display: grid; gap: 36px; }
+<link rel="stylesheet" href="assets/style.css">
 
-/* Header */
-.top { display: grid; gap: 14px; }
-.topline { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; }
-.eyebrow { font-family: var(--font-data); font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
-.title { font-family: var(--font-display); font-weight: 900; font-size: clamp(52px, 11vw, 132px); line-height: .86; letter-spacing: -.01em; margin: 0; text-transform: uppercase; text-wrap: balance; }
-.title span { display: block; }
-.title .red { color: var(--accent); }
-.checker { height: 10px; background: repeating-conic-gradient(var(--fg) 0 25%, var(--bg) 0 50%) 0 0 / 10px 10px; opacity: .9; border-radius: 2px; }
-.status { display: inline-flex; align-items: center; gap: 8px; font-family: var(--font-data); font-size: 12px; color: var(--fg-2); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; }
-.dot { width: 8px; height: 8px; border-radius: 50%; background: var(--muted); }
-.dot.live { background: var(--good); }
-.dot.stale { background: #e8a317; }
-nav.tabs { display: flex; flex-wrap: wrap; gap: 6px; }
-nav.tabs a { font-size: 13px; font-weight: 600; text-decoration: none; color: var(--fg-2); padding: 7px 12px; border: 1px solid var(--line); border-radius: 999px; }
-nav.tabs a:hover, nav.tabs a:focus-visible { color: var(--fg); border-color: var(--line-strong); outline: none; }
-
-section { display: grid; gap: 16px; scroll-margin-top: 16px; }
-.sec-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px; border-bottom: 1px solid var(--line); padding-bottom: 10px; }
-h2 { font-family: var(--font-display); font-weight: 800; font-size: 34px; line-height: 1; margin: 0; text-transform: uppercase; letter-spacing: .01em; }
-.sec-note { color: var(--muted); font-size: 13px; }
-
-/* KPIs */
-.kpis { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
-.kpi { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; display: grid; gap: 6px; min-width: 0; }
-.kpi.hero { background: var(--surface-2); }
-.kpi .lab { font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
-.kpi .val { font-family: var(--font-display); font-weight: 800; font-size: 40px; line-height: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.kpi .sub { font-family: var(--font-data); font-size: 12.5px; color: var(--fg-2); }
-.up { color: var(--good); } .down { color: var(--bad); }
-
-/* Panels & charts */
-.grid-charts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
-.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px 18px; display: grid; gap: 12px; align-content: start; min-width: 0; }
-.panel.wide { grid-column: span 2; }
-.panel h3 { margin: 0; font-size: 14px; font-weight: 700; letter-spacing: .02em; }
-.panel .hint { font-size: 12.5px; color: var(--muted); margin: -6px 0 0; }
-.chart { position: relative; width: 100%; }
-.chart svg { display: block; width: 100%; height: auto; overflow: visible; }
-.axis-t { fill: var(--muted); font-family: var(--font-data); font-size: 11px; }
-.grid-l { stroke: var(--line); stroke-width: 1; }
-.tip { position: absolute; pointer-events: none; background: var(--surface-2); border: 1px solid var(--line-strong); border-radius: 8px; padding: 8px 10px; font-size: 12.5px; font-family: var(--font-data); color: var(--fg); white-space: nowrap; transform: translate(-50%, calc(-100% - 12px)); z-index: 2; }
-.tip b { font-weight: 600; }
-.empty { border: 1px dashed var(--line-strong); border-radius: var(--radius); padding: 22px; color: var(--fg-2); font-size: 14px; display: grid; gap: 6px; place-items: start; }
-.empty strong { color: var(--fg); }
-
-.donut-wrap { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 16px; align-items: center; }
-.legend { list-style: none; margin: 0; padding: 0; display: grid; gap: 7px; min-width: 0; }
-.legend li { display: grid; grid-template-columns: 10px minmax(0, 1fr) auto; gap: 8px; align-items: center; font-size: 13px; }
-.legend .sw { width: 10px; height: 10px; border-radius: 3px; }
-.legend .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--fg-2); }
-.legend .pc { font-family: var(--font-data); font-variant-numeric: tabular-nums; color: var(--fg); }
-.legend li.hl .nm { color: var(--fg); }
-
-.bars { display: grid; gap: 8px; }
-.bar-row { display: grid; grid-template-columns: minmax(0, 110px) minmax(0, 1fr) 78px; gap: 10px; align-items: center; font-size: 13px; }
-.bar-row .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--fg-2); }
-.bar-track { position: relative; height: 16px; }
-.bar-track::before { content: ""; position: absolute; left: 50%; top: -3px; bottom: -3px; width: 1px; background: var(--line-strong); }
-.bar { position: absolute; top: 2px; height: 12px; border-radius: 3px; }
-.bar.pos { left: 50%; background: var(--good); border-radius: 0 3px 3px 0; }
-.bar.neg { right: 50%; background: var(--bad); border-radius: 3px 0 0 3px; }
-.bar-row .v { font-family: var(--font-data); font-variant-numeric: tabular-nums; text-align: right; }
-
-/* Table */
-.table-scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
-table { width: 100%; border-collapse: collapse; font-size: 13.5px; min-width: 760px; }
-th, td { padding: 11px 14px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; }
-th:first-child, td:first-child { text-align: left; }
-th { font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; background: var(--surface-2); }
-td { font-family: var(--font-data); font-variant-numeric: tabular-nums; }
-td:first-child { font-family: var(--font-body); }
-tr:last-child td { border-bottom: none; }
-.asset-cell { display: flex; align-items: center; gap: 10px; }
-.asset-cell .sw { width: 10px; height: 10px; border-radius: 3px; flex: none; }
-.asset-cell small { display: block; color: var(--muted); font-family: var(--font-data); font-size: 11.5px; }
-.pending { color: var(--muted); font-style: italic; }
-
-/* Chips */
-.chip { display: inline-flex; align-items: center; gap: 6px; font-size: 11.5px; font-weight: 600; letter-spacing: .03em; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--line-strong); color: var(--fg-2); white-space: nowrap; }
-.chip .sw { width: 8px; height: 8px; border-radius: 2px; }
-.chip.held { border-color: var(--fg-2); color: var(--fg); }
-
-/* Fiches */
-.fiches { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
-.fiche { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; display: grid; gap: 12px; align-content: start; min-width: 0; }
-.fiche-head { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; align-items: start; }
-.fiche h3 { margin: 0; font-family: var(--font-display); font-weight: 800; font-size: 26px; line-height: 1.05; text-transform: uppercase; }
-.fiche .ids { font-family: var(--font-data); font-size: 11.5px; color: var(--muted); margin-top: 4px; }
-.fiche .price { text-align: right; }
-.fiche .price .p { font-family: var(--font-display); font-weight: 800; font-size: 26px; line-height: 1; }
-.fiche .price .d { font-family: var(--font-data); font-size: 12px; }
-.chips { display: flex; flex-wrap: wrap; gap: 6px; }
-.fiche p { margin: 0; color: var(--fg-2); max-width: 65ch; }
-.fiche .lead { color: var(--fg); }
-.spark { height: 46px; }
-details { border-top: 1px solid var(--line); padding-top: 10px; }
-summary { cursor: pointer; font-size: 13px; font-weight: 700; color: var(--fg); list-style: none; display: flex; align-items: center; gap: 8px; }
-summary::-webkit-details-marker { display: none; }
-summary::before { content: "+"; font-family: var(--font-data); color: var(--muted); width: 12px; }
-details[open] summary::before { content: "−"; }
-summary:focus-visible { outline: 2px solid var(--fg-2); outline-offset: 3px; border-radius: 4px; }
-.blocks { display: grid; gap: 12px; margin-top: 12px; }
-.blk h4 { margin: 0 0 3px; font-size: 11.5px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
-.mini-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; font-size: 13.5px; color: var(--fg-2); }
-.mini-list .dt { font-family: var(--font-data); color: var(--fg); margin-right: 8px; font-size: 12.5px; }
-.filters { display: flex; flex-wrap: wrap; gap: 6px; }
-.filters button { font: inherit; font-size: 13px; font-weight: 600; color: var(--fg-2); background: transparent; border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; cursor: pointer; }
-.filters button[aria-pressed="true"] { color: var(--bg); background: var(--fg); border-color: var(--fg); }
-
-/* Agenda */
-.agenda { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
-.agenda li { display: grid; grid-template-columns: 74px minmax(0, 1fr) auto; gap: 14px; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px 16px; }
-.agenda .day { font-family: var(--font-display); font-weight: 800; font-size: 30px; line-height: .9; text-transform: uppercase; }
-.agenda .day small { display: block; font-family: var(--font-data); font-weight: 500; font-size: 11.5px; color: var(--muted); letter-spacing: .06em; margin-top: 4px; }
-.agenda .what { min-width: 0; }
-.agenda .what strong { display: block; font-size: 14px; }
-.agenda .what span { color: var(--muted); font-size: 13px; }
-.agenda .cd { font-family: var(--font-data); font-size: 12.5px; color: var(--fg-2); white-space: nowrap; }
-.agenda .cd.soon { color: var(--accent); }
-
-/* Form */
-.add-grid { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 12px; align-items: start; }
-form { display: grid; gap: 12px; }
-.fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
-.field { display: grid; gap: 5px; min-width: 0; }
-.field.full { grid-column: 1 / -1; }
-label { font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
-input, select { font: inherit; font-size: 14.5px; color: var(--fg); background: var(--surface-2); border: 1px solid var(--line-strong); border-radius: 8px; padding: 10px 12px; width: 100%; min-width: 0; }
-input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outline-offset: 1px; }
-.btn { font: inherit; font-weight: 700; font-size: 14px; border-radius: 8px; padding: 11px 18px; cursor: pointer; border: 1px solid var(--accent); background: var(--accent); color: var(--accent-ink); justify-self: start; }
-.btn:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
-.btn[disabled] { opacity: .5; cursor: not-allowed; }
-.btn-ghost { font: inherit; font-size: 12.5px; font-weight: 600; background: transparent; border: 1px solid var(--line-strong); color: var(--fg-2); border-radius: 6px; padding: 5px 10px; cursor: pointer; }
-.btn-ghost.danger { border-color: var(--bad); color: var(--bad); }
-.btn-ghost:focus-visible { outline: 2px solid var(--fg-2); outline-offset: 2px; }
-.export { display: grid; gap: 10px; border: 1px solid var(--line-strong); border-radius: 8px; padding: 14px; background: var(--surface-2); }
-.export p { margin: 0; font-size: 13.5px; color: var(--fg-2); }
-.export code { font-family: var(--font-data); }
-.export pre { margin: 0; font-family: var(--font-data); font-size: 12.5px; color: var(--fg); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 10px; overflow-x: auto; }
-.export-acts { display: flex; flex-wrap: wrap; gap: 8px; }
-.export-acts a { text-decoration: none; display: inline-flex; align-items: center; }
-.hint-s { font-size: 12.5px; color: var(--muted); }
-.hint-s.ok { color: var(--fg-2); }
-.form-msg { font-size: 13px; color: var(--fg-2); min-height: 1.2em; }
-.form-msg.err { color: var(--bad); }
-.achats { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; max-height: 420px; overflow-y: auto; }
-.achats li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; align-items: center; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface-2); font-size: 13px; }
-.achats .meta { font-family: var(--font-data); color: var(--muted); font-size: 12px; }
-.achats .acts { display: flex; gap: 6px; }
-
-.foot { color: var(--muted); font-size: 12.5px; border-top: 1px solid var(--line); padding-top: 14px; display: grid; gap: 4px; }
-
-@media (max-width: 900px) {
-  .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .grid-charts { grid-template-columns: minmax(0, 1fr); }
-  .panel.wide { grid-column: auto; }
-  .fiches, .add-grid { grid-template-columns: minmax(0, 1fr); }
-}
-@media (max-width: 480px) {
-  .wrap { padding-inline: 16px; }
-  .kpi .val { font-size: 32px; }
-  .donut-wrap { grid-template-columns: minmax(0, 1fr); }
-  .donut-wrap .chart { max-width: 180px; justify-self: center; }
-  .fields { grid-template-columns: minmax(0, 1fr); }
-  .agenda li { grid-template-columns: 60px minmax(0, 1fr); }
-  .agenda .cd { grid-column: 2; }
-}
-@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; scroll-behavior: auto !important; } }
-</style>
 
 </head>
 <body>
@@ -228,17 +29,18 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
       <a href="#positions">Positions</a>
       <a href="#comprendre">Comprendre mes actifs</a>
       <a href="#agenda">Agenda</a>
-      <a href="#ajouter">Ajouter un achat</a>
+      <a href="#ajouter">Achat ou vente</a>
+      <a class="nav-point" href="point.html">Point du soir</a>
     </nav>
   </header>
 
-  <section id="portefeuille" aria-labelledby="h-pf">
+  <section id="portefeuille" style="--sec: var(--s1)" aria-labelledby="h-pf">
     <div class="sec-head"><h2 id="h-pf">Portefeuille</h2><span class="sec-note">Cours de clôture mis à jour chaque soir vers 21h</span></div>
     <div class="kpis">
-      <div class="kpi hero"><span class="lab">Valeur actuelle</span><span class="val" id="kValeur">—</span><span class="sub" id="kValeurSub">Ajoute ton premier achat</span></div>
-      <div class="kpi"><span class="lab">Investi</span><span class="val" id="kInvesti">—</span><span class="sub" id="kInvestiSub">Somme de tes achats, frais compris</span></div>
-      <div class="kpi"><span class="lab">Plus ou moins-value</span><span class="val" id="kPv">—</span><span class="sub" id="kPvSub">Depuis tes achats</span></div>
-      <div class="kpi"><span class="lab">Part du socle ETF</span><span class="val" id="kSocle">—</span><span class="sub" id="kSocleSub">Objectif conseillé : 70 % ou plus</span></div>
+      <div class="kpi hero" style="--k: var(--s1)"><span class="lab">Valeur actuelle</span><span class="val" id="kValeur">—</span><span class="sub" id="kValeurSub">Ajoute ton premier achat</span></div>
+      <div class="kpi" style="--k: var(--s7)"><span class="lab">Investi</span><span class="val" id="kInvesti">—</span><span class="sub" id="kInvestiSub">Somme de tes achats, frais compris</span></div>
+      <div class="kpi" id="kPvTile" style="--k: var(--muted)"><span class="lab">Plus ou moins-value</span><span class="val" id="kPv">—</span><span class="sub" id="kPvSub">Depuis tes achats</span></div>
+      <div class="kpi" style="--k: var(--r2)"><span class="lab">Part du socle ETF</span><span class="val" id="kSocle">—</span><span class="sub" id="kSocleSub">Objectif conseillé : 70 % ou plus</span></div>
     </div>
     <div class="grid-charts">
       <div class="panel wide">
@@ -254,6 +56,11 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
         <h3>Répartition par niveau de risque</h3>
         <div id="donutRisk"></div>
       </div>
+      <div class="panel full">
+        <h3>La séance de mes actifs</h3>
+        <p class="hint">Variation du dernier jour de Bourse : plus la case est vive, plus le mouvement est fort</p>
+        <div class="heat" id="heat"></div>
+      </div>
       <div class="panel wide">
         <h3>Gain ou perte par ligne</h3>
         <p class="hint">En euros, depuis ton prix d'achat</p>
@@ -262,12 +69,12 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
     </div>
   </section>
 
-  <section id="positions" aria-labelledby="h-pos">
+  <section id="positions" style="--sec: var(--s3)" aria-labelledby="h-pos">
     <div class="sec-head"><h2 id="h-pos">Positions</h2><span class="sec-note" id="posNote"></span></div>
     <div id="posTable"></div>
   </section>
 
-  <section id="comprendre" aria-labelledby="h-fi">
+  <section id="comprendre" style="--sec: var(--s7)" aria-labelledby="h-fi">
     <div class="sec-head"><h2 id="h-fi">Comprendre mes actifs</h2>
       <div class="filters" role="group" aria-label="Filtrer les fiches">
         <button type="button" id="fHeld" aria-pressed="false">Mes positions</button>
@@ -277,17 +84,24 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
     <div class="fiches" id="fiches"></div>
   </section>
 
-  <section id="agenda" aria-labelledby="h-ag">
+  <section id="agenda" style="--sec: var(--s4)" aria-labelledby="h-ag">
     <div class="sec-head"><h2 id="h-ag">Agenda</h2><span class="sec-note">Résultats, dividendes, banques centrales</span></div>
     <ul class="agenda" id="agendaList"></ul>
   </section>
 
-  <section id="ajouter" aria-labelledby="h-add">
-    <div class="sec-head"><h2 id="h-add">Ajouter un achat</h2><span class="sec-note">Recopie les infos de ton ordre Trade Republic</span></div>
+  <section id="ajouter" style="--sec: var(--accent)" aria-labelledby="h-add">
+    <div class="sec-head"><h2 id="h-add">Achat ou vente</h2><span class="sec-note">Recopie les infos de ton ordre Trade Republic</span></div>
     <div class="add-grid">
       <div class="panel">
         <form id="buyForm" novalidate>
           <div class="fields">
+            <div class="field full">
+              <span class="lab-s" id="sensLab">Opération</span>
+              <div class="seg" role="group" aria-labelledby="sensLab">
+                <button type="button" id="sAchat" aria-pressed="true">Achat</button>
+                <button type="button" id="sVente" aria-pressed="false">Vente</button>
+              </div>
+            </div>
             <div class="field full">
               <label for="fAsset">Actif</label>
               <input id="fAsset" type="text" list="assetList" placeholder="Tape un nom, un ticker ou un ISIN (ex. Ferrari, WPEA, Air Liquide)" autocomplete="off">
@@ -303,7 +117,7 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
               <input id="fQte" type="number" inputmode="decimal" min="0" step="any" placeholder="ex. 20">
             </div>
             <div class="field">
-              <label for="fPrix">Prix payé par part (€)</label>
+              <label for="fPrix" id="prixLab">Prix payé par part (€)</label>
               <input id="fPrix" type="number" inputmode="decimal" min="0" step="any" placeholder="ex. 5,12">
             </div>
             <div class="field">
@@ -329,7 +143,7 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
         </form>
       </div>
       <div class="panel">
-        <h3>Mes achats enregistrés</h3>
+        <h3>Mes opérations</h3>
         <ul class="achats" id="achatsList"></ul>
       </div>
     </div>
@@ -382,19 +196,30 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
   ].map(([nom, ticker, isin]) => ({ nom, ticker, isin }));
   const labelOf = (o) => o.nom + (o.ticker ? " (" + o.ticker + ")" : "");
 
-  const state = { db: null, achats: [], actifs: {}, hist: [], meta: null, agenda: [], filter: "all", confirmId: null, loaded: false };
+  const state = { sens: "achat", db: null, achats: [], actifs: {}, hist: [], meta: null, agenda: [], filter: "all", confirmId: null, loaded: false };
 
   /* ---------- Derived data ---------- */
-  function positions() {
+  function ledger() {
     const map = new Map();
-    for (const a of state.achats) {
-      const key = (a.isin || a.nom) + "|" + (a.compte || "PEA");
-      const p = map.get(key) || { isin: a.isin, nom: a.nom, compte: a.compte || "PEA", qte: 0, cout: 0 };
-      p.qte += Number(a.qte) || 0;
-      p.cout += (Number(a.qte) || 0) * (Number(a.prix) || 0) + (Number(a.frais) || 0);
+    let realise = 0;
+    const ops = [...state.achats].sort((x, y) => String(x.date).localeCompare(String(y.date)));
+    for (const a of ops) {
+      const key = (a.isin || String(a.nom || "").toLowerCase()) + "|" + (a.compte || "PEA");
+      const p = map.get(key) || { isin: a.isin, nom: a.nom, compte: a.compte || "PEA", qte: 0, cout: 0, realise: 0 };
+      const q = Number(a.qte) || 0, px = Number(a.prix) || 0, fr = Number(a.frais) || 0;
+      if (a.sens === "vente") {
+        const pru = p.qte ? p.cout / p.qte : 0, qs = Math.min(q, p.qte);
+        const g = qs * px - fr - pru * qs;
+        p.cout -= pru * qs; p.qte -= qs; p.realise += g; realise += g;
+      } else { p.qte += q; p.cout += q * px + fr; }
+      if (!p.isin && a.isin) p.isin = a.isin;
       map.set(key, p);
     }
-    const list = [...map.values()].filter((p) => p.qte > 0);
+    return { map, realise };
+  }
+  function positions() {
+    const { map } = ledger();
+    const list = [...map.values()].filter((p) => p.qte > 1e-9);
     list.sort((x, y) => String(x.isin).localeCompare(String(y.isin)));
     list.forEach((p, i) => {
       const f = findFiche(p.isin, p.nom) || {};
@@ -540,7 +365,9 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
     $("kValeurSub").textContent = missing ? `${missing} ligne${missing > 1 ? "s" : ""} au prix d'achat en attendant le cours de 21h` : `${pos.length} ligne${pos.length > 1 ? "s" : ""} en portefeuille`;
     $("kInvesti").textContent = eur.format(cout);
     $("kPv").textContent = signEur(pv); $("kPv").className = "val " + (pv >= 0 ? "up" : "down");
-    $("kPvSub").textContent = pct(cout ? (pv / cout) * 100 : 0) + " depuis tes achats";
+    $("kPvTile").style.setProperty("--k", pv >= 0 ? "var(--good)" : "var(--bad)");
+    const real = ledger().realise;
+    $("kPvSub").textContent = pct(cout ? (pv / cout) * 100 : 0) + " sur tes lignes" + (Math.abs(real) > 0.004 ? " · ventes " + signEur(real) : "");
     const sp = val ? (socle / val) * 100 : 0;
     $("kSocle").textContent = Math.round(sp) + " %";
     $("kSocleSub").textContent = sp >= 70 ? "Dans l'objectif : 70 % ou plus" : "En dessous de l'objectif de 70 %";
@@ -559,6 +386,23 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
       const w = (Math.abs(p.pv) / max) * 50;
       return `<div class="bar-row" title="${esc(p.nom)} : ${signEur(p.pv)} (${pct(p.pvPct)})"><span class="nm">${esc(p.nom)}</span><div class="bar-track"><div class="bar ${p.pv >= 0 ? "pos" : "neg"}" style="width:${w.toFixed(2)}%"></div></div><span class="v ${p.pv >= 0 ? "up" : "down"}">${signEur(p.pv)}</span></div>`;
     }).join("")}</div>`;
+  }
+
+  function renderHeat(pos) {
+    const el = $("heat");
+    const held = new Set(pos.map((p) => p.isin));
+    const list = Object.values(state.actifs).filter((f) => typeof f.variationJour === "number")
+      .sort((a, b) => (held.has(b.isin) - held.has(a.isin)) || b.variationJour - a.variationJour);
+    if (!list.length) { el.innerHTML = '<div class="empty" style="grid-column:1/-1"><strong>Les couleurs arrivent ce soir</strong>Après la mise à jour de 21h, chaque actif s\'affichera ici en vert ou en rouge selon sa séance.</div>'; return; }
+    const g = css("--good"), b = css("--bad"), sf = css("--surface");
+    el.innerHTML = list.map((f) => {
+      const v = f.variationJour, k = Math.min(Math.abs(v) / 3, 1), c = v >= 0 ? g : b;
+      const bg = `color-mix(in srgb, ${c} ${Math.round(12 + k * 58)}%, ${sf})`;
+      return `<div class="tile" style="background:${bg};border-color:color-mix(in srgb, ${c} 45%, transparent)" title="${esc(f.nom)} : ${pct(v)}">
+        <span class="tag">${held.has(f.isin) ? "En portefeuille" : "Suivi"}</span>
+        <span class="tn">${esc(f.nom)}</span><span class="tv">${pct(v)}</span>
+        <span class="tp">${typeof f.prix === "number" ? eur.format(f.prix) : ""}</span></div>`;
+    }).join("");
   }
 
   function renderTable(pos) {
@@ -590,7 +434,7 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
       const varj = typeof f.variationJour === "number" ? `<span class="d ${f.variationJour >= 0 ? "up" : "down"}">${pct(f.variationJour)} sur la séance</span>` : (f.prixDate ? `<span class="d" style="color:var(--muted)">au ${fmtDate(f.prixDate, { day: "numeric", month: "short" })}</span>` : "");
       const rdv = (f.rendezvous || []).filter((r) => !r.date || r.date >= todayISO()).slice(0, 4);
       const actus = (f.actus || []).slice(0, 4);
-      return `<article class="fiche">
+      return `<article class="fiche${isHeld && col ? " is-held" : ""}" style="${col ? "--fc:" + col : ""}">
         <div class="fiche-head"><div><h3>${esc(f.nom)}</h3><div class="ids">${esc(f.ticker || "")}${f.ticker ? " · " : ""}${esc(f.isin || "")}${f.pea === false ? " · non éligible PEA" : f.pea ? " · éligible PEA" : ""}</div></div>
           <div class="price">${typeof f.prix === "number" ? `<div class="p">${eur.format(f.prix)}</div>${varj}` : '<div class="d" style="color:var(--muted)">Cours au prochain<br>point de 21h</div>'}</div></div>
         <div class="chips">${isHeld ? `<span class="chip held">${col ? `<span class="sw" style="background:${col}"></span>` : ""}Dans mon portefeuille</span>` : '<span class="chip">À surveiller</span>'}<span class="chip"><span class="sw" style="background:${css(RISK_VARS[Math.max(0, RISKS.indexOf(f.risque))])}"></span>Risque ${esc((f.risque || "?").toLowerCase())}</span>${f.type ? `<span class="chip">${esc(f.type)}</span>` : ""}${f.secteur ? `<span class="chip">${esc(f.secteur)}</span>` : ""}</div>
@@ -631,7 +475,7 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
     el.innerHTML = [...state.achats].sort((a, b) => String(b.date).localeCompare(String(a.date))).map((a) => {
       const nom = (findFiche(a.isin, a.nom) || {}).nom || a.nom || a.isin;
       const confirming = state.confirmId === a.id;
-      return `<li><div><strong>${esc(nom)}</strong><div class="meta">${fmtDate(a.date)} · ${num.format(a.qte)} part${a.qte > 1 ? "s" : ""} à ${eur.format(a.prix)} · ${esc(a.compte || "PEA")}</div></div>
+      return `<li><div><strong>${esc(nom)}</strong><div class="meta"><span class="${a.sens === "vente" ? "down" : "up"}">${a.sens === "vente" ? "Vente" : "Achat"}</span> · ${fmtDate(a.date)} · ${num.format(a.qte)} part${a.qte > 1 ? "s" : ""} à ${eur.format(a.prix)} · ${esc(a.compte || "PEA")}</div></div>
         <div class="acts">${!a.pending ? '<span class="chip">Suivi</span>' : confirming ? `<button type="button" class="btn-ghost danger" data-del="${esc(a.id)}">Retirer</button><button type="button" class="btn-ghost" data-cancel="1">Annuler</button>` : `<span class="chip">Sur cet appareil</span><button type="button" class="btn-ghost" data-ask="${esc(a.id)}">Retirer</button>`}</div></li>`;
     }).join("");
   }
@@ -648,7 +492,7 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
 
   function renderAll() {
     const pos = positions();
-    renderStatus(); renderKpis(pos); renderCharts(pos); renderTable(pos); renderFiches(pos); renderAgenda(); renderForm();
+    renderStatus(); renderKpis(pos); renderCharts(pos); renderHeat(pos); renderTable(pos); renderFiches(pos); renderAgenda(); renderForm();
   }
 
   /* ---------- Form ---------- */
@@ -671,6 +515,15 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
     else { h.textContent = "Choisis dans les suggestions ou écris n'importe quel actif : sa fiche sera rédigée ce soir."; h.className = "hint-s"; }
   });
   $("fDate").value = todayISO();
+  function setSens(v) {
+    state.sens = v;
+    $("sAchat").setAttribute("aria-pressed", v === "achat"); $("sVente").setAttribute("aria-pressed", v === "vente");
+    $("prixLab").textContent = v === "vente" ? "Prix de vente par part (€)" : "Prix payé par part (€)";
+    $("fSubmit").textContent = v === "vente" ? "Enregistrer la vente" : "Enregistrer l'achat";
+    $("fSubmit").classList.toggle("sell", v === "vente");
+  }
+  $("sAchat").addEventListener("click", () => setSens("achat"));
+  $("sVente").addEventListener("click", () => setSens("vente"));
   const msg = (t, err) => { $("formMsg").textContent = t; $("formMsg").className = "form-msg" + (err ? " err" : ""); };
 
   const LS = "nrnr-achats-en-attente";
@@ -691,13 +544,20 @@ input:focus-visible, select:focus-visible { outline: 2px solid var(--fg-2); outl
     if (!(qte > 0)) return msg("Indique un nombre de parts supérieur à zéro.", true);
     if (!(prix > 0)) return msg("Indique le prix payé pour une part.", true);
     const date = $("fDate").value || todayISO();
-    const id = (String(isin || nom).toLowerCase().replace(/[^a-z0-9]+/g, "-").slice(0, 24) + "-" + date + "-" + Math.random().toString(36).slice(2, 6));
-    const entry = { id, isin, nom, qte, prix, frais, date, compte: $("fCompte").value };
+    if (state.sens === "vente") {
+      const held = positions().find((p) => (isin && p.isin === isin) || String(p.nom).toLowerCase() === nom.toLowerCase());
+      if (!held) return msg("Tu ne détiens pas cet actif dans ton portefeuille : vérifie le nom choisi.", true);
+      if (qte > held.qte + 1e-9) return msg(`Tu ne détiens que ${num.format(held.qte)} part${held.qte > 1 ? "s" : ""} de cet actif.`, true);
+      if (!isin && held.isin) isin = held.isin;
+      nom = held.fiche && held.fiche.nom ? held.fiche.nom : nom;
+    }
+    const id = (state.sens === "vente" ? "vente-" : "") + (String(isin || nom).toLowerCase().replace(/[^a-z0-9]+/g, "-").slice(0, 24) + "-" + date + "-" + Math.random().toString(36).slice(2, 6));
+    const entry = { id, sens: state.sens, isin, nom, qte, prix, frais, date, compte: $("fCompte").value };
     const pend = loadPending(); pend.push(entry); savePending(pend);
     state.achats = mergeAchats();
     renderAll();
     showExport(entry);
-    msg(`Achat ajouté sur cet appareil : ${num.format(qte)} part${qte > 1 ? "s" : ""} de ${nom}. Pour qu'il soit suivi chaque soir, enregistre-le dans ton fichier d'achats (étape ci-dessous).`);
+    msg(`${state.sens === "vente" ? "Vente ajoutée" : "Achat ajouté"} sur cet appareil : ${num.format(qte)} part${qte > 1 ? "s" : ""} de ${nom}. Pour qu'il soit suivi chaque soir, enregistre-le dans ton fichier d'achats (étape ci-dessous).`);
     $("fQte").value = ""; $("fPrix").value = ""; $("fFrais").value = "0"; $("fAsset").value = ""; $("fIsin").value = "";
     $("assetHint").textContent = "Choisis dans les suggestions ou écris n'importe quel actif : sa fiche sera rédigée ce soir."; $("assetHint").className = "hint-s";
   });
