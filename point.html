@@ -98,6 +98,7 @@ html, body { margin: 0; }
     const moodVar = p.humeur === "hausse" ? "--good" : p.humeur === "baisse" ? "--bad" : "--s4";
     const moodTxt = p.humeur === "hausse" ? "Marchés en hausse" : p.humeur === "baisse" ? "Marchés en baisse" : "Marchés partagés";
     const pf = p.portefeuille || {};
+    const ideas = Array.isArray(p.idees) && p.idees.length ? p.idees : (p.idee ? [p.idee] : []);
     el.innerHTML = `
       <div class="hero-card" style="--mood: var(${moodVar})">
         <span class="when">${fmt(p.date, { weekday: "long", day: "numeric", month: "long", year: "numeric" })}</span>
@@ -113,10 +114,10 @@ html, body { margin: 0; }
           ${pf.texte ? `<p>${esc(pf.texte)}</p>` : ""}
           ${(p.valeurs || []).length ? `<ul class="items">${p.valeurs.map((v) => `<li><strong>${esc(v.nom)}</strong><span>${esc(v.texte)}</span></li>`).join("")}</ul>` : ""}
         </div>
-        ${p.idee ? `<div class="card" style="--c: var(--s7)"><h3>Idée à surveiller</h3>
-          <div class="idea-head"><span class="nm">${esc(p.idee.nom)}</span>${p.idee.prix ? `<span style="font-family:var(--font-data);color:var(--fg-2)">${esc(p.idee.prix)}</span>` : ""}</div>
-          <div class="chips">${p.idee.risque ? `<span class="chip"><span class="sw" style="background:var(${RISK[p.idee.risque] || "--r3"})"></span>Risque ${esc(String(p.idee.risque).toLowerCase())}</span>` : ""}${p.idee.isin ? `<span class="chip">${esc(p.idee.isin)}</span>` : ""}</div>
-          <p>${esc(p.idee.texte)}</p></div>` : ""}
+        ${ideas.map((d, k) => `<div class="card" style="--c: var(--s7)"><h3>${ideas.length > 1 ? `Idée à surveiller ${k + 1}/${ideas.length}` : "Idée à surveiller"}</h3>
+          <div class="idea-head"><span class="nm">${esc(d.nom)}</span>${d.prix ? `<span style="font-family:var(--font-data);color:var(--fg-2)">${esc(d.prix)}</span>` : ""}</div>
+          <div class="chips">${d.risque ? `<span class="chip"><span class="sw" style="background:var(${RISK[d.risque] || "--r3"})"></span>Risque ${esc(String(d.risque).toLowerCase())}</span>` : ""}${d.isin ? `<span class="chip">${esc(d.isin)}</span>` : ""}</div>
+          <p>${esc(d.texte)}</p></div>`).join("")}
         ${p.concept ? `<div class="card" style="--c: var(--s4)"><h3>Le concept du jour</h3><span class="term">${esc(p.concept.terme)}</span><p>${esc(p.concept.texte)}</p></div>` : ""}
         ${(p.rendezvous || []).length ? `<div class="card full" style="--c: var(--s2)"><h3>Les prochains rendez-vous</h3><ul class="mini-list">${p.rendezvous.map((r) => `<li><span class="dt">${fmt(r.date, { day: "numeric", month: "short" })}</span>${esc(r.titre)}</li>`).join("")}</ul></div>` : ""}
         ${(p.sources || []).length ? `<div class="card full" style="--c: var(--muted)"><h3>Sources</h3><ul class="src">${p.sources.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.titre)}</a></li>`).join("")}</ul></div>` : ""}
