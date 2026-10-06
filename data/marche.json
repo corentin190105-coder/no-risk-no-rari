@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": null,
-    "resume": ""
+    "date": "2026-10-05T21:30:00+02:00",
+    "resume": "Cours de clôture du 5 octobre 2026. CAC 40 en baisse de 0,80 % à cause de la chute de Schneider Electric, Nasdaq à un record. Air Liquide présente son plan 2030 et STMicro publiera ses résultats le 29 octobre."
   },
   "actifs": [
     {
@@ -18,39 +18,85 @@
       "secteur": "Équipements semi-conducteurs",
       "ticker": "ALRIB",
       "type": "Action",
-      "historique": []
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 9.88
+        }
+      ],
+      "prix": 9.88,
+      "prixDate": "2026-10-05",
+      "variationJour": 4.22
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
-      "actus": [],
+      "actus": [
+        {
+          "date": "2026-10-05",
+          "titre": "Air Liquide dévoile son plan BEYOND 2026-2030 : croissance des ventes d'environ 5 % par an, bénéfice par action visé à +10 % par an et premier rachat d'actions de son histoire (4 milliards d'euros sur 2027-2028)",
+          "url": "https://www.boursorama.com/bourse/actualites/air-liquide-lance-son-plan-strategique-et-un-rachat-d-actions-historique-463c17e46553ce90c4d2915ac193a157"
+        }
+      ],
       "isin": "FR0000120073",
       "marche": "Un oligopole mondial (avec Linde, Air Products, Messer) qui fournit l'industrie, la santé et l'électronique.",
       "nom": "Air Liquide",
       "pea": true,
-      "potentiel": "La façon la plus sûre de s'exposer à l'hydrogène dans un PEA : un groupe rentable et diversifié avec une option sur la transition énergétique.",
-      "rendezvous": [],
+      "potentiel": "La façon la plus sûre de s'exposer à l'hydrogène dans un PEA. Le plan BEYOND présenté le 5 octobre 2026 vise environ 5 % de croissance des ventes par an et 10 % de hausse du bénéfice par action jusqu'en 2030, avec un premier rachat d'actions de 4 milliards d'euros en 2027-2028.",
+      "rendezvous": [
+        {
+          "date": "2026-10-29",
+          "titre": "Chiffre d'affaires du troisième trimestre 2026"
+        }
+      ],
       "risque": "Modéré",
       "risques": "Croissance plus lente qu'un pari pur. Le secteur hydrogène reste difficile en Bourse et ses spécialistes sont souvent déficitaires.",
       "secteur": "Gaz industriels · hydrogène",
       "ticker": "AI",
       "type": "Action",
-      "historique": []
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 170.76
+        }
+      ],
+      "prix": 170.76,
+      "prixDate": "2026-10-05",
+      "variationJour": 0.35
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
-      "actus": [],
+      "actus": [
+        {
+          "date": "2026-10-03",
+          "titre": "L'Irlande commande des radars Ground Master à Thales via un accord d'État à État signé avec la DGA, livraisons de 2027 à fin 2028",
+          "url": "https://media24.fr/2026/10/03/la-france-joue-les-intermediaires-pour-vendre-ce-bijou-capable-de-detecter-un-avion-a-515-km-a-un-pays-theoriquement-neutre-lirlande"
+        }
+      ],
       "isin": "FR0000121329",
       "marche": "Le réarmement européen : Berlin prévoit environ 150 milliards de dollars de dépenses de défense en 2026 (+30 %), et les achats d'équipements militaires européens pourraient croître de 16 % par an jusqu'en 2030.",
       "nom": "Thales",
       "pea": true,
       "potentiel": "Commandes défense en hausse de 75 % au premier trimestre 2026, contrat-cadre avec Rheinmetall pour des systèmes de vision, rachat d'Exail (drones sous-marins).",
-      "rendezvous": [],
+      "rendezvous": [
+        {
+          "date": "2026-10-21",
+          "titre": "Prises de commandes et chiffre d'affaires du troisième trimestre 2026"
+        }
+      ],
       "risque": "Élevé",
       "risques": "Le secteur corrige (ETF défense européenne près de -10 % en un mois) car les États sous pression budgétaire peuvent reporter des commandes. Cours multiplié par 3,1 en quatre ans : beaucoup de bonnes nouvelles déjà dans le prix. Part autour de 238 €.",
       "secteur": "Défense · technologies",
       "ticker": "HO",
       "type": "Action",
-      "historique": []
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 226.8
+        }
+      ],
+      "prix": 226.8,
+      "prixDate": "2026-10-05",
+      "variationJour": 1.84
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -60,17 +106,40 @@
       "nom": "Amundi",
       "pea": true,
       "potentiel": "Meilleur semestre de son histoire au S1 2026 avec 56,4 milliards d'euros collectés. Dividende 2025 de 4,25 € par action, soit environ 5,5 % de rendement.",
-      "rendezvous": [],
+      "rendezvous": [
+        {
+          "date": "2026-10-29",
+          "titre": "Résultats du troisième trimestre et des neuf mois 2026"
+        },
+        {
+          "date": "2027-02-02",
+          "titre": "Résultats annuels 2026"
+        }
+      ],
       "risque": "Modéré",
       "risques": "Ses revenus baissent quand les marchés chutent, en même temps que tes ETF. Guerre des prix sur les ETF face à BlackRock et Vanguard.",
       "secteur": "Gestion d'actifs",
       "ticker": "AMUN",
       "type": "Action",
-      "historique": []
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 88.7
+        }
+      ],
+      "prix": 88.7,
+      "prixDate": "2026-10-05",
+      "variationJour": -0.28
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
-      "actus": [],
+      "actus": [
+        {
+          "date": "2026-10-05",
+          "titre": "Le Nasdaq-100 inscrit un nouveau record porté par les semi-conducteurs et les géants de la tech",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-05-2026"
+        }
+      ],
       "isin": "FR0011871110",
       "marche": "Les 100 plus grandes valeurs non financières du Nasdaq, dominées par la tech et l'IA.",
       "nom": "Amundi PEA Nasdaq-100",
@@ -82,7 +151,15 @@
       "secteur": "Tech US",
       "ticker": "PUST",
       "type": "ETF",
-      "historique": []
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 110.86
+        }
+      ],
+      "prix": 110.86,
+      "prixDate": "2026-10-05",
+      "variationJour": 0.97
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
@@ -100,7 +177,7 @@
       "rendezvous": [
         {
           "date": "2026-11-18",
-          "titre": "Résultats du premier semestre (publiés le soir, réaction en Bourse le 19)"
+          "titre": "Résultats du premier semestre (date indiquée par les agendas boursiers, à confirmer par Soitec)"
         }
       ],
       "risque": "Très élevé",
@@ -108,11 +185,25 @@
       "secteur": "Semi-conducteurs",
       "ticker": "SOI",
       "type": "Action",
-      "historique": []
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 167.45
+        }
+      ],
+      "prix": 167.45,
+      "prixDate": "2026-10-05",
+      "variationJour": -1.9
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
-      "actus": [],
+      "actus": [
+        {
+          "date": "2026-10-05",
+          "titre": "Le Bitcoin repasse au-dessus de 86 000 dollars après un rapport sur l'emploi américain décevant qui éloigne une hausse des taux de la Fed",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-october-5-2026-bitcoin-back-above-86000-after-higher-rate-expectations-fade-114459647.html"
+        }
+      ],
       "isin": "FR0014002IH8",
       "marche": "L'écosystème du Bitcoin coté en Bourse. Part autour de 15 € en juillet 2026.",
       "nom": "Melanion Bitcoin Equities",
@@ -124,7 +215,15 @@
       "secteur": "Crypto",
       "ticker": "BTC",
       "type": "ETF",
-      "historique": []
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 16.795
+        }
+      ],
+      "prix": 16.795,
+      "prixDate": "2026-10-05",
+      "variationJour": -2.35
     },
     {
       "activite": "Un seul produit qui achète environ 1 400 grandes entreprises de 23 pays développés, pondérées selon leur taille. Les États-Unis pèsent environ 70 % et la tech environ 25 %.",
@@ -140,11 +239,25 @@
       "secteur": "Monde",
       "ticker": "DCAM",
       "type": "ETF",
-      "historique": []
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 6.366
+        }
+      ],
+      "prix": 6.366,
+      "prixDate": "2026-10-05",
+      "variationJour": 0.92
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
-      "actus": [],
+      "actus": [
+        {
+          "date": "2026-10-05",
+          "titre": "Le Nasdaq-100 inscrit un nouveau record porté par les semi-conducteurs et les géants de la tech",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-05-2026"
+        }
+      ],
       "isin": "FR001400ZGR7",
       "marche": "La tech américaine, au cœur de l'intelligence artificielle. Les 10 premières lignes pèsent environ la moitié de l'ETF. Frais : 0,30 % par an.",
       "nom": "Amundi PEA Nasdaq-100 (part à petit prix)",
@@ -156,7 +269,15 @@
       "secteur": "Tech US",
       "ticker": "PNAS",
       "type": "ETF",
-      "historique": []
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 7.272
+        }
+      ],
+      "prix": 7.272,
+      "prixDate": "2026-10-05",
+      "variationJour": 0.97
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -172,11 +293,24 @@
       "secteur": "Monde",
       "ticker": "WPEA",
       "type": "ETF",
-      "historique": []
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 7.189
+        }
+      ],
+      "prix": 7.189,
+      "prixDate": "2026-10-05",
+      "variationJour": 0.86
     },
     {
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
+        {
+          "date": "2026-10-05",
+          "titre": "ST fixe la publication de ses résultats du troisième trimestre au 29 octobre, avant l'ouverture",
+          "url": "https://www.globenewswire.com/news-release/2026/10/05/3374171/0/en/stmicroelectronics-announces-timing-for-third-quarter-2026-earnings-release-and-conference-call.html"
+        },
         {
           "date": "2026-09-30",
           "titre": "Jefferies optimiste sur le dossier"
@@ -197,8 +331,8 @@
       "potentiel": "Revenus data centers IA visés au-dessus de 1 milliard de dollars en 2026 et bien au-dessus de 2 milliards en 2027, dont environ 80 % viendront des puces de liaisons par fibre optique. Le cycle des semi-conducteurs repart (stocks des distributeurs bas) et la direction vise une marge brute de 44 à 46 %.",
       "rendezvous": [
         {
-          "date": "2026-10-22",
-          "titre": "Résultats du troisième trimestre 2026 (avant l'ouverture)"
+          "date": "2026-10-29",
+          "titre": "Résultats du troisième trimestre 2026 (avant l'ouverture, conférence à 9h30)"
         }
       ],
       "risque": "Élevé",
@@ -206,22 +340,84 @@
       "secteur": "Semi-conducteurs",
       "ticker": "STMPA",
       "type": "Action",
-      "historique": []
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 50.87
+        }
+      ],
+      "prix": 50.87,
+      "prixDate": "2026-10-05",
+      "variationJour": 1.05
     }
   ],
   "agenda": [
     {
+      "id": "fed-minutes-2026-10",
+      "date": "2026-10-07",
+      "titre": "Fed : compte rendu de la réunion de septembre",
+      "detail": "Détails des débats après la hausse de taux du 16 septembre, utile pour deviner la suite"
+    },
+    {
+      "id": "us-cpi-2026-10",
+      "date": "2026-10-14",
+      "titre": "États-Unis : inflation de septembre",
+      "detail": "Publication à 14h30 heure de Paris ; l'inflation était de 3,4 % sur un an en août"
+    },
+    {
+      "id": "ez-hicp-2026-10",
+      "date": "2026-10-16",
+      "titre": "Zone euro : inflation définitive de septembre",
+      "detail": "Confirmation de l'estimation rapide à 3,8 %, plus haut depuis 2023"
+    },
+    {
+      "id": "thales-t3-2026",
+      "date": "2026-10-21",
+      "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre",
+      "detail": "Premier test du rythme des commandes défense après un premier semestre très fort"
+    },
+    {
+      "id": "fomc-2026-10",
+      "date": "2026-10-28",
+      "titre": "Fed : décision sur les taux",
+      "detail": "Taux actuel 3,75-4,00 % ; le marché anticipe plutôt un statu quo après un emploi faible"
+    },
+    {
+      "id": "bce-2026-10",
+      "date": "2026-10-29",
+      "titre": "BCE : décision sur les taux",
+      "detail": "Taux de dépôt à 2,50 % après deux hausses depuis juin ; inflation à 3,8 % en septembre"
+    },
+    {
       "id": "stm-t3-2026",
-      "date": "2026-10-22",
+      "date": "2026-10-29",
       "titre": "STMicroelectronics : résultats du 3e trimestre",
-      "detail": "Prévision donnée en juillet : 3,70 milliards de dollars de chiffre d'affaires, marge brute de 37 %"
+      "detail": "Avant l'ouverture. Prévision donnée en juillet : 3,70 milliards de dollars de chiffre d'affaires, marge brute de 37 %"
+    },
+    {
+      "id": "ai-t3-2026",
+      "date": "2026-10-29",
+      "titre": "Air Liquide : chiffre d'affaires du 3e trimestre",
+      "detail": "Premier trimestre publié après le plan BEYOND"
+    },
+    {
+      "id": "amun-t3-2026",
+      "date": "2026-10-29",
+      "titre": "Amundi : résultats du 3e trimestre",
+      "detail": "Collecte et encours à suivre, ils reflètent l'engouement pour les ETF"
     },
     {
       "id": "soitec-s1-2026",
       "date": "2026-11-18",
       "titre": "Soitec : résultats du 1er semestre",
-      "detail": "Publication le soir, réaction en Bourse le 19 novembre"
+      "detail": "Date indiquée par les agendas boursiers, à confirmer par la société"
     }
   ],
-  "historique": []
+  "historique": [
+    {
+      "d": "2026-10-05",
+      "valeur": 399.96,
+      "investi": 399.2
+    }
+  ]
 }

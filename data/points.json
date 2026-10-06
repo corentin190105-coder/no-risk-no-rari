@@ -1,1 +1,151 @@
-{"points": []}
+{
+  "points": [
+    {
+      "date": "2026-10-05",
+      "titre": "Schneider Electric chute de 10 % après le rachat géant de PTC et fait reculer le CAC 40",
+      "resume": "Paris recule de 0,80 % et touche un plus bas de six mois, plombé par Schneider Electric qui paie 22,6 milliards de dollars pour l'éditeur américain PTC. Le reste de l'Europe tient mieux, mais l'euro tombe au plus bas depuis 17 mois sur les inquiétudes autour de la dette française. À Wall Street, le Nasdaq bat un record grâce à la tech.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 834 pts",
+          "variation": -0.8
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 241 pts",
+          "variation": 0.04
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "≈ 7 779 pts (en séance)",
+          "variation": 0.72
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "≈ 27 404 pts (en séance)",
+          "variation": 0.7
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 101 $ le baril",
+          "variation": -1.2
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 4 136 $ l'once",
+          "variation": -0.11
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "1,1211 $",
+          "variation": -0.4
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Inflation au plus haut en zone euro",
+          "texte": "L'estimation rapide publiée vendredi montre une inflation de 3,8 % sur un an en septembre, la plus forte depuis 2023, tirée par l'énergie (+18,8 %). Le chiffre définitif tombe le 16 octobre."
+        },
+        {
+          "titre": "BCE et Fed : les taux montent encore",
+          "texte": "La BCE a relevé deux fois son taux de dépôt depuis juin, à 2,50 %, et se réunit le 29 octobre. La Fed est à 3,75-4,00 %, mais l'emploi américain très faible de septembre (29 000 créations) rend une nouvelle hausse en octobre moins probable."
+        },
+        {
+          "titre": "Pétrole sous les 102 dollars",
+          "texte": "Le Brent recule vers 101 dollars : le G7 va libérer 100 millions de barils de réserves et les exportations du Moyen-Orient ont retrouvé leur niveau d'avant le conflit. Les tensions autour du détroit d'Ormuz restent un risque de rechute."
+        },
+        {
+          "titre": "La dette française inquiète",
+          "texte": "L'écart de taux entre la France et l'Allemagne reste au plus haut depuis 2011, autour de 1,4 à 1,5 point, sur fond de budget 2027 difficile. Avec les élections anticipées annoncées en Espagne, cela pèse sur l'euro, au plus bas depuis 17 mois face au dollar."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 399.96,
+        "pv": 0.76,
+        "texte": "Premier jour du portefeuille : tes trois achats valent 399,96 € à la clôture pour 399,2 € investis frais compris, soit une plus-value de 0,76 €. Les trois lignes finissent au-dessus de ton prix d'achat, portées par le Nasdaq et un bon rebond de STMicro (+1,05 %), ce qui suffit déjà à couvrir les frais."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Hausse de 1,05 % à 50,87 €. Le groupe a fixé la publication de ses résultats du troisième trimestre au 29 octobre, avant l'ouverture : c'est le grand rendez-vous de ta ligne."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "La part progresse de 0,97 % pendant que le Nasdaq-100 inscrit un record à New York, tiré par les semi-conducteurs."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Le groupe présente son plan BEYOND jusqu'en 2030 avec le premier rachat d'actions de son histoire (4 milliards d'euros). L'action finit en petite hausse de 0,35 %."
+        },
+        {
+          "nom": "Thales",
+          "texte": "Hausse de 1,84 % après l'annonce d'une commande de radars par l'Irlande via un accord d'État à État."
+        },
+        {
+          "nom": "Melanion Bitcoin Equities",
+          "texte": "Recul de 2,35 % malgré un Bitcoin repassé au-dessus de 86 000 dollars : l'ETF suit les entreprises du secteur, pas le Bitcoin lui-même."
+        }
+      ],
+      "idee": {
+        "nom": "Dassault Systèmes",
+        "isin": "FR0014003TT8",
+        "risque": "Élevé",
+        "prix": "≈ 21,40 € l'action",
+        "texte": "Concurrent direct de PTC dans les logiciels de conception et de gestion de produits industriels, Dassault Systèmes gagne 3,7 % : le prix payé par Schneider montre ce que vaut ce type d'entreprise. L'action a perdu environ 26 % en un an, ce qui la rend moins chère qu'avant. Le principal risque est que l'IA bouleverse le modèle des éditeurs de logiciels, et la hausse du jour repose sur un espoir plutôt que sur les résultats de l'entreprise."
+      },
+      "concept": {
+        "terme": "Prime d'acquisition",
+        "texte": "Quand une entreprise en rachète une autre, elle paie généralement plus cher que le cours de Bourse pour convaincre les actionnaires de vendre : c'est la prime. Schneider propose 205 dollars par action PTC, 42 % au-dessus du dernier cours. L'action de la cible bondit alors presque jusqu'au prix offert, et le petit écart restant mesure le risque que l'opération échoue. À l'inverse, l'acheteur baisse souvent, car il paie cher, s'endette ou crée de nouvelles actions."
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-07",
+          "titre": "Fed : compte rendu de la réunion de septembre"
+        },
+        {
+          "date": "2026-10-14",
+          "titre": "États-Unis : inflation de septembre"
+        },
+        {
+          "date": "2026-10-16",
+          "titre": "Zone euro : inflation définitive de septembre"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Moneyvox : le CAC 40 décroche, Schneider Electric chute",
+          "url": "https://www.moneyvox.fr/bourse/actualites/110671/le-cac-40-decroche-schneider-electric-chute-le-journal-de-la-bourse-du-lundi-5-octobre"
+        },
+        {
+          "titre": "Tradingsat : le CAC 40 lesté par Schneider Electric",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-leste-par-la-chute-de-10-de-schneider-electric-l-une-de-ses-principales-ponderations-le-cac-40-commence-la-semaine-dans-le-rouge-1171285.html"
+        },
+        {
+          "titre": "Euronews : l'euro au plus bas depuis 17 mois",
+          "url": "https://www.euronews.com/2026/10/05/euro-hits-17-month-low-as-french-debt-fears-mount-and-spain-heads-for-snap-election"
+        },
+        {
+          "titre": "TheStreet : Wall Street le 5 octobre",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-05-2026"
+        },
+        {
+          "titre": "Business Recorder : le pétrole recule, le G7 libère des stocks",
+          "url": "https://www.brecorder.com/news/40442678/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks"
+        },
+        {
+          "titre": "Investing.com : le logiciel européen profite du rachat de PTC",
+          "url": "https://uk.investing.com/news/stock-market-news/european-software-stocks-rise-after-schneiders-226-billion-ptc-deal-4894645"
+        },
+        {
+          "titre": "Eurostat : inflation flash de septembre",
+          "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap"
+        },
+        {
+          "titre": "Boursorama : Air Liquide lance son plan stratégique",
+          "url": "https://www.boursorama.com/bourse/actualites/air-liquide-lance-son-plan-strategique-et-un-rachat-d-actions-historique-463c17e46553ce90c4d2915ac193a157"
+        }
+      ]
+    }
+  ]
+}
