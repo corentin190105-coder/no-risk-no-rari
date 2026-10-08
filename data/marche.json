@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-05T21:30:00+02:00",
-    "resume": "Cours de clôture du 5 octobre 2026. CAC 40 en baisse de 0,80 % à cause de la chute de Schneider Electric, Nasdaq à un record. Air Liquide présente son plan 2030 et STMicro publiera ses résultats le 29 octobre."
+    "date": "2026-10-08T23:45:00+02:00",
+    "resume": "Cours de clôture du 8 octobre 2026 (Thales : clôture du 7 octobre, cours du 8 non fiable). CAC 40 en baisse de 0,51 % : pétrole au-dessus de 103 dollars, taux longs en hausse et ventes sur les semi-conducteurs. STMicro recule de 3,8 %, Soitec de 4,7 %, Riber de 12,5 %."
   },
   "actifs": [
     {
@@ -22,11 +22,15 @@
         {
           "d": "2026-10-05",
           "p": 9.88
+        },
+        {
+          "d": "2026-10-08",
+          "p": 8.39
         }
       ],
-      "prix": 9.88,
-      "prixDate": "2026-10-05",
-      "variationJour": 4.22
+      "prix": 8.39,
+      "prixDate": "2026-10-08",
+      "variationJour": -12.51
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
@@ -57,11 +61,15 @@
         {
           "d": "2026-10-05",
           "p": 170.76
+        },
+        {
+          "d": "2026-10-08",
+          "p": 167.94
         }
       ],
-      "prix": 170.76,
-      "prixDate": "2026-10-05",
-      "variationJour": 0.35
+      "prix": 167.94,
+      "prixDate": "2026-10-08",
+      "variationJour": -0.4
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
@@ -92,11 +100,15 @@
         {
           "d": "2026-10-05",
           "p": 226.8
+        },
+        {
+          "d": "2026-10-07",
+          "p": 216.4
         }
       ],
-      "prix": 226.8,
-      "prixDate": "2026-10-05",
-      "variationJour": 1.84
+      "prix": 216.4,
+      "prixDate": "2026-10-07",
+      "variationJour": -2.74
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -125,15 +137,24 @@
         {
           "d": "2026-10-05",
           "p": 88.7
+        },
+        {
+          "d": "2026-10-08",
+          "p": 86.75
         }
       ],
-      "prix": 88.7,
-      "prixDate": "2026-10-05",
-      "variationJour": -0.28
+      "prix": 86.75,
+      "prixDate": "2026-10-08",
+      "variationJour": -1.53
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
+        {
+          "date": "2026-10-08",
+          "titre": "Le Nasdaq recule d'environ 1,2 % : les géants de la tech et des puces pénalisés par des doutes sur les revenus d'OpenAI",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+        },
         {
           "date": "2026-10-05",
           "titre": "Le Nasdaq-100 inscrit un nouveau record porté par les semi-conducteurs et les géants de la tech",
@@ -155,15 +176,24 @@
         {
           "d": "2026-10-05",
           "p": 110.86
+        },
+        {
+          "d": "2026-10-08",
+          "p": 111.06
         }
       ],
-      "prix": 110.86,
-      "prixDate": "2026-10-05",
-      "variationJour": 0.97
+      "prix": 111.06,
+      "prixDate": "2026-10-08",
+      "variationJour": -0.36
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
+        {
+          "date": "2026-10-08",
+          "titre": "Les valeurs des semi-conducteurs reculent après des doutes sur les revenus d'OpenAI et la hausse des taux longs américains",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+        },
         {
           "date": "2026-09-02",
           "titre": "Soitec relève sa prévision : croissance d'environ 50 % au trimestre clos fin septembre"
@@ -189,15 +219,24 @@
         {
           "d": "2026-10-05",
           "p": 167.45
+        },
+        {
+          "d": "2026-10-08",
+          "p": 152.4
         }
       ],
-      "prix": 167.45,
-      "prixDate": "2026-10-05",
-      "variationJour": -1.9
+      "prix": 152.4,
+      "prixDate": "2026-10-08",
+      "variationJour": -4.69
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
       "actus": [
+        {
+          "date": "2026-10-08",
+          "titre": "Le Bitcoin retombe vers 82 000 dollars, freiné par la hausse des taux et un dollar fort",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+        },
         {
           "date": "2026-10-05",
           "titre": "Le Bitcoin repasse au-dessus de 86 000 dollars après un rapport sur l'emploi américain décevant qui éloigne une hausse des taux de la Fed",
@@ -219,11 +258,15 @@
         {
           "d": "2026-10-05",
           "p": 16.795
+        },
+        {
+          "d": "2026-10-08",
+          "p": 15.577
         }
       ],
-      "prix": 16.795,
-      "prixDate": "2026-10-05",
-      "variationJour": -2.35
+      "prix": 15.577,
+      "prixDate": "2026-10-08",
+      "variationJour": -2.92
     },
     {
       "activite": "Un seul produit qui achète environ 1 400 grandes entreprises de 23 pays développés, pondérées selon leur taille. Les États-Unis pèsent environ 70 % et la tech environ 25 %.",
@@ -243,15 +286,24 @@
         {
           "d": "2026-10-05",
           "p": 6.366
+        },
+        {
+          "d": "2026-10-08",
+          "p": 6.355
         }
       ],
-      "prix": 6.366,
-      "prixDate": "2026-10-05",
-      "variationJour": 0.92
+      "prix": 6.355,
+      "prixDate": "2026-10-08",
+      "variationJour": -0.33
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
+        {
+          "date": "2026-10-08",
+          "titre": "Le Nasdaq recule d'environ 1,2 % : les géants de la tech et des puces pénalisés par des doutes sur les revenus d'OpenAI",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+        },
         {
           "date": "2026-10-05",
           "titre": "Le Nasdaq-100 inscrit un nouveau record porté par les semi-conducteurs et les géants de la tech",
@@ -273,11 +325,15 @@
         {
           "d": "2026-10-05",
           "p": 7.272
+        },
+        {
+          "d": "2026-10-08",
+          "p": 7.293
         }
       ],
-      "prix": 7.272,
-      "prixDate": "2026-10-05",
-      "variationJour": 0.97
+      "prix": 7.293,
+      "prixDate": "2026-10-08",
+      "variationJour": -1.05
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -297,15 +353,24 @@
         {
           "d": "2026-10-05",
           "p": 7.189
+        },
+        {
+          "d": "2026-10-08",
+          "p": 7.18
         }
       ],
-      "prix": 7.189,
-      "prixDate": "2026-10-05",
-      "variationJour": 0.86
+      "prix": 7.18,
+      "prixDate": "2026-10-08",
+      "variationJour": -0.29
     },
     {
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
+        {
+          "date": "2026-10-08",
+          "titre": "Les valeurs des semi-conducteurs reculent après des doutes sur les revenus d'OpenAI et la hausse des taux longs américains",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+        },
         {
           "date": "2026-10-05",
           "titre": "ST fixe la publication de ses résultats du troisième trimestre au 29 octobre, avant l'ouverture",
@@ -344,11 +409,15 @@
         {
           "d": "2026-10-05",
           "p": 50.87
+        },
+        {
+          "d": "2026-10-08",
+          "p": 47.985
         }
       ],
-      "prix": 50.87,
-      "prixDate": "2026-10-05",
-      "variationJour": 1.05
+      "prix": 47.985,
+      "prixDate": "2026-10-08",
+      "variationJour": -3.83
     }
   ],
   "agenda": [
@@ -356,7 +425,7 @@
       "id": "fed-minutes-2026-10",
       "date": "2026-10-07",
       "titre": "Fed : compte rendu de la réunion de septembre",
-      "detail": "Détails des débats après la hausse de taux du 16 septembre, utile pour deviner la suite"
+      "detail": "Publié le 7 octobre : les 19 responsables ont soutenu la hausse de septembre et la plupart envisagent une nouvelle hausse d'ici la fin de l'année"
     },
     {
       "id": "us-cpi-2026-10",
@@ -417,6 +486,11 @@
     {
       "d": "2026-10-05",
       "valeur": 399.96,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-08",
+      "valeur": 394.35,
       "investi": 399.2
     }
   ]

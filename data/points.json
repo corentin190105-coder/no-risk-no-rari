@@ -1,6 +1,178 @@
 {
   "points": [
     {
+      "date": "2026-10-08",
+      "titre": "Pétrole au-dessus de 100 dollars et Fed plus ferme : le CAC 40 recule pour la deuxième séance",
+      "resume": "Le CAC 40 a cédé 0,51 % à 7 730 points, pénalisé par un Brent au-dessus de 103 dollars et par la hausse des taux longs. Le compte rendu de la Fed confirme qu'une nouvelle hausse de taux est envisagée d'ici la fin de l'année. Les semi-conducteurs ont été vendus des deux côtés de l'Atlantique, tandis que TotalEnergies a profité de la flambée du pétrole.",
+      "humeur": "baisse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 730 pts",
+          "variation": -0.51
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 127 pts",
+          "variation": -0.87
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "7 765 pts",
+          "variation": -0.47
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "27 193 pts",
+          "variation": -1.25
+        },
+        {
+          "nom": "Brent",
+          "valeur": "103,8 $",
+          "variation": 3.71
+        },
+        {
+          "nom": "Or",
+          "valeur": "4 133 $ l'once",
+          "variation": 0.5
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "1,120 $",
+          "variation": 0.04
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Fed : une nouvelle hausse se profile",
+          "texte": "Le compte rendu de la réunion de septembre montre que les 19 responsables ont soutenu la dernière hausse et que la plupart envisagent d'aller plus loin avant la fin de l'année. Le taux américain à 10 ans tourne autour de 5,3 %, un niveau qui renchérit le crédit et pèse sur les actions de croissance."
+        },
+        {
+          "titre": "BCE : statu quo attendu en octobre",
+          "texte": "Selon un sondage Reuters, la BCE laisserait son taux de dépôt à 2,50 % le 29 octobre avant une hausse en décembre. Le compte rendu de sa dernière réunion évite toute promesse, car l'inflation de la zone euro reste nettement au-dessus de l'objectif de 2 %."
+        },
+        {
+          "titre": "Pétrole : le Brent au-dessus de 103 dollars",
+          "texte": "Des attaques contre des pétroliers et des infrastructures saoudiennes, ainsi que l'ouragan Isaias qui a coupé environ un quart de la production du golfe du Mexique, font grimper le baril. Un pétrole cher entretient l'inflation et éloigne les baisses de taux."
+        },
+        {
+          "titre": "France : le taux à 10 ans passe au-dessus de l'Italie",
+          "texte": "Le rendement de l'emprunt d'État français à 10 ans a atteint environ 4,9 %, au-dessus de celui de l'Italie, signe d'inquiétudes sur les finances publiques. Les banques européennes ont été parmi les plus touchées de la séance."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 394.35,
+        "pv": -4.85,
+        "texte": "Ton portefeuille vaut 394,35 €, soit 4,85 € de moins que les 399,20 € investis, et il a perdu environ 5,9 € sur la séance. La baisse vient surtout de STMicroelectronics (-3,8 %) et de l'ETF Nasdaq-100 (-1 %), l'ETF MSCI World limitant le recul (-0,3 %)."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Deuxième séance de baisse (-3,8 % à 47,99 €) avec tout le secteur des puces, après des doutes sur les revenus d'OpenAI et la hausse des taux. Prochain rendez-vous : les résultats du 29 octobre."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "Recul de 4,7 % à 152,40 €, toujours dans le sillage des semi-conducteurs, sans annonce propre à la société."
+        },
+        {
+          "nom": "Riber",
+          "texte": "Chute de 12,5 % à 8,39 € sans communiqué de la société ; sur une petite capitalisation, de tels écarts peuvent venir de quelques ordres importants."
+        },
+        {
+          "nom": "Amundi",
+          "texte": "Repli de 1,5 % à 86,75 € avec les valeurs financières, pénalisées par la hausse des taux français."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "TotalEnergies",
+          "isin": "FR0000120271",
+          "risque": "Modéré",
+          "prix": "≈ 77,6 € la part",
+          "texte": "Le Brent a dépassé 103 dollars après des attaques contre des pétroliers et des installations saoudiennes, et TotalEnergies a signé la meilleure hausse du CAC 40 (+2,9 %). Le groupe profite directement d'un pétrole cher et verse un dividende régulier, tout en investissant dans l'électricité bas carbone. Le principal risque : le titre a déjà pris environ 40 % depuis janvier, et une détente au Moyen-Orient ferait vite retomber le baril et l'action."
+        },
+        {
+          "nom": "Vallourec",
+          "isin": "FR0013506730",
+          "risque": "Élevé",
+          "prix": "≈ 17,5 € la part",
+          "texte": "Vallourec fabrique les tubes en acier utilisés pour forer les puits de pétrole et de gaz : un baril durablement au-dessus de 100 dollars pousse les compagnies à investir dans de nouveaux forages. La part reste abordable pour un petit budget. Le titre a pourtant reculé de 2,2 % ce jeudi, ce qui rappelle que le lien avec le pétrole n'est pas immédiat. Le principal risque est le cycle : quand le pétrole baisse, les commandes et le cours peuvent chuter fortement."
+        },
+        {
+          "nom": "Aixtron",
+          "isin": "DE000A0WMPJ6",
+          "risque": "Très élevé",
+          "prix": "≈ 36,5 € la part",
+          "texte": "Aixtron, société allemande éligible au PEA, fabrique des machines de dépôt pour les puces en nitrure de gallium et carbure de silicium, utilisées dans l'alimentation des centres de données IA et les véhicules électriques. Le titre a perdu 4,1 % aujourd'hui avec tout le secteur des semi-conducteurs, après des doutes sur les revenus d'OpenAI. C'est une idée pour suivre la thématique IA à un prix plus bas qu'avant la séance. Le principal risque : les commandes de machines sont très cycliques et le titre peut chuter fortement sur une simple déception."
+        }
+      ],
+      "idee": {
+        "nom": "TotalEnergies",
+        "isin": "FR0000120271",
+        "risque": "Modéré",
+        "prix": "≈ 77,6 € la part",
+        "texte": "Le Brent a dépassé 103 dollars après des attaques contre des pétroliers et des installations saoudiennes, et TotalEnergies a signé la meilleure hausse du CAC 40 (+2,9 %). Le groupe profite directement d'un pétrole cher et verse un dividende régulier, tout en investissant dans l'électricité bas carbone. Le principal risque : le titre a déjà pris environ 40 % depuis janvier, et une détente au Moyen-Orient ferait vite retomber le baril et l'action."
+      },
+      "concept": {
+        "terme": "Écart de taux (spread)",
+        "texte": "L'écart de taux, ou spread, est la différence de rendement entre deux obligations, par exemple entre l'emprunt d'État français à 10 ans et l'emprunt allemand de même durée. Plus les investisseurs jugent un emprunteur risqué, plus ils exigent un rendement élevé pour lui prêter, donc plus l'écart se creuse. Comme le prix d'une obligation baisse quand son taux monte, un écart qui s'élargit signifie aussi que les obligations de cet émetteur perdent de la valeur. Ce jeudi, le taux français à 10 ans a dépassé celui de l'Italie, signe que les marchés s'inquiètent davantage des finances publiques françaises. Suivre les spreads aide à comprendre pourquoi des taux en hausse pèsent sur les actions, notamment sur les banques.",
+        "references": [
+          {
+            "titre": "AMF : Pourquoi le prix des obligations baisse lorsque les taux montent ?",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/actions-obligations/obligations/pourquoi-le-prix-des-obligations-baisse-lorsque-les-taux-montent"
+          },
+          {
+            "titre": "AMF : Comprendre les obligations avant d'investir",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/actions-obligations/obligations/comprendre-les-obligations-avant-dinvestir"
+          },
+          {
+            "titre": "Investopedia : Yield Spread ⚠️",
+            "url": "https://www.investopedia.com/terms/y/yieldspread.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-14",
+          "titre": "États-Unis : inflation de septembre"
+        },
+        {
+          "date": "2026-10-16",
+          "titre": "Zone euro : inflation définitive de septembre"
+        },
+        {
+          "date": "2026-10-21",
+          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "MoneyVox : le journal de la Bourse du 8 octobre",
+          "url": "https://www.moneyvox.fr/bourse/actualites/110708/double-choc-pour-le-cac-40-totalenergies-prend-la-tete-le-journal-de-la-bourse-du-8-octobre"
+        },
+        {
+          "titre": "Yahoo Finance : Wall Street le 8 octobre",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+        },
+        {
+          "titre": "XTB : bilan de marché du 8 octobre",
+          "url": "https://www.xtb.com/en/market-analysis/market-wrap-a-4-surge-in-oil-prices-weighs-on-indices-08-10-2026"
+        },
+        {
+          "titre": "Boursorama : la BCE devrait laisser ses taux inchangés en octobre",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bce-devrait-laisser-ses-taux-inchanges-en-octobre-et-les-relever-en-decembre-c5e6d2cb87445d96622dcd1a7bd76c28"
+        },
+        {
+          "titre": "Zonebourse : Euro Stoxx 50",
+          "url": "https://www.zonebourse.com/cours/indice/EURO-STOXX-50-7396/"
+        },
+        {
+          "titre": "Trading Economics : Brent",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+        }
+      ]
+    },
+    {
       "date": "2026-10-05",
       "titre": "Schneider Electric chute de 10 % après le rachat géant de PTC et fait reculer le CAC 40",
       "resume": "Paris recule de 0,80 % et touche un plus bas de six mois, plombé par Schneider Electric qui paie 22,6 milliards de dollars pour l'éditeur américain PTC. Le reste de l'Europe tient mieux, mais l'euro tombe au plus bas depuis 17 mois sur les inquiétudes autour de la dette française. À Wall Street, le Nasdaq bat un record grâce à la tech.",
