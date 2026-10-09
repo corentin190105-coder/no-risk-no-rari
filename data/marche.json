@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-08T23:45:00+02:00",
-    "resume": "Cours de clôture du 8 octobre 2026 (Thales : clôture du 7 octobre, cours du 8 non fiable). CAC 40 en baisse de 0,51 % : pétrole au-dessus de 103 dollars, taux longs en hausse et ventes sur les semi-conducteurs. STMicro recule de 3,8 %, Soitec de 4,7 %, Riber de 12,5 %."
+    "date": "2026-10-10T00:08:00+02:00",
+    "resume": "Cours de clôture du 9 octobre 2026 pour DCAM, Riber, Soitec et STMicroelectronics. Les autres cours (PNAS, PUST, WPEA, Thales, Air Liquide, Amundi, Melanion Bitcoin) restent ceux du 8 octobre faute de clôture fiable trouvée. CAC 40 en hausse de 0,95 % à 7 803 points grâce à la détente du pétrole et des taux."
   },
   "actifs": [
     {
@@ -26,11 +26,15 @@
         {
           "d": "2026-10-08",
           "p": 8.39
+        },
+        {
+          "d": "2026-10-09",
+          "p": 8.1
         }
       ],
-      "prix": 8.39,
-      "prixDate": "2026-10-08",
-      "variationJour": -12.51
+      "prix": 8.1,
+      "prixDate": "2026-10-09",
+      "variationJour": -3.46
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
@@ -190,6 +194,11 @@
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
         {
+          "date": "2026-10-09",
+          "titre": "Soitec parmi les plus fortes hausses du CAC 40 et du SBF 120 (+4,95 % à 159,95 €) lors du rebond de la Bourse de Paris, sans annonce propre à la société",
+          "url": "https://in.investing.com/news/stock-market-news/france-shares-higher-at-close-of-trade-cac-40-up-095-5626362"
+        },
+        {
           "date": "2026-10-08",
           "titre": "Les valeurs des semi-conducteurs reculent après des doutes sur les revenus d'OpenAI et la hausse des taux longs américains",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
@@ -223,11 +232,15 @@
         {
           "d": "2026-10-08",
           "p": 152.4
+        },
+        {
+          "d": "2026-10-09",
+          "p": 159.95
         }
       ],
-      "prix": 152.4,
-      "prixDate": "2026-10-08",
-      "variationJour": -4.69
+      "prix": 159.95,
+      "prixDate": "2026-10-09",
+      "variationJour": 4.95
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -290,11 +303,15 @@
         {
           "d": "2026-10-08",
           "p": 6.355
+        },
+        {
+          "d": "2026-10-09",
+          "p": 6.389
         }
       ],
-      "prix": 6.355,
-      "prixDate": "2026-10-08",
-      "variationJour": -0.33
+      "prix": 6.389,
+      "prixDate": "2026-10-09",
+      "variationJour": 0.54
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
@@ -367,6 +384,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-10-09",
+          "titre": "STMicroelectronics, à contre-courant du rebond de la Bourse de Paris, recule encore de 3 % vers 46,55 € en fin de séance",
+          "url": "https://in.investing.com/news/stock-market-news/france-shares-higher-at-close-of-trade-cac-40-up-095-5626362"
+        },
+        {
           "date": "2026-10-08",
           "titre": "Les valeurs des semi-conducteurs reculent après des doutes sur les revenus d'OpenAI et la hausse des taux longs américains",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
@@ -413,11 +435,15 @@
         {
           "d": "2026-10-08",
           "p": 47.985
+        },
+        {
+          "d": "2026-10-09",
+          "p": 46.55
         }
       ],
-      "prix": 47.985,
-      "prixDate": "2026-10-08",
-      "variationJour": -3.83
+      "prix": 46.55,
+      "prixDate": "2026-10-09",
+      "variationJour": -3.0
     }
   ],
   "agenda": [
@@ -491,6 +517,11 @@
     {
       "d": "2026-10-08",
       "valeur": 394.35,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-09",
+      "valeur": 392.3,
       "investi": 399.2
     }
   ]

@@ -1,6 +1,152 @@
 {
   "points": [
     {
+      "date": "2026-10-09",
+      "titre": "Le pétrole se détend après les propos de Trump sur l'Iran : le CAC 40 rebondit de 0,95 %",
+      "resume": "Le CAC 40 a gagné 0,95 % à 7 803 points, mais il perd 1,19 % sur la semaine. Donald Trump a affirmé que les États-Unis n'attaqueraient pas l'Iran avant les élections du 3 novembre, ce qui a fait reculer le pétrole et apaisé les taux d'emprunt. Wall Street a aussi terminé en hausse, avant la saison des résultats d'entreprises et les chiffres d'inflation de la semaine prochaine.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 803 pts",
+          "variation": 0.95
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "7 812 pts",
+          "variation": 0.59
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "27 366 pts",
+          "variation": 0.64
+        },
+        {
+          "nom": "Dow Jones",
+          "valeur": "51 655 pts",
+          "variation": 0.83
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 103 $",
+          "variation": -1.0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Pétrole : le Brent recule autour de 103 dollars",
+          "texte": "Après la flambée de la veille, le baril a perdu environ 1 % quand Donald Trump a parlé de discussions productives avec Téhéran et exclu une attaque avant le 3 novembre. Le blocus américain des ports iraniens reste en place, donc la tension peut revenir vite. Le niveau exact de clôture du Brent n'a pas pu être confirmé."
+        },
+        {
+          "titre": "Taux : un peu de répit, mais le niveau reste très haut",
+          "texte": "Le taux américain à 10 ans, monté jusqu'à 5,36 % cette semaine (un plus haut depuis 2002), est revenu vers 5,24 % vendredi. En France, l'écart avec le taux allemand à 10 ans a atteint 156 points de base, signe d'une inquiétude sur le budget et la situation politique."
+        },
+        {
+          "titre": "Inflation : rendez-vous clé la semaine prochaine",
+          "texte": "L'inflation américaine de septembre sera publiée le 14 octobre et l'inflation définitive de la zone euro le 16 octobre. Avec un pétrole proche de 100 dollars, ces chiffres diront si la Fed et la BCE ont de bonnes raisons de relever encore leurs taux."
+        },
+        {
+          "titre": "Résultats d'entreprises : la saison démarre",
+          "texte": "Les analystes attendent en moyenne une hausse des bénéfices du S&P 500 d'environ 30 % sur un an, tirée par l'énergie. Les premiers résultats de banques américaines lancent la saison et pourront faire bouger les marchés."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 392.3,
+        "pv": -6.9,
+        "texte": "Ton portefeuille vaut 392,30 € pour 399,20 € investis, soit 6,90 € de moins-value. L'ETF MSCI World progresse (+0,54 %), mais STMicroelectronics recule encore de 3 %, et les cours de l'ETF Nasdaq-100 n'ont pas pu être confirmés pour la clôture."
+      },
+      "valeurs": [
+        {
+          "nom": "Soitec",
+          "texte": "Bond de 4,95 % à 159,95 €, parmi les plus fortes hausses du CAC 40 et du SBF 120, après la chute de la veille liée aux doutes sur les revenus d'OpenAI."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Nouveau recul de 3 % vers 46,55 € en fin de séance, à contre-courant du marché. Prochain rendez-vous : les résultats du 29 octobre."
+        },
+        {
+          "nom": "Riber",
+          "texte": "Repli de 3,46 % à 8,10 € après la chute de 12,5 % de la veille, sans annonce de la société."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Schneider Electric",
+          "isin": "FR0000121972",
+          "risque": "Modéré",
+          "prix": "≈ 266 € la part",
+          "texte": "Schneider fournit l'électricité, le refroidissement et les logiciels dont les centres de données de l'IA ont besoin. Le titre a perdu environ 10 % le 5 octobre après l'annonce du rachat de l'éditeur américain PTC pour environ 22,6 milliards de dollars, et il rebondit de 2 % vendredi. Le principal risque : un très gros rachat à intégrer, financé en grande partie par de la dette, dans un contexte de taux élevés."
+        },
+        {
+          "nom": "Exosens",
+          "isin": "FR001400Q9V2",
+          "risque": "Élevé",
+          "prix": "≈ 55 € la part",
+          "texte": "Exosens conçoit des capteurs et des tubes de vision nocturne et des détecteurs utilisés dans la défense, le nucléaire et l'imagerie scientifique, un thème de photonique porté par les budgets militaires. L'action a reculé d'environ 7 % en cinq séances et le consensus des analystes vise un cours moyen plus élevé. Le principal risque : une valeur de taille moyenne, très sensible aux commandes publiques et à un trimestre décevant (résultats le 27 octobre)."
+        },
+        {
+          "nom": "Amundi STOXX Europe 600 Technology (ETF)",
+          "isin": "LU1834988518",
+          "risque": "Modéré",
+          "prix": "≈ 122,5 € la part",
+          "texte": "Cet ETF éligible au PEA réunit les grandes entreprises technologiques européennes, dont les semi-conducteurs et les logiciels, pour 0,30 % de frais annuels. Il permet de profiter du rebond de la tech sans parier sur une seule valeur, alors que Soitec et d'autres titres du secteur ont rebondi vendredi. Le principal risque : le fonds a déjà gagné environ 25 % depuis janvier, et les semi-conducteurs restent très sensibles aux taux et aux doutes sur les revenus de l'IA."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-10-14",
+          "titre": "États-Unis : inflation de septembre"
+        },
+        {
+          "date": "2026-10-16",
+          "titre": "Zone euro : inflation définitive de septembre"
+        },
+        {
+          "date": "2026-10-21",
+          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : la Bourse de Paris termine en rebond, mais recul sur la semaine",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-rebond-mais-recul-sur-la-semaine-6e346e4ec2515e224dfaa5b6263084ce"
+        },
+        {
+          "title": "Boursorama : Wall Street termine la semaine en hausse",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-la-semaine-en-hausse-02d794ee32a239dfce2dba18e291deac"
+        },
+        {
+          "title": "Investing.com : France shares higher at close of trade",
+          "url": "https://in.investing.com/news/stock-market-news/france-shares-higher-at-close-of-trade-cac-40-up-095-5626362"
+        },
+        {
+          "title": "CNBC : pétrole et propos de Trump sur l'Iran",
+          "url": "https://www.cnbc.com/2026/10/09/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns.html"
+        }
+      ],
+      "idee": {
+        "nom": "Schneider Electric",
+        "isin": "FR0000121972",
+        "risque": "Modéré",
+        "prix": "≈ 266 € la part",
+        "texte": "Schneider fournit l'électricité, le refroidissement et les logiciels dont les centres de données de l'IA ont besoin. Le titre a perdu environ 10 % le 5 octobre après l'annonce du rachat de l'éditeur américain PTC pour environ 22,6 milliards de dollars, et il rebondit de 2 % vendredi. Le principal risque : un très gros rachat à intégrer, financé en grande partie par de la dette, dans un contexte de taux élevés."
+      },
+      "concept": {
+        "terme": "Ratio cours/bénéfice (PER)",
+        "texte": "Le PER (price earning ratio) se calcule en divisant le cours d'une action par le bénéfice net par action de l'entreprise. Un PER de 15 veut dire qu'on paie 15 € pour 1 € de bénéfice annuel, soit un rendement implicite d'environ 6,7 %. Plus il est élevé, plus les investisseurs anticipent une forte croissance, mais aussi plus le titre est exposé en cas de déception. Comme la saison des résultats trimestriels démarre et que les taux montent, le PER est très regardé en ce moment : des taux élevés tendent à faire baisser les PER acceptables. Il se compare surtout entre entreprises d'un même secteur, et il ne suffit pas à lui seul à juger une action.",
+        "references": [
+          {
+            "titre": "La finance pour tous : Price earning ratio (PER) ⚠️",
+            "url": "https://www.lafinancepourtous.com/outils/dictionnaire/per/"
+          },
+          {
+            "titre": "La finance pour tous : Profits et cours boursiers, quel est le lien ? ⚠️",
+            "url": "https://www.lafinancepourtous.com/decryptages/entreprise/bourse-et-actionnaires/profits-et-cours-boursiers-quel-est-le-lien/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-08",
       "titre": "Pétrole au-dessus de 100 dollars et Fed plus ferme : le CAC 40 recule pour la deuxième séance",
       "resume": "Le CAC 40 a cédé 0,51 % à 7 730 points, pénalisé par un Brent au-dessus de 103 dollars et par la hausse des taux longs. Le compte rendu de la Fed confirme qu'une nouvelle hausse de taux est envisagée d'ici la fin de l'année. Les semi-conducteurs ont été vendus des deux côtés de l'Atlantique, tandis que TotalEnergies a profité de la flambée du pétrole.",
