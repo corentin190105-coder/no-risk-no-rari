@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-10T00:08:00+02:00",
-    "resume": "Cours de clôture du 9 octobre 2026 pour DCAM, Riber, Soitec et STMicroelectronics. Les autres cours (PNAS, PUST, WPEA, Thales, Air Liquide, Amundi, Melanion Bitcoin) restent ceux du 8 octobre faute de clôture fiable trouvée. CAC 40 en hausse de 0,95 % à 7 803 points grâce à la détente du pétrole et des taux."
+    "date": "2026-10-11T21:05:00+02:00",
+    "resume": "Dimanche, marchés fermés : cours de clôture du vendredi 9 octobre 2026. Mise à jour de Thales, Air Liquide, Amundi, PUST, PNAS et WPEA. Le cours de Melanion Bitcoin Equities reste celui du 8 octobre faute de clôture fiable trouvée. CAC 40 en hausse de 0,95 % à 7 803 points vendredi, mais en baisse de 1,2 % sur la semaine."
   },
   "actifs": [
     {
@@ -69,11 +69,15 @@
         {
           "d": "2026-10-08",
           "p": 167.94
+        },
+        {
+          "d": "2026-10-09",
+          "p": 169.68
         }
       ],
-      "prix": 167.94,
-      "prixDate": "2026-10-08",
-      "variationJour": -0.4
+      "prix": 169.68,
+      "prixDate": "2026-10-09",
+      "variationJour": 1.04
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
@@ -108,11 +112,15 @@
         {
           "d": "2026-10-07",
           "p": 216.4
+        },
+        {
+          "d": "2026-10-09",
+          "p": 218.3
         }
       ],
-      "prix": 216.4,
-      "prixDate": "2026-10-07",
-      "variationJour": -2.74
+      "prix": 218.3,
+      "prixDate": "2026-10-09",
+      "variationJour": 1.21
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -145,11 +153,15 @@
         {
           "d": "2026-10-08",
           "p": 86.75
+        },
+        {
+          "d": "2026-10-09",
+          "p": 88.25
         }
       ],
-      "prix": 86.75,
-      "prixDate": "2026-10-08",
-      "variationJour": -1.53
+      "prix": 88.25,
+      "prixDate": "2026-10-09",
+      "variationJour": 1.73
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
@@ -184,11 +196,15 @@
         {
           "d": "2026-10-08",
           "p": 111.06
+        },
+        {
+          "d": "2026-10-09",
+          "p": 110.44
         }
       ],
-      "prix": 111.06,
-      "prixDate": "2026-10-08",
-      "variationJour": -0.36
+      "prix": 110.44,
+      "prixDate": "2026-10-09",
+      "variationJour": -0.56
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
@@ -346,11 +362,15 @@
         {
           "d": "2026-10-08",
           "p": 7.293
+        },
+        {
+          "d": "2026-10-09",
+          "p": 7.243
         }
       ],
-      "prix": 7.293,
-      "prixDate": "2026-10-08",
-      "variationJour": -1.05
+      "prix": 7.243,
+      "prixDate": "2026-10-09",
+      "variationJour": -0.62
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -374,11 +394,15 @@
         {
           "d": "2026-10-08",
           "p": 7.18
+        },
+        {
+          "d": "2026-10-09",
+          "p": 7.215
         }
       ],
-      "prix": 7.18,
-      "prixDate": "2026-10-08",
-      "variationJour": -0.29
+      "prix": 7.215,
+      "prixDate": "2026-10-09",
+      "variationJour": 0.49
     },
     {
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
@@ -460,6 +484,12 @@
       "detail": "Publication à 14h30 heure de Paris ; l'inflation était de 3,4 % sur un an en août"
     },
     {
+      "id": "us-ppi-2026-10",
+      "date": "2026-10-15",
+      "titre": "États-Unis : prix à la production et ventes au détail de septembre",
+      "detail": "Deux indicateurs lus juste après l'inflation pour juger la force de la demande et la pression sur les prix"
+    },
+    {
       "id": "ez-hicp-2026-10",
       "date": "2026-10-16",
       "titre": "Zone euro : inflation définitive de septembre",
@@ -502,6 +532,12 @@
       "detail": "Collecte et encours à suivre, ils reflètent l'engouement pour les ETF"
     },
     {
+      "id": "us-pce-gdp-2026-10",
+      "date": "2026-10-29",
+      "titre": "États-Unis : PIB du 3e trimestre et indice PCE",
+      "detail": "Le PCE est l'indicateur d'inflation préféré de la Fed, publié le lendemain de sa décision sur les taux"
+    },
+    {
       "id": "soitec-s1-2026",
       "date": "2026-11-18",
       "titre": "Soitec : résultats du 1er semestre",
@@ -522,6 +558,11 @@
     {
       "d": "2026-10-09",
       "valeur": 392.3,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-11",
+      "valeur": 391.3,
       "investi": 399.2
     }
   ]

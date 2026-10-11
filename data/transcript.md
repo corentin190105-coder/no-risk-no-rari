@@ -22,3 +22,14 @@ Le PER (price earning ratio) se calcule en divisant le cours d'une action par le
 **Références**
 - [La finance pour tous : Price earning ratio (PER) ⚠️](https://www.lafinancepourtous.com/outils/dictionnaire/per/)
 - [La finance pour tous : Profits et cours boursiers, quel est le lien ? ⚠️](https://www.lafinancepourtous.com/decryptages/entreprise/bourse-et-actionnaires/profits-et-cours-boursiers-quel-est-le-lien/)
+
+## Q: Qu'est-ce que l'indice des prix à la consommation (IPC) ?
+
+_2026-10-11 21:00 CEST_
+
+L'indice des prix à la consommation mesure chaque mois l'évolution du prix d'un panier de biens et de services représentatif de ce que consomment les ménages. En France, c'est l'Insee qui le calcule, et la variation de cet indice sur un an donne le taux d'inflation. Une version harmonisée (IPCH), comparable entre pays, sert de référence à la BCE, qui vise 2 % à moyen terme. Pour un investisseur, c'est un indicateur clé : une inflation plus forte que prévu pousse les banques centrales à garder des taux élevés, ce qui pèse souvent sur les actions et les obligations. C'est pourquoi la publication américaine de mercredi est très suivie.
+
+**Références**
+- [Banque de France : Inflation et déflation ⚠️](https://www.banque-france.fr/fr/publications-et-statistiques/publications/inflation-et-deflation)
+- [Insee : Élaboration de l'IPC et de l'IPCH ⚠️](https://www.insee.fr/fr/metadonnees/source/serie/s1007)
+- [La finance pour tous : Comprendre l'inflation ⚠️](https://www.lafinancepourtous.com/decryptages/politiques-economiques/theories-economiques/inflation/)

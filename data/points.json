@@ -1,6 +1,170 @@
 {
   "points": [
     {
+      "date": "2026-10-11",
+      "titre": "Semaine du 5 au 9 octobre : rebond vendredi, mais le CAC 40 perd 1,2 % sur sept jours",
+      "resume": "Dimanche, les marchés sont fermés, voici le bilan de la séance de vendredi. Le CAC 40 a gagné 0,95 % à 7 803 points grâce à la détente du pétrole après les propos de Donald Trump sur des discussions avec l'Iran, mais il recule de 1,2 % sur la semaine. À Wall Street, le S&P 500 et le Nasdaq ont progressé d'environ 0,6 %, et la semaine qui vient sera dominée par l'inflation américaine de mercredi.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 803 pts",
+          "variation": 0.95
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "niveau non relevé",
+          "variation": 0.83
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "7 812 pts",
+          "variation": 0.59
+        },
+        {
+          "nom": "Nasdaq Composite",
+          "valeur": "27 366 pts",
+          "variation": 0.64
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 103,5 $ le baril",
+          "variation": -0.7
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 4 194 $ l'once",
+          "variation": 1.2
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,12 $ (variation non relevée)",
+          "variation": 0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Inflation : le rendez-vous de mercredi",
+          "texte": "L'inflation américaine de septembre sera publiée le 14 octobre. Elle était de 3,4 % sur un an en août, et la zone euro affichait 3,8 % en septembre selon l'estimation rapide. Ces chiffres décident en grande partie de la suite des taux."
+        },
+        {
+          "titre": "Banques centrales : Fed et BCE fin octobre",
+          "texte": "La Fed se réunit les 27 et 28 octobre, la BCE le 29, avec un taux de dépôt actuellement à 2,50 %. Les marchés cherchent à savoir si l'inflation durablement élevée poussera encore à des hausses de taux, ce qui pèse sur les actions les plus chères."
+        },
+        {
+          "titre": "Pétrole et Iran",
+          "texte": "Le Brent a reculé d'environ 0,7 % vendredi autour de 103,5 dollars après que Donald Trump a affirmé ne pas attaquer l'Iran avant les élections de mi-mandat du 3 novembre. Téhéran étudie une proposition américaine sur la réouverture du détroit d'Ormuz, et tout signe de blocage peut relancer les prix."
+        },
+        {
+          "titre": "France : dette et budget",
+          "texte": "L'écart entre les taux français et allemands à 10 ans est revenu à environ 137 points de base, après plus de 150 la semaine précédente. Le plan d'économies d'environ 43 milliards d'euros présenté par un gouvernement minoritaire reste une source d'incertitude pour les banques et les valeurs sensibles aux taux."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 391.3,
+        "pv": -7.9,
+        "texte": "Ton portefeuille vaut 391,3 € pour 399,2 € investis, soit une moins-value latente de 7,9 € après la séance de vendredi. Le recul léger des ETF Nasdaq-100 a été compensé en partie par STMicroelectronics, resté stable, et par le rebond de DCAM."
+      },
+      "valeurs": [
+        {
+          "nom": "Thales",
+          "texte": "Le titre a gagné 1,2 % vendredi à 218,30 euros, soutenu par les tensions au Moyen-Orient ; les commandes du troisième trimestre sont attendues le 21 octobre."
+        },
+        {
+          "nom": "Amundi",
+          "texte": "L'action a progressé de 1,7 % à 88,25 euros dans un marché européen plus favorable, avant ses résultats trimestriels du 29 octobre."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le groupe a publié le bilan de ses rachats d'actions (310 000 titres entre le 28 septembre et le 2 octobre) et donne rendez-vous le 29 octobre pour ses résultats du troisième trimestre."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Exail Technologies",
+          "isin": "FR0000062671",
+          "risque": "Très élevé",
+          "prix": "≈ 125 € la part",
+          "texte": "Exail fabrique des drones sous-marins et de surface, de la navigation inertielle et des composants photoniques et quantiques, avec environ 56 % de son activité dans la défense. Le sujet du jour est la tension autour de l'Iran et du détroit d'Ormuz, qui entretient la demande en équipements militaires, et le titre a déjà pris plus de 50 % depuis janvier. Le groupe a annoncé un premier semestre en forte hausse (275 millions d'euros de chiffre d'affaires, +27 %). Le principal risque : la publication complète des comptes a été reportée deux fois pour des discussions comptables liées au rapprochement évoqué avec Thales, et le cours peut bouger fortement sur la moindre nouvelle."
+        },
+        {
+          "nom": "Lhyfe",
+          "isin": "FR0014009YQ1",
+          "risque": "Très élevé",
+          "prix": "≈ 1,72 € la part",
+          "texte": "Lhyfe produit de l'hydrogène vert à partir d'électricité renouvelable. Avec un pétrole à plus de 100 dollars, les alternatives aux énergies fossiles reviennent dans le débat, et la part à moins de 2 euros reste accessible à un très petit budget. La société est cotée sur Euronext Growth et capitalise environ 83 millions d'euros, soit très peu. Le principal risque est une société encore jeune, aux pertes importantes et au cours en baisse sur l'année ; vérifie aussi que la ligne est bien disponible dans ton PEA chez Trade Republic avant d'y penser."
+        },
+        {
+          "nom": "Capgemini",
+          "isin": "FR0000125338",
+          "risque": "Élevé",
+          "prix": "≈ 115 € la part",
+          "texte": "Capgemini, société de services numériques, a rebondi de 3,8 % vendredi et de plus de 6 % sur la semaine, après des résultats solides chez son concurrent Accenture. Le marché se demande si l'intelligence artificielle va aider ou menacer ces entreprises, ce qui explique un titre encore en baisse d'environ 21 % depuis le début de l'année. Les analystes visent en moyenne un cours autour de 143 euros, mais c'est un objectif, pas une promesse. Le principal risque est que l'IA réduise les besoins en prestations de conseil et de développement."
+        }
+      ],
+      "idee": {
+        "nom": "Exail Technologies",
+        "isin": "FR0000062671",
+        "risque": "Très élevé",
+        "prix": "≈ 125 € la part",
+        "texte": "Exail fabrique des drones sous-marins et de surface, de la navigation inertielle et des composants photoniques et quantiques, avec environ 56 % de son activité dans la défense. Le sujet du jour est la tension autour de l'Iran et du détroit d'Ormuz, qui entretient la demande en équipements militaires, et le titre a déjà pris plus de 50 % depuis janvier. Le groupe a annoncé un premier semestre en forte hausse (275 millions d'euros de chiffre d'affaires, +27 %). Le principal risque : la publication complète des comptes a été reportée deux fois pour des discussions comptables liées au rapprochement évoqué avec Thales, et le cours peut bouger fortement sur la moindre nouvelle."
+      },
+      "concept": {
+        "terme": "Indice des prix à la consommation (IPC)",
+        "texte": "L'indice des prix à la consommation mesure chaque mois l'évolution du prix d'un panier de biens et de services représentatif de ce que consomment les ménages. En France, c'est l'Insee qui le calcule, et la variation de cet indice sur un an donne le taux d'inflation. Une version harmonisée (IPCH), comparable entre pays, sert de référence à la BCE, qui vise 2 % à moyen terme. Pour un investisseur, c'est un indicateur clé : une inflation plus forte que prévu pousse les banques centrales à garder des taux élevés, ce qui pèse souvent sur les actions et les obligations. C'est pourquoi la publication américaine de mercredi est très suivie.",
+        "references": [
+          {
+            "titre": "Banque de France : Inflation et déflation ⚠️",
+            "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/inflation-et-deflation"
+          },
+          {
+            "titre": "Insee : Élaboration de l'IPC et de l'IPCH ⚠️",
+            "url": "https://www.insee.fr/fr/metadonnees/source/serie/s1007"
+          },
+          {
+            "titre": "La finance pour tous : Comprendre l'inflation ⚠️",
+            "url": "https://www.lafinancepourtous.com/decryptages/politiques-economiques/theories-economiques/inflation/"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-14",
+          "titre": "États-Unis : inflation de septembre (14h30, heure de Paris)"
+        },
+        {
+          "date": "2026-10-15",
+          "titre": "États-Unis : prix à la production et ventes au détail"
+        },
+        {
+          "date": "2026-10-16",
+          "titre": "Zone euro : inflation définitive de septembre"
+        },
+        {
+          "date": "2026-10-21",
+          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "CNBC : le pétrole recule après les propos de Trump sur l'Iran",
+          "url": "https://www.cnbc.com/2026/10/09/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns.html"
+        },
+        {
+          "titre": "Boursorama : l'Europe finit en hausse, le CAC 40 pénalisé par l'incertitude budgétaire",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-le-cac-40-penalise-par-l-incertitude-budgetaire-e90e2ed2b6c4d28320356ddd8de3f220"
+        },
+        {
+          "titre": "Easybourse : Wall Street termine la semaine en hausse",
+          "url": "https://www.easybourse.com/marches/point-tendance/68149/wall-street-termine-semaine-en-hausse.html"
+        },
+        {
+          "titre": "Zonebourse : Thales",
+          "url": "https://www.zonebourse.com/cours/action/THALES-4715/"
+        }
+      ]
+    },
+    {
       "date": "2026-10-09",
       "titre": "Le pétrole se détend après les propos de Trump sur l'Iran : le CAC 40 rebondit de 0,95 %",
       "resume": "Le CAC 40 a gagné 0,95 % à 7 803 points, mais il perd 1,19 % sur la semaine. Donald Trump a affirmé que les États-Unis n'attaqueraient pas l'Iran avant les élections du 3 novembre, ce qui a fait reculer le pétrole et apaisé les taux d'emprunt. Wall Street a aussi terminé en hausse, avant la saison des résultats d'entreprises et les chiffres d'inflation de la semaine prochaine.",
