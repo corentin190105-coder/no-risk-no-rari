@@ -33,3 +33,15 @@ L'indice des prix à la consommation mesure chaque mois l'évolution du prix d'u
 - [Banque de France : Inflation et déflation ⚠️](https://www.banque-france.fr/fr/publications-et-statistiques/publications/inflation-et-deflation)
 - [Insee : Élaboration de l'IPC et de l'IPCH ⚠️](https://www.insee.fr/fr/metadonnees/source/serie/s1007)
 - [La finance pour tous : Comprendre l'inflation ⚠️](https://www.lafinancepourtous.com/decryptages/politiques-economiques/theories-economiques/inflation/)
+
+## Q: Qu'est-ce que le Brent ?
+
+_2026-10-12 21:10 CEST_
+
+Le Brent est un pétrole brut de la mer du Nord qui sert de référence mondiale pour fixer le prix du baril, exprimé en dollars et coté sur le marché ICE de Londres. Quand on dit que le pétrole vaut 107 dollars, on parle le plus souvent du prix du Brent. Son prix dépend de l'offre (décisions de l'OPEP, tensions géopolitiques comme le détroit d'Ormuz) et de la demande mondiale. Un Brent élevé fait monter le coût de l'énergie et l'inflation, ce qui peut pousser les banques centrales à garder des taux hauts, tandis qu'il profite en général aux groupes pétroliers. Le WTI est son équivalent américain.
+
+**Références**
+- [Investopedia : Brent Blend ⚠️](https://www.investopedia.com/terms/b/brentblend.asp)
+- [Le pétrole brut Brent : définition, origine et rôle de référence mondiale ⚠️](https://prix-carburant.eu/article/petrole-brut-brent-definition-origine-reference-mondiale)
+
+⚠️ Lien non vérifiable au moment de la rédaction

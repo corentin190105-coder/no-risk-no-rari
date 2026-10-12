@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-11T21:05:00+02:00",
-    "resume": "Dimanche, marchés fermés : cours de clôture du vendredi 9 octobre 2026. Mise à jour de Thales, Air Liquide, Amundi, PUST, PNAS et WPEA. Le cours de Melanion Bitcoin Equities reste celui du 8 octobre faute de clôture fiable trouvée. CAC 40 en hausse de 0,95 % à 7 803 points vendredi, mais en baisse de 1,2 % sur la semaine."
+    "date": "2026-10-12T21:15:00+02:00",
+    "resume": "Lundi 12 octobre 2026 : CAC 40 en hausse de 0,38 % à 7 833 points. STMicroelectronics et Soitec mis à jour (cours de fin de séance Paris) ; les autres cours restent ceux du 9 octobre faute de clôture fiable trouvée. Wall Street non clôturée au moment de la mise à jour."
   },
   "actifs": [
     {
@@ -167,6 +167,11 @@
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
         {
+          "date": "2026-10-12",
+          "titre": "Le Nasdaq-100 recule d'environ 0,5 à 0,8 % en séance lundi, pénalisé par les valeurs d'infrastructure IA et les semi-conducteurs",
+          "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
+        },
+        {
           "date": "2026-10-08",
           "titre": "Le Nasdaq recule d'environ 1,2 % : les géants de la tech et des puces pénalisés par des doutes sur les revenus d'OpenAI",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
@@ -210,6 +215,11 @@
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
         {
+          "date": "2026-10-12",
+          "titre": "Soitec cède environ 3,8 % à 153,85 € dans le sillage de la baisse des semi-conducteurs, sans annonce propre à la société",
+          "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
+        },
+        {
           "date": "2026-10-09",
           "titre": "Soitec parmi les plus fortes hausses du CAC 40 et du SBF 120 (+4,95 % à 159,95 €) lors du rebond de la Bourse de Paris, sans annonce propre à la société",
           "url": "https://in.investing.com/news/stock-market-news/france-shares-higher-at-close-of-trade-cac-40-up-095-5626362"
@@ -252,11 +262,15 @@
         {
           "d": "2026-10-09",
           "p": 159.95
+        },
+        {
+          "d": "2026-10-12",
+          "p": 153.85
         }
       ],
-      "prix": 159.95,
-      "prixDate": "2026-10-09",
-      "variationJour": 4.95
+      "prix": 153.85,
+      "prixDate": "2026-10-12",
+      "variationJour": -3.81
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -333,6 +347,11 @@
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
         {
+          "date": "2026-10-12",
+          "titre": "Le Nasdaq-100 recule d'environ 0,5 à 0,8 % en séance lundi, pénalisé par les valeurs d'infrastructure IA et les semi-conducteurs",
+          "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
+        },
+        {
           "date": "2026-10-08",
           "titre": "Le Nasdaq recule d'environ 1,2 % : les géants de la tech et des puces pénalisés par des doutes sur les revenus d'OpenAI",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
@@ -408,6 +427,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-10-12",
+          "titre": "STMicroelectronics recule de 2,1 % à 45,57 € dans une séance où les valeurs de semi-conducteurs sont vendues (indice SOX en baisse d'environ 2,5 % à Wall Street) ; résultats du troisième trimestre le 29 octobre",
+          "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
+        },
+        {
           "date": "2026-10-09",
           "titre": "STMicroelectronics, à contre-courant du rebond de la Bourse de Paris, recule encore de 3 % vers 46,55 € en fin de séance",
           "url": "https://in.investing.com/news/stock-market-news/france-shares-higher-at-close-of-trade-cac-40-up-095-5626362"
@@ -429,10 +453,6 @@
         {
           "date": "2026-09-28",
           "titre": "UBS réitère sa recommandation à l'achat"
-        },
-        {
-          "date": "2026-09-09",
-          "titre": "L'optique représentera environ 80 % des revenus IA en 2027 (directeur financier)"
         }
       ],
       "isin": "NL0000226223",
@@ -463,11 +483,15 @@
         {
           "d": "2026-10-09",
           "p": 46.55
+        },
+        {
+          "d": "2026-10-12",
+          "p": 45.565
         }
       ],
-      "prix": 46.55,
-      "prixDate": "2026-10-09",
-      "variationJour": -3.0
+      "prix": 45.565,
+      "prixDate": "2026-10-12",
+      "variationJour": -2.11
     }
   ],
   "agenda": [
@@ -538,6 +562,12 @@
       "detail": "Le PCE est l'indicateur d'inflation préféré de la Fed, publié le lendemain de sa décision sur les taux"
     },
     {
+      "id": "us-midterms-2026",
+      "date": "2026-11-03",
+      "titre": "États-Unis : élections de mi-mandat",
+      "detail": "Échéance politique citée par Donald Trump dans le dossier iranien ; elle peut alimenter la volatilité des marchés"
+    },
+    {
       "id": "soitec-s1-2026",
       "date": "2026-11-18",
       "titre": "Soitec : résultats du 1er semestre",
@@ -563,6 +593,11 @@
     {
       "d": "2026-10-11",
       "valeur": 391.3,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-12",
+      "valeur": 389.33,
       "investi": 399.2
     }
   ]

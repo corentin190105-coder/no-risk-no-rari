@@ -1,6 +1,166 @@
 {
   "points": [
     {
+      "date": "2026-10-12",
+      "titre": "Le CAC 40 gagne 0,38 % à 7 833 points, mais les semi-conducteurs chutent et le Brent grimpe vers 107 dollars",
+      "resume": "Paris a terminé en hausse de 0,38 %, portée par le luxe et les banques, avant une semaine chargée en inflation et en résultats d'entreprises. À Wall Street, les indices sont restés hésitants : le Nasdaq a reculé en séance, entraîné par les valeurs de semi-conducteurs (indice SOX en baisse d'environ 2,5 %), tandis que l'énergie progressait avec un Brent en hausse d'environ 2,3 %. Les marchés américains étaient encore ouverts au moment de la rédaction, les niveaux américains sont donc ceux de fin de séance disponibles.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 833 pts",
+          "variation": 0.38
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "niveau non relevé",
+          "variation": 0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "≈ 7 810 pts (en séance, stable)",
+          "variation": 0
+        },
+        {
+          "nom": "Nasdaq 100",
+          "valeur": "≈ 30 650 pts (en séance)",
+          "variation": -0.77
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 107 $ le baril",
+          "variation": 2.3
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 4 179 $ l'once",
+          "variation": -0.4
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,118 $",
+          "variation": 0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Inflation : Allemagne mardi, États-Unis mercredi",
+          "texte": "Les investisseurs attendent l'inflation allemande de septembre mardi, puis l'inflation américaine de mercredi (3,4 % sur un an en août). Ces chiffres orientent les décisions de taux de la Fed et de la BCE à la fin du mois."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "La Fed décide le 28 octobre et la BCE le 29, avec un taux de dépôt à 2,50 %. Le marché obligataire américain était fermé pour le Columbus Day, ce qui a limité les mouvements sur les taux longs."
+        },
+        {
+          "titre": "Pétrole et Iran",
+          "texte": "Le Brent a gagné environ 2,3 % vers 107 dollars faute d'accord sur la réouverture du détroit d'Ormuz. L'agence britannique UKMTO recense une dizaine d'attaques de navires en octobre, et les attaques houthies visent aussi l'Arabie saoudite."
+        },
+        {
+          "titre": "Intelligence artificielle : prise de bénéfices",
+          "texte": "Les valeurs d'infrastructure IA ont été vendues, avec Nvidia en baisse d'environ 1,7 % et l'indice SOX qui cède environ 7 % depuis son sommet récent. Les investisseurs s'interrogent sur le niveau des dépenses des géants de l'IA et sur la hausse des taux."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 389.33,
+        "pv": -9.87,
+        "texte": "Ton portefeuille vaut 389,33 € pour 399,20 € investis, soit une moins-value latente de 9,87 €, Elle vient surtout de STMicroelectronics (-2,1 %) ; les deux ETF gardent leur dernier cours connu du 9 octobre, faute de clôture fiable ce soir,"
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre recule de 2,1 % à environ 45,57 € avec le repli des semi-conducteurs ; résultats attendus le 29 octobre."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "L'action perd environ 3,8 % à 153,85 €, sans annonce de la société, dans le sillage du secteur."
+        },
+        {
+          "nom": "Thales",
+          "texte": "Pas de cours de clôture fiable trouvé ce soir ; les commandes du troisième trimestre sont attendues le 21 octobre."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Technip Energies",
+          "isin": "NL0014559478",
+          "risque": "Modéré",
+          "prix": "≈ 33 € la part (cours non daté, à vérifier)",
+          "texte": "Technip Energies conçoit et construit des usines de gaz naturel liquéfié et des installations d'énergie, et profite quand les États investissent pour sécuriser leur approvisionnement. Avec un Brent autour de 107 dollars et le blocage du détroit d'Ormuz, la question de l'énergie est au centre de l'actualité du jour. La part à environ 33 euros reste plus abordable qu'un grand nombre de valeurs industrielles, et la société est néerlandaise donc éligible au PEA. Le principal risque est que les projets soient longs et que les marges dépendent de quelques gros contrats ; si les prix du pétrole retombent, les décisions d'investissement peuvent aussi être repoussées."
+        },
+        {
+          "nom": "Dassault Aviation",
+          "isin": "FR0014004L86",
+          "risque": "Élevé",
+          "prix": "≈ 280 € la part (dernier cours trouvé, début septembre)",
+          "texte": "Dassault construit le Rafale et les Falcon, avec un carnet de commandes de plus de 45 milliards d'euros au 30 juin. Les tensions au Moyen-Orient entretiennent la demande en équipements militaires, et des contrats peuvent encore venir d'Inde (114 avions en discussion), d'Égypte ou d'Ukraine. Le principal risque est que ces contrats tardent ou ne se concrétisent pas : le titre dépend beaucoup de décisions politiques, et son cours est une donnée non vérifiée ce soir."
+        },
+        {
+          "nom": "ASML",
+          "isin": "NL0010273215",
+          "risque": "Élevé",
+          "prix": "≈ 1 470 € la part (dernier cours trouvé, fin juillet)",
+          "texte": "ASML fabrique les machines de lithographie sans lesquelles les puces avancées ne peuvent pas être gravées, ce qui la place au coeur de la vague IA. Les semi-conducteurs ont reculé aujourd'hui (SOX en baisse d'environ 2,5 % à Wall Street), ce qui rouvre la question de la valorisation. Le principal risque : un PER déjà très élevé, autour de 60, et une demande liée aux investissements des géants de l'IA. La part dépasse 1 000 euros, ce qui est peu adapté à un petit budget sans fractions d'actions."
+        }
+      ],
+      "idee": {
+        "nom": "Technip Energies",
+        "isin": "NL0014559478",
+        "risque": "Modéré",
+        "prix": "≈ 33 € la part (cours non daté, à vérifier)",
+        "texte": "Technip Energies conçoit et construit des usines de gaz naturel liquéfié et des installations d'énergie, et profite quand les États investissent pour sécuriser leur approvisionnement. Avec un Brent autour de 107 dollars et le blocage du détroit d'Ormuz, la question de l'énergie est au centre de l'actualité du jour. La part à environ 33 euros reste plus abordable qu'un grand nombre de valeurs industrielles, et la société est néerlandaise donc éligible au PEA. Le principal risque est que les projets soient longs et que les marges dépendent de quelques gros contrats ; si les prix du pétrole retombent, les décisions d'investissement peuvent aussi être repoussées."
+      },
+      "concept": {
+        "terme": "Le Brent",
+        "texte": "Le Brent est un pétrole brut de la mer du Nord qui sert de référence mondiale pour fixer le prix du baril, exprimé en dollars et coté sur le marché ICE de Londres. Quand on dit que le pétrole vaut 107 dollars, on parle le plus souvent du prix du Brent. Son prix dépend de l'offre (décisions de l'OPEP, tensions géopolitiques comme le détroit d'Ormuz) et de la demande mondiale. Un Brent élevé fait monter le coût de l'énergie et l'inflation, ce qui peut pousser les banques centrales à garder des taux hauts, tandis qu'il profite en général aux groupes pétroliers. Le WTI est son équivalent américain.",
+        "references": [
+          {
+            "titre": "Investopedia : Brent Blend ⚠️",
+            "url": "https://www.investopedia.com/terms/b/brentblend.asp"
+          },
+          {
+            "titre": "Le pétrole brut Brent : définition, origine et rôle de référence mondiale ⚠️",
+            "url": "https://prix-carburant.eu/article/petrole-brut-brent-definition-origine-reference-mondiale"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-13",
+          "titre": "Allemagne : inflation de septembre"
+        },
+        {
+          "date": "2026-10-14",
+          "titre": "États-Unis : inflation de septembre"
+        },
+        {
+          "date": "2026-10-21",
+          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux, résultats STMicroelectronics et Amundi"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : La Bourse de Paris termine en hausse avant une semaine chargée en publications",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-avant-une-semaine-chargee-en-publications-1063fa96f3b95ae0f35af49b4b3fd7c3"
+        },
+        {
+          "titre": "Benzinga : Nasdaq 100 falls as AI trade falters",
+          "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
+        },
+        {
+          "titre": "Prix du baril : le pétrole avance faute d'accord au Moyen-Orient",
+          "url": "https://prixdubaril.com/news-petrole/74857-le-petrole-avance-pousse-par-l-absence-d-accord-au-moyen-orient.html"
+        }
+      ]
+    },
+    {
       "date": "2026-10-11",
       "titre": "Semaine du 5 au 9 octobre : rebond vendredi, mais le CAC 40 perd 1,2 % sur sept jours",
       "resume": "Dimanche, les marchés sont fermés, voici le bilan de la séance de vendredi. Le CAC 40 a gagné 0,95 % à 7 803 points grâce à la détente du pétrole après les propos de Donald Trump sur des discussions avec l'Iran, mais il recule de 1,2 % sur la semaine. À Wall Street, le S&P 500 et le Nasdaq ont progressé d'environ 0,6 %, et la semaine qui vient sera dominée par l'inflation américaine de mercredi.",
