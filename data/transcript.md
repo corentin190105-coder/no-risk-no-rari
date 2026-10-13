@@ -45,3 +45,15 @@ Le Brent est un pétrole brut de la mer du Nord qui sert de référence mondiale
 - [Le pétrole brut Brent : définition, origine et rôle de référence mondiale ⚠️](https://prix-carburant.eu/article/petrole-brut-brent-definition-origine-reference-mondiale)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que l'augmentation de capital ?
+
+_2026-10-13 21:00 CEST_
+
+Une augmentation de capital consiste pour une entreprise à émettre de nouvelles actions pour lever de l'argent frais, par exemple pour réduire sa dette ou financer des projets. Les actionnaires existants voient alors leur part du capital diminuer : c'est la dilution. Pour limiter cet effet, la société propose souvent un droit préférentiel de souscription (DPS), qui permet aux anciens actionnaires de souscrire en priorité ou de vendre ce droit en bourse. Le cours baisse souvent à l'annonce, car il y a plus d'actions pour la même entreprise, comme Eramet qui a perdu 14 % ce mardi.
+
+**Références**
+- [AMF : Bien comprendre les droits préférentiels de souscription ⚠️](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/bien-comprendre-les-droits-preferentiels-de-souscription)
+- [La finance pour tous : Augmentation de capital ⚠️](https://www.lafinancepourtous.com/decryptages/entreprise/bourse-et-actionnaires/actionnaires-et-assemblees-generales/les-age-assemblees-generales-extraordinaires/resolutions-pour-modification-de-capital/)
+
+⚠️ Lien non vérifiable au moment de la rédaction

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-12T21:15:00+02:00",
-    "resume": "Lundi 12 octobre 2026 : CAC 40 en hausse de 0,38 % à 7 833 points. STMicroelectronics et Soitec mis à jour (cours de fin de séance Paris) ; les autres cours restent ceux du 9 octobre faute de clôture fiable trouvée. Wall Street non clôturée au moment de la mise à jour."
+    "date": "2026-10-13T21:10:00+02:00",
+    "resume": "Mardi 13 octobre 2026 : CAC 40 en baisse de 0,07 % à 7 828 points. STMicroelectronics (-2,9 %) et Soitec (-3,7 %) mis à jour à partir de leur variation de séance appliquée au cours de la veille ; les autres cours restent ceux du 9 octobre faute de clôture fiable trouvée."
   },
   "actifs": [
     {
@@ -266,11 +266,15 @@
         {
           "d": "2026-10-12",
           "p": 153.85
+        },
+        {
+          "d": "2026-10-13",
+          "p": 148.16
         }
       ],
-      "prix": 153.85,
-      "prixDate": "2026-10-12",
-      "variationJour": -3.81
+      "prix": 148.16,
+      "prixDate": "2026-10-13",
+      "variationJour": -3.7
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -487,11 +491,15 @@
         {
           "d": "2026-10-12",
           "p": 45.565
+        },
+        {
+          "d": "2026-10-13",
+          "p": 44.24
         }
       ],
-      "prix": 45.565,
-      "prixDate": "2026-10-12",
-      "variationJour": -2.11
+      "prix": 44.24,
+      "prixDate": "2026-10-13",
+      "variationJour": -2.9
     }
   ],
   "agenda": [
@@ -598,6 +606,11 @@
     {
       "d": "2026-10-12",
       "valeur": 389.33,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-13",
+      "valeur": 386.68,
       "investi": 399.2
     }
   ]

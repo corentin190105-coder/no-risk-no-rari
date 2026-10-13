@@ -1,6 +1,170 @@
 {
   "points": [
     {
+      "date": "2026-10-13",
+      "titre": "Le CAC 40 recule de 0,07 % à 7 828 points : les puces chutent encore, Publicis résiste et Eramet s'effondre",
+      "resume": "Paris a terminé quasi stable, freinée par les semi-conducteurs (STMicroelectronics -2,9 %, Soitec -3,7 %) et par le luxe après des ventes de LVMH sous les attentes. Publicis a progressé grâce à un revenu net supérieur aux prévisions, et Eramet a perdu 14 % après l'annonce d'une augmentation de capital. À Wall Street, le Nasdaq a reculé avec les puces pendant que les grandes banques publiaient des résultats contrastés, à la veille de l'inflation américaine.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 828 pts",
+          "variation": -0.07
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "niveau non relevé",
+          "variation": 0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "≈ 7 800 pts (en séance)",
+          "variation": -0.12
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "≈ 27 208 pts (en séance)",
+          "variation": -0.14
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 107 $ le baril (clôture de lundi 106,65 $)",
+          "variation": 0
+        },
+        {
+          "nom": "Or",
+          "valeur": "niveau non relevé",
+          "variation": 0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "niveau non relevé",
+          "variation": 0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Inflation : l'attente des chiffres américains",
+          "texte": "Les investisseurs attendent mercredi l'inflation américaine de septembre, après 3,4 % sur un an en août. Un chiffre élevé renforcerait l'idée que la Fed gardera des taux hauts."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "La Fed décide le 28 octobre et la BCE le 29, avec un taux de dépôt à 2,50 %. L'inflation de la zone euro est à 3,8 %, ce qui limite la marge de manoeuvre."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent reste autour de 107 dollars, sans accord sur la réouverture du détroit d'Ormuz. Une trêve énergétique annoncée entre la Russie et l'Ukraine a été contestée dès le lendemain."
+        },
+        {
+          "titre": "Semi-conducteurs : nouvelle vague de ventes",
+          "texte": "L'indice américain des puces a baissé pour la cinquième séance de suite, et SK Hynix et Samsung ont fortement chuté en Corée. Des informations sur les progrès du chinois CXMT dans la mémoire ravivent les craintes de concurrence."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 386.68,
+        "pv": -12.52,
+        "texte": "Ton portefeuille vaut 386,68 € pour 399,20 € investis, soit une moins-value latente de 12,52 €. Elle vient surtout de STMicroelectronics (-2,9 %) ; les deux ETF gardent leur dernier cours connu du 9 octobre, faute de clôture fiable."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre recule d'environ 2,9 % (≈ 44,24 € estimé à partir de la variation de séance) dans la chute des puces ; résultats attendus le 29 octobre."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "L'action perd environ 3,7 % (≈ 148,16 € estimé), dans le sillage du secteur et sans annonce de la société."
+        },
+        {
+          "nom": "Eramet",
+          "texte": "Le titre chute d'environ 14 % après l'annonce d'une augmentation de capital."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Publicis Groupe",
+          "isin": "FR0000130577",
+          "risque": "Modéré",
+          "prix": "≈ 88 € la part (cours non daté, à vérifier)",
+          "texte": "Publicis est un grand groupe de publicité et de conseil en marketing, qui s'appuie de plus en plus sur la donnée et l'IA pour ses clients. Il a été l'une des rares bonnes surprises du CAC 40 ce mardi, avec un revenu net du troisième trimestre au-dessus des attentes des analystes. Dans une séance dominée par la chute des puces et du luxe, c'est un exemple de valeur plus défensive. Le principal risque est que la publicité dépend des budgets des annonceurs, qui se réduisent vite si l'économie ralentit ou si l'IA bouscule le métier."
+        },
+        {
+          "nom": "Eramet",
+          "isin": "FR0000131757",
+          "risque": "Très élevé",
+          "prix": "cours en forte baisse ce jour (-14 %), à vérifier",
+          "texte": "Eramet produit du nickel, du manganèse et prépare du lithium, des métaux utiles à la transition énergétique et aux batteries. Le titre a chuté d'environ 14 % mardi après l'annonce d'une augmentation de capital, ce qui illustre bien la notion de dilution. Pour un investisseur, c'est un pari sur le redressement du groupe et sur les prix des métaux. Le principal risque est que l'entreprise est fragile financièrement et très dépendante de cours de matières premières volatils. Ce profil est à réserver à une toute petite part d'un portefeuille."
+        },
+        {
+          "nom": "Orange",
+          "isin": "FR0000133308",
+          "risque": "Modéré",
+          "prix": "≈ 16,6 € la part (dernier cours trouvé, début août)",
+          "texte": "Orange est l'opérateur télécoms historique français, avec des revenus réguliers et un dividende habituellement versé chaque année. Quand les valeurs technologiques et les puces reculent comme aujourd'hui, une valeur de ce type est souvent moins secouée. La part à environ 16 euros est accessible avec un petit budget, sans fractions d'actions. Le principal risque est une croissance faible dans un secteur très concurrentiel et des investissements lourds dans les réseaux, qui limitent la hausse du cours."
+        }
+      ],
+      "idee": {
+        "nom": "Publicis Groupe",
+        "isin": "FR0000130577",
+        "risque": "Modéré",
+        "prix": "≈ 88 € la part (cours non daté, à vérifier)",
+        "texte": "Publicis est un grand groupe de publicité et de conseil en marketing, qui s'appuie de plus en plus sur la donnée et l'IA pour ses clients. Il a été l'une des rares bonnes surprises du CAC 40 ce mardi, avec un revenu net du troisième trimestre au-dessus des attentes des analystes. Dans une séance dominée par la chute des puces et du luxe, c'est un exemple de valeur plus défensive. Le principal risque est que la publicité dépend des budgets des annonceurs, qui se réduisent vite si l'économie ralentit ou si l'IA bouscule le métier."
+      },
+      "concept": {
+        "terme": "L'augmentation de capital",
+        "texte": "Une augmentation de capital consiste pour une entreprise à émettre de nouvelles actions pour lever de l'argent frais, par exemple pour réduire sa dette ou financer des projets. Les actionnaires existants voient alors leur part du capital diminuer : c'est la dilution. Pour limiter cet effet, la société propose souvent un droit préférentiel de souscription (DPS), qui permet aux anciens actionnaires de souscrire en priorité ou de vendre ce droit en bourse. Le cours baisse souvent à l'annonce, car il y a plus d'actions pour la même entreprise, comme Eramet qui a perdu 14 % ce mardi.",
+        "references": [
+          {
+            "titre": "AMF : Bien comprendre les droits préférentiels de souscription ⚠️",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/bien-comprendre-les-droits-preferentiels-de-souscription"
+          },
+          {
+            "titre": "La finance pour tous : Augmentation de capital ⚠️",
+            "url": "https://www.lafinancepourtous.com/decryptages/entreprise/bourse-et-actionnaires/actionnaires-et-assemblees-generales/les-age-assemblees-generales-extraordinaires/resolutions-pour-modification-de-capital/"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-14",
+          "titre": "États-Unis : inflation de septembre"
+        },
+        {
+          "date": "2026-10-15",
+          "titre": "États-Unis : prix à la production et ventes au détail"
+        },
+        {
+          "date": "2026-10-16",
+          "titre": "Zone euro : inflation définitive de septembre"
+        },
+        {
+          "date": "2026-10-21",
+          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux, résultats STMicroelectronics et Amundi"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : L'Europe finit en baisse une séance volatile",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-baisse-une-seance-volatile-3d3853678fe314cb087a25917416463f"
+        },
+        {
+          "titre": "Boursorama : La Bourse de Paris freinée par le luxe et les semi-conducteurs",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-freinee-par-le-luxe-et-les-semi-conducteurs-12fe58641a5a75e9d08c081892f71c80"
+        },
+        {
+          "titre": "TheStreet : Stock Market Today, 13 octobre 2026",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
+        }
+      ]
+    },
+    {
       "date": "2026-10-12",
       "titre": "Le CAC 40 gagne 0,38 % à 7 833 points, mais les semi-conducteurs chutent et le Brent grimpe vers 107 dollars",
       "resume": "Paris a terminé en hausse de 0,38 %, portée par le luxe et les banques, avant une semaine chargée en inflation et en résultats d'entreprises. À Wall Street, les indices sont restés hésitants : le Nasdaq a reculé en séance, entraîné par les valeurs de semi-conducteurs (indice SOX en baisse d'environ 2,5 %), tandis que l'énergie progressait avec un Brent en hausse d'environ 2,3 %. Les marchés américains étaient encore ouverts au moment de la rédaction, les niveaux américains sont donc ceux de fin de séance disponibles.",
