@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-13T21:10:00+02:00",
-    "resume": "Mardi 13 octobre 2026 : CAC 40 en baisse de 0,07 % à 7 828 points. STMicroelectronics (-2,9 %) et Soitec (-3,7 %) mis à jour à partir de leur variation de séance appliquée au cours de la veille ; les autres cours restent ceux du 9 octobre faute de clôture fiable trouvée."
+    "date": "2026-10-14T21:05:00+02:00",
+    "resume": "Mercredi 14 octobre 2026 : CAC 40 en hausse de 0,58 % à 7 873 points. STMicroelectronics (45,04 €, +2,75 %) mis à jour depuis une cotation de séance ; Soitec (+4,6 %) estimé à partir de sa variation. Les autres cours restent ceux du 9 octobre faute de clôture fiable trouvée."
   },
   "actifs": [
     {
@@ -215,6 +215,11 @@
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
         {
+          "date": "2026-10-14",
+          "titre": "Soitec gagne environ 4,6 % dans le rebond des semi-conducteurs après les résultats d'ASML (cours estimé à partir de la variation de séance)",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-avec-asml-wall-street-dans-le-rouge-apres-l-inflation-americaine-1208405b9f1064b632681fc0cf26819d"
+        },
+        {
           "date": "2026-10-12",
           "titre": "Soitec cède environ 3,8 % à 153,85 € dans le sillage de la baisse des semi-conducteurs, sans annonce propre à la société",
           "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
@@ -270,11 +275,15 @@
         {
           "d": "2026-10-13",
           "p": 148.16
+        },
+        {
+          "d": "2026-10-14",
+          "p": 154.97
         }
       ],
-      "prix": 148.16,
-      "prixDate": "2026-10-13",
-      "variationJour": -3.7
+      "prix": 154.97,
+      "prixDate": "2026-10-14",
+      "variationJour": 4.6
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -431,6 +440,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-10-14",
+          "titre": "Les puces rebondissent après les résultats d'ASML, dont la demande portée par l'IA dépasse ses capacités en 2027 et 2028",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-avec-asml-wall-street-dans-le-rouge-apres-l-inflation-americaine-1208405b9f1064b632681fc0cf26819d"
+        },
+        {
           "date": "2026-10-12",
           "titre": "STMicroelectronics recule de 2,1 % à 45,57 € dans une séance où les valeurs de semi-conducteurs sont vendues (indice SOX en baisse d'environ 2,5 % à Wall Street) ; résultats du troisième trimestre le 29 octobre",
           "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
@@ -453,10 +467,6 @@
         {
           "date": "2026-09-30",
           "titre": "Jefferies optimiste sur le dossier"
-        },
-        {
-          "date": "2026-09-28",
-          "titre": "UBS réitère sa recommandation à l'achat"
         }
       ],
       "isin": "NL0000226223",
@@ -495,11 +505,15 @@
         {
           "d": "2026-10-13",
           "p": 44.24
+        },
+        {
+          "d": "2026-10-14",
+          "p": 45.04
         }
       ],
-      "prix": 44.24,
-      "prixDate": "2026-10-13",
-      "variationJour": -2.9
+      "prix": 45.04,
+      "prixDate": "2026-10-14",
+      "variationJour": 2.75
     }
   ],
   "agenda": [
@@ -513,7 +527,7 @@
       "id": "us-cpi-2026-10",
       "date": "2026-10-14",
       "titre": "États-Unis : inflation de septembre",
-      "detail": "Publication à 14h30 heure de Paris ; l'inflation était de 3,4 % sur un an en août"
+      "detail": "Publiée le 14 octobre : 3,7 % sur un an en septembre (3,4 % en août), +0,6 % sur un mois, au-dessus des attentes, surtout à cause de l'énergie"
     },
     {
       "id": "us-ppi-2026-10",
@@ -611,6 +625,11 @@
     {
       "d": "2026-10-13",
       "valeur": 386.68,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-14",
+      "valeur": 388.28,
       "investi": 399.2
     }
   ]

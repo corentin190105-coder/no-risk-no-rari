@@ -57,3 +57,15 @@ Une augmentation de capital consiste pour une entreprise à émettre de nouvelle
 - [La finance pour tous : Augmentation de capital ⚠️](https://www.lafinancepourtous.com/decryptages/entreprise/bourse-et-actionnaires/actionnaires-et-assemblees-generales/les-age-assemblees-generales-extraordinaires/resolutions-pour-modification-de-capital/)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que l'inflation sous-jacente ?
+
+_2026-10-14 21:00 CEST_
+
+L'inflation sous-jacente est l'inflation calculée en écartant les prix les plus volatils, comme l'énergie et l'alimentation, pour mieux voir la tendance de fond. L'Insee en publie une version qui exclut aussi les prix réglementés et corrige les effets des changements de taxes. Elle sert aux banques centrales, car un pétrole qui s'envole fait grimper l'inflation globale sans forcément signaler une hausse généralisée des prix. Cette semaine aux États-Unis, l'inflation globale a atteint 3,7 % sur un an, tirée par l'énergie, alors que l'inflation sous-jacente est à 2,6 %. L'écart montre que la hausse vient surtout du pétrole, ce que la Fed surveille avant de décider de relever ou non ses taux.
+
+**Références**
+- [Insee : Inflation sous-jacente ⚠️](https://www.insee.fr/fr/metadonnees/definition/c1481)
+- [Investopedia : Core Inflation ⚠️](https://www.investopedia.com/terms/c/coreinflation.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

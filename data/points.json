@@ -1,6 +1,178 @@
 {
   "points": [
     {
+      "date": "2026-10-14",
+      "titre": "Le CAC 40 gagne 0,58 % à 7 873 points : ASML rassure les puces, malgré une inflation américaine à 3,7 %",
+      "resume": "Paris a progressé grâce aux semi-conducteurs, portés par les résultats d'ASML dont la demande dépasse les capacités de production en 2027 et 2028. L'inflation américaine de septembre est ressortie à 3,7 % sur un an, au-dessus des attentes, ce qui a fait reculer Wall Street en cours de séance. STMicroelectronics et Soitec ont rebondi après deux séances de baisse.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 873 pts",
+          "variation": 0.58
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 195 pts",
+          "variation": 0.46
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "≈ 7 732 pts (en séance)",
+          "variation": -0.94
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "≈ 26 834 pts (en séance)",
+          "variation": -1.36
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 106 $ le baril",
+          "variation": 0.6
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 3 670 € l'once",
+          "variation": -0.96
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,113",
+          "variation": -0.65
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Inflation américaine : 3,7 % en septembre",
+          "texte": "Les prix à la consommation ont progressé de 0,6 % sur un mois et de 3,7 % sur un an (3,4 % en août), au-dessus des attentes. L'énergie en est le moteur, avec l'essence en forte hausse, tandis que l'inflation sous-jacente est à 2,6 %."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "Ces chiffres renforcent l'idée d'une nouvelle hausse de taux de la Fed, dont la décision tombe le 28 octobre. La BCE se réunit le 29 avec un taux de dépôt à 2,50 % et une inflation de 3,8 % dans la zone euro."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent se maintient autour de 106 dollars, entre inquiétudes sur l'approvisionnement et attaques signalées de pétroliers près du détroit d'Ormuz. L'OPEP a de nouveau abaissé sa prévision de demande pour 2026."
+        },
+        {
+          "titre": "Semi-conducteurs : ASML relève ses objectifs",
+          "texte": "ASML vise 44 à 45 milliards d'euros de ventes en 2026 et prévient qu'il ne pourra pas servir toute la demande en 2027 et 2028. Le secteur a rebondi après plusieurs séances de ventes liées aux craintes sur le chinois CXMT. Les taux à 10 ans français ont fini à 4,87 %."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 388.28,
+        "pv": -10.92,
+        "texte": "Ton portefeuille vaut 388,28 € pour 399,20 € investis, soit une moins-value latente de 10,92 €. STMicroelectronics a rebondi de 2,75 % ; les deux ETF gardent leur dernier cours connu du 9 octobre, faute de clôture fiable."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre rebondit d'environ 2,75 % à 45,04 € dans le sillage d'ASML ; résultats attendus le 29 octobre."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "L'action gagne environ 4,6 % (≈ 155 € estimé) après deux séances de baisse, portée par le secteur et sans annonce de la société."
+        },
+        {
+          "nom": "Airbus",
+          "texte": "Le titre progresse de près de 2 % à 190,22 € après avoir confirmé être en bonne voie pour son objectif de livraisons 2026."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Airbus",
+          "isin": "NL0000235190",
+          "risque": "Modéré",
+          "prix": "≈ 190 € la part",
+          "texte": "Airbus est le grand constructeur européen d'avions, éligible au PEA et coté en euros à Paris. Mercredi, le titre a gagné près de 2 % après que le groupe s'est dit en bonne voie pour son objectif d'environ 870 livraisons en 2026, un record. C'est une valeur de l'industrie lourde plutôt à l'écart de la vague des puces. Le principal risque est la pression sur les livraisons : il reste un rythme jamais atteint à tenir d'ici la fin de l'année, et les moteurs restent un point de blocage. Prochain rendez-vous : les résultats à neuf mois le 28 octobre."
+        },
+        {
+          "nom": "Soitec",
+          "isin": "FR0013227113",
+          "risque": "Très élevé",
+          "prix": "≈ 155 € la part (estimé depuis la variation de séance)",
+          "texte": "Soitec fabrique des plaques de silicium spéciales utilisées dans les puces, un maillon de la chaîne des semi-conducteurs. Le secteur a rebondi mercredi après les résultats d'ASML, qui dit ne pas pouvoir servir toute la demande des clients en 2027 et 2028, et Soitec a gagné environ 4,6 %. Le thème est porteur, mais le titre est très volatil : il avait chuté de près de 4 % la veille sans annonce de la société. Le principal risque est cette volatilité et la dépendance à quelques grands clients, d'où un classement en risque très élevé. Prochains résultats semestriels attendus vers le 18 novembre."
+        },
+        {
+          "nom": "Lumibird",
+          "isin": "FR0000038242",
+          "risque": "Élevé",
+          "prix": "≈ 22,75 € la part",
+          "texte": "Lumibird conçoit des lasers et des composants de photonique, utilisés notamment dans la défense, le spatial et l'industrie. Le titre a gagné environ 1,3 % mercredi à 22,75 € environ, une part abordable pour un petit budget, mais il perd environ 12 % sur un mois. Le groupe a publié un semestre en hausse de 7,4 % de son chiffre d'affaires, avec une photonique en bonne dynamique, et prépare la vente de sa filiale médicale. Le principal risque tient à cette opération et à la petite taille de l'entreprise (environ 500 millions d'euros de capitalisation), qui rend le cours très sensible aux annonces. Assemblée générale le 20 octobre."
+        }
+      ],
+      "idee": {
+        "nom": "Airbus",
+        "isin": "NL0000235190",
+        "risque": "Modéré",
+        "prix": "≈ 190 € la part",
+        "texte": "Airbus est le grand constructeur européen d'avions, éligible au PEA et coté en euros à Paris. Mercredi, le titre a gagné près de 2 % après que le groupe s'est dit en bonne voie pour son objectif d'environ 870 livraisons en 2026, un record. C'est une valeur de l'industrie lourde plutôt à l'écart de la vague des puces. Le principal risque est la pression sur les livraisons : il reste un rythme jamais atteint à tenir d'ici la fin de l'année, et les moteurs restent un point de blocage. Prochain rendez-vous : les résultats à neuf mois le 28 octobre."
+      },
+      "concept": {
+        "terme": "L'inflation sous-jacente",
+        "texte": "L'inflation sous-jacente est l'inflation calculée en écartant les prix les plus volatils, comme l'énergie et l'alimentation, pour mieux voir la tendance de fond. L'Insee en publie une version qui exclut aussi les prix réglementés et corrige les effets des changements de taxes. Elle sert aux banques centrales, car un pétrole qui s'envole fait grimper l'inflation globale sans forcément signaler une hausse généralisée des prix. Cette semaine aux États-Unis, l'inflation globale a atteint 3,7 % sur un an, tirée par l'énergie, alors que l'inflation sous-jacente est à 2,6 %. L'écart montre que la hausse vient surtout du pétrole, ce que la Fed surveille avant de décider de relever ou non ses taux.",
+        "references": [
+          {
+            "titre": "Insee : Inflation sous-jacente ⚠️",
+            "url": "https://www.insee.fr/fr/metadonnees/definition/c1481"
+          },
+          {
+            "titre": "Investopedia : Core Inflation ⚠️",
+            "url": "https://www.investopedia.com/terms/c/coreinflation.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-15",
+          "titre": "États-Unis : prix à la production et ventes au détail de septembre"
+        },
+        {
+          "date": "2026-10-16",
+          "titre": "Zone euro : inflation définitive de septembre"
+        },
+        {
+          "date": "2026-10-20",
+          "titre": "Lumibird : assemblée générale"
+        },
+        {
+          "date": "2026-10-21",
+          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Airbus : résultats à neuf mois"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : La Bourse de Paris finit en hausse malgré une inflation américaine plus forte que prévu",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-finit-en-hausse-malgre-une-inflation-americaine-plus-forte-que-prevu-3eed8c03a74a03b53c8d70b9bddf8c44"
+        },
+        {
+          "titre": "Boursorama : L'Europe finit dans le vert avec ASML, Wall Street dans le rouge",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-avec-asml-wall-street-dans-le-rouge-apres-l-inflation-americaine-1208405b9f1064b632681fc0cf26819d"
+        },
+        {
+          "titre": "CNBC : CPI inflation report September 2026",
+          "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+        },
+        {
+          "titre": "ASML : résultats du troisième trimestre 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/10/14/3380319/0/en/asml-reports-11-7-billion-total-net-sales-and-5-0-billion-net-income-in-q3-2026.html"
+        },
+        {
+          "titre": "Finanzen.net : Euro STOXX 50 à la clôture",
+          "url": "https://www.finanzen.net/nachricht/aktien/gewinne-in-europa-euro-stoxx-50-bewegt-sich-zum-handelsende-im-plus-15985109"
+        }
+      ]
+    },
+    {
       "date": "2026-10-13",
       "titre": "Le CAC 40 recule de 0,07 % à 7 828 points : les puces chutent encore, Publicis résiste et Eramet s'effondre",
       "resume": "Paris a terminé quasi stable, freinée par les semi-conducteurs (STMicroelectronics -2,9 %, Soitec -3,7 %) et par le luxe après des ventes de LVMH sous les attentes. Publicis a progressé grâce à un revenu net supérieur aux prévisions, et Eramet a perdu 14 % après l'annonce d'une augmentation de capital. À Wall Street, le Nasdaq a reculé avec les puces pendant que les grandes banques publiaient des résultats contrastés, à la veille de l'inflation américaine.",
