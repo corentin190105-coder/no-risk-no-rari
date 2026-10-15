@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-14T21:05:00+02:00",
-    "resume": "Mercredi 14 octobre 2026 : CAC 40 en hausse de 0,58 % à 7 873 points. STMicroelectronics (45,04 €, +2,75 %) mis à jour depuis une cotation de séance ; Soitec (+4,6 %) estimé à partir de sa variation. Les autres cours restent ceux du 9 octobre faute de clôture fiable trouvée."
+    "date": "2026-10-15T21:10:00+02:00",
+    "resume": "Jeudi 15 octobre 2026 : CAC 40 en hausse de 0,78 % à 7 935 points, porté par le luxe malgré la chute des valeurs liées à l'IA. STMicroelectronics (41,32 €, -3,97 %) et Soitec (129,85 €, -7,71 %) ont fortement reculé. Les autres cours restent ceux du 9 octobre faute de clôture fiable trouvée."
   },
   "actifs": [
     {
@@ -215,6 +215,11 @@
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
         {
+          "date": "2026-10-15",
+          "titre": "Soitec lâche près de 8 % dans le sillage de Séoul et des semi-conducteurs, sans annonce de la société",
+          "url": "https://www.zonebourse.com/actualite-bourse/sbf-120-stmicroelectronics-et-soitec-perdent-plus-de-6-dans-le-sillage-de-la-chute-des-valeurs-as-ce785dd3d880f324"
+        },
+        {
           "date": "2026-10-14",
           "titre": "Soitec gagne environ 4,6 % dans le rebond des semi-conducteurs après les résultats d'ASML (cours estimé à partir de la variation de séance)",
           "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-avec-asml-wall-street-dans-le-rouge-apres-l-inflation-americaine-1208405b9f1064b632681fc0cf26819d"
@@ -279,11 +284,15 @@
         {
           "d": "2026-10-14",
           "p": 154.97
+        },
+        {
+          "d": "2026-10-15",
+          "p": 129.85
         }
       ],
-      "prix": 154.97,
-      "prixDate": "2026-10-14",
-      "variationJour": 4.6
+      "prix": 129.85,
+      "prixDate": "2026-10-15",
+      "variationJour": -7.71
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -440,6 +449,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-10-15",
+          "titre": "STMicroelectronics recule d'environ 4 % dans la chute mondiale des valeurs liées à l'IA et des puces asiatiques, avec des pertes de plus de 7 % en milieu de séance",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-le-repli-des-valeurs-liees-a-l-ia-l-oreal-et-hermes-soutiennent-le-cac-40-qui-gagne-pres-de-08-1171850.html"
+        },
+        {
           "date": "2026-10-14",
           "titre": "Les puces rebondissent après les résultats d'ASML, dont la demande portée par l'IA dépasse ses capacités en 2027 et 2028",
           "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-avec-asml-wall-street-dans-le-rouge-apres-l-inflation-americaine-1208405b9f1064b632681fc0cf26819d"
@@ -463,10 +477,6 @@
           "date": "2026-10-05",
           "titre": "ST fixe la publication de ses résultats du troisième trimestre au 29 octobre, avant l'ouverture",
           "url": "https://www.globenewswire.com/news-release/2026/10/05/3374171/0/en/stmicroelectronics-announces-timing-for-third-quarter-2026-earnings-release-and-conference-call.html"
-        },
-        {
-          "date": "2026-09-30",
-          "titre": "Jefferies optimiste sur le dossier"
         }
       ],
       "isin": "NL0000226223",
@@ -509,20 +519,18 @@
         {
           "d": "2026-10-14",
           "p": 45.04
+        },
+        {
+          "d": "2026-10-15",
+          "p": 41.32
         }
       ],
-      "prix": 45.04,
-      "prixDate": "2026-10-14",
-      "variationJour": 2.75
+      "prix": 41.32,
+      "prixDate": "2026-10-15",
+      "variationJour": -3.97
     }
   ],
   "agenda": [
-    {
-      "id": "fed-minutes-2026-10",
-      "date": "2026-10-07",
-      "titre": "Fed : compte rendu de la réunion de septembre",
-      "detail": "Publié le 7 octobre : les 19 responsables ont soutenu la hausse de septembre et la plupart envisagent une nouvelle hausse d'ici la fin de l'année"
-    },
     {
       "id": "us-cpi-2026-10",
       "date": "2026-10-14",
@@ -546,6 +554,18 @@
       "date": "2026-10-21",
       "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre",
       "detail": "Premier test du rythme des commandes défense après un premier semestre très fort"
+    },
+    {
+      "id": "nexans-t3-2026",
+      "date": "2026-10-22",
+      "titre": "Nexans : chiffre d'affaires du 3e trimestre",
+      "detail": "Date indiquée par les agendas boursiers ; le câblier a relevé sa prévision d'EBITDA annuel cet été"
+    },
+    {
+      "id": "safran-t3-2026",
+      "date": "2026-10-23",
+      "titre": "Safran : chiffre d'affaires du 3e trimestre",
+      "detail": "Date indiquée par les agendas boursiers ; un test pour l'aéronautique et la défense"
     },
     {
       "id": "fomc-2026-10",
@@ -630,6 +650,11 @@
     {
       "d": "2026-10-14",
       "valeur": 388.28,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-15",
+      "valeur": 380.84,
       "investi": 399.2
     }
   ]

@@ -1,6 +1,182 @@
 {
   "points": [
     {
+      "date": "2026-10-15",
+      "titre": "Le CAC 40 gagne 0,78 % à 7 935 points grâce au luxe, alors que les valeurs liées à l'IA plongent",
+      "resume": "Paris a fini en hausse, soutenue par Hermès et L'Oréal (environ +3 %) et par la baisse des rendements obligataires. Les semi-conducteurs ont été balayés par les craintes sur le financement de l'IA et par la chute des valeurs asiatiques, avec Samsung et SK Hynix en net recul. STMicroelectronics a cédé environ 4 % et Soitec près de 8 %.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 935 pts",
+          "variation": 0.78
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 171 pts",
+          "variation": -0.3
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "≈ 7 690 pts (en séance)",
+          "variation": -0.4
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "≈ 26 400 pts (en séance)",
+          "variation": -1.1
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 105,5 $ le baril",
+          "variation": -0.5
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 4 155 $ l'once",
+          "variation": 1.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,11 (dollar en repli, cours non confirmé)",
+          "variation": 0.0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Inflation et prix à la production aux États-Unis",
+          "texte": "Après l'inflation de septembre à 3,7 %, l'indice des prix à la production de base a progressé au plus fort rythme depuis quatre ans. Les ventes au détail sont aussi ressorties solides, ce qui entretient l'idée d'une économie qui ne ralentit pas assez pour calmer les prix."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "Les marchés craignent une nouvelle hausse de taux de la Fed, dont la décision tombe le 28 octobre, et le rendement du bon du Trésor à 10 ans tourne autour de 5 %. En Europe, la baisse des rendements a aidé les indices, avant la réunion de la BCE du 29 octobre."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent reste autour de 105 dollars, avec des tensions près du détroit d'Ormuz. Des mesures américaines possibles pour assouplir les sanctions sur certains pétroliers russes ont toutefois freiné la hausse."
+        },
+        {
+          "titre": "Semi-conducteurs et IA",
+          "texte": "Le secteur des puces a perdu environ 4 % à Wall Street en séance, pour une quatrième baisse d'affilée du Nasdaq et du S&P 500. En Corée, Samsung et SK Hynix ont fini en recul de 9 % et 11 %, sur les inquiétudes liées au financement des investissements dans l'IA."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 380.84,
+        "pv": -18.36,
+        "texte": "Ton portefeuille vaut 380,84 € pour 399,20 € investis, soit une moins-value latente de 18,36 €. STMicroelectronics a reculé d'environ 4 %, tandis que les deux ETF gardent leur dernier cours connu du 9 octobre, faute de clôture fiable."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre perd environ 4 % à 41,32 €, après avoir lâché plus de 7 % en cours de journée ; résultats attendus le 29 octobre."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "L'action cède environ 7,7 % à 129,85 €, entraînée par la chute des puces asiatiques, sans annonce de la société."
+        },
+        {
+          "nom": "Thales",
+          "texte": "Le titre résiste en séance, autour de +1,5 % selon les relevés intermédiaires ; le chiffre d'affaires du troisième trimestre est publié le 21 octobre."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Safran",
+          "isin": "FR0000073272",
+          "risque": "Modéré",
+          "prix": "≈ 335 € la part (fin septembre)",
+          "texte": "Safran fabrique des moteurs d'avions, des équipements et de l'électronique de défense, et se négocie à Paris en euros, éligible au PEA. Le titre résiste mieux que les puces quand la tech vacille, car il dépend de l'aviation civile et des budgets militaires plutôt que de l'IA. Il publiera son chiffre d'affaires du troisième trimestre le 23 octobre, avec un objectif de croissance à deux chiffres pour 2026. Le principal risque est la valorisation déjà élevée : la part est chère pour un petit budget et un trimestre décevant serait sanctionné."
+        },
+        {
+          "nom": "Nexans",
+          "isin": "FR0000044448",
+          "risque": "Élevé",
+          "prix": "≈ 132 € la part",
+          "texte": "Nexans fabrique des câbles pour les réseaux électriques et les centres de données, un lien indirect mais concret avec la vague de l'IA. Son titre a perdu plus de 20 % depuis son sommet du printemps (≈ 169 €), alors que le groupe a relevé sa prévision d'EBITDA annuel. Le chiffre d'affaires du troisième trimestre tombe le 22 octobre. Le principal risque est que la méfiance envers le financement de l'IA continue de peser sur toutes les valeurs qui en dépendent, y compris les fournisseurs d'équipements."
+        },
+        {
+          "nom": "Eutelsat",
+          "isin": "FR0010221234",
+          "risque": "Très élevé",
+          "prix": "≈ 1,55 € la part",
+          "texte": "Eutelsat exploite la constellation de satellites OneWeb et incarne l'enjeu de souveraineté spatiale européenne, un thème porté par la défense. Cotée à Paris en euros et éligible au PEA, elle permet d'acheter plusieurs parts avec un petit budget. Le groupe a commandé 229 satellites supplémentaires à Airbus en septembre et publie son chiffre d'affaires le 29 octobre. Le principal risque est financier : les investissements sont lourds, la rentabilité reste fragile et la concurrence de SpaceX est très forte."
+        }
+      ],
+      "idee": {
+        "nom": "Safran",
+        "isin": "FR0000073272",
+        "risque": "Modéré",
+        "prix": "≈ 335 € la part (fin septembre)",
+        "texte": "Safran fabrique des moteurs d'avions, des équipements et de l'électronique de défense, et se négocie à Paris en euros, éligible au PEA. Le titre résiste mieux que les puces quand la tech vacille, car il dépend de l'aviation civile et des budgets militaires plutôt que de l'IA. Il publiera son chiffre d'affaires du troisième trimestre le 23 octobre, avec un objectif de croissance à deux chiffres pour 2026. Le principal risque est la valorisation déjà élevée : la part est chère pour un petit budget et un trimestre décevant serait sanctionné."
+      },
+      "concept": {
+        "terme": "L'indice des prix à la production (IPP)",
+        "texte": "L'indice des prix à la production mesure l'évolution des prix auxquels les producteurs vendent leurs biens, avant qu'ils n'arrivent chez le consommateur. Il se situe donc en amont de l'inflation des prix à la consommation : quand les entreprises paient plus cher leurs matières premières et leur énergie, elles peuvent répercuter la hausse plus tard sur les prix en magasin. Cette semaine aux États-Unis, l'indice de base de septembre, qui écarte l'alimentation et l'énergie, a progressé au plus fort rythme depuis quatre ans. Ce signal a ravivé la crainte de nouvelles hausses de taux de la Fed et a pesé sur les valeurs technologiques, très sensibles au coût de l'argent.",
+        "references": [
+          {
+            "titre": "Insee : Indice de prix à la production ⚠️",
+            "url": "https://www.insee.fr/fr/metadonnees/definition/c1462"
+          },
+          {
+            "titre": "Investopedia : Producer Price Index (PPI) ⚠️",
+            "url": "https://www.investopedia.com/terms/p/ppi.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-16",
+          "titre": "Zone euro : inflation définitive de septembre"
+        },
+        {
+          "date": "2026-10-20",
+          "titre": "Lumibird : assemblée générale"
+        },
+        {
+          "date": "2026-10-21",
+          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-22",
+          "titre": "Nexans : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-23",
+          "titre": "Safran : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux ; Airbus : résultats à neuf mois"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux ; résultats STMicroelectronics, Amundi, Eutelsat"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "BFM Bourse : le CAC 40 gagne près de 0,8 %",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-le-repli-des-valeurs-liees-a-l-ia-l-oreal-et-hermes-soutiennent-le-cac-40-qui-gagne-pres-de-08-1171850.html"
+        },
+        {
+          "titre": "Zonebourse : STMicroelectronics et Soitec chutent",
+          "url": "https://www.zonebourse.com/actualite-bourse/sbf-120-stmicroelectronics-et-soitec-perdent-plus-de-6-dans-le-sillage-de-la-chute-des-valeurs-as-ce785dd3d880f324"
+        },
+        {
+          "titre": "Boursorama : l'Europe finit dans le vert",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-la-baisse-des-rendements-compense-la-debacle-de-la-tech-1222bd3d8c0e762256eadff0fb89e6c0"
+        },
+        {
+          "titre": "Boursorama : les inquiétudes liées à l'IA font plonger le Nasdaq",
+          "url": "https://www.boursorama.com/bourse/actualites/quand-les-choses-se-gatent-les-inquietudes-liees-a-l-ia-font-plonger-le-nasdaq-et-le-s-p-500-d9e52dfb7da9ebf83e1a177e0959e833"
+        },
+        {
+          "titre": "TheStreet : Stock Market Today, 15 octobre 2026",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
+        }
+      ]
+    },
+    {
       "date": "2026-10-14",
       "titre": "Le CAC 40 gagne 0,58 % à 7 873 points : ASML rassure les puces, malgré une inflation américaine à 3,7 %",
       "resume": "Paris a progressé grâce aux semi-conducteurs, portés par les résultats d'ASML dont la demande dépasse les capacités de production en 2027 et 2028. L'inflation américaine de septembre est ressortie à 3,7 % sur un an, au-dessus des attentes, ce qui a fait reculer Wall Street en cours de séance. STMicroelectronics et Soitec ont rebondi après deux séances de baisse.",

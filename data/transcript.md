@@ -69,3 +69,15 @@ L'inflation sous-jacente est l'inflation calculée en écartant les prix les plu
 - [Investopedia : Core Inflation ⚠️](https://www.investopedia.com/terms/c/coreinflation.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que l'indice des prix à la production (IPP) ?
+
+_2026-10-15 20:59 CEST_
+
+L'indice des prix à la production mesure l'évolution des prix auxquels les producteurs vendent leurs biens, avant qu'ils n'arrivent chez le consommateur. Il se situe donc en amont de l'inflation des prix à la consommation : quand les entreprises paient plus cher leurs matières premières et leur énergie, elles peuvent répercuter la hausse plus tard sur les prix en magasin. Cette semaine aux États-Unis, l'indice de base de septembre, qui écarte l'alimentation et l'énergie, a progressé au plus fort rythme depuis quatre ans. Ce signal a ravivé la crainte de nouvelles hausses de taux de la Fed et a pesé sur les valeurs technologiques, très sensibles au coût de l'argent.
+
+**Références**
+- [Insee : Indice de prix à la production ⚠️](https://www.insee.fr/fr/metadonnees/definition/c1462)
+- [Investopedia : Producer Price Index (PPI) ⚠️](https://www.investopedia.com/terms/p/ppi.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction
