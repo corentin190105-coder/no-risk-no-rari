@@ -81,3 +81,15 @@ L'indice des prix à la production mesure l'évolution des prix auxquels les pro
 - [Investopedia : Producer Price Index (PPI) ⚠️](https://www.investopedia.com/terms/p/ppi.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que la forward guidance (orientation prospective) ?
+
+_2026-10-16 21:01 CEST_
+
+La forward guidance, ou orientation prospective, est la communication d'une banque centrale sur ses intentions futures de politique monétaire. En indiquant à l'avance dans quelles conditions elle comptait modifier ses taux, elle aide les marchés, les entreprises et les ménages à anticiper. Elle n'est pas un engagement ferme : la banque centrale peut changer de cap si l'inflation ou l'économie évoluent. Vendredi, le président de la Fed Kevin Warsh a évité toute indication sur les taux, ce flou a calmé la crainte d'une hausse immédiate et soutenu les Bourses européennes.
+
+**Références**
+- [BCE : Qu'est-ce que la forward guidance ? ⚠️](https://www.ecb.europa.eu/ecb/educational/explainers/tell-me/html/what-is-forward_guidance.fr.html)
+- [Investopedia : Forward Guidance ⚠️](https://www.investopedia.com/terms/f/forwardguidance.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

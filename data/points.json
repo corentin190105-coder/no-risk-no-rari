@@ -1,6 +1,170 @@
 {
   "points": [
     {
+      "date": "2026-10-16",
+      "titre": "Le CAC 40 gagne 0,28 % à 7 956,70 points et près de 2 % sur la semaine, mais Wall Street décroche sur l'IA",
+      "resume": "Paris a fini en légère hausse, rassurée par l'absence de signal de hausse de taux dans les propos du président de la Fed, Kevin Warsh. Wall Street, elle, plonge en séance (Nasdaq autour de -2 %) sur les craintes liées à l'endettement des acteurs de l'IA et à la remontée du pétrole. Les puces européennes se stabilisent sans vrai rebond.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 956,70 pts",
+          "variation": 0.28
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "≈ 6 206 pts (estimé)",
+          "variation": 0.57
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "≈ 7 650 pts (en séance)",
+          "variation": -1.2
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "≈ 26 130 pts (en séance)",
+          "variation": -2.2
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 106 à 109 $ le baril (sources divergentes)",
+          "variation": 3.0
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 4 164 $ l'once",
+          "variation": 0.2
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,125",
+          "variation": 0.29
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Fed : Warsh reste flou",
+          "texte": "Kevin Warsh a réaffirmé que la Fed veillerait à la stabilité des prix sans commenter ses futurs taux. Les marchés donnent environ 85 % de chances à un statu quo à la réunion du 28 octobre."
+        },
+        {
+          "titre": "Inflation en zone euro",
+          "texte": "Eurostat devait confirmer vendredi l'inflation de septembre, estimée à 3,8 %, son plus haut niveau depuis 2023, sous l'effet de l'énergie. Je n'ai pas trouvé le chiffre définitif, il reste à vérifier. La BCE se réunit le 29 octobre."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent reste au-dessus de 100 dollars, avec des tensions au Moyen-Orient sur l'approvisionnement. Les sources donnent entre 106 et 109 dollars selon l'heure, et le pétrole a accéléré en fin de séance."
+        },
+        {
+          "titre": "IA et financement",
+          "texte": "Wall Street recule fortement en séance sur les craintes liées à la dette des entreprises d'infrastructures d'IA, alors qu'Anthropic préparerait une introduction en bourse. Le Nasdaq se dirige vers sa pire semaine depuis juin."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 380.84,
+        "pv": -18.36,
+        "texte": "Ton portefeuille vaut 380,84 € pour 399,20 € investis, soit une moins-value latente de 18,36 €. Faute de clôture fiable du jour, les cours enregistrés restent inchangés : STMicroelectronics s'est stabilisé autour de 41,3 € en séance."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre se stabilise autour de 41,3 € en séance après deux fortes baisses, mais perd plus de 11 % sur la semaine ; résultats attendus le 29 octobre."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "L'action cède environ 0,4 % à 129,30 € en début de séance, sans rebond franc après la chute des puces."
+        },
+        {
+          "nom": "EssilorLuxottica",
+          "texte": "Le titre gagne environ 3,8 % à 154,40 € et figure parmi les plus fortes hausses du CAC 40, après des informations sur l'actionnariat de Delfin."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Legrand",
+          "isin": "FR0010307819",
+          "risque": "Modéré",
+          "prix": "≈ 134 € la part",
+          "texte": "Legrand fabrique des équipements électriques pour les bâtiments, avec une part croissante dans les centres de données. Le titre a reculé d'environ 10 % depuis son plus haut du 6 octobre (148,40 €) dans la tempête sur l'IA, ce qui peut intéresser un investisseur de long terme qui croit à la hausse des besoins en électricité. Il est coté à Paris en euros et éligible au PEA. Le principal risque est un ralentissement des investissements dans l'IA, dont une partie de sa croissance dépend. Résultats des neuf mois le 5 novembre."
+        },
+        {
+          "nom": "Engie",
+          "isin": "FR0010208488",
+          "risque": "Modéré",
+          "prix": "≈ 23 € la part",
+          "texte": "Engie produit et distribue de l'électricité et du gaz, avec beaucoup d'énergies renouvelables. Avec une part à environ 23 €, elle reste accessible à un petit budget, et sa demande en électricité peut profiter des besoins des centres de données. Le titre est plus défensif que les valeurs technologiques, et le groupe a relevé ses objectifs 2026. Le principal risque vient des prix de l'énergie et des taux, car l'entreprise est endettée. Elle est cotée en euros et éligible au PEA."
+        },
+        {
+          "nom": "EssilorLuxottica",
+          "isin": "FR0000121667",
+          "risque": "Élevé",
+          "prix": "≈ 154 € la part",
+          "texte": "Le groupe fabrique des verres et des montures, et développe avec Meta des lunettes connectées à intelligence artificielle. Il figurait parmi les plus fortes hausses du CAC 40 vendredi, avec environ +3,8 % à 154,40 €, après des informations sur l'avenir de son principal actionnaire Delfin. Le titre reste sensible à ces rumeurs d'actionnariat et à la baisse d'objectif de cours de Morgan Stanley (de 225 à 180 €). Il est coté en euros et éligible au PEA."
+        }
+      ],
+      "idee": {
+        "nom": "Legrand",
+        "isin": "FR0010307819",
+        "risque": "Modéré",
+        "prix": "≈ 134 € la part",
+        "texte": "Legrand fabrique des équipements électriques pour les bâtiments, avec une part croissante dans les centres de données. Le titre a reculé d'environ 10 % depuis son plus haut du 6 octobre (148,40 €) dans la tempête sur l'IA, ce qui peut intéresser un investisseur de long terme qui croit à la hausse des besoins en électricité. Il est coté à Paris en euros et éligible au PEA. Le principal risque est un ralentissement des investissements dans l'IA, dont une partie de sa croissance dépend. Résultats des neuf mois le 5 novembre."
+      },
+      "concept": {
+        "terme": "La forward guidance (orientation prospective)",
+        "texte": "La forward guidance, ou orientation prospective, est la communication d'une banque centrale sur ses intentions futures de politique monétaire. En indiquant à l'avance dans quelles conditions elle comptait modifier ses taux, elle aide les marchés, les entreprises et les ménages à anticiper. Elle n'est pas un engagement ferme : la banque centrale peut changer de cap si l'inflation ou l'économie évoluent. Vendredi, le président de la Fed Kevin Warsh a évité toute indication sur les taux, ce flou a calmé la crainte d'une hausse immédiate et soutenu les Bourses européennes.",
+        "references": [
+          {
+            "titre": "BCE : Qu'est-ce que la forward guidance ? ⚠️",
+            "url": "https://www.ecb.europa.eu/ecb/educational/explainers/tell-me/html/what-is-forward_guidance.fr.html"
+          },
+          {
+            "titre": "Investopedia : Forward Guidance ⚠️",
+            "url": "https://www.investopedia.com/terms/f/forwardguidance.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-21",
+          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-22",
+          "titre": "Nexans : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-23",
+          "titre": "Safran : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux ; résultats de STMicroelectronics, Air Liquide et Amundi"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : récap de la semaine du 12 au 16 octobre",
+          "url": "https://www.boursorama.com/bourse/actualites/une-semaine-sur-les-marches-le-recap-du-12-du-16-octobre-095a3f706f2f727c4fd573555a01b9cb"
+        },
+        {
+          "titre": "Boursorama : l'Europe finit dans le vert",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-la-tech-penalise-a-nouveau-le-nasdaq-1ad356e24700da974d7bc6483d201702"
+        },
+        {
+          "titre": "Boursorama : Wall Street sous le poids des inquiétudes sur l'IA",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
+        },
+        {
+          "titre": "BFM Bourse : le CAC 40 gagne près de 2 % sur la semaine",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-kevin-warsh-entretient-le-flou-sur-les-taux-de-la-fed-le-cac-40-grimpe-ce-vendredi-gagnant-pres-de-2-sur-la-semaine-1171927.html"
+        }
+      ]
+    },
+    {
       "date": "2026-10-15",
       "titre": "Le CAC 40 gagne 0,78 % à 7 935 points grâce au luxe, alors que les valeurs liées à l'IA plongent",
       "resume": "Paris a fini en hausse, soutenue par Hermès et L'Oréal (environ +3 %) et par la baisse des rendements obligataires. Les semi-conducteurs ont été balayés par les craintes sur le financement de l'IA et par la chute des valeurs asiatiques, avec Samsung et SK Hynix en net recul. STMicroelectronics a cédé environ 4 % et Soitec près de 8 %.",

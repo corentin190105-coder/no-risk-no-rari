@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-15T21:10:00+02:00",
-    "resume": "Jeudi 15 octobre 2026 : CAC 40 en hausse de 0,78 % à 7 935 points, porté par le luxe malgré la chute des valeurs liées à l'IA. STMicroelectronics (41,32 €, -3,97 %) et Soitec (129,85 €, -7,71 %) ont fortement reculé. Les autres cours restent ceux du 9 octobre faute de clôture fiable trouvée."
+    "date": "2026-10-16T21:15:00+02:00",
+    "resume": "Vendredi 16 octobre 2026 : le CAC 40 termine en hausse de 0,28 % à 7 956,70 points, soit près de 2 % sur la semaine, mais Wall Street chute en séance sur les craintes liées au financement de l'IA. STMicroelectronics et Soitec se stabilisent en séance. Faute de clôture fiable, les cours restent ceux déjà enregistrés."
   },
   "actifs": [
     {
@@ -167,6 +167,11 @@
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
         {
+          "date": "2026-10-16",
+          "titre": "Le Nasdaq décroche d'environ 2 % en séance vendredi, entraîné par les valeurs liées à l'IA et les inquiétudes sur leur endettement",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
+        },
+        {
           "date": "2026-10-12",
           "titre": "Le Nasdaq-100 recule d'environ 0,5 à 0,8 % en séance lundi, pénalisé par les valeurs d'infrastructure IA et les semi-conducteurs",
           "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
@@ -215,6 +220,11 @@
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
         {
+          "date": "2026-10-16",
+          "titre": "Soitec recule d'environ 0,4 % à 129,30 € en début de séance, sans rebond franc après la chute des puces",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-a-l-equilibre-apres-une-semaine-de-soubresauts-9d2208818c0261344a374b89f8f5d555"
+        },
+        {
           "date": "2026-10-15",
           "titre": "Soitec lâche près de 8 % dans le sillage de Séoul et des semi-conducteurs, sans annonce de la société",
           "url": "https://www.zonebourse.com/actualite-bourse/sbf-120-stmicroelectronics-et-soitec-perdent-plus-de-6-dans-le-sillage-de-la-chute-des-valeurs-as-ce785dd3d880f324"
@@ -238,10 +248,6 @@
           "date": "2026-10-08",
           "titre": "Les valeurs des semi-conducteurs reculent après des doutes sur les revenus d'OpenAI et la hausse des taux longs américains",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
-        },
-        {
-          "date": "2026-09-02",
-          "titre": "Soitec relève sa prévision : croissance d'environ 50 % au trimestre clos fin septembre"
         }
       ],
       "isin": "FR0013227113",
@@ -369,6 +375,11 @@
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
         {
+          "date": "2026-10-16",
+          "titre": "Le Nasdaq décroche d'environ 2 % en séance vendredi, entraîné par les valeurs liées à l'IA et les inquiétudes sur leur endettement",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
+        },
+        {
           "date": "2026-10-12",
           "titre": "Le Nasdaq-100 recule d'environ 0,5 à 0,8 % en séance lundi, pénalisé par les valeurs d'infrastructure IA et les semi-conducteurs",
           "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
@@ -449,6 +460,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-10-16",
+          "titre": "STMicroelectronics se stabilise autour de 41,3 € en séance après deux jours de forte baisse ; le titre cède plus de 11 % sur la semaine",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-a-l-equilibre-apres-une-semaine-de-soubresauts-9d2208818c0261344a374b89f8f5d555"
+        },
+        {
           "date": "2026-10-15",
           "titre": "STMicroelectronics recule d'environ 4 % dans la chute mondiale des valeurs liées à l'IA et des puces asiatiques, avec des pertes de plus de 7 % en milieu de séance",
           "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-le-repli-des-valeurs-liees-a-l-ia-l-oreal-et-hermes-soutiennent-le-cac-40-qui-gagne-pres-de-08-1171850.html"
@@ -472,11 +488,6 @@
           "date": "2026-10-08",
           "titre": "Les valeurs des semi-conducteurs reculent après des doutes sur les revenus d'OpenAI et la hausse des taux longs américains",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
-        },
-        {
-          "date": "2026-10-05",
-          "titre": "ST fixe la publication de ses résultats du troisième trimestre au 29 octobre, avant l'ouverture",
-          "url": "https://www.globenewswire.com/news-release/2026/10/05/3374171/0/en/stmicroelectronics-announces-timing-for-third-quarter-2026-earnings-release-and-conference-call.html"
         }
       ],
       "isin": "NL0000226223",
@@ -654,6 +665,11 @@
     },
     {
       "d": "2026-10-15",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-16",
       "valeur": 380.84,
       "investi": 399.2
     }
