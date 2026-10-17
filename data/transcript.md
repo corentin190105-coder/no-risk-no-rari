@@ -93,3 +93,15 @@ La forward guidance, ou orientation prospective, est la communication d'une banq
 - [Investopedia : Forward Guidance ⚠️](https://www.investopedia.com/terms/f/forwardguidance.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que l'effet de levier ?
+
+_2026-10-17 20:59 CEST_
+
+L'effet de levier consiste à engager une position plus grande que la somme dont on dispose vraiment, en général grâce à l'emprunt ou à des produits dérivés. Il amplifie les gains quand le marché va dans le bon sens, mais aussi les pertes quand il va dans le mauvais, et peut même faire perdre plus que la mise de départ. Une entreprise qui s'endette beaucoup pour investir utilise aussi un levier : si ses projets rapportent moins que le coût de sa dette, sa situation se fragilise vite. Vendredi, ce sont justement les craintes sur l'endettement des acteurs de l'IA qui ont fait chuter le Nasdaq en séance.
+
+**Références**
+- [AMF : L'effet de levier](https://www.amf-france.org/fr/effet-de-levier)
+- [Investopedia : Leverage ⚠️](https://www.investopedia.com/terms/l/leverage.asp)
+
+⚠️ Lien Investopedia non vérifiable au moment de la rédaction

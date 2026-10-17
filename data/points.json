@@ -1,6 +1,162 @@
 {
   "points": [
     {
+      "date": "2026-10-17",
+      "titre": "Samedi sans séance : la semaine se termine sur un CAC 40 en hausse de près de 2 % mais une Wall Street secouée par l'IA",
+      "resume": "Les marchés sont fermés ce samedi. Vendredi, Paris a gagné 0,28 % à 7 956,70 points et près de 2 % sur la semaine, alors que le Nasdaq plongeait en séance sur les craintes liées à la dette des acteurs de l'IA. La semaine prochaine démarre la saison des résultats avec Thales, avant la Fed et la BCE du 28 et 29 octobre.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 956,70 pts (clôture de vendredi)",
+          "variation": 0.28
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "≈ 6 206 pts (estimé, vendredi)",
+          "variation": 0.57
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "≈ 7 650 pts (en séance vendredi)",
+          "variation": -1.2
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "≈ 26 130 pts (en séance vendredi)",
+          "variation": -2.2
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 106 à 109 $ le baril (vendredi)",
+          "variation": 3.0
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 4 164 $ l'once (vendredi)",
+          "variation": 0.2
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,125 (vendredi)",
+          "variation": 0.29
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Banques centrales : statu quo attendu",
+          "texte": "Le marché donne environ 85 % de chances à un maintien des taux de la Fed le 28 octobre, après des propos jugés neutres de son président Kevin Warsh. La BCE se réunit le lendemain avec un taux de dépôt à 2,50 %."
+        },
+        {
+          "titre": "Inflation élevée",
+          "texte": "L'inflation de la zone euro est autour de 3,8 % en septembre, son plus haut niveau depuis 2023, et celle des États-Unis à 3,7 %, surtout à cause de l'énergie. Cela limite la marge de manoeuvre des banques centrales."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent reste au-dessus de 100 dollars avec les tensions au Moyen-Orient. Les sources divergent sur le niveau exact de vendredi."
+        },
+        {
+          "titre": "IA et endettement",
+          "texte": "Le secteur de l'IA est financé en partie par de la dette, ce qui inquiète les investisseurs et pèse sur le Nasdaq et les puces. Les résultats d'entreprises de la semaine prochaine serviront de test."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 380.84,
+        "pv": -18.36,
+        "texte": "Ton portefeuille vaut 380.84 € pour 399.20 € investis, soit une moins-value latente de 18.36 €. Les marchés étant fermés, les cours sont ceux déjà enregistrés."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre s'est stabilisé vers 41,3 € vendredi après deux jours de forte baisse, mais perd plus de 11 % sur la semaine ; résultats attendus le 29 octobre."
+        },
+        {
+          "nom": "Thales",
+          "texte": "Le groupe publie ses commandes et son chiffre d'affaires du troisième trimestre le 21 octobre, premier test du rythme de la défense après un très bon premier semestre."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Veolia",
+          "isin": "FR0000124141",
+          "risque": "Modéré",
+          "prix": "≈ 30 € la part (à vérifier)",
+          "texte": "Veolia gère l'eau, les déchets et l'énergie pour les villes et les industriels, des services dont la demande reste stable même quand la Bourse tremble. Le groupe profite aussi des besoins en eau et en refroidissement des centres de données, un lien indirect avec la vague de l'IA. Il est coté à Paris en euros et éligible au PEA. Le principal risque est son niveau d'endettement, qui pèse si les taux restent élevés comme en ce moment."
+        },
+        {
+          "nom": "Dassault Systèmes",
+          "isin": "FR0014003TT8",
+          "risque": "Élevé",
+          "prix": "cours à vérifier avant tout achat",
+          "texte": "Dassault Systèmes édite des logiciels de conception et de simulation (jumeaux numériques) utilisés par l'industrie, l'aéronautique et la santé, et y intègre de l'IA. La baisse des valeurs technologiques de la semaine peut offrir un point d'entrée à qui croit au thème sur le long terme. Il est coté à Paris en euros et éligible au PEA. Le principal risque est une valorisation élevée, qui rend l'action sensible à la hausse des taux et aux déceptions de croissance."
+        },
+        {
+          "nom": "Rheinmetall",
+          "isin": "DE0007030009",
+          "risque": "Très élevé",
+          "prix": "≈ 1 150 € la part (dernier cours trouvé, fin août)",
+          "texte": "Rheinmetall est le grand industriel allemand de l'armement, bénéficiaire du réarmement européen, avec un carnet de commandes très rempli. Son action a pourtant perdu plus de la moitié de sa valeur depuis son pic, après l'annulation de la commande de frégates F126 et la révision de ses prévisions. Elle est cotée en euros et éligible au PEA, mais la part est très chère pour un petit budget. Le principal risque est politique : les commandes dépendent des budgets de défense des États."
+        }
+      ],
+      "idee": {
+        "nom": "Veolia",
+        "isin": "FR0000124141",
+        "risque": "Modéré",
+        "prix": "≈ 30 € la part (à vérifier)",
+        "texte": "Veolia gère l'eau, les déchets et l'énergie pour les villes et les industriels, des services dont la demande reste stable même quand la Bourse tremble. Le groupe profite aussi des besoins en eau et en refroidissement des centres de données, un lien indirect avec la vague de l'IA. Il est coté à Paris en euros et éligible au PEA. Le principal risque est son niveau d'endettement, qui pèse si les taux restent élevés comme en ce moment."
+      },
+      "concept": {
+        "terme": "L'effet de levier",
+        "texte": "L'effet de levier consiste à engager une position plus grande que la somme dont on dispose vraiment, en général grâce à l'emprunt ou à des produits dérivés. Il amplifie les gains quand le marché va dans le bon sens, mais aussi les pertes quand il va dans le mauvais, et peut même faire perdre plus que la mise de départ. Une entreprise qui s'endette beaucoup pour investir utilise aussi un levier : si ses projets rapportent moins que le coût de sa dette, sa situation se fragilise vite. Vendredi, ce sont justement les craintes sur l'endettement des acteurs de l'IA qui ont fait chuter le Nasdaq en séance.",
+        "references": [
+          {
+            "titre": "AMF : L'effet de levier",
+            "url": "https://www.amf-france.org/fr/effet-de-levier"
+          },
+          {
+            "titre": "Investopedia : Leverage ⚠️",
+            "url": "https://www.investopedia.com/terms/l/leverage.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-21",
+          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-22",
+          "titre": "Nexans : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-23",
+          "titre": "Safran : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux ; résultats de STMicroelectronics, Air Liquide et Amundi"
+        },
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : récap de la semaine du 12 au 16 octobre",
+          "url": "https://www.boursorama.com/bourse/actualites/une-semaine-sur-les-marches-le-recap-du-12-du-16-octobre-095a3f706f2f727c4fd573555a01b9cb"
+        },
+        {
+          "titre": "AMF : L'effet de levier",
+          "url": "https://www.amf-france.org/fr/effet-de-levier"
+        }
+      ]
+    },
+    {
       "date": "2026-10-16",
       "titre": "Le CAC 40 gagne 0,28 % à 7 956,70 points et près de 2 % sur la semaine, mais Wall Street décroche sur l'IA",
       "resume": "Paris a fini en légère hausse, rassurée par l'absence de signal de hausse de taux dans les propos du président de la Fed, Kevin Warsh. Wall Street, elle, plonge en séance (Nasdaq autour de -2 %) sur les craintes liées à l'endettement des acteurs de l'IA et à la remontée du pétrole. Les puces européennes se stabilisent sans vrai rebond.",
