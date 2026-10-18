@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-17T21:05:00+02:00",
-    "resume": "Samedi 17 octobre 2026 : les Bourses sont fermées, la dernière séance est celle de vendredi 16 octobre (CAC 40 en hausse de 0,28 % à 7 956,70 points, Wall Street en forte baisse en séance sur les craintes liées au financement de l'IA). Faute de clôture fiable trouvée pour tes valeurs, les cours restent ceux déjà enregistrés. La semaine prochaine : résultats de Thales (21 octobre), puis Fed et BCE les 28 et 29 octobre."
+    "date": "2026-10-18T21:10:00+02:00",
+    "resume": "Dimanche 18 octobre 2026 : les Bourses sont fermées. Vendredi, Paris a fini à 7 956,70 points (+0,28 %), tandis que Wall Street a chuté (S&P 500 à 7 649,71 points, -1,22 %) sur les craintes liées à la dette de l'IA, avec un Brent à près de 110 dollars. Faute de nouvelle clôture fiable pour tes valeurs, les cours restent ceux déjà enregistrés. À suivre cette semaine : Thales (21 octobre), Valeo (22 octobre), puis Fed et BCE les 28 et 29 octobre."
   },
   "actifs": [
     {
@@ -675,6 +675,11 @@
     },
     {
       "d": "2026-10-17",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-18",
       "valeur": 380.84,
       "investi": 399.2
     }

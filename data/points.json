@@ -1,6 +1,158 @@
 {
   "points": [
     {
+      "date": "2026-10-18",
+      "titre": "Dimanche sans séance : Wall Street a chuté vendredi sur l'IA et le Brent frôle 110 dollars",
+      "resume": "Les marchés sont fermés ce dimanche. Vendredi, le CAC 40 a fini en légère hausse à 7 956,70 points, mais le S&P 500 a perdu 1,22 % et le Nasdaq a reculé de plus de 4 % sur la semaine, par peur d'un excès de dette dans l'IA. Le pétrole, lui, est monté près de 110 dollars, et la semaine commence avec les résultats de Thales.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 956,70 pts (clôture de vendredi)",
+          "variation": 0.28
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "≈ 6 206 pts (estimé, vendredi)",
+          "variation": 0.57
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "7 649,71 pts (vendredi)",
+          "variation": -1.22
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "≈ 26 130 pts (vendredi, estimé)",
+          "variation": -2.2
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 109,9 $ le baril (vendredi)",
+          "variation": 3.7
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 4 164 $ l'once (vendredi)",
+          "variation": 0.2
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,125 (vendredi)",
+          "variation": 0.29
+        }
+      ],
+      "macro": [
+        {
+          "titre": "IA et dette",
+          "texte": "Les investisseurs s'inquiètent du financement des infrastructures d'IA par l'emprunt. Le Nasdaq a perdu plus de 4 % sur la semaine, et la saison des résultats de Tesla et Meta servira de test."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent a gagné environ 3,7 % vendredi pour approcher 110 dollars, son plus haut depuis mai, car les tensions au Moyen-Orient font craindre une offre plus rare."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "La Fed décide le 28 octobre et la BCE le 29, avec un statu quo attendu pour la Fed. Le taux de dépôt de la BCE est à 2,50 %."
+        },
+        {
+          "titre": "Inflation",
+          "texte": "L'inflation reste élevée : 3,8 % dans la zone euro et 3,7 % aux États-Unis en septembre, surtout à cause de l'énergie. Un pétrole plus cher complique la tâche des banques centrales."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 380.84,
+        "pv": -18.36,
+        "texte": "Ton portefeuille vaut 380.84 € pour 399.20 € investis, soit une moins-value latente de 18.36 €. Les marchés étant fermés, les cours sont ceux déjà enregistrés."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre reste fragile après sa baisse de la semaine, dans un secteur des puces pénalisé par les craintes sur l'IA ; résultats attendus le 29 octobre."
+        },
+        {
+          "nom": "Thales",
+          "texte": "Le groupe publie ses commandes et son chiffre d'affaires du troisième trimestre le 21 octobre, premier test pour la défense."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Schneider Electric",
+          "isin": "FR0000121972",
+          "risque": "Modéré",
+          "prix": "cours à vérifier avant tout achat (part chère pour un petit budget)",
+          "texte": "Schneider Electric fabrique les équipements électriques et les logiciels de gestion d'énergie dont les centres de données et les usines ont besoin. Quand les inquiétudes sur l'IA secouent les valeurs technologiques, ce fournisseur de « pelles et pioches » de la révolution numérique est un moyen plus prudent d'y participer. Il est coté à Paris en euros et éligible au PEA. Le principal risque est un ralentissement des investissements dans les centres de données, que certains analystes anticipent pour 2027 et 2028."
+        },
+        {
+          "nom": "Valeo",
+          "isin": "FR0013176526",
+          "risque": "Élevé",
+          "prix": "≈ 15,7 € la part (cours du 7 octobre)",
+          "texte": "Valeo est un équipementier automobile qui fournit de l'électrification, des capteurs et des systèmes d'aide à la conduite. Le titre a franchi une résistance technique début octobre et le groupe a confirmé ses objectifs annuels, avec une publication d'activité le 22 octobre. La part est abordable pour un petit budget, cotée en euros et éligible au PEA. Le principal risque est la sensibilité du secteur automobile à la conjoncture et au coût de l'énergie."
+        },
+        {
+          "nom": "Vallourec",
+          "isin": "FR0013506730",
+          "risque": "Très élevé",
+          "prix": "≈ 19 € la part (dernier cours trouvé, début août)",
+          "texte": "Vallourec produit des tubes en acier pour l'extraction de pétrole et de gaz, un métier qui profite quand le Brent reste très haut, près de 110 dollars vendredi. Le titre est coté en euros et éligible au PEA, avec une part accessible. Le principal risque est le cycle pétrolier : une détente géopolitique ferait baisser le baril et les commandes. Les résultats du troisième trimestre sont attendus le 20 novembre."
+        }
+      ],
+      "idee": {
+        "nom": "Schneider Electric",
+        "isin": "FR0000121972",
+        "risque": "Modéré",
+        "prix": "cours à vérifier avant tout achat (part chère pour un petit budget)",
+        "texte": "Schneider Electric fabrique les équipements électriques et les logiciels de gestion d'énergie dont les centres de données et les usines ont besoin. Quand les inquiétudes sur l'IA secouent les valeurs technologiques, ce fournisseur de « pelles et pioches » de la révolution numérique est un moyen plus prudent d'y participer. Il est coté à Paris en euros et éligible au PEA. Le principal risque est un ralentissement des investissements dans les centres de données, que certains analystes anticipent pour 2027 et 2028."
+      },
+      "concept": {
+        "terme": "La volatilité",
+        "texte": "La volatilité mesure l'ampleur des variations du prix d'un actif sur une période donnée. Plus elle est élevée, plus le cours monte et descend fortement, ce qui signifie un risque plus grand à court terme, dans les deux sens. Elle ne dit pas si le prix va monter ou baisser, seulement à quel point il bouge. Cette semaine, la chute du Nasdaq en pleine séance vendredi est un exemple de forte volatilité, alors que l'indice avait battu des records quelques jours plus tôt. Un horizon long permet d'en atténuer l'effet.",
+        "references": [
+          {
+            "titre": "Investopedia : Volatility ⚠️",
+            "url": "https://www.investopedia.com/terms/v/volatility.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-21",
+          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-22",
+          "titre": "Valeo, Nexans : activité du 3e trimestre"
+        },
+        {
+          "date": "2026-10-23",
+          "titre": "Safran : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux ; résultats de STMicroelectronics, Air Liquide et Amundi"
+        },
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : Wall Street s'effondre sous le poids des inquiétudes liées à l'IA et au pétrole",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
+        },
+        {
+          "titre": "Zonebourse : le pétrole soutient la Bourse saoudienne",
+          "url": "https://www.zonebourse.com/actualite-bourse/le-petrole-soutient-la-bourse-saoudienne-la-egypte-chute-sur-fond-de-tensions-regionales-ce785cdad18af32d"
+        }
+      ]
+    },
+    {
       "date": "2026-10-17",
       "titre": "Samedi sans séance : la semaine se termine sur un CAC 40 en hausse de près de 2 % mais une Wall Street secouée par l'IA",
       "resume": "Les marchés sont fermés ce samedi. Vendredi, Paris a gagné 0,28 % à 7 956,70 points et près de 2 % sur la semaine, alors que le Nasdaq plongeait en séance sur les craintes liées à la dette des acteurs de l'IA. La semaine prochaine démarre la saison des résultats avec Thales, avant la Fed et la BCE du 28 et 29 octobre.",

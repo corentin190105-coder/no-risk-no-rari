@@ -105,3 +105,14 @@ L'effet de levier consiste à engager une position plus grande que la somme dont
 - [Investopedia : Leverage ⚠️](https://www.investopedia.com/terms/l/leverage.asp)
 
 ⚠️ Lien Investopedia non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que la volatilité ?
+
+_2026-10-18 21:10 CEST_
+
+La volatilité mesure l'ampleur des variations du prix d'un actif sur une période donnée. Plus elle est élevée, plus le cours monte et descend fortement, ce qui signifie un risque plus grand à court terme, dans les deux sens. Elle ne dit pas si le prix va monter ou baisser, seulement à quel point il bouge. Cette semaine, la chute du Nasdaq en pleine séance vendredi est un exemple de forte volatilité, alors que l'indice avait battu des records quelques jours plus tôt. Un horizon long permet d'en atténuer l'effet.
+
+**Références**
+- [Investopedia : Volatility ⚠️](https://www.investopedia.com/terms/v/volatility.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction
