@@ -119,7 +119,7 @@ La volatilité mesure l'ampleur des variations du prix d'un actif sur une pério
 
 ## Q: Qu'est-ce que le spread OAT/Bund ?
 
-_
+_2026-10-19 21:00 CEST_
 
 Le spread OAT/Bund est l'écart entre le taux d'emprunt à dix ans de la France (l'OAT) et celui de l'Allemagne (le Bund), exprimé en points de base (100 points de base = 1 point de pourcentage). L'Allemagne sert de référence jugée très sûre : plus l'écart grandit, plus les investisseurs demandent une prime pour prêter à la France, signe de méfiance sur sa dette ou sa situation politique. Un spread élevé renchérit le coût de l'emprunt de l'État et pèse souvent sur les banques, qui détiennent beaucoup de dette publique. Lundi, il s'est élargi à environ 147 points de base après le week-end de violences en France, et les banques françaises ont fortement reculé.
 
