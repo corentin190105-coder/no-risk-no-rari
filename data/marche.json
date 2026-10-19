@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-18T21:10:00+02:00",
-    "resume": "Dimanche 18 octobre 2026 : les Bourses sont fermées. Vendredi, Paris a fini à 7 956,70 points (+0,28 %), tandis que Wall Street a chuté (S&P 500 à 7 649,71 points, -1,22 %) sur les craintes liées à la dette de l'IA, avec un Brent à près de 110 dollars. Faute de nouvelle clôture fiable pour tes valeurs, les cours restent ceux déjà enregistrés. À suivre cette semaine : Thales (21 octobre), Valeo (22 octobre), puis Fed et BCE les 28 et 29 octobre."
+    "date": "2026-10-19T21:30:00+02:00",
+    "resume": "Lundi 19 octobre 2026 : Paris a reculé de 1,11 % à 7 868,05 points après le week-end de violences en France, avec les banques en tête des baisses et un écart de taux avec l'Allemagne élargi. Wall Street rebondissait en séance grâce aux valeurs de l'IA. Faute de clôture fiable pour tes valeurs, leurs cours restent ceux déjà enregistrés, sauf Thales (229,50 €). À suivre : Thales demain (21 octobre), Valeo le 22, puis Fed et BCE les 28 et 29 octobre."
   },
   "actifs": [
     {
@@ -83,6 +83,11 @@
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
       "actus": [
         {
+          "date": "2026-10-19",
+          "titre": "Thales recule de près de 2 % à 229,5 € la veille de ses commandes du troisième trimestre",
+          "url": "https://www.abcbourse.com/cotation/HOp"
+        },
+        {
           "date": "2026-10-03",
           "titre": "L'Irlande commande des radars Ground Master à Thales via un accord d'État à État signé avec la DGA, livraisons de 2027 à fin 2028",
           "url": "https://media24.fr/2026/10/03/la-france-joue-les-intermediaires-pour-vendre-ce-bijou-capable-de-detecter-un-avion-a-515-km-a-un-pays-theoriquement-neutre-lirlande"
@@ -116,11 +121,15 @@
         {
           "d": "2026-10-09",
           "p": 218.3
+        },
+        {
+          "d": "2026-10-19",
+          "p": 229.5
         }
       ],
-      "prix": 218.3,
-      "prixDate": "2026-10-09",
-      "variationJour": 1.21
+      "prix": 229.5,
+      "prixDate": "2026-10-19",
+      "variationJour": -1.92
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -680,6 +689,11 @@
     },
     {
       "d": "2026-10-18",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-19",
       "valeur": 380.84,
       "investi": 399.2
     }
