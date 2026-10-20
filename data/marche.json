@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-19T21:30:00+02:00",
-    "resume": "Lundi 19 octobre 2026 : Paris a reculé de 1,11 % à 7 868,05 points après le week-end de violences en France, avec les banques en tête des baisses et un écart de taux avec l'Allemagne élargi. Wall Street rebondissait en séance grâce aux valeurs de l'IA. Faute de clôture fiable pour tes valeurs, leurs cours restent ceux déjà enregistrés, sauf Thales (229,50 €). À suivre : Thales demain (21 octobre), Valeo le 22, puis Fed et BCE les 28 et 29 octobre."
+    "date": "2026-10-20T21:30:00+02:00",
+    "resume": "Mardi 20 octobre 2026 : le CAC 40 a clôturé à 7 838,49 points (-0,38 %) après avoir cédé plus de 1 % en début d'après-midi, toujours pénalisé par la dette française (écart avec l'Allemagne à environ 153 points de base). Soitec a clôturé à 123,65 € (-3,74 %). Faute de clôture fiable pour tes autres valeurs, leurs cours restent ceux déjà enregistrés. À suivre : Thales demain (21 octobre), puis Fed et BCE les 28 et 29 octobre."
   },
   "actifs": [
     {
@@ -303,11 +303,15 @@
         {
           "d": "2026-10-15",
           "p": 129.85
+        },
+        {
+          "d": "2026-10-20",
+          "p": 123.65
         }
       ],
-      "prix": 129.85,
-      "prixDate": "2026-10-15",
-      "variationJour": -7.71
+      "prix": 123.65,
+      "prixDate": "2026-10-20",
+      "variationJour": -3.74
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -694,6 +698,11 @@
     },
     {
       "d": "2026-10-19",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-20",
       "valeur": 380.84,
       "investi": 399.2
     }

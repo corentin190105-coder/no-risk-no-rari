@@ -1,6 +1,174 @@
 {
   "points": [
     {
+      "date": "2026-10-20",
+      "titre": "Paris limite la casse (-0,4 %) malgré une dette française sous tension record depuis 2011",
+      "resume": "Le CAC 40 a clôturé à 7 838,49 points (-0,38 %) après avoir perdu plus de 1 % en début d'après-midi. L'écart de taux avec l'Allemagne est monté à environ 153 points de base, un plus haut depuis 2011 selon la presse financière. À Wall Street, le Dow Jones et le S&P 500 progressaient en séance alors que le Brent restait proche de 110 dollars.",
+      "humeur": "baisse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 838,49 pts",
+          "variation": -0.38
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "en hausse en séance (clôture non confirmée)",
+          "variation": 0.4
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "en légère hausse en séance (clôture non confirmée)",
+          "variation": 0.2
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 111 $ le baril (en séance)",
+          "variation": 1.7
+        },
+        {
+          "nom": "Or",
+          "valeur": "non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,121 $",
+          "variation": -0.03
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Dette française",
+          "texte": "Le taux français à dix ans a frôlé 5 % avant de revenir vers 4,92 %, et l'écart avec l'Allemagne atteint environ 153 points de base. Les investisseurs demandent une prime élevée pour détenir de la dette française, ce qui pèse sur les banques."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent est reparti à la hausse vers 111 dollars, près de son plus haut de cinq mois, dans un contexte de tensions au Moyen-Orient. Il alimente l'inflation, déjà à 3,8 % dans la zone euro."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "La Fed décide le 28 octobre et la BCE le 29. Avec une inflation élevée des deux côtés de l'Atlantique, leur marge de manoeuvre est étroite."
+        },
+        {
+          "titre": "IA et résultats américains",
+          "texte": "La saison des résultats d'entreprises américaines démarre, et les valeurs de l'IA, très secouées la semaine dernière, restent surveillées de près par les marchés."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 380.84,
+        "pv": -18.36,
+        "texte": "Ton portefeuille vaut 380,84 € pour 399,20 € investis, soit une moins-value latente de 18,36 €. Faute de clôture fiable ce soir pour tes lignes, les cours sont ceux déjà enregistrés."
+      },
+      "valeurs": [
+        {
+          "nom": "Thales",
+          "texte": "Le titre évoluait autour de 229 à 231 € en séance, avant la publication demain de ses commandes et de son chiffre d'affaires du troisième trimestre. Le groupe prépare aussi le rachat d'Exail Technologies à 134 € par action, une opération attendue d'ici fin 2027."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "L'action a clôturé à 123,65 € (-3,74 %), la plus forte baisse du jour parmi les valeurs suivies, dans un secteur des semi-conducteurs encore nerveux."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre a perdu environ 3 % en matinée (près de 40 €) avant de réduire sa baisse ; résultats le 29 octobre."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "TotalEnergies",
+          "isin": "FR0000120271",
+          "risque": "Modéré",
+          "prix": "≈ 70 à 76 € la part (derniers cours confirmés en juillet, à revérifier)",
+          "texte": "Avec un Brent autour de 110 dollars, le pétrolier engrange des marges élevées : au deuxième trimestre, son bénéfice net ajusté a bondi d'environ 68 % sur un an et son dividende a été relevé. C'est une valeur de grande taille, cotée à Paris en euros et éligible au PEA, qui verse un dividende régulier. Le principal risque est un retournement du pétrole en cas d'accord au Moyen-Orient, qui ferait fondre ces marges d'un coup."
+        },
+        {
+          "nom": "Technip Energies",
+          "isin": "NL0014559478",
+          "risque": "Élevé",
+          "prix": "≈ 30 € la part (cours du début août, à revérifier)",
+          "texte": "Ce groupe d'ingénierie construit des usines de gaz naturel liquéfié et de transition énergétique, des projets que la hausse de l'énergie remet au premier plan. Le titre a reculé depuis janvier après une dégradation d'un analyste en août, ce qui peut offrir un point d'entrée, et ses résultats des neuf premiers mois tombent le 29 octobre. Il est coté à Paris en euros et éligible au PEA. Le risque principal est le report ou l'annulation de gros chantiers, qui pèse vite sur les résultats."
+        },
+        {
+          "nom": "BNP Paribas Easy Bloomberg Europe Defense UCITS ETF",
+          "isin": "LU3047998896",
+          "risque": "Élevé",
+          "prix": "≈ 11 € la part (valeur de juillet, à revérifier)",
+          "texte": "Cet ETF regroupe une trentaine d'entreprises européennes de défense, un thème porté par la hausse des budgets militaires, et sa part à environ 11 € convient à un petit budget. Plusieurs sources l'indiquent éligible au PEA, mais elles ne sont pas toutes d'accord : vérifie-le sur Trade Republic avant tout achat. Il est déjà diversifié, mais il reste concentré sur un seul secteur, très sensible aux annonces politiques et aux prises de bénéfices après de fortes hausses."
+        }
+      ],
+      "idee": {
+        "nom": "TotalEnergies",
+        "isin": "FR0000120271",
+        "risque": "Modéré",
+        "prix": "≈ 70 à 76 € la part (derniers cours confirmés en juillet, à revérifier)",
+        "texte": "Avec un Brent autour de 110 dollars, le pétrolier engrange des marges élevées : au deuxième trimestre, son bénéfice net ajusté a bondi d'environ 68 % sur un an et son dividende a été relevé. C'est une valeur de grande taille, cotée à Paris en euros et éligible au PEA, qui verse un dividende régulier. Le principal risque est un retournement du pétrole en cas d'accord au Moyen-Orient, qui ferait fondre ces marges d'un coup."
+      },
+      "concept": {
+        "terme": "L'OPA (offre publique d'achat)",
+        "texte": "Une OPA est une proposition faite publiquement par une entreprise ou un investisseur pour racheter les actions d'une société cotée, à un prix fixé à l'avance et en général supérieur au cours de Bourse. L'objectif est de prendre le contrôle de la société visée. Le régulateur, l'AMF en France, encadre la procédure pour que tous les actionnaires soient traités de la même façon. L'offre peut être amicale si la direction de la cible l'approuve, ou hostile dans le cas contraire. Actuellement, Thales a annoncé une offre sur Exail Technologies à 134 € par action, ce qui illustre bien le mécanisme.",
+        "references": [
+          {
+            "titre": "AMF : Comprendre les offres publiques d'acquisition (OPA, OPE, etc.) ⚠️",
+            "url": "https://www.amf-france.org/sites/institutionnel/files/pdf/56050/fr/Comprendre_les_offres_publiques_d%27acquisition__OPA%2C_OPE%2C_etc_.pdf"
+          },
+          {
+            "titre": "Investopedia : Tender Offer ⚠️",
+            "url": "https://www.investopedia.com/terms/t/tenderoffer.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-21",
+          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-22",
+          "titre": "Nexans : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-23",
+          "titre": "Safran : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux ; résultats de STMicroelectronics et d'Amundi ; chiffre d'affaires d'Air Liquide"
+        },
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "BFM Bourse : le CAC 40 limite la casse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-dette-francaise-reste-sous-tension-mais-le-cac-40-parvient-a-limiter-la-casse-1172096.html"
+        },
+        {
+          "titre": "Zonebourse : la Bourse de Paris finit dans le rouge",
+          "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-finit-dans-le-rouge-le-climat-social-reste-tendu-en-france-ce785cd8da81f52c"
+        },
+        {
+          "titre": "Zonebourse : Wall Street résiste",
+          "url": "https://www.zonebourse.com/actualite-bourse/wall-street-resiste-malgre-la-persistance-de-multiples-facteurs-de-pression-ce785cd8da8af22d"
+        },
+        {
+          "titre": "Boursorama : la Bourse de Paris recule, dette française",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-recule-les-inquietudes-sur-la-dette-francaise-persistent-69c20327fcf942b8a7e0dd0e9445c0af"
+        }
+      ]
+    },
+    {
       "date": "2026-10-19",
       "titre": "Paris chute de 1,1 % après le week-end de violences en France, pendant que l'IA rebondit à Wall Street",
       "resume": "Le CAC 40 a perdu 1,11 % à 7 868,05 points, les banques françaises étant les plus touchées (Société Générale -3,4 %, BNP Paribas -2,5 %) alors que l'écart de taux avec l'Allemagne s'élargissait. À Wall Street, les valeurs de l'IA rebondissaient en séance après une semaine difficile. Le Brent reculait vers 108 dollars.",

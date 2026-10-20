@@ -128,3 +128,15 @@ Le spread OAT/Bund est l'écart entre le taux d'emprunt à dix ans de la France 
 - [Idéal Investisseur : Spread OAT/Bund ⚠️](https://www.ideal-investisseur.fr/marches/macro/spread-oat-bund.html)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que l'OPA (offre publique d'achat) ?
+
+_2026-10-20 21:05 CEST_
+
+Une OPA est une proposition faite publiquement par une entreprise ou un investisseur pour racheter les actions d'une société cotée, à un prix fixé à l'avance et en général supérieur au cours de Bourse. L'objectif est de prendre le contrôle de la société visée. Le régulateur, l'AMF en France, encadre la procédure pour que tous les actionnaires soient traités de la même façon. L'offre peut être amicale si la direction de la cible l'approuve, ou hostile dans le cas contraire. Actuellement, Thales a annoncé une offre sur Exail Technologies à 134 € par action, ce qui illustre bien le mécanisme.
+
+**Références**
+- [AMF : Comprendre les offres publiques d'acquisition (OPA, OPE, etc.) ⚠️](https://www.amf-france.org/sites/institutionnel/files/pdf/56050/fr/Comprendre_les_offres_publiques_d%27acquisition__OPA%2C_OPE%2C_etc_.pdf)
+- [Investopedia : Tender Offer ⚠️](https://www.investopedia.com/terms/t/tenderoffer.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction
