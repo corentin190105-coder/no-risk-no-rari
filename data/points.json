@@ -1,6 +1,174 @@
 {
   "points": [
     {
+      "date": "2026-10-21",
+      "titre": "Paris rebondit de 1,06 % malgré un taux français à dix ans repassé au-dessus de 5 %",
+      "resume": "Le CAC 40 a gagné 1,06 % pour finir à 7 921,68 points, porté par une série de résultats d'entreprises et par le retour de la technologie à Wall Street. Le taux d'emprunt de la France à dix ans a toutefois dépassé 5 %. Le Brent a reculé vers 108 dollars.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 921,68 pts",
+          "variation": 1.06
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "en hausse en séance (clôture non confirmée)",
+          "variation": 0.3
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "Nasdaq 100 en hausse en séance (clôture non confirmée)",
+          "variation": 1.0
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 108,5 $ le baril (en séance)",
+          "variation": -2.3
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 4 128 $ l'once (en séance)",
+          "variation": 0.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "non confirmé ce soir",
+          "variation": 0.0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Dette française",
+          "texte": "Le taux à dix ans de la France est repassé au-dessus de 5 %, un niveau qui renchérit le coût de la dette de l'État. Les investisseurs demandent une prime élevée pour prêter à Paris, ce qui reste un point de fragilité pour les banques françaises."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent est revenu vers 108 dollars après avoir approché 111 dollars la veille, mais il reste très élevé dans un contexte de tensions au Moyen-Orient. Il continue d'alimenter l'inflation, à 3,8 % dans la zone euro."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "La Fed décide le 28 octobre et la BCE le 29. Avec une inflation élevée des deux côtés de l'Atlantique, les marchés scrutent chaque indice pour deviner la suite des taux."
+        },
+        {
+          "titre": "IA et technologie",
+          "texte": "Les valeurs technologiques et les puces ont rebondi à Wall Street, soutenues par l'essor du calcul pour l'IA lié à SpaceX. Ce mouvement a aussi aidé les semi-conducteurs européens."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 380.84,
+        "pv": -18.36,
+        "texte": "Ton portefeuille vaut 380,84 € pour 399,20 € investis, soit une moins-value latente de 18,36 €. Faute de clôture fiable ce soir pour tes lignes, les cours sont ceux déjà enregistrés."
+      },
+      "valeurs": [
+        {
+          "nom": "Thales",
+          "texte": "La DGA a commandé quatre sections supplémentaires du système sol-air SAMP/T NG auprès d'Eurosam (Thales et MBDA), et le titre gagnait environ 1 % en séance. Je n'ai pas pu confirmer la publication de ses commandes du troisième trimestre, prévue aujourd'hui."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre progressait d'environ 1,2 % à 1,4 % vers 41,5 € en cours de séance, dans le rebond des puces ; résultats le 29 octobre."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "L'action rebondissait d'environ 3 % en séance après avoir perdu 3,74 % la veille, dans le même mouvement des semi-conducteurs."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Aixtron",
+          "isin": "DE000A0WMPJ6",
+          "risque": "Élevé",
+          "prix": "≈ 33 à 44 € la part (cours à vérifier)",
+          "texte": "Aixtron fabrique les machines qui déposent les couches ultrafines nécessaires aux puces de puissance, aux LED et aux composants optiques, des briques de l'IA et de l'électrification. Le secteur des semi-conducteurs rebondit aujourd'hui avec la technologie, et l'entreprise publie son chiffre d'affaires des neuf mois le 29 octobre. L'action est cotée en euros et éligible au PEA. Le principal risque est la forte cyclicité des commandes : le titre a perdu près de 28 % en un mois cet été."
+        },
+        {
+          "nom": "Orange",
+          "isin": "FR0000133308",
+          "risque": "Modéré",
+          "prix": "≈ 15 à 17 € la part (cours à vérifier)",
+          "texte": "Orange exploite les réseaux télécoms dont dépendent le cloud et l'IA, et a relevé ses objectifs annuels fin juillet avec un flux de trésorerie attendu d'environ 4,3 milliards d'euros. Dans un marché agité par la hausse des taux, un groupe aux revenus récurrents peut servir de valeur plus stable. La part est abordable pour un petit budget. Le principal risque est un endettement important, sensible aux taux élevés, et une concurrence vive sur les prix."
+        },
+        {
+          "nom": "Exail Technologies",
+          "isin": "FR0000062671",
+          "risque": "Élevé",
+          "prix": "≈ 126 à 134 € la part (cours à vérifier)",
+          "texte": "Exail conçoit des drones navals et des systèmes de navigation, au coeur du thème défense. Thales a signé un accord pour la racheter à 134 € par action, soit 3,9 milliards d'euros, et le cours reste proche de ce prix. C'est une illustration concrète d'une offre publique d'achat. Le principal risque tient aux délais : la clôture est attendue entre 2027 et début 2028, et un accroc réglementaire ou politique ferait chuter le titre, avec un gain potentiel limité par le prix d'offre."
+        }
+      ],
+      "idee": {
+        "nom": "Aixtron",
+        "isin": "DE000A0WMPJ6",
+        "risque": "Élevé",
+        "prix": "≈ 33 à 44 € la part (cours à vérifier)",
+        "texte": "Aixtron fabrique les machines qui déposent les couches ultrafines nécessaires aux puces de puissance, aux LED et aux composants optiques, des briques de l'IA et de l'électrification. Le secteur des semi-conducteurs rebondit aujourd'hui avec la technologie, et l'entreprise publie son chiffre d'affaires des neuf mois le 29 octobre. L'action est cotée en euros et éligible au PEA. Le principal risque est la forte cyclicité des commandes : le titre a perdu près de 28 % en un mois cet été."
+      },
+      "concept": {
+        "terme": "Le rendement obligataire (taux à dix ans)",
+        "texte": "Le rendement d'une obligation est le taux de gain annuel qu'obtient celui qui l'achète au prix du marché et la garde jusqu'à son remboursement. Prix et rendement évoluent en sens inverse : quand les investisseurs vendent une obligation, son prix baisse et son rendement monte. Le taux à dix ans d'un pays est le rendement de son emprunt de référence, et il sert de repère pour le coût de la dette de l'État, des entreprises et des crédits immobiliers. Aujourd'hui, le taux français à dix ans est repassé au-dessus de 5 %, ce qui montre que prêter à la France est jugé plus risqué et plus cher qu'avant. Des taux élevés pèsent aussi sur les actions, car ils rendent les placements sans risque plus attractifs et renchérissent le crédit.",
+        "references": [
+          {
+            "titre": "Club Patrimoine : Qu'est-ce qu'une obligation ? ⚠️",
+            "url": "https://www.clubpatrimoine.com/faq/faq-contenus/obligation"
+          },
+          {
+            "titre": "Investopedia : Bond Yield ⚠️",
+            "url": "https://www.investopedia.com/terms/b/bond-yield.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-22",
+          "titre": "Nexans : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-23",
+          "titre": "Safran : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "STMicroelectronics : résultats du 3e trimestre"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "Air Liquide et Amundi : publications du 3e trimestre"
+        },
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : Thales gagne 1 % après une commande de la DGA",
+          "url": "https://www.boursorama.com/bourse/actualites/thales-gagne-1-apres-une-commande-de-la-dga-b74ef595a880deeadebb225e1794d280"
+        },
+        {
+          "titre": "Boursorama : Wall Street progresse, mais à tâtons",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-progresse-mais-a-tatons-075018bd3012440ef28c6fd1f5d6b36e"
+        },
+        {
+          "titre": "Boursedirect (AFP) : la Bourse de Paris finit en hausse, le taux français au-dessus de 5 %",
+          "url": "https://boursedirect.fr/fr/actualites/categorie/economie/la-bourse-de-paris-finit-en-hausse-apres-une-serie-de-resultats-le-taux-francais-au-dessus-des-5-afp-ed90691fbe290b44cf76bec07b87118733f2bf38"
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "titre": "Paris limite la casse (-0,4 %) malgré une dette française sous tension record depuis 2011",
       "resume": "Le CAC 40 a clôturé à 7 838,49 points (-0,38 %) après avoir perdu plus de 1 % en début d'après-midi. L'écart de taux avec l'Allemagne est monté à environ 153 points de base, un plus haut depuis 2011 selon la presse financière. À Wall Street, le Dow Jones et le S&P 500 progressaient en séance alors que le Brent restait proche de 110 dollars.",

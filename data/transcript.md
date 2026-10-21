@@ -140,3 +140,15 @@ Une OPA est une proposition faite publiquement par une entreprise ou un investis
 - [Investopedia : Tender Offer ⚠️](https://www.investopedia.com/terms/t/tenderoffer.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le rendement obligataire (taux à dix ans) ?
+
+_2026-10-21 20:59 CEST_
+
+Le rendement d'une obligation est le taux de gain annuel qu'obtient celui qui l'achète au prix du marché et la garde jusqu'à son remboursement. Prix et rendement évoluent en sens inverse : quand les investisseurs vendent une obligation, son prix baisse et son rendement monte. Le taux à dix ans d'un pays est le rendement de son emprunt de référence, et il sert de repère pour le coût de la dette de l'État, des entreprises et des crédits immobiliers. Aujourd'hui, le taux français à dix ans est repassé au-dessus de 5 %, ce qui montre que prêter à la France est jugé plus risqué et plus cher qu'avant. Des taux élevés pèsent aussi sur les actions, car ils rendent les placements sans risque plus attractifs et renchérissent le crédit.
+
+**Références**
+- [Club Patrimoine : Qu'est-ce qu'une obligation ? ⚠️](https://www.clubpatrimoine.com/faq/faq-contenus/obligation)
+- [Investopedia : Bond Yield ⚠️](https://www.investopedia.com/terms/b/bond-yield.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-20T21:30:00+02:00",
-    "resume": "Mardi 20 octobre 2026 : le CAC 40 a clôturé à 7 838,49 points (-0,38 %) après avoir cédé plus de 1 % en début d'après-midi, toujours pénalisé par la dette française (écart avec l'Allemagne à environ 153 points de base). Soitec a clôturé à 123,65 € (-3,74 %). Faute de clôture fiable pour tes autres valeurs, leurs cours restent ceux déjà enregistrés. À suivre : Thales demain (21 octobre), puis Fed et BCE les 28 et 29 octobre."
+    "date": "2026-10-21T21:30:00+02:00",
+    "resume": "Mercredi 21 octobre 2026 : le CAC 40 a clôturé à 7 921,68 points (+1,06 %) dans un marché porté par les résultats d'entreprises et la technologie, alors que le taux français à dix ans repassait au-dessus de 5 %. Thales a reçu une commande de la DGA pour des systèmes sol-air SAMP/T NG. Faute de clôture fiable pour tes lignes, leurs cours restent ceux déjà enregistrés. À suivre : Safran vendredi, puis Fed et BCE les 28 et 29 octobre."
   },
   "actifs": [
     {
@@ -83,6 +83,11 @@
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
       "actus": [
         {
+          "date": "2026-10-21",
+          "titre": "La DGA commande quatre sections supplémentaires du système sol-air SAMP/T NG à Eurosam (Thales et MBDA), ce qui porte à douze les sections prévues pour l'armée de l'Air et de l'Espace",
+          "url": "https://www.boursorama.com/bourse/actualites/thales-gagne-1-apres-une-commande-de-la-dga-b74ef595a880deeadebb225e1794d280"
+        },
+        {
           "date": "2026-10-19",
           "titre": "Thales recule de près de 2 % à 229,5 € la veille de ses commandes du troisième trimestre",
           "url": "https://www.abcbourse.com/cotation/HOp"
@@ -98,12 +103,7 @@
       "nom": "Thales",
       "pea": true,
       "potentiel": "Commandes défense en hausse de 75 % au premier trimestre 2026, contrat-cadre avec Rheinmetall pour des systèmes de vision, rachat d'Exail (drones sous-marins).",
-      "rendezvous": [
-        {
-          "date": "2026-10-21",
-          "titre": "Prises de commandes et chiffre d'affaires du troisième trimestre 2026"
-        }
-      ],
+      "rendezvous": [],
       "risque": "Élevé",
       "risques": "Le secteur corrige (ETF défense européenne près de -10 % en un mois) car les États sous pression budgétaire peuvent reporter des commandes. Cours multiplié par 3,1 en quatre ans : beaucoup de bonnes nouvelles déjà dans le prix. Part autour de 238 €.",
       "secteur": "Défense · technologies",
@@ -703,6 +703,11 @@
     },
     {
       "d": "2026-10-20",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-21",
       "valeur": 380.84,
       "investi": 399.2
     }
