@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-21T21:30:00+02:00",
-    "resume": "Mercredi 21 octobre 2026 : le CAC 40 a clôturé à 7 921,68 points (+1,06 %) dans un marché porté par les résultats d'entreprises et la technologie, alors que le taux français à dix ans repassait au-dessus de 5 %. Thales a reçu une commande de la DGA pour des systèmes sol-air SAMP/T NG. Faute de clôture fiable pour tes lignes, leurs cours restent ceux déjà enregistrés. À suivre : Safran vendredi, puis Fed et BCE les 28 et 29 octobre."
+    "date": "2026-10-22T21:30:00+02:00",
+    "resume": "Jeudi 22 octobre 2026 : le CAC 40 a reculé de 1,39 % à 7 811,26 points (source Zonebourse), pénalisé par Hermès (environ -8 %), les semi-conducteurs et un taux français à dix ans au plus haut depuis 2002 (environ 5,04 %). STMicroelectronics a fini à 39,96 € (-4,89 %) et Soitec à 114,70 € (-9,83 %). Les autres cours de tes lignes n'ont pas pu être confirmés et restent inchangés. À suivre : Safran vendredi, puis Fed le 28 et BCE le 29 octobre."
   },
   "actifs": [
     {
@@ -229,6 +229,11 @@
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
         {
+          "date": "2026-10-22",
+          "titre": "Soitec chute d'environ 10 % à 114,70 € dans le sillage du secteur des puces",
+          "url": "https://www.zonebourse.com/cours/action/SOITEC-4695/"
+        },
+        {
           "date": "2026-10-16",
           "titre": "Soitec recule d'environ 0,4 % à 129,30 € en début de séance, sans rebond franc après la chute des puces",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-a-l-equilibre-apres-une-semaine-de-soubresauts-9d2208818c0261344a374b89f8f5d555"
@@ -252,11 +257,6 @@
           "date": "2026-10-09",
           "titre": "Soitec parmi les plus fortes hausses du CAC 40 et du SBF 120 (+4,95 % à 159,95 €) lors du rebond de la Bourse de Paris, sans annonce propre à la société",
           "url": "https://in.investing.com/news/stock-market-news/france-shares-higher-at-close-of-trade-cac-40-up-095-5626362"
-        },
-        {
-          "date": "2026-10-08",
-          "titre": "Les valeurs des semi-conducteurs reculent après des doutes sur les revenus d'OpenAI et la hausse des taux longs américains",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
         }
       ],
       "isin": "FR0013227113",
@@ -307,11 +307,15 @@
         {
           "d": "2026-10-20",
           "p": 123.65
+        },
+        {
+          "d": "2026-10-22",
+          "p": 114.7
         }
       ],
-      "prix": 123.65,
-      "prixDate": "2026-10-20",
-      "variationJour": -3.74
+      "prix": 114.7,
+      "prixDate": "2026-10-22",
+      "variationJour": -9.83
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -473,6 +477,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-10-22",
+          "titre": "STMicroelectronics recule de près de 5 % à 39,96 € dans une séance difficile pour les semi-conducteurs européens",
+          "url": "https://www.zonebourse.com/cours/action/STMICROELECTRONICS-N-V-4710/"
+        },
+        {
           "date": "2026-10-16",
           "titre": "STMicroelectronics se stabilise autour de 41,3 € en séance après deux jours de forte baisse ; le titre cède plus de 11 % sur la semaine",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-a-l-equilibre-apres-une-semaine-de-soubresauts-9d2208818c0261344a374b89f8f5d555"
@@ -496,11 +505,6 @@
           "date": "2026-10-09",
           "titre": "STMicroelectronics, à contre-courant du rebond de la Bourse de Paris, recule encore de 3 % vers 46,55 € en fin de séance",
           "url": "https://in.investing.com/news/stock-market-news/france-shares-higher-at-close-of-trade-cac-40-up-095-5626362"
-        },
-        {
-          "date": "2026-10-08",
-          "titre": "Les valeurs des semi-conducteurs reculent après des doutes sur les revenus d'OpenAI et la hausse des taux longs américains",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
         }
       ],
       "isin": "NL0000226223",
@@ -547,20 +551,18 @@
         {
           "d": "2026-10-15",
           "p": 41.32
+        },
+        {
+          "d": "2026-10-22",
+          "p": 39.96
         }
       ],
-      "prix": 41.32,
-      "prixDate": "2026-10-15",
-      "variationJour": -3.97
+      "prix": 39.96,
+      "prixDate": "2026-10-22",
+      "variationJour": -4.89
     }
   ],
   "agenda": [
-    {
-      "id": "us-cpi-2026-10",
-      "date": "2026-10-14",
-      "titre": "États-Unis : inflation de septembre",
-      "detail": "Publiée le 14 octobre : 3,7 % sur un an en septembre (3,4 % en août), +0,6 % sur un mois, au-dessus des attentes, surtout à cause de l'énergie"
-    },
     {
       "id": "us-ppi-2026-10",
       "date": "2026-10-15",
@@ -709,6 +711,11 @@
     {
       "d": "2026-10-21",
       "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-22",
+      "valeur": 378.12,
       "investi": 399.2
     }
   ]

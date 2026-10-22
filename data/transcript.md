@@ -152,3 +152,15 @@ Le rendement d'une obligation est le taux de gain annuel qu'obtient celui qui l'
 - [Investopedia : Bond Yield ⚠️](https://www.investopedia.com/terms/b/bond-yield.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que la croissance organique ?
+
+_2026-10-22 21:00 CEST_
+
+La croissance organique mesure l'évolution du chiffre d'affaires d'une entreprise grâce à son activité existante, sans compter l'effet des acquisitions, des cessions ni des variations de change. On la calcule à périmètre et taux de change constants, ce qui permet de comparer deux périodes sur une base identique. Elle sert à savoir si une entreprise grandit vraiment par elle-même ou seulement parce qu'elle a racheté une autre société. Aujourd'hui, Nexans a annoncé une croissance organique de 3,9 % sur neuf mois, ce qui décrit sa dynamique propre, hors rachats et effets de devises. Cet indicateur n'est pas une norme comptable : chaque groupe précise sa méthode dans ses communiqués.
+
+**Références**
+- [Bourse des Crédits : Définition de la croissance organique ⚠️](https://www.boursedescredits.com/lexique-definition-croissance-organique-1407.php)
+- [Investopedia : Organic Growth ⚠️](https://www.investopedia.com/terms/o/organic-growth.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

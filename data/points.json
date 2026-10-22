@@ -1,6 +1,170 @@
 {
   "points": [
     {
+      "date": "2026-10-22",
+      "titre": "Paris recule de 1,39 % : Hermès, les puces et un taux français au plus haut depuis 2002 pèsent",
+      "resume": "Le CAC 40 a perdu 1,39 % pour finir à 7 811,26 points, entraîné par la chute d'Hermès après un chiffre d'affaires trimestriel décevant, par les semi-conducteurs et par la hausse du taux d'emprunt français à dix ans, autour de 5,04 %. Le Brent a de nouveau grimpé au-dessus de 110 dollars avec les tensions au Moyen-Orient.",
+      "humeur": "baisse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 811,26 pts",
+          "variation": -1.39
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "7 757,17 pts (clôture de mercredi, celle de jeudi n'est pas encore connue)",
+          "variation": 0.58
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "clôture de mercredi (celle de jeudi n'est pas encore connue)",
+          "variation": 1.05
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 111 $ le baril (en séance)",
+          "variation": 2.2
+        },
+        {
+          "nom": "Or",
+          "valeur": "non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,1205 $ (en séance)",
+          "variation": -0.24
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Dette française",
+          "texte": "Le rendement de l'OAT à dix ans a atteint environ 5,04 %, son plus haut niveau depuis 2002, alors que le Bund recule vers 3,34 %. L'écart entre les deux dépasse 165 points de base, un niveau inédit depuis 2011, signe d'une méfiance croissante envers les finances publiques françaises."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent a gagné environ 2 % pour approcher 111 dollars après de nouvelles attaques des Houthis en Arabie saoudite. Un baril cher entretient l'inflation et pèse sur les entreprises consommatrices d'énergie."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "La Fed se réunit le 28 octobre et la BCE rend sa décision le 29, avec un taux de dépôt à 2,50 % et une inflation de 3,8 % en zone euro. Je n'ai pas trouvé d'analyse récente fiable sur les attentes précises des marchés."
+        },
+        {
+          "titre": "Résultats d'entreprises",
+          "texte": "Hermès a chuté d'environ 8 % après un chiffre d'affaires du troisième trimestre sous les attentes, notamment en Chine. Nexans a perdu environ 5,8 % malgré une croissance organique de 3,9 % sur neuf mois."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 378.12,
+        "pv": -21.08,
+        "texte": "Ton portefeuille vaut 378,12 € pour 399,20 € investis, soit une moins-value latente de 21,08 €. La baisse de STMicroelectronics (-4,89 % à 39,96 €) explique l'essentiel du recul du jour."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre a fini à 39,96 € (-4,89 %), dans une séance dure pour les semi-conducteurs européens. Résultats du troisième trimestre attendus le 29 octobre avant l'ouverture."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "L'action a chuté d'environ 9,8 % à 114,70 €, dans le même mouvement de recul des valeurs de puces."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Dassault Aviation",
+          "isin": "FR0014004L86",
+          "risque": "Modéré",
+          "prix": "≈ 300 € la part (dernier cours relevé en août, à revérifier)",
+          "texte": "Le constructeur du Rafale profite de la hausse des budgets de défense européens et d'un carnet de commandes bien rempli. Dans une séance où le CAC 40 recule de 1,4 %, une valeur de défense peut servir de point d'observation décorrélé de la tech. Le principal risque : le titre dépend de grosses commandes d'États et son prix unitaire élevé est peu adapté à un petit budget."
+        },
+        {
+          "nom": "Lumibird",
+          "isin": "FR0000038242",
+          "risque": "Très élevé",
+          "prix": "≈ 25 € la part (relevé mi-septembre, à revérifier)",
+          "texte": "Ce spécialiste français des lasers touche à la photonique, un thème porté par l'IA et les capteurs. Il a signé la vente de sa division médicale à IPG Photonics pour 300 millions d'euros, dont une grande partie doit revenir aux actionnaires, ce qui peut soutenir le cours. Le principal risque : c'est une petite capitalisation volatile, et l'opération reste soumise à des conditions de finalisation."
+        },
+        {
+          "nom": "Sopra Steria",
+          "isin": "FR0000050809",
+          "risque": "Élevé",
+          "prix": "cours non confirmé ce soir",
+          "texte": "Ce groupe de services numériques se positionne sur la cybersécurité et le spatial souverain, et prépare un rachat d'actions pouvant atteindre 40 millions d'euros. Il publie son chiffre d'affaires du troisième trimestre le 29 octobre, avec un objectif de croissance organique de 1 % à 2 %. Le principal risque : une croissance modeste et une dépendance à la demande des grandes entreprises, sensible à un ralentissement économique."
+        }
+      ],
+      "idee": {
+        "nom": "Dassault Aviation",
+        "isin": "FR0014004L86",
+        "risque": "Modéré",
+        "prix": "≈ 300 € la part (dernier cours relevé en août, à revérifier)",
+        "texte": "Le constructeur du Rafale profite de la hausse des budgets de défense européens et d'un carnet de commandes bien rempli. Dans une séance où le CAC 40 recule de 1,4 %, une valeur de défense peut servir de point d'observation décorrélé de la tech. Le principal risque : le titre dépend de grosses commandes d'États et son prix unitaire élevé est peu adapté à un petit budget."
+      },
+      "concept": {
+        "terme": "La croissance organique",
+        "texte": "La croissance organique mesure l'évolution du chiffre d'affaires d'une entreprise grâce à son activité existante, sans compter l'effet des acquisitions, des cessions ni des variations de change. On la calcule à périmètre et taux de change constants, ce qui permet de comparer deux périodes sur une base identique. Elle sert à savoir si une entreprise grandit vraiment par elle-même ou seulement parce qu'elle a racheté une autre société. Aujourd'hui, Nexans a annoncé une croissance organique de 3,9 % sur neuf mois, ce qui décrit sa dynamique propre, hors rachats et effets de devises. Cet indicateur n'est pas une norme comptable : chaque groupe précise sa méthode dans ses communiqués.",
+        "references": [
+          {
+            "titre": "Bourse des Crédits : Définition de la croissance organique ⚠️",
+            "url": "https://www.boursedescredits.com/lexique-definition-croissance-organique-1407.php"
+          },
+          {
+            "titre": "Investopedia : Organic Growth ⚠️",
+            "url": "https://www.investopedia.com/terms/o/organic-growth.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-23",
+          "titre": "Safran : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "STMicroelectronics : résultats du 3e trimestre"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "Sopra Steria : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : L'Europe finit dans le rouge, le taux d'emprunt de la France grimpe encore",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-rouge-le-taux-d-emprunt-de-la-france-grimpe-encore-1a8aa077a279bd10a40064a36c1b07d1"
+        },
+        {
+          "titre": "Zonebourse : Paris décroche, plombé par Hermès et les tensions sur la dette française",
+          "url": "https://www.zonebourse.com/actualite-bourse/paris-decroche-plombe-par-hermes-et-les-tensions-sur-la-dette-francaise-ce785cded989ff2d"
+        },
+        {
+          "titre": "L'Énergeek : Prix du pétrole le 22 octobre 2026",
+          "url": "https://lenergeek.com/2026/10/22/prix-du-petrole-le-22-octobre-2026-le-brent-depasse-110-dollars-le-wti-a-98-dollars/"
+        },
+        {
+          "titre": "Boursorama : Wall Street clôture en hausse, appétit retrouvé pour l'IA",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-hausse-appetit-retrouve-pour-l-ia-1b236eb0ba45855364906525caa3c4e8"
+        }
+      ]
+    },
+    {
       "date": "2026-10-21",
       "titre": "Paris rebondit de 1,06 % malgré un taux français à dix ans repassé au-dessus de 5 %",
       "resume": "Le CAC 40 a gagné 1,06 % pour finir à 7 921,68 points, porté par une série de résultats d'entreprises et par le retour de la technologie à Wall Street. Le taux d'emprunt de la France à dix ans a toutefois dépassé 5 %. Le Brent a reculé vers 108 dollars.",
