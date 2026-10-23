@@ -1,6 +1,158 @@
 {
   "points": [
     {
+      "date": "2026-10-23",
+      "titre": "Paris recule encore en séance, Moody's attendu sur la note de la France",
+      "resume": "Le CAC 40 perdait environ 0,8 % en début d'après-midi, autour de 7 750 points, après -1,39 % jeudi, pénalisé par Safran, L'Oréal, Kering et Accor. Les investisseurs attendaient le soir la décision de Moody's sur la note de la France. Les clôtures définitives n'étaient pas disponibles au moment de cette mise à jour.",
+      "humeur": "baisse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "≈ 7 750 pts (en séance, clôture non confirmée)",
+          "variation": -0.84
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "≈ 7 299 pts (début de séance, à confirmer)",
+          "variation": -0.79
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "≈ 25 032 pts (début de séance, à confirmer)",
+          "variation": -1.29
+        },
+        {
+          "nom": "Brent",
+          "valeur": "non confirmé ce soir (≈ 105 à 111 $ ces derniers jours)",
+          "variation": 0.0
+        },
+        {
+          "nom": "Or",
+          "valeur": "non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "non confirmé ce soir",
+          "variation": 0.0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Note de la France",
+          "texte": "Moody's devait publier vendredi sa revue de la France, notée Aa3 avec perspective négative, alors que Fitch et S&P la notent A+. Je n'ai pas trouvé le résultat de la décision au moment de la rédaction."
+        },
+        {
+          "titre": "Dette française",
+          "texte": "Le taux à dix ans français a atteint environ 5,04 % jeudi, son plus haut depuis 2002. Cette tension pèse sur les banques et les valeurs sensibles aux taux."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "La Fed se réunit le 28 octobre et la BCE décide le 29, avec un taux de dépôt à 2,50 % et une inflation de 3,8 % en zone euro."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent reste au-dessus de 100 dollars avec la guerre autour de l'Iran et les tensions sur le détroit d'Ormuz. Je n'ai pas de cours confirmé pour aujourd'hui."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 378.12,
+        "pv": -21.08,
+        "texte": "Ton portefeuille reste valorisé 378,12 € pour 399,20 € investis, soit -21,08 €, faute de cours de clôture confirmés aujourd'hui. Les semi-conducteurs, dont STMicroelectronics, sont à surveiller avant ses résultats du 29 octobre."
+      },
+      "valeurs": [
+        {
+          "nom": "Safran",
+          "texte": "Le titre figurait parmi les plus fortes baisses du CAC 40 en séance, le jour de la publication de son chiffre d'affaires du troisième trimestre."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Résultats du troisième trimestre attendus le 29 octobre avant l'ouverture. Pas de cours de clôture confirmé aujourd'hui."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Safran",
+          "isin": "FR0000073272",
+          "risque": "Modéré",
+          "prix": "≈ 310 € la part (cours relevé le 20 octobre)",
+          "texte": "Le motoriste d'avions publie aujourd'hui son chiffre d'affaires du troisième trimestre, après un premier semestre en hausse de 19 % et des objectifs annuels relevés. Le titre a reculé d'environ 4 % en un mois, ce qui rend la publication particulièrement scrutée. Le principal risque : une valorisation déjà exigeante et un prix unitaire élevé, peu adapté à un petit budget."
+        },
+        {
+          "nom": "Nexans",
+          "isin": "FR0000044448",
+          "risque": "Élevé",
+          "prix": "≈ 120 € la part (cours relevé le 21 octobre)",
+          "texte": "Le câblier profite des besoins en électricité liés aux centres de données et à l'IA, ainsi qu'aux réseaux d'énergie. L'action a perdu plus de 20 % depuis son sommet du printemps, ce qui peut intéresser ceux qui suivent la tendance sur la durée. Le principal risque : une volatilité forte après les résultats trimestriels et un cours encore sensible aux humeurs de la tech."
+        },
+        {
+          "nom": "Eutelsat Communications",
+          "isin": "FR0010221234",
+          "risque": "Très élevé",
+          "prix": "≈ 1,70 € la part (cours relevé le 20 octobre)",
+          "texte": "L'opérateur de satellites, lié à OneWeb et au projet européen IRIS², est un pari sur la souveraineté spatiale européenne. Son faible prix par part le rend accessible à un petit budget. Le principal risque : le titre a chuté d'environ 70 % depuis mai, la rentabilité est incertaine et les résultats du 29 octobre peuvent faire bouger le cours fortement dans les deux sens."
+        }
+      ],
+      "idee": {
+        "nom": "Safran",
+        "isin": "FR0000073272",
+        "risque": "Modéré",
+        "prix": "≈ 310 € la part (cours relevé le 20 octobre)",
+        "texte": "Le motoriste d'avions publie aujourd'hui son chiffre d'affaires du troisième trimestre, après un premier semestre en hausse de 19 % et des objectifs annuels relevés. Le titre a reculé d'environ 4 % en un mois, ce qui rend la publication particulièrement scrutée. Le principal risque : une valorisation déjà exigeante et un prix unitaire élevé, peu adapté à un petit budget."
+      },
+      "concept": {
+        "terme": "La notation souveraine",
+        "texte": "La notation souveraine est une note donnée par une agence comme Moody's, S&P ou Fitch pour juger la capacité d'un État à rembourser ses dettes. Elle va de AAA, la meilleure, à D, le défaut de paiement, et s'accompagne d'une perspective (stable, négative ou positive) qui indique la direction probable. Plus la note est basse, plus les investisseurs demandent un taux élevé pour prêter à l'État, ce qui renchérit sa dette. Aujourd'hui, Moody's devait publier sa revue de la France, notée Aa3 avec perspective négative, alors que le taux à dix ans français est au plus haut depuis 2002. Une note reste l'opinion d'une agence privée, pas une vérité absolue.",
+        "references": [
+          {
+            "titre": "Raisin : Glossaire, agence de notation financière ⚠️",
+            "url": "https://www.raisin.com/fr-fr/glossaire/agence-notation-financiere/"
+          },
+          {
+            "titre": "Investopedia : Sovereign Credit Rating ⚠️",
+            "url": "https://www.investopedia.com/terms/s/sovereign-credit-rating.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "STMicroelectronics : résultats du 3e trimestre"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "Eutelsat : chiffre d'affaires du 1er trimestre"
+        },
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "BFM Bourse : le CAC 40 reperd du terrain",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-plombe-par-l-oreal-et-safran-le-cac-40-reperd-encore-du-terrain-1172362.html"
+        },
+        {
+          "titre": "Yahoo Finance : le CAC 40 avant la décision de Moody's",
+          "url": "https://fr.finance.yahoo.com/actualites/cac-40-bourse-paris-baisse-090000038.html"
+        }
+      ]
+    },
+    {
       "date": "2026-10-22",
       "titre": "Paris recule de 1,39 % : Hermès, les puces et un taux français au plus haut depuis 2002 pèsent",
       "resume": "Le CAC 40 a perdu 1,39 % pour finir à 7 811,26 points, entraîné par la chute d'Hermès après un chiffre d'affaires trimestriel décevant, par les semi-conducteurs et par la hausse du taux d'emprunt français à dix ans, autour de 5,04 %. Le Brent a de nouveau grimpé au-dessus de 110 dollars avec les tensions au Moyen-Orient.",

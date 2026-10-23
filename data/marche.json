@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-22T21:30:00+02:00",
-    "resume": "Jeudi 22 octobre 2026 : le CAC 40 a reculé de 1,39 % à 7 811,26 points (source Zonebourse), pénalisé par Hermès (environ -8 %), les semi-conducteurs et un taux français à dix ans au plus haut depuis 2002 (environ 5,04 %). STMicroelectronics a fini à 39,96 € (-4,89 %) et Soitec à 114,70 € (-9,83 %). Les autres cours de tes lignes n'ont pas pu être confirmés et restent inchangés. À suivre : Safran vendredi, puis Fed le 28 et BCE le 29 octobre."
+    "date": "2026-10-23T21:15:00+02:00",
+    "resume": "Vendredi 23 octobre 2026 : le CAC 40 reculait d'environ 0,8 % en séance, autour de 7 750 points, entre résultats d'entreprises (Safran, L'Oréal, Kering) et attente de la décision de Moody's sur la note de la France. Les clôtures du jour n'étant pas disponibles, les cours de tes lignes restent ceux du 22 octobre. À suivre : Fed le 28, BCE et résultats de STMicroelectronics le 29 octobre."
   },
   "actifs": [
     {
@@ -564,12 +564,6 @@
   ],
   "agenda": [
     {
-      "id": "us-ppi-2026-10",
-      "date": "2026-10-15",
-      "titre": "États-Unis : prix à la production et ventes au détail de septembre",
-      "detail": "Deux indicateurs lus juste après l'inflation pour juger la force de la demande et la pression sur les prix"
-    },
-    {
       "id": "ez-hicp-2026-10",
       "date": "2026-10-16",
       "titre": "Zone euro : inflation définitive de septembre",
@@ -715,6 +709,11 @@
     },
     {
       "d": "2026-10-22",
+      "valeur": 378.12,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-23",
       "valeur": 378.12,
       "investi": 399.2
     }

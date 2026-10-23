@@ -164,3 +164,15 @@ La croissance organique mesure l'évolution du chiffre d'affaires d'une entrepri
 - [Investopedia : Organic Growth ⚠️](https://www.investopedia.com/terms/o/organic-growth.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que la notation souveraine ?
+
+_2026-10-23 20:59 CEST_
+
+La notation souveraine est une note donnée par une agence comme Moody's, S&P ou Fitch pour juger la capacité d'un État à rembourser ses dettes. Elle va de AAA, la meilleure, à D, le défaut de paiement, et s'accompagne d'une perspective (stable, négative ou positive) qui indique la direction probable. Plus la note est basse, plus les investisseurs demandent un taux élevé pour prêter à l'État, ce qui renchérit sa dette. Aujourd'hui, Moody's devait publier sa revue de la France, notée Aa3 avec perspective négative, alors que le taux à dix ans français est au plus haut depuis 2002. Une note reste l'opinion d'une agence privée, pas une vérité absolue.
+
+**Références**
+- [Raisin : Glossaire, agence de notation financière ⚠️](https://www.raisin.com/fr-fr/glossaire/agence-notation-financiere/)
+- [Investopedia : Sovereign Credit Rating ⚠️](https://www.investopedia.com/terms/s/sovereign-credit-rating.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction
