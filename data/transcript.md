@@ -176,3 +176,14 @@ La notation souveraine est une note donnée par une agence comme Moody's, S&P ou
 - [Investopedia : Sovereign Credit Rating ⚠️](https://www.investopedia.com/terms/s/sovereign-credit-rating.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le déficit public ?
+
+_2026-10-24 21:05 CEST_
+
+Le déficit public est l'écart, sur une année, entre ce que dépensent les administrations publiques (État, collectivités, Sécurité sociale) et ce qu'elles reçoivent. On l'exprime en pourcentage du PIB pour comparer les pays. Le traité de Maastricht fixe un repère de 3 % du PIB, que la France dépasse : Moody's l'estime à 5,2 %. Un déficit élevé oblige l'État à emprunter davantage, ce qui pèse sur la dette et peut faire monter les taux. Cette notion éclaire la décision de Moody's de ce soir, sans constituer un conseil.
+
+**Références**
+- [Insee : Déficit public (comptabilité nationale) ⚠️](https://www.insee.fr/fr/metadonnees/definition/c1750)
+
+⚠️ Lien non vérifiable au moment de la rédaction

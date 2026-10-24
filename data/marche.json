@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-23T21:15:00+02:00",
-    "resume": "Vendredi 23 octobre 2026 : le CAC 40 reculait d'environ 0,8 % en séance, autour de 7 750 points, entre résultats d'entreprises (Safran, L'Oréal, Kering) et attente de la décision de Moody's sur la note de la France. Les clôtures du jour n'étant pas disponibles, les cours de tes lignes restent ceux du 22 octobre. À suivre : Fed le 28, BCE et résultats de STMicroelectronics le 29 octobre."
+    "date": "2026-10-24T21:05:00+02:00",
+    "resume": "Vendredi 23 octobre 2026 : le CAC 40 a clôturé à 7 782,82 points (-0,36 %, -2,19 % sur la semaine) et Moody's a finalement maintenu la note de la France à Aa3, perspective négative. Wall Street a reculé et le Brent a bondi à près de 117 $. Les cours de STMicroelectronics et Soitec sont ceux du 23 octobre ; les ETF gardent leur dernier cours connu. À suivre : Fed le 28, BCE et résultats de STMicroelectronics le 29 octobre."
   },
   "actifs": [
     {
@@ -229,6 +229,11 @@
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
         {
+          "date": "2026-10-23",
+          "titre": "Soitec recule d'environ 2,7 % à 111,65 € au lendemain d'une chute de près de 10 %",
+          "url": "https://www.marketscreener.com/quote/stock/SOITEC-4695/"
+        },
+        {
           "date": "2026-10-22",
           "titre": "Soitec chute d'environ 10 % à 114,70 € dans le sillage du secteur des puces",
           "url": "https://www.zonebourse.com/cours/action/SOITEC-4695/"
@@ -311,11 +316,15 @@
         {
           "d": "2026-10-22",
           "p": 114.7
+        },
+        {
+          "d": "2026-10-23",
+          "p": 111.65
         }
       ],
-      "prix": 114.7,
-      "prixDate": "2026-10-22",
-      "variationJour": -9.83
+      "prix": 111.65,
+      "prixDate": "2026-10-23",
+      "variationJour": -2.66
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -477,6 +486,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-10-23",
+          "titre": "STMicroelectronics cède encore 1,2 % à 39,47 € avant ses résultats du 29 octobre, après une séance volatile entre 38,61 € et 40,28 €",
+          "url": "https://www.boursorama.com/cours/1rPSTMPA/"
+        },
+        {
           "date": "2026-10-22",
           "titre": "STMicroelectronics recule de près de 5 % à 39,96 € dans une séance difficile pour les semi-conducteurs européens",
           "url": "https://www.zonebourse.com/cours/action/STMICROELECTRONICS-N-V-4710/"
@@ -555,20 +569,18 @@
         {
           "d": "2026-10-22",
           "p": 39.96
+        },
+        {
+          "d": "2026-10-23",
+          "p": 39.47
         }
       ],
-      "prix": 39.96,
-      "prixDate": "2026-10-22",
-      "variationJour": -4.89
+      "prix": 39.47,
+      "prixDate": "2026-10-23",
+      "variationJour": -1.24
     }
   ],
   "agenda": [
-    {
-      "id": "ez-hicp-2026-10",
-      "date": "2026-10-16",
-      "titre": "Zone euro : inflation définitive de septembre",
-      "detail": "Confirmation de l'estimation rapide à 3,8 %, plus haut depuis 2023"
-    },
     {
       "id": "thales-t3-2026",
       "date": "2026-10-21",
@@ -714,7 +726,7 @@
     },
     {
       "d": "2026-10-23",
-      "valeur": 378.12,
+      "valeur": 377.14,
       "investi": 399.2
     }
   ]
