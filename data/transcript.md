@@ -187,3 +187,14 @@ Le déficit public est l'écart, sur une année, entre ce que dépensent les adm
 - [Insee : Déficit public (comptabilité nationale) ⚠️](https://www.insee.fr/fr/metadonnees/definition/c1750)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le taux directeur ?
+
+_2026-10-25 20:10 CET_
+
+Le taux directeur est le taux d'intérêt fixé par une banque centrale pour les prêts qu'elle accorde aux banques commerciales. Dans la zone euro, la BCE en fixe trois, dont le taux de la facilité de dépôt, devenu la référence. Quand il monte, le crédit devient plus cher, la demande ralentit et l'inflation tend à baisser ; quand il baisse, l'effet est inverse. Cette semaine, la BCE et la Fed décident de leurs taux, ce qui explique l'attention des marchés. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [Banque de France : Les taux directeurs ⚠️](https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-taux-directeurs)
+
+⚠️ Lien non vérifiable au moment de la rédaction

@@ -1,6 +1,150 @@
 {
   "points": [
     {
+      "date": "2026-10-25",
+      "titre": "Dimanche sans séance : une semaine décisive s'annonce avec la Fed, la BCE et un Brent près de 117 dollars",
+      "resume": "Les marchés sont fermés ce dimanche. Vendredi, le CAC 40 a fini à 7 782,82 points (-0,36 %), pénalisé par un Brent à environ 117 $ et par la chute de Safran. La semaine à venir est dense, avec les décisions de la Fed le 28 et de la BCE le 29 octobre.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 782,82 pts (clôture de vendredi)",
+          "variation": -0.36
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "≈ 6 068 pts (vendredi)",
+          "variation": -0.31
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "7 623,7 pts (vendredi)",
+          "variation": -0.52
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "25 955 pts (Composite, vendredi)",
+          "variation": -0.2
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 116,75 $ le baril (vendredi)",
+          "variation": 3.4
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 3 994 $ l'once (vendredi)",
+          "variation": 0.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,120 (vendredi)",
+          "variation": 0.0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Banques centrales",
+          "texte": "La Fed rend sa décision le 28 octobre, un statu quo étant plutôt attendu, puis la BCE le 29 avec un taux de dépôt à 2,50 %. Ces deux rendez-vous orienteront le coût du crédit et les marchés."
+        },
+        {
+          "titre": "Inflation",
+          "texte": "L'inflation de septembre est à 3,8 % en zone euro et à 3,7 % aux États-Unis, surtout à cause de l'énergie. L'indice PCE américain, suivi par la Fed, sort le 29 octobre."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent est à son plus haut depuis début avril, sur fond de craintes d'escalade entre Washington et Téhéran. Un baril durablement cher entretient l'inflation et pèse sur les actions."
+        },
+        {
+          "titre": "France",
+          "texte": "Moody's a maintenu la note Aa3 avec perspective négative, mais le taux français à dix ans reste autour de 5 %. Le budget 2027 sera le prochain point d'attention."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 377.14,
+        "pv": -22.06,
+        "texte": "Ton portefeuille vaut 377.14 € pour 399.20 € investis, soit -22.06 €. Les marchés étant fermés, les cours sont ceux de vendredi."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre a fini vendredi à 39,47 €. Ses résultats du troisième trimestre sont attendus jeudi 29 octobre avant l'ouverture."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Le groupe publie son chiffre d'affaires du troisième trimestre le 29 octobre, le premier depuis son plan BEYOND."
+        },
+        {
+          "nom": "Amundi",
+          "texte": "Les résultats du troisième trimestre, avec la collecte des ETF, sont attendus le 29 octobre."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Safran",
+          "isin": "FR0000073272",
+          "risque": "Modéré",
+          "prix": "≈ 272 € la part (cours du 23 octobre, à vérifier)",
+          "texte": "Safran fabrique les moteurs d'avions LEAP avec General Electric et des équipements de défense. L'action a perdu environ 10 % vendredi après son chiffre d'affaires du troisième trimestre, ce qui peut intéresser ceux qui suivent l'aéronautique sur le long terme. Le groupe avait relevé ses objectifs annuels en juillet et un accord CFM pour plus de 300 moteurs avec Turkish Airlines a été annoncé mi-octobre. Le principal risque : un titre cher en valeur absolue pour un petit budget et sensible à un pétrole durablement élevé qui pèse sur les compagnies aériennes."
+        },
+        {
+          "nom": "Nexans",
+          "isin": "FR0000044448",
+          "risque": "Élevé",
+          "prix": "≈ 121 € la part (cours du 21 octobre, à vérifier)",
+          "texte": "Nexans produit des câbles pour les réseaux électriques, l'éolien en mer et les centres de données, trois besoins liés à l'électrification et à l'IA. Le titre a perdu environ 11 % en un mois, ce qui le rend plus abordable qu'il y a peu pour qui croit à cette tendance. Le principal risque : une activité cyclique dépendant de grands projets et du prix du cuivre, avec des variations parfois brutales à la publication des résultats."
+        },
+        {
+          "nom": "Eutelsat Communications",
+          "isin": "FR0010221234",
+          "risque": "Très élevé",
+          "prix": "≈ 1,70 € la part (cours du 20 octobre, à vérifier)",
+          "texte": "Eutelsat exploite la constellation de satellites OneWeb et participe au projet européen IRIS², une alternative aux réseaux américains qui intéresse la souveraineté et la défense. Sa part à moins de 2 € est accessible à un très petit budget et le chiffre d'affaires du premier trimestre est attendu le 29 octobre. Le principal risque est élevé : le titre est à des plus bas historiques, très endetté et très volatil, avec un risque de perte importante."
+        }
+      ],
+      "idee": {
+        "nom": "Safran",
+        "isin": "FR0000073272",
+        "risque": "Modéré",
+        "prix": "≈ 272 € la part (cours du 23 octobre, à vérifier)",
+        "texte": "Safran fabrique les moteurs d'avions LEAP avec General Electric et des équipements de défense. L'action a perdu environ 10 % vendredi après son chiffre d'affaires du troisième trimestre, ce qui peut intéresser ceux qui suivent l'aéronautique sur le long terme. Le groupe avait relevé ses objectifs annuels en juillet et un accord CFM pour plus de 300 moteurs avec Turkish Airlines a été annoncé mi-octobre. Le principal risque : un titre cher en valeur absolue pour un petit budget et sensible à un pétrole durablement élevé qui pèse sur les compagnies aériennes."
+      },
+      "concept": {
+        "terme": "Le taux directeur",
+        "texte": "Le taux directeur est le taux d'intérêt fixé par une banque centrale pour les prêts qu'elle accorde aux banques commerciales. Dans la zone euro, la BCE en fixe trois, dont le taux de la facilité de dépôt, devenu la référence. Quand il monte, le crédit devient plus cher, la demande ralentit et l'inflation tend à baisser ; quand il baisse, l'effet est inverse. Cette semaine, la BCE et la Fed décident de leurs taux, ce qui explique l'attention des marchés. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "Banque de France : Les taux directeurs ⚠️",
+            "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-taux-directeurs"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux ; résultats de STMicroelectronics, Air Liquide, Amundi ; PIB et PCE américains"
+        },
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Idéal Investisseur : Nexans",
+          "url": "https://www.ideal-investisseur.fr/actions-b/laction-nexans-rebondit-de-2-mais-cede-115-sur-un-mois/27647.html"
+        },
+        {
+          "titre": "Option Finance : AlphaValue et Eutelsat",
+          "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-20-alphavalue-confirme-son-conseil-sur-eutelsat-le-titre-recule.html"
+        }
+      ]
+    },
+    {
       "date": "2026-10-23",
       "titre": "Moody's maintient la note de la France, le CAC 40 recule tout de même de 0,36 % et le Brent bondit à près de 117 $",
       "resume": "Contre l'attente de nombreux économistes, Moody's n'a pas dégradé la France, notée Aa3 avec perspective négative. Le CAC 40 a pourtant fini à 7 782,82 points (-0,36 %), soit -2,19 % sur la semaine, tandis que Wall Street reculait sous l'effet de la hausse du pétrole et des doutes sur l'IA.",

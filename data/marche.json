@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-24T21:05:00+02:00",
-    "resume": "Vendredi 23 octobre 2026 : le CAC 40 a clôturé à 7 782,82 points (-0,36 %, -2,19 % sur la semaine) et Moody's a finalement maintenu la note de la France à Aa3, perspective négative. Wall Street a reculé et le Brent a bondi à près de 117 $. Les cours de STMicroelectronics et Soitec sont ceux du 23 octobre ; les ETF gardent leur dernier cours connu. À suivre : Fed le 28, BCE et résultats de STMicroelectronics le 29 octobre."
+    "date": "2026-10-25T20:10:00+02:00",
+    "resume": "Dimanche 25 octobre 2026 : les marchés sont fermés, les cours restent ceux de la séance du vendredi 23 octobre (CAC 40 à 7 782,82 points, Brent près de 117 $). La semaine s'annonce chargée : Fed le 28, BCE le 29 avec les résultats de STMicroelectronics, Air Liquide et Amundi."
   },
   "actifs": [
     {
@@ -726,6 +726,11 @@
     },
     {
       "d": "2026-10-23",
+      "valeur": 377.14,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-25",
       "valeur": 377.14,
       "investi": 399.2
     }
