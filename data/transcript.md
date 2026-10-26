@@ -198,3 +198,15 @@ Le taux directeur est le taux d'intérêt fixé par une banque centrale pour les
 - [Banque de France : Les taux directeurs ⚠️](https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-taux-directeurs)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que l'introduction en bourse (IPO) ?
+
+_2026-10-26 20:02 CET_
+
+Une introduction en bourse (IPO en anglais) est l'opération par laquelle une entreprise vend pour la première fois ses actions au public sur un marché financier. Elle permet à l'entreprise de lever de l'argent et aux premiers actionnaires de revendre une partie de leurs titres. Avant l'opération, un prospectus décrit l'activité, les comptes et les risques, et l'investisseur peut déposer un ordre dans une fourchette de prix. Le dossier d'Anthropic déposé aujourd'hui en est un exemple. Une introduction n'est pas une garantie de gain : le prix initial peut être trop élevé, et l'AMF recommande de n'y engager qu'une petite partie de son épargne. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [AMF : Participer à une introduction en bourse, quelles précautions prendre ⚠️](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-introduction-en-bourse/participer-une-introduction-en-bourse-quelles-precautions-prendre)
+- [Investopedia : Initial Public Offering (IPO) ⚠️](https://www.investopedia.com/terms/i/ipo.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

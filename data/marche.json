@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-25T20:10:00+02:00",
-    "resume": "Dimanche 25 octobre 2026 : les marchés sont fermés, les cours restent ceux de la séance du vendredi 23 octobre (CAC 40 à 7 782,82 points, Brent près de 117 $). La semaine s'annonce chargée : Fed le 28, BCE le 29 avec les résultats de STMicroelectronics, Air Liquide et Amundi."
+    "date": "2026-10-26T20:15:00+01:00",
+    "resume": "Lundi 26 octobre 2026 : le CAC 40 gagne 0,83 % à 7 847,32 points grâce à la détente des taux français, et Wall Street progresse avec l'IPO d'Anthropic. La Fed (28) et la BCE (29) décident cette semaine, avec les résultats de STMicroelectronics, Air Liquide et Amundi le 29."
   },
   "actifs": [
     {
@@ -176,6 +176,11 @@
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
         {
+          "date": "2026-10-26",
+          "titre": "Wall Street rebondit d'environ 1 % lundi, portée par les valeurs de l'IA après le dépôt du dossier d'introduction en bourse d'Anthropic, attendue sur le Nasdaq en novembre",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-apprete-a-connaitre-sa-meilleure-journee-depuis-un-mois-l-annonce-de-l-introduction-en-bourse-d-anthropic-ayant-stimule-les-valeurs-liees-a-l-ia-1089d8f98fea96709b733fc2eebb4f0d"
+        },
+        {
           "date": "2026-10-16",
           "titre": "Le Nasdaq décroche d'environ 2 % en séance vendredi, entraîné par les valeurs liées à l'IA et les inquiétudes sur leur endettement",
           "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
@@ -229,6 +234,11 @@
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
         {
+          "date": "2026-10-26",
+          "titre": "Soitec rebondit d'environ 5 % à 117,30 € après deux séances de baisse, dans un marché des puces plus détendu",
+          "url": "https://www.boursorama.com/cours/1rPSOI/"
+        },
+        {
           "date": "2026-10-23",
           "titre": "Soitec recule d'environ 2,7 % à 111,65 € au lendemain d'une chute de près de 10 %",
           "url": "https://www.marketscreener.com/quote/stock/SOITEC-4695/"
@@ -252,16 +262,6 @@
           "date": "2026-10-14",
           "titre": "Soitec gagne environ 4,6 % dans le rebond des semi-conducteurs après les résultats d'ASML (cours estimé à partir de la variation de séance)",
           "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-avec-asml-wall-street-dans-le-rouge-apres-l-inflation-americaine-1208405b9f1064b632681fc0cf26819d"
-        },
-        {
-          "date": "2026-10-12",
-          "titre": "Soitec cède environ 3,8 % à 153,85 € dans le sillage de la baisse des semi-conducteurs, sans annonce propre à la société",
-          "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
-        },
-        {
-          "date": "2026-10-09",
-          "titre": "Soitec parmi les plus fortes hausses du CAC 40 et du SBF 120 (+4,95 % à 159,95 €) lors du rebond de la Bourse de Paris, sans annonce propre à la société",
-          "url": "https://in.investing.com/news/stock-market-news/france-shares-higher-at-close-of-trade-cac-40-up-095-5626362"
         }
       ],
       "isin": "FR0013227113",
@@ -320,11 +320,15 @@
         {
           "d": "2026-10-23",
           "p": 111.65
+        },
+        {
+          "d": "2026-10-26",
+          "p": 117.3
         }
       ],
-      "prix": 111.65,
-      "prixDate": "2026-10-23",
-      "variationJour": -2.66
+      "prix": 117.3,
+      "prixDate": "2026-10-26",
+      "variationJour": 5.06
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -391,15 +395,24 @@
         {
           "d": "2026-10-09",
           "p": 6.389
+        },
+        {
+          "d": "2026-10-26",
+          "p": 6.329
         }
       ],
-      "prix": 6.389,
-      "prixDate": "2026-10-09",
-      "variationJour": 0.54
+      "prix": 6.329,
+      "prixDate": "2026-10-26",
+      "variationJour": 0.44
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
+        {
+          "date": "2026-10-26",
+          "titre": "Wall Street rebondit d'environ 1 % lundi, portée par les valeurs de l'IA après le dépôt du dossier d'introduction en bourse d'Anthropic, attendue sur le Nasdaq en novembre",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-apprete-a-connaitre-sa-meilleure-journee-depuis-un-mois-l-annonce-de-l-introduction-en-bourse-d-anthropic-ayant-stimule-les-valeurs-liees-a-l-ia-1089d8f98fea96709b733fc2eebb4f0d"
+        },
         {
           "date": "2026-10-16",
           "titre": "Le Nasdaq décroche d'environ 2 % en séance vendredi, entraîné par les valeurs liées à l'IA et les inquiétudes sur leur endettement",
@@ -444,11 +457,15 @@
         {
           "d": "2026-10-09",
           "p": 7.243
+        },
+        {
+          "d": "2026-10-23",
+          "p": 6.843
         }
       ],
-      "prix": 7.243,
-      "prixDate": "2026-10-09",
-      "variationJour": -0.62
+      "prix": 6.843,
+      "prixDate": "2026-10-23",
+      "variationJour": 0.04
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -486,6 +503,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-10-26",
+          "titre": "STMicroelectronics remonte d'environ 2,6 % à 40,50 € à trois jours de ses résultats du troisième trimestre, attendus jeudi avant l'ouverture",
+          "url": "https://www.marketscreener.com/quote/stock/STMICROELECTRONICS-N-V-4710/"
+        },
+        {
           "date": "2026-10-23",
           "titre": "STMicroelectronics cède encore 1,2 % à 39,47 € avant ses résultats du 29 octobre, après une séance volatile entre 38,61 € et 40,28 €",
           "url": "https://www.boursorama.com/cours/1rPSTMPA/"
@@ -509,16 +531,6 @@
           "date": "2026-10-14",
           "titre": "Les puces rebondissent après les résultats d'ASML, dont la demande portée par l'IA dépasse ses capacités en 2027 et 2028",
           "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-avec-asml-wall-street-dans-le-rouge-apres-l-inflation-americaine-1208405b9f1064b632681fc0cf26819d"
-        },
-        {
-          "date": "2026-10-12",
-          "titre": "STMicroelectronics recule de 2,1 % à 45,57 € dans une séance où les valeurs de semi-conducteurs sont vendues (indice SOX en baisse d'environ 2,5 % à Wall Street) ; résultats du troisième trimestre le 29 octobre",
-          "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
-        },
-        {
-          "date": "2026-10-09",
-          "titre": "STMicroelectronics, à contre-courant du rebond de la Bourse de Paris, recule encore de 3 % vers 46,55 € en fin de séance",
-          "url": "https://in.investing.com/news/stock-market-news/france-shares-higher-at-close-of-trade-cac-40-up-095-5626362"
         }
       ],
       "isin": "NL0000226223",
@@ -573,11 +585,15 @@
         {
           "d": "2026-10-23",
           "p": 39.47
+        },
+        {
+          "d": "2026-10-26",
+          "p": 40.5
         }
       ],
-      "prix": 39.47,
-      "prixDate": "2026-10-23",
-      "variationJour": -1.24
+      "prix": 40.5,
+      "prixDate": "2026-10-26",
+      "variationJour": 2.62
     }
   ],
   "agenda": [
@@ -732,6 +748,11 @@
     {
       "d": "2026-10-25",
       "valeur": 377.14,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-26",
+      "valeur": 369.76,
       "investi": 399.2
     }
   ]
