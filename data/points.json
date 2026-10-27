@@ -1,6 +1,170 @@
 {
   "points": [
     {
+      "date": "2026-10-27",
+      "titre": "Paris gagne 0,51 % avec le rebond des semi-conducteurs et le recul du pétrole, à la veille de la Fed",
+      "resume": "Le CAC 40 a fini à 7 887,14 points (+0,51 %), aidé par un pétrole en repli et par le retour des acheteurs sur la tech : STMicroelectronics a bondi d'environ 7 %. HSBC et ses résultats ont pesé sur les banques européennes en début de séance. À Wall Street, les indices progressent avant la décision de la Fed demain soir, et Boeing recule d'environ 10 %.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 887,14 pts",
+          "variation": 0.51
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "cours non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "≈ 7 690 pts (séance en cours)",
+          "variation": 0.5
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "≈ 26 270 pts (Composite, milieu de séance)",
+          "variation": 0.38
+        },
+        {
+          "nom": "Brent",
+          "valeur": "en repli, cours non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "Or",
+          "valeur": "cours non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "cours non confirmé ce soir",
+          "variation": 0.0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Banques centrales",
+          "texte": "La Fed décide demain mercredi 28 octobre, avec un statu quo attendu sur la fourchette de 3,75 à 4 %. La BCE suit jeudi 29 octobre, avec un taux de dépôt à 2,50 %, et le marché surveille surtout le ton de leurs messages sur d'éventuelles hausses en décembre."
+        },
+        {
+          "titre": "Taux français",
+          "texte": "Le taux de l'OAT à dix ans reste proche de 4,9 %, ce qui maintient une pression sur les valeurs sensibles aux taux. La détente de lundi n'a donc pas été prolongée franchement aujourd'hui."
+        },
+        {
+          "titre": "Pétrole",
+          "texte": "Le pétrole a reculé, ce qui a soutenu l'appétit pour le risque. Le Brent reste toutefois à un niveau élevé, autour de 115 $ selon notre dernier relevé confirmé, dans un contexte géopolitique encore tendu."
+        },
+        {
+          "titre": "Inflation",
+          "texte": "L'inflation de la zone euro était de 3,8 % en septembre. Le PIB américain et l'indice PCE, publiés jeudi, serviront de test à la Fed."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 375.48,
+        "pv": -23.72,
+        "texte": "Ton portefeuille gagne environ 5,7 € sur la séance grâce à STMicroelectronics (+7 %), mais reste en moins-value latente depuis tes achats du 5 octobre. Les deux ETF n'ont pas de nouveau cours confirmé ce soir."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre a bondi d'environ 7 % à Paris, les investisseurs rachetant les semi-conducteurs délaissés ces dernières semaines. Résultats du 3e trimestre jeudi 29 octobre avant l'ouverture."
+        },
+        {
+          "nom": "Schneider Electric et Legrand",
+          "texte": "Les deux valeurs liées aux centres de données ont gagné environ 3 % et 2,5 % avec le rebond de la tech."
+        },
+        {
+          "nom": "Anthropic",
+          "texte": "Le dossier d'introduction en bourse (formulaire S-1) déposé auprès de la SEC pour une cotation au Nasdaq, annoncé lundi, continue d'alimenter l'enthousiasme sur l'IA."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Dassault Systèmes",
+          "isin": "FR0014003TT8",
+          "risque": "Modéré",
+          "prix": "≈ 24 € la part (dernier cours vérifié le 23 octobre)",
+          "texte": "Le spécialiste français des logiciels de conception et de jumeaux numériques publie ses résultats du 3e trimestre demain, 28 octobre, avec un chiffre d'affaires attendu entre 1,50 et 1,54 milliard d'euros. L'IA appliquée à l'industrie est le thème porteur : le titre a rebondi d'environ 12 % en un mois. Son prix permet d'acheter plusieurs parts avec un petit budget. Le principal risque est une publication décevante, car le titre est sensible aux prévisions annuelles, et il reste en recul sur douze mois."
+        },
+        {
+          "nom": "Schneider Electric",
+          "isin": "FR0000121972",
+          "risque": "Modéré",
+          "prix": "cours non confirmé ce soir (part plus chère, à vérifier avant tout ordre)",
+          "texte": "Schneider fournit l'électricité et le refroidissement des centres de données qui font tourner l'IA, et a relevé ses perspectives annuelles lors de son dernier trimestre. Le titre a gagné près de 3 % aujourd'hui avec le rebond de la tech. Le secteur profite de la demande exceptionnelle des centres de données. Le risque principal est que le marché en attende déjà beaucoup : le titre a reculé malgré de bons chiffres, et une dépense d'IA moins forte chez les géants américains le pénaliserait."
+        },
+        {
+          "nom": "Voltalia",
+          "isin": "FR0011995588",
+          "risque": "Très élevé",
+          "prix": "≈ 5 € la part (dernier cours vérifié début septembre, à revérifier)",
+          "texte": "Voltalia développe et exploite des parcs solaires et éoliens, un thème porté par les besoins en électricité de l'IA. Le 23 octobre, elle a confirmé son objectif d'EBITDA 2026 entre 210 et 230 millions d'euros. Sa part à petit prix en fait une idée accessible. Le risque est élevé : le groupe a prévenu en septembre qu'il serait en perte nette en 2026 et le titre avait alors chuté de 17 %, il est donc très volatil et endetté."
+        }
+      ],
+      "idee": {
+        "nom": "Dassault Systèmes",
+        "isin": "FR0014003TT8",
+        "risque": "Modéré",
+        "prix": "≈ 24 € la part (dernier cours vérifié le 23 octobre)",
+        "texte": "Le spécialiste français des logiciels de conception et de jumeaux numériques publie ses résultats du 3e trimestre demain, 28 octobre, avec un chiffre d'affaires attendu entre 1,50 et 1,54 milliard d'euros. L'IA appliquée à l'industrie est le thème porteur : le titre a rebondi d'environ 12 % en un mois. Son prix permet d'acheter plusieurs parts avec un petit budget. Le principal risque est une publication décevante, car le titre est sensible aux prévisions annuelles, et il reste en recul sur douze mois."
+      },
+      "concept": {
+        "terme": "La rotation sectorielle",
+        "texte": "La rotation sectorielle désigne le mouvement des investisseurs qui vendent des actions d'un secteur pour en acheter d'un autre, selon la situation économique ou l'humeur du marché. Aujourd'hui, les semi-conducteurs ont rebondi à Paris (STMicroelectronics environ +7 %) après plusieurs semaines délaissées, pendant que d'autres secteurs patientaient. Ces mouvements sont rapides et difficiles à prévoir, car chacun arrive après que la nouvelle est connue. Pour un investisseur long terme, l'enseignement est surtout la diversification : l'AMF rappelle qu'il vaut mieux répartir son épargne sur plusieurs secteurs et zones géographiques. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "AMF : Bien diversifier son épargne pour atteindre ses objectifs ⚠️",
+            "url": "https://www.amf-france.org/sites/institutionnel/files/pdf/71321/fr/Bien_diversifier_son_epargne_pour_atteindre_ses_objectifs.pdf"
+          },
+          {
+            "titre": "Investopedia : Sector Rotation ⚠️",
+            "url": "https://www.investopedia.com/terms/s/sectorrotation.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-28",
+          "titre": "Dassault Systèmes : résultats du 3e trimestre"
+        },
+        {
+          "date": "2026-10-28",
+          "titre": "Fed : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "STMicroelectronics, Air Liquide, Amundi : résultats du 3e trimestre"
+        },
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "BFM Bourse : le CAC 40 se rapproche des 7 900 points",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-entre-l-accalmie-des-cours-du-petrole-et-la-hausse-des-valeurs-liees-a-l-ia-le-cac-40-se-rapproche-des-7900-points-1172555.html"
+        },
+        {
+          "titre": "Boursorama : La tech reprend la main, Paris suit le mouvement",
+          "url": "https://www.boursorama.com/bourse/actualites/la-tech-reprend-la-main-paris-suit-le-mouvement-41c47ef105516e98655b497a4b70ea06"
+        },
+        {
+          "titre": "Boursorama : Les Bourses européennes terminent majoritairement en hausse",
+          "url": "https://www.boursorama.com/bourse/actualites/les-bourses-europeennes-terminent-majoritairement-en-hausse-56d6c88d9cec3ad6bb560f2fc594bbe8"
+        },
+        {
+          "titre": "Boursorama : Wall Street poursuit son élan avant la Fed",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-poursuit-son-elan-avant-la-fed-f7ca8742a7f73a72908fe0244d19ca91"
+        }
+      ]
+    },
+    {
       "date": "2026-10-26",
       "titre": "Paris rebondit de 0,83 % grâce à la détente des taux français, et Wall Street grimpe avec l'introduction en bourse d'Anthropic",
       "resume": "Le CAC 40 a fini à 7 847,32 points (+0,83 %), aidé par un net repli du taux français à dix ans après le maintien de la note de la France par Moody's. À Wall Street, les valeurs de l'IA ont mené la hausse après le dépôt du dossier d'introduction en bourse d'Anthropic. La Fed et la BCE doivent se prononcer mercredi et jeudi.",

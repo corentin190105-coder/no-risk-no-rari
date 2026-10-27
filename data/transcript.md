@@ -210,3 +210,15 @@ Une introduction en bourse (IPO en anglais) est l'opération par laquelle une en
 - [Investopedia : Initial Public Offering (IPO) ⚠️](https://www.investopedia.com/terms/i/ipo.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que la rotation sectorielle ?
+
+_2026-10-27 20:05 CET_
+
+La rotation sectorielle désigne le mouvement des investisseurs qui vendent des actions d'un secteur pour en acheter d'un autre, selon la situation économique ou l'humeur du marché. Aujourd'hui, les semi-conducteurs ont rebondi à Paris (STMicroelectronics environ +7 %) après plusieurs semaines délaissées, pendant que d'autres secteurs patientaient. Ces mouvements sont rapides et difficiles à prévoir, car chacun arrive après que la nouvelle est connue. Pour un investisseur long terme, l'enseignement est surtout la diversification : l'AMF rappelle qu'il vaut mieux répartir son épargne sur plusieurs secteurs et zones géographiques. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [AMF : Bien diversifier son épargne pour atteindre ses objectifs ⚠️](https://www.amf-france.org/sites/institutionnel/files/pdf/71321/fr/Bien_diversifier_son_epargne_pour_atteindre_ses_objectifs.pdf)
+- [Investopedia : Sector Rotation ⚠️](https://www.investopedia.com/terms/s/sectorrotation.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

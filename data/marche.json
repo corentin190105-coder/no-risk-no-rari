@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-26T20:15:00+01:00",
-    "resume": "Lundi 26 octobre 2026 : le CAC 40 gagne 0,83 % à 7 847,32 points grâce à la détente des taux français, et Wall Street progresse avec l'IPO d'Anthropic. La Fed (28) et la BCE (29) décident cette semaine, avec les résultats de STMicroelectronics, Air Liquide et Amundi le 29."
+    "date": "2026-10-27T20:30:00+01:00",
+    "resume": "Mardi 27 octobre 2026 : le CAC 40 gagne 0,51 % à 7 887,14 points, porté par le recul du pétrole et le rebond des semi-conducteurs (STMicroelectronics environ +7 %). Wall Street progresse avant la décision de la Fed de demain, puis la BCE jeudi, avec les résultats de STMicroelectronics, Air Liquide et Amundi le 29."
   },
   "actifs": [
     {
@@ -503,6 +503,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-10-27",
+          "titre": "STMicroelectronics s'envole d'environ 7 % à Paris, les semi-conducteurs sont rachetés avant les résultats du 29 octobre",
+          "url": "https://www.boursorama.com/bourse/actualites/la-tech-reprend-la-main-paris-suit-le-mouvement-41c47ef105516e98655b497a4b70ea06"
+        },
+        {
           "date": "2026-10-26",
           "titre": "STMicroelectronics remonte d'environ 2,6 % à 40,50 € à trois jours de ses résultats du troisième trimestre, attendus jeudi avant l'ouverture",
           "url": "https://www.marketscreener.com/quote/stock/STMICROELECTRONICS-N-V-4710/"
@@ -526,11 +531,6 @@
           "date": "2026-10-15",
           "titre": "STMicroelectronics recule d'environ 4 % dans la chute mondiale des valeurs liées à l'IA et des puces asiatiques, avec des pertes de plus de 7 % en milieu de séance",
           "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-le-repli-des-valeurs-liees-a-l-ia-l-oreal-et-hermes-soutiennent-le-cac-40-qui-gagne-pres-de-08-1171850.html"
-        },
-        {
-          "date": "2026-10-14",
-          "titre": "Les puces rebondissent après les résultats d'ASML, dont la demande portée par l'IA dépasse ses capacités en 2027 et 2028",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-avec-asml-wall-street-dans-le-rouge-apres-l-inflation-americaine-1208405b9f1064b632681fc0cf26819d"
         }
       ],
       "isin": "NL0000226223",
@@ -589,11 +589,15 @@
         {
           "d": "2026-10-26",
           "p": 40.5
+        },
+        {
+          "d": "2026-10-27",
+          "p": 43.36
         }
       ],
-      "prix": 40.5,
-      "prixDate": "2026-10-26",
-      "variationJour": 2.62
+      "prix": 43.36,
+      "prixDate": "2026-10-27",
+      "variationJour": 7.06
     }
   ],
   "agenda": [
@@ -753,6 +757,11 @@
     {
       "d": "2026-10-26",
       "valeur": 369.76,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-27",
+      "valeur": 375.48,
       "investi": 399.2
     }
   ]
