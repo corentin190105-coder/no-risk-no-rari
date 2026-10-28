@@ -222,3 +222,15 @@ La rotation sectorielle désigne le mouvement des investisseurs qui vendent des 
 - [Investopedia : Sector Rotation ⚠️](https://www.investopedia.com/terms/s/sectorrotation.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le consensus des analystes ?
+
+_2026-10-28 19:58 CET_
+
+Le consensus est la moyenne des prévisions publiées par les analystes financiers sur une entreprise, par exemple son chiffre d'affaires ou son bénéfice du trimestre. Il sert de repère au marché : une société qui fait mieux que ce consensus voit souvent son cours monter, et l'inverse si elle déçoit. C'est ce qui s'est passé aujourd'hui avec Dassault Systèmes, qui a relevé ses objectifs mais pas assez aux yeux des analystes, et recule d'environ 4,5 %. Un bon résultat ne suffit donc pas, c'est l'écart avec ce que le marché attendait qui compte. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [BFM Bourse (Tradingsat) : définition du consensus ⚠️](https://www.tradingsat.com/lexique-boursier/definition-consensus-46.html)
+- [Boursedescredits : définition du consensus ⚠️](https://www.boursedescredits.com/lexique-definition-consensus-1115.php)
+
+⚠️ Lien non vérifiable au moment de la rédaction

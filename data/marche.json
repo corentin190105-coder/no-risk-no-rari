@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-27T20:30:00+01:00",
-    "resume": "Mardi 27 octobre 2026 : le CAC 40 gagne 0,51 % à 7 887,14 points, porté par le recul du pétrole et le rebond des semi-conducteurs (STMicroelectronics environ +7 %). Wall Street progresse avant la décision de la Fed de demain, puis la BCE jeudi, avec les résultats de STMicroelectronics, Air Liquide et Amundi le 29."
+    "date": "2026-10-28T20:00:00+01:00",
+    "resume": "Mercredi 28 octobre 2026 : le CAC 40 termine à l'équilibre (7 886,96 points) avant la décision de la Fed, maintenue à l'unanimité moins deux voix, et celle de la BCE demain. Stellantis bondit d'environ 15 %, Dassault Systèmes recule de 4,5 %. Faute de cours de clôture fiables ce soir pour tes lignes, les prix de tes ETF et de STMicroelectronics sont ceux de la dernière séance confirmée ; résultats de STMicroelectronics, Air Liquide et Amundi demain."
   },
   "actifs": [
     {
@@ -324,11 +324,15 @@
         {
           "d": "2026-10-26",
           "p": 117.3
+        },
+        {
+          "d": "2026-10-27",
+          "p": 121.95
         }
       ],
-      "prix": 117.3,
-      "prixDate": "2026-10-26",
-      "variationJour": 5.06
+      "prix": 121.95,
+      "prixDate": "2026-10-27",
+      "variationJour": 3.96
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -761,6 +765,11 @@
     },
     {
       "d": "2026-10-27",
+      "valeur": 375.48,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-28",
       "valeur": 375.48,
       "investi": 399.2
     }

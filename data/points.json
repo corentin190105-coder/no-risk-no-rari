@@ -1,6 +1,166 @@
 {
   "points": [
     {
+      "date": "2026-10-28",
+      "titre": "Paris stable à 7 887 points avant la Fed et la BCE, Stellantis s'envole et Dassault Systèmes chute",
+      "resume": "Le CAC 40 termine quasiment inchangé à 7 886,96 points, dans une séance attentiste avant la décision de la Fed ce soir, maintenue avec dix voix contre deux, et celle de la BCE demain. Stellantis gagne environ 15 % après de bons résultats, tandis que Dassault Systèmes perd 4,5 % pour un relèvement d'objectifs jugé trop timide.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 886,96 pts",
+          "variation": 0.0
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "cours non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "≈ 7 720 pts (séance en cours, proche de l'équilibre)",
+          "variation": 0.0
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "≈ 26 480 pts (Composite, séance en cours)",
+          "variation": 0.0
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 115,13 $ (relevé de 14h32)",
+          "variation": 0.0
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 4 047,74 $ l'once (relevé de 14h32)",
+          "variation": 0.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,1132 (relevé de 14h32)",
+          "variation": 0.0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Banques centrales",
+          "texte": "La Fed a maintenu ses taux avec un vote de dix voix contre deux, et son président Kevin Warsh a noté que les conditions financières se sont resserrées depuis la hausse de septembre. La BCE décide demain, avec un taux de dépôt à 2,50 %."
+        },
+        {
+          "titre": "Taux",
+          "texte": "Le rendement américain à dix ans tournait autour de 5 % avant la décision. Des taux aussi élevés pèsent sur les valeurs de croissance et sur les entreprises endettées."
+        },
+        {
+          "titre": "Pétrole",
+          "texte": "Le Brent reste autour de 115 $, ce qui entretient l'inflation et les craintes pour la croissance, dans un contexte géopolitique tendu."
+        },
+        {
+          "titre": "Inflation",
+          "texte": "L'inflation de la zone euro était de 3,8 % en septembre. Le PIB américain et l'indice PCE, publiés demain, serviront de test pour la Fed."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 375.48,
+        "pv": -23.72,
+        "texte": "Pas de nouveau cours de clôture confirmé ce soir pour tes trois lignes, donc la valeur reste celle de la dernière séance confirmée. Demain, STMicroelectronics publie ses résultats, un moment important pour ta ligne la plus volatile."
+      },
+      "valeurs": [
+        {
+          "nom": "Soitec",
+          "texte": "Le titre avait clôturé hier autour de 121,95 €, en nette hausse avec le rebond des semi-conducteurs, et se maintenait vers 122 à 123 € en séance aujourd'hui."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Le titre recule d'environ 0,4 % vers 173,7 € en séance, à la veille de son chiffre d'affaires du troisième trimestre."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Après son bond d'environ 7 % hier, le titre attend ses résultats du troisième trimestre demain avant l'ouverture."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Stellantis",
+          "isin": "NL00150001Q9",
+          "risque": "Élevé",
+          "prix": "≈ 4,3 € la part",
+          "texte": "Le constructeur a bondi d'environ 15 % aujourd'hui après des résultats trimestriels meilleurs qu'attendu, un bon exemple du poids du consensus. Sa part à moins de 5 € est accessible à un petit budget sur un PEA, sans fraction. Le principal risque est le secteur automobile, très cyclique, avec des volumes de ventes qui reculent encore d'environ 1 % sur un an et un titre qui a beaucoup varié ces derniers mois."
+        },
+        {
+          "nom": "Capgemini",
+          "isin": "FR0000125338",
+          "risque": "Modéré",
+          "prix": "≈ 90 € la part (dernier cours vérifié en avril, à revérifier)",
+          "texte": "Le groupe de services numériques relève ses prévisions de croissance 2026 à 8,5 à 9 %, portées par la demande autour de l'IA. C'est une façon plus diversifiée de s'exposer à ce thème que les fabricants de puces. Le principal risque est la pression sur les marges, avec un résultat net semestriel en recul de 31 % à cause du plan de restructuration, et un cours qui peut réagir fort à ses publications."
+        },
+        {
+          "nom": "Engie",
+          "isin": "FR0010208488",
+          "risque": "Modéré",
+          "prix": "≈ 23 € la part (cours du 30 septembre, à revérifier)",
+          "texte": "Avec un pétrole autour de 115 $, l'énergie reste au centre de l'actualité, et Engie, qui relève sa prévision de résultat net récurrent 2026 à 4,9 à 5,5 milliards d'euros, publie ses résultats le 5 novembre. L'action est souvent suivie pour son dividende, ce qui en fait un profil plus calme. Le principal risque est la météo douce, qui pèse sur ses volumes en France, et la sensibilité aux taux élevés."
+        }
+      ],
+      "idee": {
+        "nom": "Stellantis",
+        "isin": "NL00150001Q9",
+        "risque": "Élevé",
+        "prix": "≈ 4,3 € la part",
+        "texte": "Le constructeur a bondi d'environ 15 % aujourd'hui après des résultats trimestriels meilleurs qu'attendu, un bon exemple du poids du consensus. Sa part à moins de 5 € est accessible à un petit budget sur un PEA, sans fraction. Le principal risque est le secteur automobile, très cyclique, avec des volumes de ventes qui reculent encore d'environ 1 % sur un an et un titre qui a beaucoup varié ces derniers mois."
+      },
+      "concept": {
+        "terme": "Le consensus des analystes",
+        "texte": "Le consensus est la moyenne des prévisions publiées par les analystes financiers sur une entreprise, par exemple son chiffre d'affaires ou son bénéfice du trimestre. Il sert de repère au marché : une société qui fait mieux que ce consensus voit souvent son cours monter, et l'inverse si elle déçoit. C'est ce qui s'est passé aujourd'hui avec Dassault Systèmes, qui a relevé ses objectifs mais pas assez aux yeux des analystes, et recule d'environ 4,5 %. Un bon résultat ne suffit donc pas, c'est l'écart avec ce que le marché attendait qui compte. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "BFM Bourse (Tradingsat) : définition du consensus ⚠️",
+            "url": "https://www.tradingsat.com/lexique-boursier/definition-consensus-46.html"
+          },
+          {
+            "titre": "Boursedescredits : définition du consensus ⚠️",
+            "url": "https://www.boursedescredits.com/lexique-definition-consensus-1115.php"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-10-29",
+          "titre": "BCE : décision sur les taux"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "STMicroelectronics, Air Liquide, Amundi : résultats du 3e trimestre"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "États-Unis : PIB du 3e trimestre et indice PCE"
+        },
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        },
+        {
+          "date": "2026-11-05",
+          "titre": "Engie : résultats des neuf premiers mois"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : La Bourse de Paris termine à l'équilibre avant la Fed et la BCE",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-a-l-equilibre-avant-la-fed-et-la-bce-9658d4f2f07a5755904ee891ed458cab"
+        },
+        {
+          "titre": "Boursorama : Le CAC 40 freiné, Stellantis en pole position",
+          "url": "https://www.boursorama.com/bourse/actualites/le-cac-40-freine-stellantis-en-pole-position-81f6e1fbb42c34e1611ef26b42005fbe"
+        },
+        {
+          "titre": "Yahoo Finance : la Fed maintient ses taux (10 voix contre 2)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-080642111.html"
+        }
+      ]
+    },
+    {
       "date": "2026-10-27",
       "titre": "Paris gagne 0,51 % avec le rebond des semi-conducteurs et le recul du pétrole, à la veille de la Fed",
       "resume": "Le CAC 40 a fini à 7 887,14 points (+0,51 %), aidé par un pétrole en repli et par le retour des acheteurs sur la tech : STMicroelectronics a bondi d'environ 7 %. HSBC et ses résultats ont pesé sur les banques européennes en début de séance. À Wall Street, les indices progressent avant la décision de la Fed demain soir, et Boeing recule d'environ 10 %.",
