@@ -234,3 +234,15 @@ Le consensus est la moyenne des prévisions publiées par les analystes financie
 - [Boursedescredits : définition du consensus ⚠️](https://www.boursedescredits.com/lexique-definition-consensus-1115.php)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le résultat net ajusté ?
+
+_2026-10-29 20:01 CET_
+
+Le résultat net ajusté est un bénéfice que l'entreprise recalcule en retirant certains éléments jugés exceptionnels ou sans lien avec son activité courante, comme des frais de restructuration, des dépréciations ou l'effet des variations de stocks de pétrole. Il sert à comparer plus facilement les trimestres entre eux. Aujourd'hui, TotalEnergies a publié un résultat net ajusté de 9,1 milliards de dollars, et STMicroelectronics un résultat d'exploitation hors normes comptables américaines de 429 millions de dollars, au-dessus des attentes. Ces chiffres ne sont pas ceux des comptes officiels : l'entreprise choisit ce qu'elle retire, donc il faut toujours regarder la réconciliation avec le résultat publié. L'AMF impose d'ailleurs que ces indicateurs ne soient pas plus mis en avant que les comptes. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [AMF : position-recommandation DOC-2015-12, indicateurs alternatifs de performance ⚠️](https://www.amf-france.org/fr/reglementation/doctrine/doc-2015-12)
+- [Investopedia : Non-GAAP ⚠️](https://www.investopedia.com/terms/n/non-gaap.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

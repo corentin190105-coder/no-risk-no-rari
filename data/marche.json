@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-28T20:00:00+01:00",
-    "resume": "Mercredi 28 octobre 2026 : le CAC 40 termine à l'équilibre (7 886,96 points) avant la décision de la Fed, maintenue à l'unanimité moins deux voix, et celle de la BCE demain. Stellantis bondit d'environ 15 %, Dassault Systèmes recule de 4,5 %. Faute de cours de clôture fiables ce soir pour tes lignes, les prix de tes ETF et de STMicroelectronics sont ceux de la dernière séance confirmée ; résultats de STMicroelectronics, Air Liquide et Amundi demain."
+    "date": "2026-10-29T20:15:00+01:00",
+    "resume": "Jeudi 29 octobre 2026 : le CAC 40 gagne environ 1 % à 7 970 points après le maintien des taux de la BCE (dépôt à 2,50 %) et l'annonce du départ de Christine Lagarde en février 2027. STMicroelectronics publie des résultats au-dessus des attentes et relève ses prévisions, TotalEnergies affiche un bénéfice record. Faute de cours de clôture fiables pour tes lignes, les prix restent ceux de la dernière séance confirmée."
   },
   "actifs": [
     {
@@ -50,12 +50,7 @@
       "nom": "Air Liquide",
       "pea": true,
       "potentiel": "La façon la plus sûre de s'exposer à l'hydrogène dans un PEA. Le plan BEYOND présenté le 5 octobre 2026 vise environ 5 % de croissance des ventes par an et 10 % de hausse du bénéfice par action jusqu'en 2030, avec un premier rachat d'actions de 4 milliards d'euros en 2027-2028.",
-      "rendezvous": [
-        {
-          "date": "2026-10-29",
-          "titre": "Chiffre d'affaires du troisième trimestre 2026"
-        }
-      ],
+      "rendezvous": [],
       "risque": "Modéré",
       "risques": "Croissance plus lente qu'un pari pur. Le secteur hydrogène reste difficile en Bourse et ses spécialistes sont souvent déficitaires.",
       "secteur": "Gaz industriels · hydrogène",
@@ -140,10 +135,6 @@
       "pea": true,
       "potentiel": "Meilleur semestre de son histoire au S1 2026 avec 56,4 milliards d'euros collectés. Dividende 2025 de 4,25 € par action, soit environ 5,5 % de rendement.",
       "rendezvous": [
-        {
-          "date": "2026-10-29",
-          "titre": "Résultats du troisième trimestre et des neuf mois 2026"
-        },
         {
           "date": "2027-02-02",
           "titre": "Résultats annuels 2026"
@@ -507,6 +498,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-10-29",
+          "titre": "STMicroelectronics publie un chiffre d'affaires de 3,76 milliards de dollars au 3e trimestre et prévoit environ 4,15 milliards pour le 4e",
+          "url": "https://www.globenewswire.com/news-release/2026/10/29/3390920/0/fr/stmicroelectronics-annonce-ses-r%C3%A9sultats-financiers-du-troisi%C3%A8me-trimestre-2026.html"
+        },
+        {
           "date": "2026-10-27",
           "titre": "STMicroelectronics s'envole d'environ 7 % à Paris, les semi-conducteurs sont rachetés avant les résultats du 29 octobre",
           "url": "https://www.boursorama.com/bourse/actualites/la-tech-reprend-la-main-paris-suit-le-mouvement-41c47ef105516e98655b497a4b70ea06"
@@ -530,11 +526,6 @@
           "date": "2026-10-16",
           "titre": "STMicroelectronics se stabilise autour de 41,3 € en séance après deux jours de forte baisse ; le titre cède plus de 11 % sur la semaine",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-a-l-equilibre-apres-une-semaine-de-soubresauts-9d2208818c0261344a374b89f8f5d555"
-        },
-        {
-          "date": "2026-10-15",
-          "titre": "STMicroelectronics recule d'environ 4 % dans la chute mondiale des valeurs liées à l'IA et des puces asiatiques, avec des pertes de plus de 7 % en milieu de séance",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-le-repli-des-valeurs-liees-a-l-ia-l-oreal-et-hermes-soutiennent-le-cac-40-qui-gagne-pres-de-08-1171850.html"
         }
       ],
       "isin": "NL0000226223",
@@ -542,12 +533,7 @@
       "nom": "STMicroelectronics",
       "pea": true,
       "potentiel": "Revenus data centers IA visés au-dessus de 1 milliard de dollars en 2026 et bien au-dessus de 2 milliards en 2027, dont environ 80 % viendront des puces de liaisons par fibre optique. Le cycle des semi-conducteurs repart (stocks des distributeurs bas) et la direction vise une marge brute de 44 à 46 %.",
-      "rendezvous": [
-        {
-          "date": "2026-10-29",
-          "titre": "Résultats du troisième trimestre 2026 (avant l'ouverture, conférence à 9h30)"
-        }
-      ],
+      "rendezvous": [],
       "risque": "Élevé",
       "risques": "Dépendance à l'automobile. Le 23 juillet 2026, l'action a chuté de 15 % malgré de bons résultats car la prévision était légèrement sous les attentes : ce sont les prévisions qui font le cours. Sensible aux annonces sur l'IA (-6,6 % le 14 septembre).",
       "secteur": "Semi-conducteurs",
@@ -605,12 +591,6 @@
     }
   ],
   "agenda": [
-    {
-      "id": "thales-t3-2026",
-      "date": "2026-10-21",
-      "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre",
-      "detail": "Premier test du rythme des commandes défense après un premier semestre très fort"
-    },
     {
       "id": "nexans-t3-2026",
       "date": "2026-10-22",
@@ -770,6 +750,11 @@
     },
     {
       "d": "2026-10-28",
+      "valeur": 375.48,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-29",
       "valeur": 375.48,
       "investi": 399.2
     }

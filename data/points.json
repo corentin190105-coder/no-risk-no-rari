@@ -1,6 +1,162 @@
 {
   "points": [
     {
+      "date": "2026-10-29",
+      "titre": "Paris gagne 1 % à 7 970 points, la BCE reste immobile et Christine Lagarde annonce son départ",
+      "resume": "Le CAC 40 progresse d'environ 1,05 % à 7 970 points, soutenu par une série de résultats d'entreprises bien accueillis (Renault, Dassault Systèmes, TotalEnergies, STMicroelectronics). La BCE laisse son taux de dépôt à 2,50 % et Christine Lagarde annonce quitter la présidence en février 2027, tandis que Wall Street ouvre en baisse à cause d'Alphabet.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "≈ 7 970 pts",
+          "variation": 1.05
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "cours non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "≈ 7 704 pts (à l'ouverture, séance en cours)",
+          "variation": -0.51
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "≈ 26 187 pts (Composite, à l'ouverture)",
+          "variation": -1.37
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 114,23 $ (relevé en séance)",
+          "variation": -0.1
+        },
+        {
+          "nom": "Or",
+          "valeur": "cours non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "cours non confirmé ce soir",
+          "variation": 0.0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Banques centrales",
+          "texte": "La BCE a laissé ses taux inchangés : dépôt à 2,50 %, refinancement à 2,65 % et prêt marginal à 2,90 %, après deux hausses cette année. Christine Lagarde a annoncé qu'elle quitterait la présidence le 7 février 2027, neuf mois avant la fin de son mandat. La Fed, elle, avait maintenu hier sa fourchette de 3,75 à 4,00 %."
+        },
+        {
+          "titre": "Croissance et inflation américaines",
+          "texte": "Le PIB américain a progressé de 3,4 % en rythme annuel au troisième trimestre, plus que prévu. L'indice PCE, la mesure d'inflation préférée de la Fed, a accéléré à 3,6 % sur un an en septembre, conformément aux attentes."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "La guerre au Moyen-Orient maintient le Brent autour de 114 $, ce qui nourrit l'inflation et les profits des pétroliers : TotalEnergies annonce un bénéfice net ajusté de 9,1 milliards de dollars sur le trimestre."
+        },
+        {
+          "titre": "Technologie américaine",
+          "texte": "Alphabet chute d'environ 12 % à l'ouverture de Wall Street après des résultats jugés décevants sur ses dépenses liées à l'IA. Le Nasdaq recule d'environ 1,4 % en début de séance."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 375.48,
+        "pv": -23.72,
+        "texte": "Pas de cours de clôture fiable ce soir pour tes trois lignes, donc la valeur reste celle de la dernière séance confirmée. STMicroelectronics a publié de bons résultats, ce qui est plutôt encourageant pour ta ligne la plus volatile."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Résultats du troisième trimestre au-dessus des attentes : 3,76 milliards de dollars de chiffre d'affaires, marge brute de 37,3 % et prévision d'environ 4,15 milliards pour le trimestre prochain. Le titre a ouvert en baisse de 3,7 % avant de revenir proche de l'équilibre, vers 43,6 €."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Publication de son chiffre d'affaires du troisième trimestre, et le titre figure parmi les valeurs qui ont porté le CAC 40 aujourd'hui."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "TotalEnergies",
+          "isin": "FR0000120271",
+          "risque": "Modéré",
+          "prix": "≈ 85 € la part",
+          "texte": "Le groupe a publié aujourd'hui un résultat net ajusté de 9,1 milliards de dollars au troisième trimestre, soit 127 % de plus qu'un an plus tôt, porté par un Brent autour de 114 $. Le titre gagne environ 1 % à 1,7 % à Paris et le consensus d'analystes se situe vers 88 €. Le principal risque est une baisse du pétrole si les tensions au Moyen-Orient s'apaisent, ce qui réduirait vite les bénéfices attendus."
+        },
+        {
+          "nom": "Renault",
+          "isin": "FR0000131906",
+          "risque": "Élevé",
+          "prix": "≈ 28 € la part",
+          "texte": "Le constructeur a bondi d'environ 6,9 % à 28,17 € après un chiffre d'affaires trimestriel supérieur aux attentes, en tête du CAC 40 aujourd'hui. C'est un exemple de saison de résultats où une bonne surprise relance un titre longtemps délaissé. Le secteur automobile reste cyclique et sensible aux taux élevés et au coût de l'énergie, et un rebond rapide peut s'effacer aussi vite."
+        },
+        {
+          "nom": "Valeo",
+          "isin": "FR0013176526",
+          "risque": "Très élevé",
+          "prix": "≈ 11 à 12 € la part",
+          "texte": "L'équipementier a chuté d'environ 17 % après son chiffre d'affaires du troisième trimestre en baisse de 2,3 %, tout en confirmant ses objectifs 2026. Le titre, vers 11,4 € le 26 octobre, offre une part accessible pour un petit budget, mais c'est un pari sur un redressement qui n'est pas acquis. Le risque principal est une nouvelle déception, avec des ventes en recul en Europe et en Chine ; la volatilité est forte."
+        }
+      ],
+      "idee": {
+        "nom": "TotalEnergies",
+        "isin": "FR0000120271",
+        "risque": "Modéré",
+        "prix": "≈ 85 € la part",
+        "texte": "Le groupe a publié aujourd'hui un résultat net ajusté de 9,1 milliards de dollars au troisième trimestre, soit 127 % de plus qu'un an plus tôt, porté par un Brent autour de 114 $. Le titre gagne environ 1 % à 1,7 % à Paris et le consensus d'analystes se situe vers 88 €. Le principal risque est une baisse du pétrole si les tensions au Moyen-Orient s'apaisent, ce qui réduirait vite les bénéfices attendus."
+      },
+      "concept": {
+        "terme": "Le résultat net ajusté",
+        "texte": "Le résultat net ajusté est un bénéfice que l'entreprise recalcule en retirant certains éléments jugés exceptionnels ou sans lien avec son activité courante, comme des frais de restructuration, des dépréciations ou l'effet des variations de stocks de pétrole. Il sert à comparer plus facilement les trimestres entre eux. Aujourd'hui, TotalEnergies a publié un résultat net ajusté de 9,1 milliards de dollars, et STMicroelectronics un résultat d'exploitation hors normes comptables américaines de 429 millions de dollars, au-dessus des attentes. Ces chiffres ne sont pas ceux des comptes officiels : l'entreprise choisit ce qu'elle retire, donc il faut toujours regarder la réconciliation avec le résultat publié. L'AMF impose d'ailleurs que ces indicateurs ne soient pas plus mis en avant que les comptes. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "AMF : position-recommandation DOC-2015-12, indicateurs alternatifs de performance ⚠️",
+            "url": "https://www.amf-france.org/fr/reglementation/doctrine/doc-2015-12"
+          },
+          {
+            "titre": "Investopedia : Non-GAAP ⚠️",
+            "url": "https://www.investopedia.com/terms/n/non-gaap.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-11-02",
+          "titre": "Forvia : chiffre d'affaires du 3e trimestre"
+        },
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        },
+        {
+          "date": "2026-11-18",
+          "titre": "Soitec : résultats du 1er semestre (date à confirmer)"
+        },
+        {
+          "date": "2026-12-17",
+          "titre": "BCE : prochaine décision sur les taux"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : La BCE maintient ses taux, focus sur l'après-Lagarde",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/la-bce-maintient-ses-taux-focus-sur-l-apres-lagarde-85fa5968dfdf52496264aebed23b00ce"
+        },
+        {
+          "title": "Boursorama : STMicroelectronics, bénéfice en hausse au 3e trimestre",
+          "url": "https://www.boursorama.com/bourse/actualites/stmicroelectronics-benefice-en-hausse-au-3e-trimestre-ses-previsions-relevees-7f93348aef5536196341409cb81b895d"
+        },
+        {
+          "title": "Boursorama : TotalEnergies publie un bénéfice net record",
+          "url": "https://boursorama.com/bourse/actualites/totalenergies-publie-un-benefice-net-record-porte-par-l-envolee-des-prix-des-hydrocarbures-4ffde4a759a74961fe54b83c4750f32b"
+        },
+        {
+          "title": "Boursorama : Wall Street ouvre dans le rouge, la tech pénalisée par Alphabet",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-dans-le-rouge-la-tech-penalisee-par-alphabet-0b6cf4e018d698c7834ff1125034b701"
+        }
+      ]
+    },
+    {
       "date": "2026-10-28",
       "titre": "Paris stable à 7 887 points avant la Fed et la BCE, Stellantis s'envole et Dassault Systèmes chute",
       "resume": "Le CAC 40 termine quasiment inchangé à 7 886,96 points, dans une séance attentiste avant la décision de la Fed ce soir, maintenue avec dix voix contre deux, et celle de la BCE demain. Stellantis gagne environ 15 % après de bons résultats, tandis que Dassault Systèmes perd 4,5 % pour un relèvement d'objectifs jugé trop timide.",
