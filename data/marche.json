@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-29T20:15:00+01:00",
-    "resume": "Jeudi 29 octobre 2026 : le CAC 40 gagne environ 1 % à 7 970 points après le maintien des taux de la BCE (dépôt à 2,50 %) et l'annonce du départ de Christine Lagarde en février 2027. STMicroelectronics publie des résultats au-dessus des attentes et relève ses prévisions, TotalEnergies affiche un bénéfice record. Faute de cours de clôture fiables pour tes lignes, les prix restent ceux de la dernière séance confirmée."
+    "date": "2026-10-30T20:15:00+01:00",
+    "resume": "Vendredi 30 octobre 2026 : le CAC 40 termine stable à 7 969 points (-0,01 %) et gagne 2,4 % sur la semaine. Les semi-conducteurs décrochent après les résultats décevants d'Intel et d'Amazon : STMicroelectronics perd 5,3 % à 41,88 € et Soitec chute aussi, mais Sanofi (+4,7 %) soutient l'indice. Faute de cours de clôture fiables pour Soitec et les ETF, leurs prix restent ceux de la dernière séance confirmée."
   },
   "actifs": [
     {
@@ -225,6 +225,11 @@
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
         {
+          "date": "2026-10-30",
+          "titre": "Soitec chute lourdement dans le sillage des semi-conducteurs, plombés par les doutes sur la rentabilité des dépenses en IA (cours de clôture non confirmé)",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026"
+        },
+        {
           "date": "2026-10-26",
           "titre": "Soitec rebondit d'environ 5 % à 117,30 € après deux séances de baisse, dans un marché des puces plus détendu",
           "url": "https://www.boursorama.com/cours/1rPSOI/"
@@ -248,11 +253,6 @@
           "date": "2026-10-15",
           "titre": "Soitec lâche près de 8 % dans le sillage de Séoul et des semi-conducteurs, sans annonce de la société",
           "url": "https://www.zonebourse.com/actualite-bourse/sbf-120-stmicroelectronics-et-soitec-perdent-plus-de-6-dans-le-sillage-de-la-chute-des-valeurs-as-ce785dd3d880f324"
-        },
-        {
-          "date": "2026-10-14",
-          "titre": "Soitec gagne environ 4,6 % dans le rebond des semi-conducteurs après les résultats d'ASML (cours estimé à partir de la variation de séance)",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-avec-asml-wall-street-dans-le-rouge-apres-l-inflation-americaine-1208405b9f1064b632681fc0cf26819d"
         }
       ],
       "isin": "FR0013227113",
@@ -498,6 +498,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-10-30",
+          "titre": "STMicroelectronics recule d'environ 5,3 % à 41,88 € dans une chute générale des semi-conducteurs, après les résultats décevants d'Intel et d'Amazon aux États-Unis",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026"
+        },
+        {
           "date": "2026-10-29",
           "titre": "STMicroelectronics publie un chiffre d'affaires de 3,76 milliards de dollars au 3e trimestre et prévoit environ 4,15 milliards pour le 4e",
           "url": "https://www.globenewswire.com/news-release/2026/10/29/3390920/0/fr/stmicroelectronics-annonce-ses-r%C3%A9sultats-financiers-du-troisi%C3%A8me-trimestre-2026.html"
@@ -521,11 +526,6 @@
           "date": "2026-10-22",
           "titre": "STMicroelectronics recule de près de 5 % à 39,96 € dans une séance difficile pour les semi-conducteurs européens",
           "url": "https://www.zonebourse.com/cours/action/STMICROELECTRONICS-N-V-4710/"
-        },
-        {
-          "date": "2026-10-16",
-          "titre": "STMicroelectronics se stabilise autour de 41,3 € en séance après deux jours de forte baisse ; le titre cède plus de 11 % sur la semaine",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-a-l-equilibre-apres-une-semaine-de-soubresauts-9d2208818c0261344a374b89f8f5d555"
         }
       ],
       "isin": "NL0000226223",
@@ -583,20 +583,18 @@
         {
           "d": "2026-10-27",
           "p": 43.36
+        },
+        {
+          "d": "2026-10-30",
+          "p": 41.88
         }
       ],
-      "prix": 43.36,
-      "prixDate": "2026-10-27",
-      "variationJour": 7.06
+      "prix": 41.88,
+      "prixDate": "2026-10-30",
+      "variationJour": -5.26
     }
   ],
   "agenda": [
-    {
-      "id": "nexans-t3-2026",
-      "date": "2026-10-22",
-      "titre": "Nexans : chiffre d'affaires du 3e trimestre",
-      "detail": "Date indiquée par les agendas boursiers ; le câblier a relevé sa prévision d'EBITDA annuel cet été"
-    },
     {
       "id": "safran-t3-2026",
       "date": "2026-10-23",
@@ -644,6 +642,12 @@
       "date": "2026-11-03",
       "titre": "États-Unis : élections de mi-mandat",
       "detail": "Échéance politique citée par Donald Trump dans le dossier iranien ; elle peut alimenter la volatilité des marchés"
+    },
+    {
+      "id": "ez-flash-hicp-2026-10",
+      "date": "2026-11-04",
+      "titre": "Zone euro : estimation rapide de l'inflation d'octobre",
+      "detail": "Date indiquée par Eurostat ; l'inflation était de 3,8 % en septembre, tirée par l'énergie"
     },
     {
       "id": "soitec-s1-2026",
@@ -756,6 +760,11 @@
     {
       "d": "2026-10-29",
       "valeur": 375.48,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-30",
+      "valeur": 372.52,
       "investi": 399.2
     }
   ]

@@ -246,3 +246,15 @@ Le résultat net ajusté est un bénéfice que l'entreprise recalcule en retiran
 - [Investopedia : Non-GAAP ⚠️](https://www.investopedia.com/terms/n/non-gaap.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que la consommation de trésorerie (cash burn) ?
+
+_2026-10-30 20:00 CET_
+
+La consommation de trésorerie, ou « cash burn », mesure l'argent qu'une entreprise dépense chaque période en plus de ce qu'elle encaisse. Quand elle est élevée, l'entreprise doit puiser dans ses réserves, s'endetter ou lever de l'argent auprès des actionnaires. Aujourd'hui, Intel a annoncé une forte consommation de trésorerie et Amazon a déçu, ce qui a ravivé les doutes sur la rentabilité des énormes investissements dans l'IA et fait reculer toute la tech, y compris les semi-conducteurs européens comme STMicroelectronics. Un cash burn n'est pas toujours mauvais, par exemple pour une jeune entreprise qui investit pour grandir, mais il devient inquiétant s'il dure sans que les revenus suivent. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [Investopedia : Burn rate ⚠️](https://www.investopedia.com/terms/b/burnrate.asp)
+- [Investopedia : Free cash flow ⚠️](https://www.investopedia.com/terms/f/freecashflow.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

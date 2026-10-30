@@ -1,6 +1,158 @@
 {
   "points": [
     {
+      "date": "2026-10-30",
+      "titre": "Le CAC 40 reste stable, mais les semi-conducteurs et le Nasdaq plongent après Intel et Amazon",
+      "resume": "Le CAC 40 termine quasi inchangé à 7 969 points et gagne 2,4 % sur la semaine, soutenu par Sanofi alors que STMicroelectronics et Soitec décrochent. Aux États-Unis, les résultats décevants d'Intel et d'Amazon relancent les doutes sur la rentabilité de l'IA et le Nasdaq chute de plus de 3 % en séance. Le pétrole remonte, avec un Brent autour de 114 $.",
+      "humeur": "baisse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 969 pts",
+          "variation": -0.01
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "cours non confirmé ce soir",
+          "variation": 0.0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "valeur non confirmée (variation en séance)",
+          "variation": -2.08
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "valeur non confirmée (variation en séance)",
+          "variation": -3.37
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 113,6 $",
+          "variation": 2.51
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 3 900 $ (sources divergentes)",
+          "variation": -3.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,115",
+          "variation": 0.0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Technologie et IA",
+          "texte": "Intel a publié une forte consommation de trésorerie et Amazon a déçu, ce qui a déclenché une vague de ventes sur la tech à Wall Street et en Europe. Les investisseurs se demandent si les dépenses massives dans l'IA seront rentables."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent remonte d'environ 2,5 % vers 113,6 $, porté par les tensions au Moyen-Orient et les discussions entre les États-Unis et l'Iran. Un pétrole cher entretient l'inflation et pèse sur les entreprises consommatrices d'énergie."
+        },
+        {
+          "titre": "Inflation",
+          "texte": "L'inflation de la zone euro est ressortie à 3,8 % en septembre, avec une énergie en forte hausse sur un an. La prochaine estimation rapide, celle d'octobre, est attendue le 4 novembre."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "La BCE a laissé hier son taux de dépôt à 2,50 % et Christine Lagarde a annoncé son départ en 2027. La Fed garde sa fourchette de 3,75 à 4,00 %, et le marché surveille de près une éventuelle hausse des taux."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 372.52,
+        "pv": -26.68,
+        "texte": "Ton portefeuille recule surtout à cause de STMicroelectronics (-5,3 % à 41,88 €), entraînée par la chute des semi-conducteurs. Les deux ETF n'ont pas de cours de clôture confirmé ce soir : leur valeur reste celle de la dernière séance confirmée."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre perd environ 5,3 % à 41,88 €, parmi les plus fortes baisses du CAC 40, dans le sillage des résultats décevants d'Intel et d'Amazon."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "Le titre chute lourdement avec les semi-conducteurs, sans annonce de la société (cours de clôture non confirmé)."
+        },
+        {
+          "nom": "Sanofi",
+          "texte": "Valeur suivie : +4,7 % à 79,74 € après des résultats trimestriels bien supérieurs aux attentes, première hausse du CAC 40."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Orange",
+          "isin": "FR0000133308",
+          "risque": "Modéré",
+          "prix": "≈ 14 € la part",
+          "texte": "L'opérateur a relevé fin octobre son objectif de croissance d'EBITDAaL pour 2026 (plus de 4,5 %), grâce à l'Afrique et au Moyen-Orient. Dans une journée où la tech et l'IA inquiètent, c'est une valeur plus défensive, avec un dividende prévu de 0,79 € par action. Elle est aussi abordable pour un petit budget, une part valant environ 14 €. Le principal risque est une France qui progresse à peine (+0,5 %) et une dette importante."
+        },
+        {
+          "nom": "Sanofi",
+          "isin": "FR0000120578",
+          "risque": "Modéré",
+          "prix": "≈ 80 € la part",
+          "texte": "Le laboratoire a pris la tête du CAC 40 aujourd'hui (+4,7 % à 79,74 €) après des résultats trimestriels nettement supérieurs aux attentes. La santé est un secteur peu lié à la bulle de l'IA, ce qui l'intéresse quand les valeurs technologiques reculent. Attention : en juillet, le titre avait chuté de plus de 7 % malgré de bons chiffres, car le marché attendait mieux. Le risque principal reste donc la dépendance à quelques médicaments et l'écart avec les attentes."
+        },
+        {
+          "nom": "BNP Paribas Easy Bloomberg Europe Defense UCITS ETF",
+          "isin": "LU3047998896",
+          "risque": "Élevé",
+          "prix": "≈ 12 € la part (dernier cours relevé, à vérifier)",
+          "texte": "Cet ETF regroupe des entreprises européennes de défense et reste l'un des rares du secteur éligibles au PEA, avec des frais de 0,18 % par an. Avec un Brent autour de 114 $ et les tensions au Moyen-Orient, la défense reste un thème d'actualité, et une part à environ 12 € convient à un petit budget. Il permet aussi de se diversifier sans choisir une seule action. Le risque principal est la dépendance aux budgets militaires et aux annonces politiques : le secteur peut se retourner vite en cas de paix. Vérifie le cours et l'éligibilité sur ton courtier avant toute décision."
+        }
+      ],
+      "idee": {
+        "nom": "Orange",
+        "isin": "FR0000133308",
+        "risque": "Modéré",
+        "prix": "≈ 14 € la part",
+        "texte": "L'opérateur a relevé fin octobre son objectif de croissance d'EBITDAaL pour 2026 (plus de 4,5 %), grâce à l'Afrique et au Moyen-Orient. Dans une journée où la tech et l'IA inquiètent, c'est une valeur plus défensive, avec un dividende prévu de 0,79 € par action. Elle est aussi abordable pour un petit budget, une part valant environ 14 €. Le principal risque est une France qui progresse à peine (+0,5 %) et une dette importante."
+      },
+      "concept": {
+        "terme": "La consommation de trésorerie (cash burn)",
+        "texte": "La consommation de trésorerie, ou « cash burn », mesure l'argent qu'une entreprise dépense chaque période en plus de ce qu'elle encaisse. Quand elle est élevée, l'entreprise doit puiser dans ses réserves, s'endetter ou lever de l'argent auprès des actionnaires. Aujourd'hui, Intel a annoncé une forte consommation de trésorerie et Amazon a déçu, ce qui a ravivé les doutes sur la rentabilité des énormes investissements dans l'IA et fait reculer toute la tech, y compris les semi-conducteurs européens comme STMicroelectronics. Un cash burn n'est pas toujours mauvais, par exemple pour une jeune entreprise qui investit pour grandir, mais il devient inquiétant s'il dure sans que les revenus suivent. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "Investopedia : Burn rate ⚠️",
+            "url": "https://www.investopedia.com/terms/b/burnrate.asp"
+          },
+          {
+            "titre": "Investopedia : Free cash flow ⚠️",
+            "url": "https://www.investopedia.com/terms/f/freecashflow.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        },
+        {
+          "date": "2026-11-04",
+          "titre": "Zone euro : estimation rapide de l'inflation d'octobre"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "MoneyVox : journal de la Bourse du 30 octobre 2026",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026"
+        },
+        {
+          "titre": "Boursorama : les Bourses mondiales achèvent octobre sur une chute de la tech",
+          "url": "https://www.boursorama.com/bourse/actualites/les-bourses-mondiales-achevent-le-mois-d-octobre-sur-une-chute-de-la-tech-fc2e2f2ec4da1e899a68bff187749b4d"
+        },
+        {
+          "titre": "Option Finance : inflation zone euro en septembre",
+          "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-16-zone-euro-linflation-confirmee-a-38-en-septembre.html"
+        },
+        {
+          "titre": "Orange relève son objectif 2026 (BFM Bourse)",
+          "url": "https://www.tradingsat.com/orange-FR0000133308/actualites/orange-grace-a-une-acceleration-au-troisieme-trimestre-orange-releve-un-objectif-1172488.html"
+        }
+      ]
+    },
+    {
       "date": "2026-10-29",
       "titre": "Paris gagne 1 % à 7 970 points, la BCE reste immobile et Christine Lagarde annonce son départ",
       "resume": "Le CAC 40 progresse d'environ 1,05 % à 7 970 points, soutenu par une série de résultats d'entreprises bien accueillis (Renault, Dassault Systèmes, TotalEnergies, STMicroelectronics). La BCE laisse son taux de dépôt à 2,50 % et Christine Lagarde annonce quitter la présidence en février 2027, tandis que Wall Street ouvre en baisse à cause d'Alphabet.",
