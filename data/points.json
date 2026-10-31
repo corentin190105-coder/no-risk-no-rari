@@ -1,6 +1,158 @@
 {
   "points": [
     {
+      "date": "2026-10-31",
+      "titre": "Marchés fermés : la tech termine octobre sur une forte baisse, tous les regards vers l'inflation du 4 novembre",
+      "resume": "Ce samedi, les marchés sont fermés et le point reprend la clôture de vendredi : le CAC 40 finit stable à 7 969 points, mais les semi-conducteurs et le Nasdaq ont chuté après les résultats d'Intel et d'Amazon. Le bilan hebdomadaire reste positif pour le CAC 40 (+2,4 %). La semaine prochaine sera chargée avec l'inflation de la zone euro et les élections américaines.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 969 pts (clôture de vendredi)",
+          "variation": -0.01
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "cours non confirmé",
+          "variation": 0.0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "valeur non confirmée (variation de vendredi en séance)",
+          "variation": -2.08
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "valeur non confirmée (variation de vendredi en séance)",
+          "variation": -3.37
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 113,6 $ (vendredi)",
+          "variation": 2.51
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 3 900 $ (sources divergentes)",
+          "variation": -3.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,115",
+          "variation": 0.0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Technologie et IA",
+          "texte": "Les résultats d'Intel et d'Amazon ont relancé les doutes sur la rentabilité des dépenses dans l'IA. Les semi-conducteurs européens, dont STMicroelectronics, en ont fait les frais vendredi."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent reste très élevé, autour de 113 $, avec les tensions entre les États-Unis et l'Iran. Les élections américaines de mi-mandat du 3 novembre peuvent ajouter de la volatilité."
+        },
+        {
+          "titre": "Inflation",
+          "texte": "L'inflation de la zone euro était de 3,8 % en septembre, tirée par l'énergie. L'estimation rapide d'octobre, attendue le 4 novembre, sera le prochain repère."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "La BCE a laissé son taux de dépôt à 2,50 % jeudi et la Fed garde sa fourchette de 3,75 à 4,00 %. Le marché surveille toujours le risque d'une nouvelle hausse des taux."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 372.52,
+        "pv": -26.68,
+        "texte": "Aucune cotation ce week-end : ton portefeuille reste à la valeur de vendredi, soit une moins-value de 26,68 € sur 399,20 € investis. Elle vient surtout de STMicroelectronics (41,88 € contre 50,31 € à ton achat)."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre a fini la semaine à 41,88 € après une baisse de 5,3 % vendredi, entraîné par la chute des semi-conducteurs."
+        },
+        {
+          "nom": "Exosens",
+          "texte": "Suivie pour le thème défense : ventes du 3e trimestre en hausse de 23,5 % mais action en recul d'environ 6,5 % le 27 octobre."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Infineon Technologies",
+          "isin": "DE0006231004",
+          "risque": "Élevé",
+          "prix": "≈ 60 € la part (dernier cours trouvé, début août, à vérifier)",
+          "texte": "Infineon fabrique des puces de puissance pour l'automobile, l'industrie et les serveurs d'IA, et vise 1,5 milliard d'euros de revenus liés à l'IA dès 2026. Après la chute des semi-conducteurs de vendredi, le titre est dans le viseur avant ses résultats annuels, attendus le 10 novembre. Le principal risque est un nouveau repli du secteur si l'IA déçoit, le titre ayant déjà beaucoup varié cette année."
+        },
+        {
+          "nom": "Exosens",
+          "isin": "FR001400Q9V2",
+          "risque": "Élevé",
+          "prix": "≈ 55 à 60 € la part (cours exact non confirmé)",
+          "texte": "Exosens fabrique des capteurs et détecteurs optroniques (vision nocturne, imagerie) utilisés dans la défense et le nucléaire. Son chiffre d'affaires du 3e trimestre a progressé de 23,5 % à 133,8 M€ avec des objectifs maintenus, mais l'action a reculé d'environ 6,5 % le 27 octobre, ce qui peut intéresser ceux qui suivent le thème de la défense. Le risque principal est une valorisation exigeante et une marge brute en recul."
+        },
+        {
+          "nom": "BE Semiconductor Industries (Besi)",
+          "isin": "NL0012866412",
+          "risque": "Très élevé",
+          "prix": "≈ 190 € la part (dernier cours trouvé, fin septembre, à vérifier)",
+          "texte": "Besi conçoit des machines d'assemblage de puces avancées, très liées à la demande en IA, et ING reste à l'achat avec un objectif de 310 €. Le secteur vient de subir une forte baisse, ce qui met le titre en observation. Le risque principal est une très forte volatilité : l'action a oscillé entre environ 120 et 328 € sur un an, et une part coûte cher pour un petit budget."
+        }
+      ],
+      "idee": {
+        "nom": "Infineon Technologies",
+        "isin": "DE0006231004",
+        "risque": "Élevé",
+        "prix": "≈ 60 € la part (dernier cours trouvé, début août, à vérifier)",
+        "texte": "Infineon fabrique des puces de puissance pour l'automobile, l'industrie et les serveurs d'IA, et vise 1,5 milliard d'euros de revenus liés à l'IA dès 2026. Après la chute des semi-conducteurs de vendredi, le titre est dans le viseur avant ses résultats annuels, attendus le 10 novembre. Le principal risque est un nouveau repli du secteur si l'IA déçoit, le titre ayant déjà beaucoup varié cette année."
+      },
+      "concept": {
+        "terme": "La correction boursière",
+        "texte": "Une correction boursière est une baisse d'un marché ou d'une valeur d'au moins 10 % depuis son dernier sommet. On la distingue du krach, plus brutal et plus profond, et du marché baissier, qui dépasse en général 20 % de baisse. Les corrections sont fréquentes et font partie du fonctionnement normal des marchés, mais elles peuvent surprendre quand elles arrivent après une longue hausse, comme celle des valeurs de l'IA. Pour un investisseur long terme, une baisse du prix ne devient une perte qu'en cas de vente. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "Investopedia : Market correction ⚠️",
+            "url": "https://www.investopedia.com/terms/c/correction.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        },
+        {
+          "date": "2026-11-04",
+          "titre": "Zone euro : estimation rapide de l'inflation d'octobre"
+        },
+        {
+          "date": "2026-11-06",
+          "titre": "États-Unis : rapport sur l'emploi d'octobre (date habituelle, à confirmer)"
+        },
+        {
+          "date": "2026-11-10",
+          "titre": "Infineon : résultats du 4e trimestre (à confirmer)"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "MoneyVox : journal de la Bourse du 30 octobre 2026",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026"
+        },
+        {
+          "titre": "Boursorama : les Bourses mondiales achèvent octobre sur une chute de la tech",
+          "url": "https://www.boursorama.com/bourse/actualites/les-bourses-mondiales-achevent-le-mois-d-octobre-sur-une-chute-de-la-tech-fc2e2f2ec4da1e899a68bff187749b4d"
+        },
+        {
+          "titre": "AbcBourse : Exosens perd 6,5 % malgré des ventes en hausse",
+          "url": "https://www.abcbourse.com/marches/exosens-perd-6-5-en-bourse-malgre-des-ventes-en-hausse-de-23-5-_704958"
+        },
+        {
+          "titre": "Option Finance : ASML relève ses objectifs annuels",
+          "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-14-asml-revoit-a-la-hausse-ses-objectifs-annuels.html"
+        }
+      ]
+    },
+    {
       "date": "2026-10-30",
       "titre": "Le CAC 40 reste stable, mais les semi-conducteurs et le Nasdaq plongent après Intel et Amazon",
       "resume": "Le CAC 40 termine quasi inchangé à 7 969 points et gagne 2,4 % sur la semaine, soutenu par Sanofi alors que STMicroelectronics et Soitec décrochent. Aux États-Unis, les résultats décevants d'Intel et d'Amazon relancent les doutes sur la rentabilité de l'IA et le Nasdaq chute de plus de 3 % en séance. Le pétrole remonte, avec un Brent autour de 114 $.",

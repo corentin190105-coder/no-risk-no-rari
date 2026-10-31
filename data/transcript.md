@@ -258,3 +258,12 @@ La consommation de trésorerie, ou « cash burn », mesure l'argent qu'une entre
 - [Investopedia : Free cash flow ⚠️](https://www.investopedia.com/terms/f/freecashflow.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que la correction boursière ?
+
+_2026-10-31 19:59 CET_
+
+Une correction boursière est une baisse d'un marché ou d'une valeur d'au moins 10 % depuis son dernier sommet. On la distingue du krach, plus brutal et plus profond, et du marché baissier, qui dépasse en général 20 % de baisse. Les corrections sont fréquentes et font partie du fonctionnement normal des marchés, mais elles peuvent surprendre quand elles arrivent après une longue hausse, comme celle des valeurs de l'IA. Pour un investisseur long terme, une baisse du prix ne devient une perte qu'en cas de vente. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [Investopedia : Market correction ⚠️](https://www.investopedia.com/terms/c/correction.asp)

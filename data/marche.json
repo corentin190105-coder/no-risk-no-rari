@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-30T20:15:00+01:00",
-    "resume": "Vendredi 30 octobre 2026 : le CAC 40 termine stable à 7 969 points (-0,01 %) et gagne 2,4 % sur la semaine. Les semi-conducteurs décrochent après les résultats décevants d'Intel et d'Amazon : STMicroelectronics perd 5,3 % à 41,88 € et Soitec chute aussi, mais Sanofi (+4,7 %) soutient l'indice. Faute de cours de clôture fiables pour Soitec et les ETF, leurs prix restent ceux de la dernière séance confirmée."
+    "date": "2026-10-31T20:30:00+01:00",
+    "resume": "Samedi 31 octobre 2026 : les marchés sont fermés, les cours restent ceux de la clôture du vendredi 30 octobre (aucun cours nouveau n'est inventé). Le CAC 40 avait fini stable à 7 969 points après une chute des semi-conducteurs, avec STMicroelectronics à 41,88 €. Prochains repères : l'inflation de la zone euro le 4 novembre et les résultats d'Infineon le 10 novembre."
   },
   "actifs": [
     {
@@ -596,12 +596,6 @@
   ],
   "agenda": [
     {
-      "id": "safran-t3-2026",
-      "date": "2026-10-23",
-      "titre": "Safran : chiffre d'affaires du 3e trimestre",
-      "detail": "Date indiquée par les agendas boursiers ; un test pour l'aéronautique et la défense"
-    },
-    {
       "id": "fomc-2026-10",
       "date": "2026-10-28",
       "titre": "Fed : décision sur les taux",
@@ -648,6 +642,18 @@
       "date": "2026-11-04",
       "titre": "Zone euro : estimation rapide de l'inflation d'octobre",
       "detail": "Date indiquée par Eurostat ; l'inflation était de 3,8 % en septembre, tirée par l'énergie"
+    },
+    {
+      "id": "us-jobs-2026-10",
+      "date": "2026-11-06",
+      "titre": "États-Unis : rapport sur l'emploi d'octobre",
+      "detail": "Date habituelle (premier vendredi du mois), à confirmer ; un emploi faible ou solide influence les attentes sur les taux de la Fed"
+    },
+    {
+      "id": "ifx-q4-2026",
+      "date": "2026-11-10",
+      "titre": "Infineon : résultats du 4e trimestre",
+      "detail": "Date indiquée par les agendas boursiers, à confirmer par la société ; un test pour les semi-conducteurs européens, dont STMicroelectronics"
     },
     {
       "id": "soitec-s1-2026",
@@ -764,6 +770,11 @@
     },
     {
       "d": "2026-10-30",
+      "valeur": 372.52,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-31",
       "valeur": 372.52,
       "investi": 399.2
     }
