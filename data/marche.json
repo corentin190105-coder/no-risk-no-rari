@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-10-31T20:30:00+01:00",
-    "resume": "Samedi 31 octobre 2026 : les marchés sont fermés, les cours restent ceux de la clôture du vendredi 30 octobre (aucun cours nouveau n'est inventé). Le CAC 40 avait fini stable à 7 969 points après une chute des semi-conducteurs, avec STMicroelectronics à 41,88 €. Prochains repères : l'inflation de la zone euro le 4 novembre et les résultats d'Infineon le 10 novembre."
+    "date": "2026-11-01T20:30:00+01:00",
+    "resume": "Dimanche 1er novembre 2026 : les marchés sont fermés, les cours restent ceux de la clôture du vendredi 30 octobre (aucun cours nouveau n'est inventé). STMicroelectronics reste à 41,88 €. Semaine chargée à venir : élections américaines le 3 novembre, inflation de la zone euro le 4 novembre, emploi américain le 6 novembre et résultats d'Infineon le 10 novembre."
   },
   "actifs": [
     {
@@ -775,6 +775,11 @@
     },
     {
       "d": "2026-10-31",
+      "valeur": 372.52,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-11-01",
       "valeur": 372.52,
       "investi": 399.2
     }

@@ -267,3 +267,12 @@ Une correction boursière est une baisse d'un marché ou d'une valeur d'au moins
 
 **Références**
 - [Investopedia : Market correction ⚠️](https://www.investopedia.com/terms/c/correction.asp)
+
+## Q: Qu'est-ce que la volatilité ?
+
+_2026-11-01 19:59 CET_
+
+La volatilité mesure l'ampleur des variations du prix d'un actif sur une période donnée. Plus elle est élevée, plus le cours monte et descend fortement et rapidement, comme les semi-conducteurs cette semaine. Elle n'est ni bonne ni mauvaise en soi : c'est une mesure du risque, car un actif très volatil peut fortement baisser à court terme. Pour un investisseur long terme, la diversification et un horizon de plusieurs années aident à mieux la supporter. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [Investopedia : Volatility ⚠️](https://www.investopedia.com/terms/v/volatility.asp)

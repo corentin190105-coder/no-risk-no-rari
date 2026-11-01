@@ -1,6 +1,154 @@
 {
   "points": [
     {
+      "date": "2026-11-01",
+      "titre": "Dimanche sans cotation : les marchés abordent une semaine décisive entre élections américaines et inflation européenne",
+      "resume": "Ce dimanche, les marchés sont fermés et le point reprend la clôture de vendredi, marquée par la chute des semi-conducteurs. Les repères de la semaine sont les élections américaines de mi-mandat le 3 novembre, l'inflation de la zone euro le 4 et l'emploi américain le 6.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 969 pts (clôture de vendredi)",
+          "variation": -0.01
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "cours non confirmé",
+          "variation": 0.0
+        },
+        {
+          "nom": "S&P 500",
+          "valeur": "valeur non confirmée (variation de vendredi en séance)",
+          "variation": -2.08
+        },
+        {
+          "nom": "Nasdaq",
+          "valeur": "valeur non confirmée (variation de vendredi en séance)",
+          "variation": -3.37
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 113,6 $ (vendredi)",
+          "variation": 2.51
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 3 900 $ (sources divergentes)",
+          "variation": -3.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,115",
+          "variation": 0.0
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Technologie et IA",
+          "texte": "Les résultats d'Intel et d'Amazon ont relancé les doutes sur la rentabilité des dépenses dans l'IA. Les semi-conducteurs européens, dont STMicroelectronics, en ont fait les frais vendredi."
+        },
+        {
+          "titre": "Pétrole et géopolitique",
+          "texte": "Le Brent reste très élevé, autour de 113 $, avec les tensions entre les États-Unis et l'Iran. Les élections américaines de mi-mandat du 3 novembre peuvent ajouter de la volatilité."
+        },
+        {
+          "titre": "Inflation",
+          "texte": "L'inflation de la zone euro était de 3,8 % en septembre, tirée par l'énergie. L'estimation rapide d'octobre, attendue le 4 novembre, sera le prochain repère."
+        },
+        {
+          "titre": "Banques centrales",
+          "texte": "La BCE a laissé son taux de dépôt à 2,50 % jeudi et la Fed garde sa fourchette de 3,75 à 4,00 %. Le marché surveille toujours le risque d'une nouvelle hausse des taux."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 372.52,
+        "pv": -26.68,
+        "texte": "Aucune cotation ce week-end : ton portefeuille reste à la valeur de vendredi, soit une moins-value de 26,68 € sur 399,20 € investis. Elle vient surtout de STMicroelectronics (41,88 € contre 50,31 € à ton achat)."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre a fini la semaine à 41,88 € après une baisse de 5,3 % vendredi, entraîné par la chute des semi-conducteurs."
+        },
+        {
+          "nom": "Exosens",
+          "texte": "Suivie pour le thème défense : ventes du 3e trimestre en hausse de 23,5 % mais action en recul d'environ 6,5 % le 27 octobre."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Lumibird",
+          "isin": "FR0000038242",
+          "risque": "Élevé",
+          "prix": "≈ 25 à 26 € la part (cours de septembre, à vérifier)",
+          "texte": "Lumibird fabrique des lasers et des capteurs photoniques pour la défense, l'industrie et les lidars. Son chiffre d'affaires atteint 168,8 M€ sur neuf mois (+8,8 %), et la vente de sa division médicale à IPG Photonics doit permettre de redistribuer une partie importante du produit aux actionnaires. Le principal risque est que l'opération n'aboutisse pas comme prévu, et le titre est une petite valeur peu liquide, donc très volatile."
+        },
+        {
+          "nom": "Dassault Aviation",
+          "isin": "FR0014004L86",
+          "risque": "Élevé",
+          "prix": "≈ 300 € la part (ordre de grandeur, cours exact à vérifier)",
+          "texte": "Dassault Aviation construit le Rafale et les Falcon, avec un objectif de 8,5 Md€ de chiffre d'affaires en 2026 et un carnet de commandes très rempli. Le thème de la défense reste porteur avec les tensions géopolitiques. Le risque principal est la dépendance aux commandes d'État et aux contrats à l'export, ainsi qu'une part chère pour un petit budget."
+        },
+        {
+          "nom": "Aixtron",
+          "isin": "DE000A0WMPJ6",
+          "risque": "Très élevé",
+          "prix": "≈ 32 € la part (cours du 16 octobre, à vérifier)",
+          "texte": "Aixtron fabrique des équipements pour produire des puces de puissance et des composants optiques utiles à l'IA et aux centres de données. L'action a perdu plus de la moitié de son sommet de juin (62,68 €), ce qui la met sur le radar après la chute du secteur. Le principal risque est un nouveau repli si les investissements dans l'IA ralentissent : le titre est extrêmement volatil."
+        }
+      ],
+      "idee": {
+        "nom": "Lumibird",
+        "isin": "FR0000038242",
+        "risque": "Élevé",
+        "prix": "≈ 25 à 26 € la part (cours de septembre, à vérifier)",
+        "texte": "Lumibird fabrique des lasers et des capteurs photoniques pour la défense, l'industrie et les lidars. Son chiffre d'affaires atteint 168,8 M€ sur neuf mois (+8,8 %), et la vente de sa division médicale à IPG Photonics doit permettre de redistribuer une partie importante du produit aux actionnaires. Le principal risque est que l'opération n'aboutisse pas comme prévu, et le titre est une petite valeur peu liquide, donc très volatile."
+      },
+      "concept": {
+        "terme": "La volatilité",
+        "texte": "La volatilité mesure l'ampleur des variations du prix d'un actif sur une période donnée. Plus elle est élevée, plus le cours monte et descend fortement et rapidement, comme les semi-conducteurs cette semaine. Elle n'est ni bonne ni mauvaise en soi : c'est une mesure du risque, car un actif très volatil peut fortement baisser à court terme. Pour un investisseur long terme, la diversification et un horizon de plusieurs années aident à mieux la supporter. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "Investopedia : Volatility ⚠️",
+            "url": "https://www.investopedia.com/terms/v/volatility.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        },
+        {
+          "date": "2026-11-04",
+          "titre": "Zone euro : estimation rapide de l'inflation d'octobre"
+        },
+        {
+          "date": "2026-11-06",
+          "titre": "États-Unis : rapport sur l'emploi d'octobre (date habituelle, à confirmer)"
+        },
+        {
+          "date": "2026-11-10",
+          "titre": "Infineon : résultats du 4e trimestre (à confirmer)"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Idéal Investisseur : Lumibird",
+          "url": "https://www.ideal-investisseur.fr/actions-b/lumibird-chiffre-daffaires-de-la-photonique-en-hausse-de-135-sur-neuf-mois/27924.html"
+        },
+        {
+          "titre": "Tradingsat : Dassault Aviation",
+          "url": "https://www.tradingsat.com/dassault-aviation-FR0014004L86/actualites/dassault-aviation-dassault-aviation-surpasse-les-attentes-et-prend-de-l-altitude-1167273.html"
+        },
+        {
+          "titre": "Admiral Markets : Aixtron",
+          "url": "https://admiralmarkets.com/education/articles/shares/aixtron-stock-q3-2026-orders"
+        }
+      ]
+    },
+    {
       "date": "2026-10-31",
       "titre": "Marchés fermés : la tech termine octobre sur une forte baisse, tous les regards vers l'inflation du 4 novembre",
       "resume": "Ce samedi, les marchés sont fermés et le point reprend la clôture de vendredi : le CAC 40 finit stable à 7 969 points, mais les semi-conducteurs et le Nasdaq ont chuté après les résultats d'Intel et d'Amazon. Le bilan hebdomadaire reste positif pour le CAC 40 (+2,4 %). La semaine prochaine sera chargée avec l'inflation de la zone euro et les élections américaines.",
