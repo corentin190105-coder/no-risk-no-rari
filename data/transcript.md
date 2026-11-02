@@ -276,3 +276,13 @@ La volatilité mesure l'ampleur des variations du prix d'un actif sur une pério
 
 **Références**
 - [Investopedia : Volatility ⚠️](https://www.investopedia.com/terms/v/volatility.asp)
+
+## Q: Qu'est-ce que l'avertissement sur résultats (profit warning) ?
+
+_2026-11-02 19:59 CET_
+
+Un avertissement sur résultats est une annonce par laquelle une entreprise cotée prévient que ses résultats seront inférieurs à ce qu'elle avait promis ou que le marché attendait. Comme les cours reflètent les attentes futures, la réaction peut être brutale : Alstom a perdu environ 26 % en une séance après avoir revu ses objectifs de rentabilité. La réglementation oblige les sociétés cotées à informer le public dès que possible de toute information précise susceptible d'influencer le cours. Pour un investisseur, c'est un rappel que le risque propre à une action individuelle peut être important, ce que la diversification (par exemple via un ETF large) permet de réduire. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [AMF : bonnes pratiques en matière d'information privilégiée](https://www.amf-france.org/fr/actualites-publications/actualites/bonnes-pratiques-en-matiere-dinformation-privilegiee)
+- [Investopedia : Profit Warning ⚠️](https://www.investopedia.com/terms/p/profitwarning.asp)

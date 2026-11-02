@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-01T20:30:00+01:00",
-    "resume": "Dimanche 1er novembre 2026 : les marchés sont fermés, les cours restent ceux de la clôture du vendredi 30 octobre (aucun cours nouveau n'est inventé). STMicroelectronics reste à 41,88 €. Semaine chargée à venir : élections américaines le 3 novembre, inflation de la zone euro le 4 novembre, emploi américain le 6 novembre et résultats d'Infineon le 10 novembre."
+    "date": "2026-11-02T20:15:00+01:00",
+    "resume": "Lundi 2 novembre 2026 : le CAC 40 repasse au-dessus de 8 000 points (8 047,69, +0,98 %) grâce au recul du pétrole et aux espoirs de négociation au Moyen-Orient. Alstom s'effondre d'environ 26 % après un avertissement sur ses résultats. Faute de cours de clôture fiable pour tes lignes, les prix restent ceux des dernières clôtures connues (STMicroelectronics à 41,88 € au 30 octobre). Prochaines échéances : élections américaines le 3 novembre, inflation de la zone euro le 4, emploi américain le 6, Infineon le 10."
   },
   "actifs": [
     {
@@ -780,6 +780,11 @@
     },
     {
       "d": "2026-11-01",
+      "valeur": 372.52,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-11-02",
       "valeur": 372.52,
       "investi": 399.2
     }

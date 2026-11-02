@@ -1,6 +1,156 @@
 {
   "points": [
     {
+      "date": "2026-11-02",
+      "titre": "Le CAC 40 repasse 8 000 points grâce au recul du pétrole, malgré l'effondrement d'Alstom",
+      "resume": "Les bourses européennes rebondissent nettement lundi, portées par la baisse du pétrole et les espoirs de négociations entre Washington et Téhéran. Le CAC 40 gagne 0,98 % à 8 047,69 points, avec Safran en tête, tandis qu'Alstom plonge d'environ 26 % après un avertissement sur ses résultats. À New York, les indices progressent en séance avant les élections de mi-mandat et les résultats d'Apple.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 047,69 pts",
+          "variation": 0.98
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 176,55 pts",
+          "variation": 0.74
+        },
+        {
+          "nom": "S&P 500 (en séance)",
+          "valeur": "≈ 7 617 pts",
+          "variation": 0.48
+        },
+        {
+          "nom": "Nasdaq (en séance)",
+          "valeur": "≈ 25 590 pts",
+          "variation": 0.6
+        },
+        {
+          "nom": "Brent (en séance)",
+          "valeur": "≈ 108 $",
+          "variation": -4.49
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Pétrole en forte baisse",
+          "texte": "Le Brent recule d'environ 4,5 % mais reste au-dessus de 100 dollars le baril, soit environ 75 % de plus qu'en début d'année. Des discussions à Doha entre négociateurs iraniens et médiateurs qataris alimentent l'espoir d'un accord."
+        },
+        {
+          "titre": "Géopolitique et élections américaines",
+          "texte": "Le conflit entre Washington et Téhéran reste le principal facteur de volatilité. Les élections de mi-mandat du 3 novembre ajoutent de l'incertitude, après trois semaines de baisse consécutives du S&P 500."
+        },
+        {
+          "titre": "Inflation et BCE",
+          "texte": "L'inflation de la zone euro était de 3,8 % en septembre, tirée par l'énergie. L'estimation rapide d'octobre, attendue le 4 novembre, dira si la baisse récente du pétrole commence à se voir."
+        },
+        {
+          "titre": "Fed et emploi américain",
+          "texte": "Le rapport sur l'emploi d'octobre, attendu vendredi 6 novembre, pèsera sur les anticipations de taux de la Fed. La tech américaine sort d'un mois d'octobre difficile, avec environ -5 % pour le Nasdaq."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 372.52,
+        "pv": -26.68,
+        "texte": "Faute de cours de clôture fiable ce soir, les prix de tes trois lignes restent ceux des dernières clôtures connues. La valeur de 372,52 € est donc indicative ; le rebond des marchés européens devrait plutôt aider STMicroelectronics et tes ETF."
+      },
+      "valeurs": [
+        {
+          "nom": "Alstom",
+          "texte": "Chute d'environ 26 % à 11,68 € après la révision à la baisse des objectifs de rentabilité 2026-2027 et un plan de désendettement de 2 milliards d'euros."
+        },
+        {
+          "nom": "Safran",
+          "texte": "Meilleure hausse du CAC 40 avec environ +4,5 % dans un marché porté par la baisse du pétrole."
+        },
+        {
+          "nom": "Euronext",
+          "texte": "Recul d'environ 3,5 % après l'annonce d'une nouvelle direction générale."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Alstom",
+          "isin": "FR0010220475",
+          "risque": "Très élevé",
+          "prix": "≈ 11,7 € la part",
+          "texte": "Le constructeur ferroviaire a chuté d'environ 26 % après avoir abaissé ses objectifs de rentabilité 2026-2027 à cause de problèmes de production en Allemagne et annoncé un plan de désendettement de 2 milliards d'euros. Le titre cote à son plus bas niveau depuis mars 2024 et la part reste abordable pour un petit budget. Le carnet de commandes ferroviaire reste solide, mais le principal risque est un nouveau dérapage : une trésorerie négative d'environ 1,5 milliard d'euros est attendue et la confiance du marché peut mettre du temps à revenir. À étudier comme un pari de rebond très risqué, pas comme une valeur sûre."
+        },
+        {
+          "nom": "Safran",
+          "isin": "FR0000073272",
+          "risque": "Modéré",
+          "prix": "≈ 350 € la part (cours à vérifier)",
+          "texte": "L'équipementier aéronautique et de défense a mené le CAC 40 lundi avec environ +4,5 %, dans un marché soutenu par la baisse du pétrole, bon signe pour le trafic aérien et les compagnies clientes. Son activité de moteurs d'avions et de pièces de rechange offre des revenus récurrents sur de longues années. Le principal risque est une valorisation déjà élevée et une forte dépendance au cycle du transport aérien. Avec une part autour de 350 €, elle est peu adaptée à un très petit budget sans fraction d'action."
+        },
+        {
+          "nom": "Eutelsat",
+          "isin": "FR0010221234",
+          "risque": "Très élevé",
+          "prix": "≈ 2 € la part (dernier cours connu en août)",
+          "texte": "L'opérateur de satellites, soutenu par l'État français, profite du thème de la souveraineté spatiale et des contrats de défense européens, comme celui de 350 millions d'euros avec la France. La part est très abordable, ce qui permet de tester l'idée avec une petite somme. Le risque principal est financier : l'entreprise est endettée, ses perspectives 2026-2027 ont déçu en août et le titre est très volatil. Le prix indiqué est ancien, à revérifier avant toute décision."
+        }
+      ],
+      "idee": {
+        "nom": "Alstom",
+        "isin": "FR0010220475",
+        "risque": "Très élevé",
+        "prix": "≈ 11,7 € la part",
+        "texte": "Le constructeur ferroviaire a chuté d'environ 26 % après avoir abaissé ses objectifs de rentabilité 2026-2027 à cause de problèmes de production en Allemagne et annoncé un plan de désendettement de 2 milliards d'euros. Le titre cote à son plus bas niveau depuis mars 2024 et la part reste abordable pour un petit budget. Le carnet de commandes ferroviaire reste solide, mais le principal risque est un nouveau dérapage : une trésorerie négative d'environ 1,5 milliard d'euros est attendue et la confiance du marché peut mettre du temps à revenir. À étudier comme un pari de rebond très risqué, pas comme une valeur sûre."
+      },
+      "concept": {
+        "terme": "L'avertissement sur résultats (profit warning)",
+        "texte": "Un avertissement sur résultats est une annonce par laquelle une entreprise cotée prévient que ses résultats seront inférieurs à ce qu'elle avait promis ou que le marché attendait. Comme les cours reflètent les attentes futures, la réaction peut être brutale : Alstom a perdu environ 26 % en une séance après avoir revu ses objectifs de rentabilité. La réglementation oblige les sociétés cotées à informer le public dès que possible de toute information précise susceptible d'influencer le cours. Pour un investisseur, c'est un rappel que le risque propre à une action individuelle peut être important, ce que la diversification (par exemple via un ETF large) permet de réduire. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "AMF : bonnes pratiques en matière d'information privilégiée",
+            "url": "https://www.amf-france.org/fr/actualites-publications/actualites/bonnes-pratiques-en-matiere-dinformation-privilegiee"
+          },
+          {
+            "titre": "Investopedia : Profit Warning ⚠️",
+            "url": "https://www.investopedia.com/terms/p/profitwarning.asp"
+          }
+        ]
+      },
+      "rendezvous": [
+        {
+          "date": "2026-11-03",
+          "titre": "États-Unis : élections de mi-mandat"
+        },
+        {
+          "date": "2026-11-04",
+          "titre": "Zone euro : estimation rapide de l'inflation d'octobre"
+        },
+        {
+          "date": "2026-11-06",
+          "titre": "États-Unis : rapport sur l'emploi d'octobre (date habituelle)"
+        },
+        {
+          "date": "2026-11-10",
+          "titre": "Infineon : résultats du 4e trimestre (à confirmer)"
+        },
+        {
+          "date": "2026-11-18",
+          "titre": "Soitec : résultats du 1er semestre (à confirmer)"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama : L'Europe termine sur un net rebond",
+          "url": "https://boursorama.com/bourse/actualites/l-europe-termine-sur-un-net-rebond-les-espoirs-au-moyen-orient-et-la-chute-du-petrole-se-renforcent-38aa46c21faa0ef3ce46ce2fb9000618"
+        },
+        {
+          "titre": "Moneyvox : les infos Bourse du 2 novembre 2026",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111085/alstom-s-effondre-resultats-spectaculaires-pour-anthropic-les-infos-bourse-du-lundi-2-novembre-2026"
+        },
+        {
+          "titre": "TheStreet : Stock Market Today 2 novembre 2026",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+        }
+      ]
+    },
+    {
       "date": "2026-11-01",
       "titre": "Dimanche sans cotation : les marchés abordent une semaine décisive entre élections américaines et inflation européenne",
       "resume": "Ce dimanche, les marchés sont fermés et le point reprend la clôture de vendredi, marquée par la chute des semi-conducteurs. Les repères de la semaine sont les élections américaines de mi-mandat le 3 novembre, l'inflation de la zone euro le 4 et l'emploi américain le 6.",
