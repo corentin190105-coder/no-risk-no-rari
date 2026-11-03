@@ -286,3 +286,13 @@ Un avertissement sur résultats est une annonce par laquelle une entreprise cot�
 **Références**
 - [AMF : bonnes pratiques en matière d'information privilégiée](https://www.amf-france.org/fr/actualites-publications/actualites/bonnes-pratiques-en-matiere-dinformation-privilegiee)
 - [Investopedia : Profit Warning ⚠️](https://www.investopedia.com/terms/p/profitwarning.asp)
+
+## Q: Qu'est-ce que le risque politique ?
+
+_2026-11-03 20:00 CET_
+
+Le risque politique désigne l'incertitude créée par des événements comme des élections, un changement de gouvernement ou une décision budgétaire. Les marchés raisonnent sur des prévisions de résultats, de taux et de croissance : quand l'issue d'un vote est floue, ils intègrent une prime de risque et les cours peuvent devenir plus nerveux, souvent avant le scrutin plus qu'après. Quand l'incertitude concerne un État, elle peut aussi élargir l'écart de rendement de sa dette, comme l'a observé la Banque de France pour la France. Pour un investisseur long terme, ces secousses sont en général temporaires, et la diversification aide à les absorber. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [Banque de France : Rapport sur la stabilité financière, décembre 2024 ⚠️](https://www.banque-france.fr/fr/actualites/rapport-sur-la-stabilite-financiere-decembre-2024)
+- [La Banque Postale : Comment l'incertitude politique pèse sur les marchés financiers ? ⚠️](https://www.labanquepostale.fr/collectivites/actualite/incertitude-politique-marches-financiers.html)

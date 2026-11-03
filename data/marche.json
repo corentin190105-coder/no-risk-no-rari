@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-02T20:15:00+01:00",
-    "resume": "Lundi 2 novembre 2026 : le CAC 40 repasse au-dessus de 8 000 points (8 047,69, +0,98 %) grâce au recul du pétrole et aux espoirs de négociation au Moyen-Orient. Alstom s'effondre d'environ 26 % après un avertissement sur ses résultats. Faute de cours de clôture fiable pour tes lignes, les prix restent ceux des dernières clôtures connues (STMicroelectronics à 41,88 € au 30 octobre). Prochaines échéances : élections américaines le 3 novembre, inflation de la zone euro le 4, emploi américain le 6, Infineon le 10."
+    "date": "2026-11-03T20:15:00+01:00",
+    "resume": "Mardi 3 novembre 2026 : séance prudente à Paris, le CAC 40 termine autour de 8 020 points (environ -0,3 %) avant les élections américaines de mi-mandat, avec des craintes sur la rentabilité de l'IA et Apple en baisse d'environ 2 %. Faute de cours de clôture fiable pour tes lignes, les prix restent ceux des dernières clôtures connues (STMicroelectronics à 41,88 € au 30 octobre). Prochaines échéances : inflation de la zone euro le 4, emploi américain le 6, Infineon le 10, Soitec le 18."
   },
   "actifs": [
     {
@@ -785,6 +785,11 @@
     },
     {
       "d": "2026-11-02",
+      "valeur": 372.52,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-11-03",
       "valeur": 372.52,
       "investi": 399.2
     }
