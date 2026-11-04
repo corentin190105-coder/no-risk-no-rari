@@ -52,10 +52,13 @@ data/radar.json, mis à jour après chaque clôture, scanne environ 100 valeurs 
 ## Test historique
 data/backtest.json est recalculé chaque samedi. Le test sur 5 ans montre qu'aucun signal technique ne bat des entrées au hasard, avec environ -0,7 à -0,9 % net par opération sur 200 €. Un signal du radar ne suffit donc jamais à un avis "Favorable" : il faut un catalyseur daté. Reprends ce résultat honnêtement et mets à jour data/conseils.json s'il change. Ce test ne couvre ni les catalyseurs ni les sociétés disparues, et aucune méthode n'est garantie.
 
+data/strategies.json, recalculé chaque samedi, compare des méthodes revues chaque mois : aucune ne bat aujourd'hui le panier égal de l'univers.
+
 ## Plan d'action : data/conseils.json
-Le soir, la tâche réécrit data/conseils.json après le point du soir, selon la structure déjà présente : {maj, verdict {titre, texte}, lecture, positions, achats}.
+Le soir, la tâche réécrit data/conseils.json après le point du soir, selon la structure déjà présente : {maj, verdict {titre, texte}, lecture, positions, achats, decouvertes}.
 - positions : une entrée par ligne détenue dans data/achats.json, avec nom, isin, symbole Yahoo, action ("Garder", "Renforcer", "Alléger", "Vendre"), sortie (nombre, si un niveau existe), pourquoi, vendreSi, renforcerSi. Des phrases simples, un niveau chiffré, une explication du raisonnement. Ajoute le symbole à data/suivi.json si une nouvelle ligne n'y est pas.
 - achats : statut "Prêt" ou "Attendre", plan (liste de paires [libellé, valeur]), quand, pourquoi, contre. Un achat court terme "Prêt" doit respecter tous les critères "Favorable". Calcule le nombre de parts entières, le montant, la perte maximale et le gain visé, frais compris. Le socle ETF peut rester "Prêt" : il suit une logique d'achat régulier, pas de signal.
+- decouvertes : 3 à 5 valeurs ou ETF éligibles PEA que Corentin ne détient pas, avec nom, isin, symbole, theme, risque, pourquoi, aBorder, faux. Cherche ce qu'il n'aurait pas trouvé seul : fournisseurs discrets, petites et moyennes valeurs, secteurs ou zones absents de son portefeuille. Vérifie chaque fait et donne sa date. Renouvelle-en au moins une chaque soir et ne reprends pas une valeur retirée depuis moins de 30 jours. Ce sont des pistes à étudier, pas des ordres d'achat.
 - Garde un niveau de sortie stable d'un jour à l'autre, sauf fait nouveau expliqué. Ne relève jamais un niveau pour éviter une sortie, et ne fais pas de la moins-value une raison de vendre ou de garder.
 - Dans la notification du soir, ajoute en une ligne l'action la plus importante du plan. En séance, signale toute position dont le cours touche son niveau de sortie.
 

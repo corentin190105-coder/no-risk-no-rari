@@ -1,10 +1,10 @@
 {
- "maj": "2026-11-04T23:55:00+01:00",
+ "maj": "2026-11-05T00:20:00+01:00",
  "verdict": {
   "titre": "Pour l'instant : pas de nouvel achat court terme, et deux lignes à surveiller",
-  "texte": "Tes ETF restent ton socle, tu n'as rien à y changer. STMicroelectronics et Stellantis sont les deux lignes à risque : leurs niveaux de sortie sont fixés ci-dessous, décide à l'avance plutôt que dans l'émotion. Air France-KLM publie ses résultats le 5 novembre : je n'achète pas avant, je revois le plan après la publication."
+  "texte": "Tes ETF restent ton socle, tu n'as rien à y changer. STMicroelectronics et Stellantis sont les deux lignes à risque : leurs niveaux de sortie sont fixés ci-dessous, décide à l'avance plutôt que dans l'émotion. Air France-KLM publie ses résultats le 5 novembre : je n'achète pas avant, je revois le plan après la publication. La rubrique Découvertes te propose aussi des pistes hors de ton portefeuille."
  },
- "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis.",
+ "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
  "positions": [
   {
    "nom": "Amundi PEA Monde (MSCI World)",
@@ -118,6 +118,58 @@
    "quand": "Seulement après les résultats du 5 novembre, si la publication est bonne et si le titre clôture au-dessus de 11,55 €. Niveaux à recalculer après la publication.",
    "pourquoi": "Le catalyseur est daté et la baisse du pétrole aide les compagnies aériennes. Le consensus, les dirigeants et les positions courtes restent à vérifier.",
    "contre": "La publication peut ouvrir le titre sous 11 €. Une bonne partie de la nouvelle est peut-être déjà dans le cours."
+  }
+ ],
+ "decouvertes": [
+  {
+   "nom": "Amundi PEA Émergents",
+   "isin": "FR0013412020",
+   "symbole": "PAEEM.PA",
+   "theme": "Ce qui manque à ton portefeuille",
+   "risque": "Modéré",
+   "pourquoi": "Tu es exposé aux États-Unis, à l'Europe et à la France, mais presque pas à l'Inde, à la Chine ou à Taïwan. Cet ETF ajoute une vraie diversification géographique.",
+   "aBorder": "Pour le long terme, par achats réguliers et en petite part du portefeuille. La baisse récente d'environ 9 % en 20 séances n'est pas en soi une raison d'acheter.",
+   "faux": "La tech asiatique pèse lourd dedans : ce n'est pas une protection totale si les puces continuent de baisser. Le risque de change existe aussi."
+  },
+  {
+   "nom": "GTT",
+   "isin": "FR0011726835",
+   "symbole": "GTT.PA",
+   "theme": "Le gaz liquéfié, par un fournisseur discret",
+   "risque": "Modéré",
+   "pourquoi": "GTT conçoit les cuves de nombreux méthaniers. Son carnet de commandes était à un niveau historique selon le point du 23 octobre, et l'activité dépend moins du prix du gaz que des commandes de navires.",
+   "aBorder": "Le titre a perdu 14 % en 20 séances et reste sous sa moyenne 200 jours (199,50 €). Je lis d'abord les raisons de cette baisse, puis les prochaines commandes. Une part vaut 184 €, soit près d'un quart de ton portefeuille : c'est gros.",
+   "faux": "Moins de commandes de méthaniers, ou une chute durable du pétrole et du gaz qui freine les projets."
+  },
+  {
+   "nom": "Exosens",
+   "isin": "FR001400Q9V2",
+   "symbole": "EXENS.PA",
+   "theme": "La vision nocturne, de la défense au nucléaire",
+   "risque": "Élevé",
+   "pourquoi": "Moins connue que Thales, cette société fabrique des détecteurs et de l'imagerie. Son chiffre d'affaires du 3e trimestre a progressé de 23,5 % selon le point du 31 octobre.",
+   "aBorder": "À creuser plutôt qu'à acheter maintenant : la tendance est baissière et le marché craint pour la défense depuis la victoire démocrate. Je regarde la valorisation et l'évolution de la marge.",
+   "faux": "Marge brute qui continue de reculer, ou budgets de défense revus à la baisse."
+  },
+  {
+   "nom": "Orange",
+   "isin": "FR0000133308",
+   "symbole": "ORA.PA",
+   "theme": "Le défensif que personne ne regarde",
+   "risque": "Modéré",
+   "pourquoi": "Valeur peu spectaculaire, mais qui équilibrerait un portefeuille chargé en tech. Le groupe a relevé son objectif 2026 fin octobre, selon le point du 30 octobre, et une part vaut environ 15 €.",
+   "aBorder": "Pour un investissement de plusieurs années, avec dividende. Vérifie le montant et la date du prochain dividende avant d'acheter.",
+   "faux": "Une dette trop lourde, ou une France qui ne progresse plus."
+  },
+  {
+   "nom": "Sanofi",
+   "isin": "FR0000120578",
+   "symbole": "SAN.PA",
+   "theme": "La santé, loin de la bulle de l'IA",
+   "risque": "Modéré",
+   "pourquoi": "Tu n'as aucune valeur de santé. Ce secteur réagit peu aux craintes sur l'IA, et les résultats du 3e trimestre ont dépassé les attentes selon le point du 30 octobre.",
+   "aBorder": "Pas maintenant : le titre a pris 17 % en 20 séances et son RSI est à 87. Je le garde en tête pour un repli, ou j'attends le prochain fait nouveau.",
+   "faux": "Déception sur un médicament clé, ou résultats simplement inférieurs à des attentes devenues élevées."
   }
  ]
 }

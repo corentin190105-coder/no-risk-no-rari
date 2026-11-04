@@ -129,7 +129,7 @@ html, body { margin: 0; }
     return m;
   }
 
-  Promise.all(["conseils", "achats", "cours", "radar", "backtest", "idees"].map(get)).then(([c, ops, cours, radar, bt, id]) => {
+  Promise.all(["conseils", "achats", "cours", "radar", "backtest", "idees", "strategies"].map(get)).then(([c, ops, cours, radar, bt, id, st]) => {
     const px = {}; (radar.valeurs || []).forEach((v) => (px[v.symbole] = v.cours));
     Object.entries(cours.cours || {}).forEach(([k, v]) => (px[k] = v.cours));
     const pos = lignes(Array.isArray(ops) ? ops : []);
@@ -151,9 +151,17 @@ html, body { margin: 0; }
     html.push(card("Quand acheter", "--s7", (c.achats || []).map((a) => `<div class="pos"><div class="idea-head"><span class="nm">${esc(a.nom)}</span><span class="act" style="--a: var(${ACT[a.statut] || "--s4"})">${esc(a.statut)}</span></div>
       ${a.plan ? `<dl class="plan">${a.plan.map((x) => `<div><dt>${esc(x[0])}</dt><dd>${esc(x[1])}</dd></div>`).join("")}</dl>` : ""}
       <p><strong>Quand :</strong> ${esc(a.quand)}</p><p>${esc(a.pourquoi)}</p>${a.contre ? `<p><strong>Ce qui peut casser l'idée :</strong> ${esc(a.contre)}</p>` : ""}</div>`).join("") || "<p>Aucun achat à faire pour l'instant : ne rien faire est aussi une décision.</p>"));
+    html.splice(1, 0, card("Découvertes : ce que tu n'as pas encore", "--s7", (c.decouvertes || []).map((d) => {
+      const cr = px[d.symbole];
+      return `<div class="pos"><div class="idea-head"><span class="nm">${esc(d.nom)}</span>${cr ? `<span style="font-family:var(--font-data);color:var(--fg-2)">${eur(cr)}</span>` : ""}</div>
+      <div class="chips"><span class="chip">${esc(d.theme)}</span><span class="chip">Risque ${esc(String(d.risque).toLowerCase())}</span></div>
+      <p>${esc(d.pourquoi)}</p><p><strong>Comment l'aborder :</strong> ${esc(d.aBorder)}</p><p><strong>Ce qui me donnerait tort :</strong> ${esc(d.faux)}</p></div>`;
+    }).join("") + `<p class="note">Des pistes à étudier, pas des ordres d'achat.</p>`));
     const r = bt.resultats || {};
     const lig = Object.entries(r).map(([k, v]) => `<tr><td>${esc(k)}</td><td>${num(v.total.n)}</td><td>${String(v.total.gagnants_pct).replace(".", ",")} %</td><td>${pct(v.total.moyenne_nette_pct)}</td><td>${pct(v.periode_recente.moyenne_nette_pct)}</td></tr>`).join("");
     if (lig) html.push(card("Ce que valent vraiment les signaux", "--bad", `<p>${esc(c.lecture || "")}</p><div class="tbl"><table><thead><tr><th>Signal</th><th>Cas</th><th>Gagnants</th><th>Moy. nette</th><th>Récent</th></tr></thead><tbody>${lig}</tbody></table></div><p class="note">${esc(bt.regle)} ${esc(bt.limite)}</p>`));
+    const ms = Object.entries(st.methodes || {}).map(([k, v]) => `<tr><td>${esc(k)}</td><td>${pct(v.total.annuel_pct)}</td><td>${pct(v.total.pire_baisse_pct)}</td></tr>`).join("");
+    if (ms) html.push(card("Méthodes testées sur 4 ans", "--bad", `<div class="tbl"><table><thead><tr><th>Méthode</th><th>Par an</th><th>Pire baisse</th></tr></thead><tbody>${ms}</tbody></table></div><p class="note">${esc(st.regle)} Le panier et les méthodes portent sur les sociétés encore cotées aujourd'hui, ce qui flatte les chiffres.</p>`));
     const vus = (radar.valeurs || []).filter((v) => !v.exclu && v.signaux.length).slice(0, 12);
     if (vus.length) html.push(card(`Radar : ${(radar.valeurs || []).length} valeurs scannées`, "--s1", `<p class="note">Une liste de valeurs à étudier, pas un ordre d'achat. Il faut encore un fait nouveau daté.</p><div class="tbl"><table><thead><tr><th>Valeur</th><th>Cours</th><th>20 j</th><th>RSI</th><th>Signal</th></tr></thead><tbody>${vus.map((v) => `<tr><td>${esc(v.nom)}</td><td>${eur(v.cours)}</td><td>${pct(v.perf20_pct)}</td><td>${Math.round(v.rsi)}</td><td>${esc(v.signaux.join(", "))}</td></tr>`).join("")}</tbody></table></div>`));
     const j = id.idees || [], clos = j.filter((i) => typeof i.perfPct === "number");
