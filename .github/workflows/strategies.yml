@@ -1,0 +1,30 @@
+name: Strategies
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "50 18 * * 6"
+permissions:
+  contents: write
+concurrency:
+  group: strategies
+  cancel-in-progress: false
+jobs:
+  strategies:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Calcule
+        run: python3 scripts/strategies.py
+      - name: Publie le fichier
+        run: |
+          git add data/strategies.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Strategies du $(TZ=Europe/Paris date +%F)"
+          for essai in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 10
+          done
+          exit 1
