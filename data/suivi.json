@@ -1,8 +1,34 @@
 {
   "valeurs": [
-    "DCAM.PA", "PNAS.PA", "STMPA.PA", "PUST.PA", "SOI.PA", "ASML.AS", "IFX.DE"
+    "DCAM.PA",
+    "PNAS.PA",
+    "STMPA.PA",
+    "PUST.PA",
+    "SOI.PA",
+    "ASML.AS",
+    "IFX.DE",
+    "ALRIB.PA",
+    "AI.PA",
+    "HO.PA",
+    "AMUN.PA",
+    "VK.PA",
+    "RXL.PA",
+    "TE.PA",
+    "BNP.PA",
+    "GLE.PA",
+    "MC.PA",
+    "TTE.PA",
+    "AIR.PA",
+    "STLAP.PA",
+    "SAF.PA"
   ],
   "indices": [
-    "^FCHI", "^GDAXI", "^STOXX50E", "^GSPC", "^IXIC", "^N225", "^HSI"
+    "^FCHI",
+    "^GDAXI",
+    "^STOXX50E",
+    "^GSPC",
+    "^IXIC",
+    "^N225",
+    "^HSI"
   ]
 }
