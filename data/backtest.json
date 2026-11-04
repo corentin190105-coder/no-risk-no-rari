@@ -1,0 +1,103 @@
+{
+ "maj": "2026-11-04T23:48:44+01:00",
+ "regle": "Entrée à l'ouverture suivante, stop à 2 ATR (8 % maximum), objectif à 2 fois le risque, 10 séances maximum, 2 € de frais sur 200 €.",
+ "limite": "Univers actuel seulement, donc sans les sociétés disparues : les résultats sont flattés. Performances passées, sans garantie.",
+ "valeurs_exclues": [
+  "KNF",
+  "MT"
+ ],
+ "resultats": {
+  "Sans signal (hasard)": {
+   "total": {
+    "n": 4475,
+    "gagnants_pct": 40.5,
+    "moyenne_nette_pct": -0.93,
+    "mediane_nette_pct": -1.37,
+    "moyenne_brute_pct": 0.07
+   },
+   "periode_ancienne": {
+    "n": 2646,
+    "gagnants_pct": 41.4,
+    "moyenne_nette_pct": -0.87,
+    "mediane_nette_pct": -1.1,
+    "moyenne_brute_pct": 0.13
+   },
+   "periode_recente": {
+    "n": 1829,
+    "gagnants_pct": 39.2,
+    "moyenne_nette_pct": -1.01,
+    "mediane_nette_pct": -1.91,
+    "moyenne_brute_pct": -0.01
+   }
+  },
+  "Repli en tendance": {
+   "total": {
+    "n": 5142,
+    "gagnants_pct": 40.0,
+    "moyenne_nette_pct": -0.92,
+    "mediane_nette_pct": -1.34,
+    "moyenne_brute_pct": 0.08
+   },
+   "periode_ancienne": {
+    "n": 3025,
+    "gagnants_pct": 40.1,
+    "moyenne_nette_pct": -0.97,
+    "mediane_nette_pct": -1.21,
+    "moyenne_brute_pct": 0.03
+   },
+   "periode_recente": {
+    "n": 2117,
+    "gagnants_pct": 39.8,
+    "moyenne_nette_pct": -0.85,
+    "mediane_nette_pct": -1.5,
+    "moyenne_brute_pct": 0.15
+   }
+  },
+  "Cassure": {
+   "total": {
+    "n": 834,
+    "gagnants_pct": 39.4,
+    "moyenne_nette_pct": -0.86,
+    "mediane_nette_pct": -1.68,
+    "moyenne_brute_pct": 0.14
+   },
+   "periode_ancienne": {
+    "n": 458,
+    "gagnants_pct": 37.1,
+    "moyenne_nette_pct": -1.3,
+    "mediane_nette_pct": -1.81,
+    "moyenne_brute_pct": -0.3
+   },
+   "periode_recente": {
+    "n": 376,
+    "gagnants_pct": 42.3,
+    "moyenne_nette_pct": -0.33,
+    "mediane_nette_pct": -1.48,
+    "moyenne_brute_pct": 0.67
+   }
+  },
+  "Survente": {
+   "total": {
+    "n": 2528,
+    "gagnants_pct": 41.3,
+    "moyenne_nette_pct": -0.7,
+    "mediane_nette_pct": -1.06,
+    "moyenne_brute_pct": 0.3
+   },
+   "periode_ancienne": {
+    "n": 1443,
+    "gagnants_pct": 42.1,
+    "moyenne_nette_pct": -0.67,
+    "mediane_nette_pct": -0.9,
+    "moyenne_brute_pct": 0.33
+   },
+   "periode_recente": {
+    "n": 1085,
+    "gagnants_pct": 40.4,
+    "moyenne_nette_pct": -0.76,
+    "mediane_nette_pct": -1.27,
+    "moyenne_brute_pct": 0.24
+   }
+  }
+ }
+}
