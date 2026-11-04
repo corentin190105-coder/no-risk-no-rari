@@ -112,6 +112,7 @@ html, body { margin: 0; }
     const ops = ct.opportunites || [];
     return `<div class="card full" style="--c: var(--accent)"><h3>Court terme</h3>
       ${ct.contexte ? `<p>${esc(ct.contexte)}</p>` : ""}
+      ${ct.retro ? `<p><strong>Rétrospective :</strong> ${esc(ct.retro)}</p>` : ""}
       ${trackRecord()}
       ${ops.length ? ops.map((o) => `<div style="display:grid;gap:10px;border-top:1px solid var(--line);padding-top:12px">
         <div class="idea-head"><span class="nm">${esc(o.nom)}</span><span class="avis" style="--a: var(${AVIS[o.avis] || "--s4"})">${esc(o.avis)}</span></div>
