@@ -46,5 +46,18 @@ Vérifie chaque chiffre décisif sur deux sources et signale les écarts. N'util
 ## Rétrospective à 5 et 10 jours
 Chaque soir de bourse, reprends les opportunités "Favorable" et "Attendre" de courtTerme publiées il y a exactement 5 et 10 jours de bourse. À 5 jours, le bilan est intermédiaire ; à 10 jours, il est définitif. Pour chacune, compare le cours du jour de l'idée et le cours actuel : l'entrée a-t-elle été touchée, l'objectif ou l'invalidation, et quel aurait été le résultat net de 2 € de frais sur 200 € ? Écris le bilan dans courtTerme.retro en 2 à 5 phrases : ce qui a marché, ce qui a échoué, et pourquoi, sans enjoliver. Vérifie aussi si les avis "Attendre" ont fait rater un gain ou éviter une perte. Reprends ce bilan en une ligne dans la notification. Sans idée à ces dates, laisse retro vide et n'en parle pas.
 
+## Radar et variété des valeurs
+data/radar.json, mis à jour après chaque clôture, scanne environ 100 valeurs de data/univers.json. Pour les idées du soir et "courtTerme", pars de ce radar et de l'actualité du jour, pas des fiches déjà suivies. Ne reprends pas une valeur déjà citée dans les 7 derniers points sauf fait nouveau, et ne répète pas une information déjà écrite dans le point de la veille : dis ce qui a changé.
+
+## Test historique
+data/backtest.json est recalculé chaque samedi. Le test sur 5 ans montre qu'aucun signal technique ne bat des entrées au hasard, avec environ -0,7 à -0,9 % net par opération sur 200 €. Un signal du radar ne suffit donc jamais à un avis "Favorable" : il faut un catalyseur daté. Reprends ce résultat honnêtement et mets à jour data/conseils.json s'il change. Ce test ne couvre ni les catalyseurs ni les sociétés disparues, et aucune méthode n'est garantie.
+
+## Plan d'action : data/conseils.json
+Le soir, la tâche réécrit data/conseils.json après le point du soir, selon la structure déjà présente : {maj, verdict {titre, texte}, lecture, positions, achats}.
+- positions : une entrée par ligne détenue dans data/achats.json, avec nom, isin, symbole Yahoo, action ("Garder", "Renforcer", "Alléger", "Vendre"), sortie (nombre, si un niveau existe), pourquoi, vendreSi, renforcerSi. Des phrases simples, un niveau chiffré, une explication du raisonnement. Ajoute le symbole à data/suivi.json si une nouvelle ligne n'y est pas.
+- achats : statut "Prêt" ou "Attendre", plan (liste de paires [libellé, valeur]), quand, pourquoi, contre. Un achat court terme "Prêt" doit respecter tous les critères "Favorable". Calcule le nombre de parts entières, le montant, la perte maximale et le gain visé, frais compris. Le socle ETF peut rester "Prêt" : il suit une logique d'achat régulier, pas de signal.
+- Garde un niveau de sortie stable d'un jour à l'autre, sauf fait nouveau expliqué. Ne relève jamais un niveau pour éviter une sortie, et ne fais pas de la moins-value une raison de vendre ou de garder.
+- Dans la notification du soir, ajoute en une ligne l'action la plus importante du plan. En séance, signale toute position dont le cours touche son niveau de sortie.
+
 ## Limite à rappeler
-Ces critères n'ont pas été validés par un backtest. Leur seule mesure est le journal data/idees.json.
+Le test historique porte sur les signaux techniques, pas sur les idées avec catalyseur. La seule mesure de ces dernières est le journal data/idees.json.

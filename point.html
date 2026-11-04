@@ -88,6 +88,7 @@ html, body { margin: 0; }
     <nav class="tabs" aria-label="Pages">
       <a href="index.html">Tableau de bord</a>
       <a class="nav-point" href="point.html" aria-current="page">Point du soir</a>
+      <a class="nav-point" href="conseils.html">Conseils</a>
     </nav>
   </header>
 
@@ -184,6 +185,9 @@ html, body { margin: 0; }
     const parts = [];
     const add = (id, label, html) => { if (html) parts.push({ id, label, html }); };
     add("s-alertes", "Séance", alertesDuJour(p.date));
+    const edu = education(p);
+    const cpt = p.concept ? `<div class="card full" style="--c: var(--s4)"><h3>Le concept du jour</h3><span class="term">${esc(p.concept.terme)}</span><p>${esc(p.concept.texte)}</p></div>` : "";
+    add("s-ecole", edu ? "École" : "Concept", edu + cpt);
     add("s-ct", "Court terme", courtTerme(p.courtTerme));
     add("s-pf", "Portefeuille", `<div class="card full" id="s-pf-in" style="--c: var(${(Number(pf.pv) || 0) >= 0 ? "--good" : "--bad"})"><h3>Mon portefeuille</h3>
       ${typeof pf.valeur === "number" ? `<div class="idea-head"><span class="nm">${eur.format(pf.valeur)}</span>${typeof pf.pv === "number" ? `<span class="${pf.pv >= 0 ? "up" : "down"}" style="font-family:var(--font-data)">${pf.pv >= 0 ? "+" : "−"}${eur.format(Math.abs(pf.pv))}</span>` : ""}</div>` : ""}
@@ -191,9 +195,6 @@ html, body { margin: 0; }
       ${(p.valeurs || []).length ? `<ul class="items">${p.valeurs.map((v) => `<li><strong>${esc(v.nom)}</strong><span>${esc(v.texte)}</span></li>`).join("")}</ul>` : ""}</div>`);
     add("s-marches", "Marchés", (p.indices || []).length ? `<div class="card full" style="--c: var(--s1)"><h3>Les marchés du jour</h3>${tiles(p.indices)}</div>` : "");
     add("s-macro", "Macro", (p.macro || []).length ? fold("s-macro-in", "Macroéconomie", "--s1", `<ul class="items">${p.macro.map((m) => `<li><strong>${esc(m.titre)}</strong><span>${esc(m.texte)}</span></li>`).join("")}</ul>`, true) : "");
-    const edu = education(p);
-    const cpt = p.concept ? `<div class="card full" style="--c: var(--s4)"><h3>Le concept du jour</h3><span class="term">${esc(p.concept.terme)}</span><p>${esc(p.concept.texte)}</p></div>` : "";
-    add("s-ecole", edu ? "École" : "Concept", edu + cpt);
     add("s-idees", "Idées", ideas.length ? fold("s-idees-in", `Idées à surveiller (${ideas.length})`, "--s7", ideas.map((d) => `<div class="idea">
       <div class="idea-head"><span class="nm">${esc(d.nom)}</span>${d.prix ? `<span style="font-family:var(--font-data);color:var(--fg-2)">${esc(d.prix)}</span>` : ""}</div>
       <div class="chips">${d.risque ? `<span class="chip"><span class="sw" style="background:var(${RISK[d.risque] || "--r3"})"></span>Risque ${esc(String(d.risque).toLowerCase())}</span>` : ""}${d.isin ? `<span class="chip">${esc(d.isin)}</span>` : ""}</div>

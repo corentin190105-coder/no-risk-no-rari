@@ -1,0 +1,123 @@
+{
+ "maj": "2026-11-04T23:55:00+01:00",
+ "verdict": {
+  "titre": "Pour l'instant : pas de nouvel achat court terme, et deux lignes à surveiller",
+  "texte": "Tes ETF restent ton socle, tu n'as rien à y changer. STMicroelectronics et Stellantis sont les deux lignes à risque : leurs niveaux de sortie sont fixés ci-dessous, décide à l'avance plutôt que dans l'émotion. Air France-KLM publie ses résultats le 5 novembre : je n'achète pas avant, je revois le plan après la publication."
+ },
+ "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis.",
+ "positions": [
+  {
+   "nom": "Amundi PEA Monde (MSCI World)",
+   "isin": "FR001400U5Q4",
+   "symbole": "DCAM.PA",
+   "action": "Garder",
+   "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales, et une baisse ne se traite pas comme sur une action seule.",
+   "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
+   "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
+  },
+  {
+   "nom": "Amundi PEA Nasdaq-100",
+   "isin": "FR001400ZGR7",
+   "symbole": "PNAS.PA",
+   "action": "Garder",
+   "pourquoi": "Le cours est sous ses moyennes 20 et 50 jours après la baisse de la tech, mais il reste au-dessus de sa moyenne 200 jours (6,40 €). L'ETF est plus risqué que le Monde car il est concentré sur la tech américaine.",
+   "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
+   "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
+  },
+  {
+   "nom": "Core CAC 40",
+   "isin": "FR0013380607",
+   "symbole": "CACC.PA",
+   "action": "Garder",
+   "pourquoi": "Ligne récente et diversifiée sur les grandes valeurs françaises, au-dessus de ses moyennes 50 et 200 jours.",
+   "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
+   "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
+  },
+  {
+   "nom": "Air Liquide",
+   "isin": "FR0000120073",
+   "symbole": "AI.PA",
+   "action": "Garder",
+   "sortie": 171.03,
+   "pourquoi": "Tu es en gain et la tendance est haussière, mais le titre a beaucoup monté : son RSI à 88 indique un mouvement très tendu. Avec une seule action, il n'y a rien à alléger.",
+   "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
+   "renforcerSi": "pas maintenant : une part vaut environ 187 € et le mouvement est déjà fait."
+  },
+  {
+   "nom": "Stellantis",
+   "isin": "NL00150001Q9",
+   "symbole": "STLAP.PA",
+   "action": "Garder",
+   "sortie": 3.75,
+   "pourquoi": "C'est ta ligne la plus risquée : le titre reste en tendance baissière, très loin de sa moyenne 200 jours (5,57 €). Tu l'as acheté pour un rebond, donc il faut une limite claire.",
+   "vendreSi": "clôture sous 3,75 €, soit 2 ATR sous le cours. Sur 13 actions, la perte serait d'environ 5 € plus 1 € de frais.",
+   "renforcerSi": "non, tant que le cours n'a pas repassé durablement sa moyenne 50 jours (4,18 €) sur un fait nouveau."
+  },
+  {
+   "nom": "STMicroelectronics",
+   "isin": "NL0000226223",
+   "symbole": "STMPA.PA",
+   "action": "Garder",
+   "sortie": 38.61,
+   "pourquoi": "Le titre est sous ses moyennes 20, 50 et 200 jours et le secteur des puces reste sous pression. Tu perds environ 19 %, mais ce chiffre ne doit pas guider la décision : seule compte la suite.",
+   "vendreSi": "clôture sous 38,61 €, le plus bas d'octobre : le support aurait cédé.",
+   "renforcerSi": "non, tant qu'il n'y a pas de clôture au-dessus de 44,05 €, une zone rejetée plusieurs fois."
+  }
+ ],
+ "achats": [
+  {
+   "nom": "Socle : Amundi PEA Monde",
+   "statut": "Prêt",
+   "plan": [
+    [
+     "Ordre",
+     "Achat au marché, en séance"
+    ],
+    [
+     "Exemple",
+     "15 parts, environ 95 €"
+    ],
+    [
+     "Frais",
+     "1 €, soit environ 1 %"
+    ]
+   ],
+   "quand": "Quand tu as de l'épargne disponible, sans attendre un signal. Un seul ordre par mois limite les frais.",
+   "pourquoi": "C'est le seul achat que je peux te conseiller sans condition de marché : il vise le long terme. Garde d'abord une épargne de précaution hors bourse.",
+   "contre": "Les marchés peuvent baisser plusieurs années de suite. Cet achat n'a de sens que si tu peux laisser l'argent investi au moins 5 ans."
+  },
+  {
+   "nom": "Air France-KLM",
+   "statut": "Attendre",
+   "plan": [
+    [
+     "Déclencheur",
+     "Clôture au-dessus de 11,55 €"
+    ],
+    [
+     "Sortie",
+     "11,00 €"
+    ],
+    [
+     "Objectif",
+     "12,70 €"
+    ],
+    [
+     "Exemple",
+     "16 actions, environ 185 €"
+    ],
+    [
+     "Perte max",
+     "environ 11 €, frais compris"
+    ],
+    [
+     "Gain visé",
+     "environ 16 €, frais compris"
+    ]
+   ],
+   "quand": "Seulement après les résultats du 5 novembre, si la publication est bonne et si le titre clôture au-dessus de 11,55 €. Niveaux à recalculer après la publication.",
+   "pourquoi": "Le catalyseur est daté et la baisse du pétrole aide les compagnies aériennes. Le consensus, les dirigeants et les positions courtes restent à vérifier.",
+   "contre": "La publication peut ouvrir le titre sous 11 €. Une bonne partie de la nouvelle est peut-être déjà dans le cours."
+  }
+ ]
+}

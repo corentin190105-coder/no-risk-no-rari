@@ -9,3 +9,5 @@ Tableau de bord de mon PEA Trade Republic.
 - data/points.json : archives des points du soir
 - data/idees.json : journal des idées court terme et de leurs résultats
 - data/alertes.json : alertes envoyées pendant la séance
+- conseils.html et data/conseils.json : plan d'action, quand acheter et quand vendre
+- data/cours.json, data/radar.json, data/backtest.json : calculés par GitHub Actions (scripts/)

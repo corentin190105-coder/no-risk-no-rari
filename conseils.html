@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#050505">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="No Risk No Rari">
+<meta name="robots" content="noindex">
+<title>Conseils · No Risk No Rari</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800;900&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+<style>
+html, body { margin: 0; }
+.title.small { font-size: clamp(40px, 7vw, 78px); }
+.days { display: flex; flex-wrap: wrap; gap: 6px; }
+.days button { font: inherit; font-size: 12.5px; font-weight: 600; color: var(--fg-2); background: transparent; border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; cursor: pointer; }
+.days button[aria-pressed="true"] { color: var(--bg); background: var(--fg); border-color: var(--fg); }
+.days button:focus-visible { outline: 2px solid var(--fg-2); outline-offset: 2px; }
+.hero-card { border-radius: var(--radius); border: 1px solid color-mix(in srgb, var(--mood) 45%, var(--line)); background: linear-gradient(150deg, color-mix(in srgb, var(--mood) 26%, var(--surface-2)) 0%, var(--surface) 70%); padding: 22px; display: grid; gap: 10px; }
+.hero-card .when { font-family: var(--font-data); font-size: 12.5px; letter-spacing: .1em; text-transform: uppercase; color: var(--fg-2); }
+.hero-card h2 { font-size: clamp(30px, 5vw, 46px); text-wrap: balance; }
+.hero-card h2::before { display: none; }
+.hero-card p { margin: 0; color: var(--fg-2); max-width: 70ch; font-size: 16px; }
+.mood { justify-self: start; display: inline-flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: 5px 11px; border-radius: 999px; background: color-mix(in srgb, var(--mood) 30%, transparent); color: var(--fg); }
+.cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.anchor { grid-column: 1 / -1; display: grid; gap: 12px; min-width: 0; scroll-margin-top: 64px; }
+#content, section { min-width: 0; max-width: 100%; }
+.jump { position: sticky; top: 0; z-index: 5; max-width: 100%; display: flex; gap: 6px; overflow-x: auto; padding: 10px 0; margin: 4px 0 2px; background: var(--bg); scrollbar-width: none; }
+.jump::-webkit-scrollbar { display: none; }
+.jump a { flex: none; font-size: 13px; font-weight: 600; color: var(--fg-2); text-decoration: none; border: 1px solid var(--line); border-radius: 999px; padding: 8px 12px; }
+.jump a:hover, .jump a:focus-visible { color: var(--fg); border-color: var(--fg-2); }
+.fold { display: block; }
+.fold summary { cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 10px; min-height: 28px; }
+.fold summary::-webkit-details-marker { display: none; }
+.fold summary::before { content: none; display: none; }
+.fold summary::after { content: "+"; font-family: var(--font-data); font-size: 20px; color: var(--fg-2); }
+.fold[open] summary::after { content: "−"; }
+.fold summary:focus-visible { outline: 2px solid var(--fg-2); outline-offset: 2px; }
+.fold-body { display: grid; gap: 14px; margin-top: 12px; }
+.idea { display: grid; gap: 10px; border-top: 1px solid var(--line); padding-top: 12px; }
+.idea:first-child { border-top: 0; padding-top: 0; }
+.card { border-radius: var(--radius); border: 1px solid color-mix(in srgb, var(--c) 40%, var(--line)); background: linear-gradient(165deg, color-mix(in srgb, var(--c) 16%, var(--surface)) 0%, var(--surface) 55%); padding: 18px; display: grid; gap: 10px; align-content: start; min-width: 0; }
+.card.full { grid-column: 1 / -1; }
+.card h3 { margin: 0; display: flex; align-items: center; gap: 10px; font-family: var(--font-display); font-weight: 800; font-size: 24px; text-transform: uppercase; }
+.card h3::before { content: ""; width: 12px; height: 12px; border-radius: 3px; background: var(--c); }
+.card p { margin: 0; color: var(--fg-2); max-width: 70ch; }
+.items { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.items li { display: grid; gap: 2px; }
+.items strong { color: var(--fg); font-size: 14.5px; }
+.items span { color: var(--fg-2); font-size: 14px; }
+.idea-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px; }
+.idea-head .nm { font-family: var(--font-display); font-weight: 800; font-size: 30px; line-height: 1; text-transform: uppercase; }
+.term { font-family: var(--font-display); font-weight: 800; font-size: 30px; line-height: 1; text-transform: uppercase; }
+.src { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; }
+.src a { color: var(--fg-2); }
+/* Court terme, alertes, journal et quiz */
+.avis { display: inline-flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: 5px 11px; border-radius: 999px; background: color-mix(in srgb, var(--a) 30%, transparent); color: var(--fg); }
+.plan { display: grid; grid-template-columns: repeat(auto-fit, minmax(92px, 1fr)); gap: 8px; margin: 0; }
+.plan div { border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; min-width: 0; }
+.plan dt { font-size: 11px; color: var(--fg-2); text-transform: uppercase; letter-spacing: .05em; }
+.plan dd { margin: 2px 0 0; font-family: var(--font-data); font-size: 14px; color: var(--fg); overflow-wrap: anywhere; }
+.track { display: flex; flex-wrap: wrap; gap: 8px 18px; font-family: var(--font-data); font-size: 14px; color: var(--fg-2); }
+.track b { color: var(--fg); font-weight: 600; }
+.quiz { display: grid; gap: 16px; }
+.quiz fieldset { border: 0; margin: 0; padding: 0; display: grid; gap: 8px; min-width: 0; }
+.quiz legend { padding: 0 0 4px; color: var(--fg); font-weight: 600; font-size: 15px; }
+.q-opt { font: inherit; font-size: 14.5px; text-align: left; color: var(--fg); background: transparent; border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; cursor: pointer; min-height: 44px; }
+.q-opt:disabled { cursor: default; color: var(--fg-2); }
+.q-opt:focus-visible { outline: 2px solid var(--fg-2); outline-offset: 2px; }
+.q-opt.ok { border-color: var(--good); background: color-mix(in srgb, var(--good) 22%, transparent); color: var(--fg); }
+.q-opt.ko { border-color: var(--bad); background: color-mix(in srgb, var(--bad) 22%, transparent); color: var(--fg); }
+.q-exp { margin: 0; font-size: 14px; color: var(--fg-2); }
+@media (max-width: 900px) { .cards { grid-template-columns: minmax(0, 1fr); } }
+
+.act { display: inline-block; font-family: var(--font-data); font-size: 12px; font-weight: 600; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--a); color: var(--a); white-space: nowrap; }
+.pos { display: grid; gap: 10px; border-top: 1px solid var(--line); padding-top: 12px; min-width: 0; }
+.pos:first-of-type { border-top: 0; padding-top: 0; }
+.rule { display: grid; gap: 6px; font-size: 14px; }
+.warn { color: var(--bad); font-weight: 600; }
+.tbl { width: 100%; overflow-x: auto; }
+.tbl table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.tbl th, .tbl td { text-align: left; padding: 7px 8px 7px 0; border-bottom: 1px solid var(--line); white-space: nowrap; font-family: var(--font-data); }
+.tbl th { color: var(--fg-2); font-weight: 500; }
+.note { color: var(--fg-2); font-size: 13.5px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="topline">
+      <span class="eyebrow">Conseils · Quand acheter, quand vendre</span>
+      <span class="status"><span class="dot" id="dot"></span><span id="stat">Chargement…</span></span>
+    </div>
+    <h1 class="title small"><span>No risk</span><span class="red">No rari</span></h1>
+    <div class="checker" aria-hidden="true"></div>
+    <nav class="tabs" aria-label="Pages">
+      <a href="index.html">Tableau de bord</a>
+      <a class="nav-point" href="point.html">Point du soir</a>
+      <a class="nav-point" href="conseils.html" aria-current="page">Conseils</a>
+    </nav>
+  </header>
+  <section style="--sec: var(--accent)" aria-labelledby="h-c">
+    <div class="sec-head"><h2 id="h-c">Mon plan d'action</h2></div>
+    <div id="content" class="cards"></div>
+  </section>
+  <footer class="foot"><span>Analyses générées par Claude, sans garantie et sans conseil réglementé. Tu peux perdre de l'argent, même en suivant un plan. La décision reste la tienne.</span></footer>
+</div>
+<script>
+(() => {
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const eur = (x, d = 2) => Number(x).toLocaleString("fr-FR", { minimumFractionDigits: d, maximumFractionDigits: d }) + " €";
+  const pct = (x) => (x >= 0 ? "+" : "") + Number(x).toLocaleString("fr-FR", { minimumFractionDigits: 1, maximumFractionDigits: 1 }) + " %";
+  const num = (x) => Number(x).toLocaleString("fr-FR");
+  const ACT = { "Garder": "--s4", "Renforcer": "--good", "Alléger": "--bad", "Vendre": "--bad", "Attendre": "--s4", "Prêt": "--good" };
+  const get = (f) => fetch(`data/${f}.json?t=` + Date.now(), { cache: "no-store" }).then((r) => r.ok ? r.json() : {}).catch(() => ({}));
+  const card = (titre, c, html) => `<div class="card full" style="--c: var(${c})"><h3>${titre}</h3>${html}</div>`;
+
+  function lignes(ops) {
+    const m = {};
+    [...ops].sort((a, b) => String(a.date).localeCompare(String(b.date))).forEach((o) => {
+      const l = m[o.isin] || (m[o.isin] = { qte: 0, cout: 0 });
+      if (o.sens === "vente") { const part = l.qte ? o.qte / l.qte : 0; l.cout -= l.cout * part; l.qte -= o.qte; }
+      else { l.qte += o.qte; l.cout += o.qte * o.prix + (o.frais || 0); }
+    });
+    return m;
+  }
+
+  Promise.all(["conseils", "achats", "cours", "radar", "backtest", "idees"].map(get)).then(([c, ops, cours, radar, bt, id]) => {
+    const px = {}; (radar.valeurs || []).forEach((v) => (px[v.symbole] = v.cours));
+    Object.entries(cours.cours || {}).forEach(([k, v]) => (px[k] = v.cours));
+    const pos = lignes(Array.isArray(ops) ? ops : []);
+    let valeur = 0, investi = 0;
+    const cartes = (c.positions || []).filter((p) => pos[p.isin] && pos[p.isin].qte > 0).map((p) => {
+      const l = pos[p.isin], cr = px[p.symbole], pv = cr ? l.qte * cr - l.cout : null;
+      if (cr) { valeur += l.qte * cr; investi += l.cout; }
+      const touche = cr && p.sortie && cr <= p.sortie;
+      return `<div class="pos"><div class="idea-head"><span class="nm">${esc(p.nom)}</span><span class="act" style="--a: var(${ACT[p.action] || "--s4"})">${esc(p.action)}</span></div>
+        <dl class="plan">${[["Parts", num(l.qte)], ["Prix de revient", eur(l.cout / l.qte, 3)], ["Cours", cr ? eur(cr, 3) : "n.d."], ["Résultat", pv === null ? "n.d." : (pv >= 0 ? "+" : "") + eur(pv) + " (" + pct(pv / l.cout * 100) + ")"]].map((x) => `<div><dt>${x[0]}</dt><dd>${x[1]}</dd></div>`).join("")}</dl>
+        ${touche ? `<p class="warn">Niveau de sortie touché : applique ta règle ou décide maintenant.</p>` : ""}
+        <p>${esc(p.pourquoi)}</p>
+        <div class="rule"><span><strong>Je vends si :</strong> ${esc(p.vendreSi)}</span><span><strong>Je renforce si :</strong> ${esc(p.renforcerSi)}</span></div></div>`;
+    }).join("");
+    const manque = Object.keys(pos).filter((k) => pos[k].qte > 0 && !(c.positions || []).some((p) => p.isin === k));
+    const html = [];
+    html.push(card(esc(c.verdict?.titre || "Plan en préparation"), "--accent", `<p>${esc(c.verdict?.texte || "")}</p>${investi ? `<p class="note">Lignes suivies : ${eur(valeur)} pour ${eur(investi)} investis, soit ${pct((valeur / investi - 1) * 100)}.</p>` : ""}`));
+    html.push(card("Mes positions : garder ou vendre", "--good", cartes + (manque.length ? `<p class="note">Ligne sans plan pour l'instant : ${manque.map(esc).join(", ")}.</p>` : "")));
+    html.push(card("Quand acheter", "--s7", (c.achats || []).map((a) => `<div class="pos"><div class="idea-head"><span class="nm">${esc(a.nom)}</span><span class="act" style="--a: var(${ACT[a.statut] || "--s4"})">${esc(a.statut)}</span></div>
+      ${a.plan ? `<dl class="plan">${a.plan.map((x) => `<div><dt>${esc(x[0])}</dt><dd>${esc(x[1])}</dd></div>`).join("")}</dl>` : ""}
+      <p><strong>Quand :</strong> ${esc(a.quand)}</p><p>${esc(a.pourquoi)}</p>${a.contre ? `<p><strong>Ce qui peut casser l'idée :</strong> ${esc(a.contre)}</p>` : ""}</div>`).join("") || "<p>Aucun achat à faire pour l'instant : ne rien faire est aussi une décision.</p>"));
+    const r = bt.resultats || {};
+    const lig = Object.entries(r).map(([k, v]) => `<tr><td>${esc(k)}</td><td>${num(v.total.n)}</td><td>${String(v.total.gagnants_pct).replace(".", ",")} %</td><td>${pct(v.total.moyenne_nette_pct)}</td><td>${pct(v.periode_recente.moyenne_nette_pct)}</td></tr>`).join("");
+    if (lig) html.push(card("Ce que valent vraiment les signaux", "--bad", `<p>${esc(c.lecture || "")}</p><div class="tbl"><table><thead><tr><th>Signal</th><th>Cas</th><th>Gagnants</th><th>Moy. nette</th><th>Récent</th></tr></thead><tbody>${lig}</tbody></table></div><p class="note">${esc(bt.regle)} ${esc(bt.limite)}</p>`));
+    const vus = (radar.valeurs || []).filter((v) => !v.exclu && v.signaux.length).slice(0, 12);
+    if (vus.length) html.push(card(`Radar : ${(radar.valeurs || []).length} valeurs scannées`, "--s1", `<p class="note">Une liste de valeurs à étudier, pas un ordre d'achat. Il faut encore un fait nouveau daté.</p><div class="tbl"><table><thead><tr><th>Valeur</th><th>Cours</th><th>20 j</th><th>RSI</th><th>Signal</th></tr></thead><tbody>${vus.map((v) => `<tr><td>${esc(v.nom)}</td><td>${eur(v.cours)}</td><td>${pct(v.perf20_pct)}</td><td>${Math.round(v.rsi)}</td><td>${esc(v.signaux.join(", "))}</td></tr>`).join("")}</tbody></table></div>`));
+    const j = id.idees || [], clos = j.filter((i) => typeof i.perfPct === "number");
+    html.push(card("Mon bilan réel", "--muted", clos.length ? `<p>${clos.filter((i) => i.perfPct > 0).length} idées gagnantes sur ${clos.length} closes, performance moyenne nette de ${pct(clos.reduce((a, i) => a + i.perfPct, 0) / clos.length)}.</p>` : `<p>Aucune idée close pour l'instant. Il faudra au moins 10 idées pour commencer à juger la méthode.</p>`));
+    $("content").innerHTML = html.join("");
+    $("dot").className = "dot live";
+    $("stat").textContent = c.maj ? "Plan du " + new Date(c.maj).toLocaleDateString("fr-FR", { day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" }) : "Plan en préparation";
+  });
+})();
+</script>
+</body>
+</html>
