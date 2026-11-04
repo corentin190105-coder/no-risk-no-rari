@@ -25,8 +25,38 @@
     "nom": "STMicroelectronics",
     "qte": 2,
     "prix": 50.31,
-    "frais": 0.50,
+    "frais": 0.5,
     "date": "2026-10-05",
+    "compte": "PEA"
+  },
+  {
+    "id": "nl00150001q9-2026-11-03-stla",
+    "isin": "NL00150001Q9",
+    "nom": "Stellantis",
+    "qte": 13,
+    "prix": 4.04,
+    "frais": 1.0,
+    "date": "2026-11-03",
+    "compte": "PEA"
+  },
+  {
+    "id": "fr0013380607-2026-11-03-cacc",
+    "isin": "FR0013380607",
+    "nom": "Core CAC 40 Sur",
+    "qte": 4,
+    "prix": 40.87,
+    "frais": 1.0,
+    "date": "2026-11-03",
+    "compte": "PEA"
+  },
+  {
+    "id": "fr0000120073-2026-11-03-airl",
+    "isin": "FR0000120073",
+    "nom": "Air Liquide",
+    "qte": 1,
+    "prix": 181.08,
+    "frais": 1.0,
+    "date": "2026-11-03",
     "compte": "PEA"
   }
 ]
