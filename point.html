@@ -110,12 +110,12 @@ html, body { margin: 0; }
   function courtTerme(ct) {
     if (!ct) return "";
     const ops = ct.opportunites || [];
-    return `<div class="card full" style="--c: var(--accent)"><h3>Court terme PEA</h3>
+    return `<div class="card full" style="--c: var(--accent)"><h3>Court terme</h3>
       ${ct.contexte ? `<p>${esc(ct.contexte)}</p>` : ""}
       ${trackRecord()}
       ${ops.length ? ops.map((o) => `<div style="display:grid;gap:10px;border-top:1px solid var(--line);padding-top:12px">
         <div class="idea-head"><span class="nm">${esc(o.nom)}</span><span class="avis" style="--a: var(${AVIS[o.avis] || "--s4"})">${esc(o.avis)}</span></div>
-        <div class="chips">${o.isin ? `<span class="chip">${esc(o.isin)}</span>` : ""}${o.horizon ? `<span class="chip">${esc(o.horizon)}</span>` : ""}${o.catalyseur ? `<span class="chip">${esc(o.catalyseur)}</span>` : ""}</div>
+        <div class="chips">${o.compte ? `<span class="chip">${esc(o.compte)}</span>` : ""}${o.isin ? `<span class="chip">${esc(o.isin)}</span>` : ""}${o.horizon ? `<span class="chip">${esc(o.horizon)}</span>` : ""}${o.catalyseur ? `<span class="chip">${esc(o.catalyseur)}</span>` : ""}</div>
         <dl class="plan">${[["Cours", o.cours], ["Entrée", o.entree], ["Invalidation", o.invalidation], ["Objectif", o.objectif], ["Gain/risque", o.ratio], ["Frais A/R", o.frais]].filter((x) => x[1] !== undefined && x[1] !== "").map((x) => `<div><dt>${x[0]}</dt><dd>${esc(x[1])}</dd></div>`).join("")}</dl>
         <p>${esc(o.these)}</p>${o.risque ? `<p><strong>Ce qui peut invalider l'idée :</strong> ${esc(o.risque)}</p>` : ""}</div>`).join("") : `<p>Aucune opportunité assez solide aujourd'hui : ne rien faire est aussi une décision.</p>`}
     </div>`;
