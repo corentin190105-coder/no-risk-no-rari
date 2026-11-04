@@ -1,6 +1,280 @@
 {
   "points": [
     {
+      "date": "2026-11-04",
+      "titre": "La vague démocrate propulse les Bourses, le pétrole s'effondre et les puces trinquent",
+      "resume": "Le CAC 40 gagne 1,96 % à 8 177,89 points, sa plus forte hausse depuis le 6 mai, après la prise du Congrès américain par les démocrates. Le Brent chute de près de 9 % sous 95 dollars sur l'espoir d'une sortie de la guerre en Iran, ce qui soutient banques et luxe. Les semi-conducteurs font exception, pénalisés par la crainte de limites aux centres de données.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 177,89 pts",
+          "variation": 1.96
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 265,71 pts",
+          "variation": 1.97
+        },
+        {
+          "nom": "S&P 500 (provisoire)",
+          "valeur": "≈ 7 700 pts",
+          "variation": 1.78
+        },
+        {
+          "nom": "Nasdaq (provisoire)",
+          "valeur": "≈ 25 835 pts",
+          "variation": 1.83
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "62 188,63 pts",
+          "variation": -1.42
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "23 919,50 pts",
+          "variation": 1.67
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 95 $",
+          "variation": -8.94
+        },
+        {
+          "nom": "Or (provisoire)",
+          "valeur": "≈ 4 058 $",
+          "variation": 2.9
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "1,122 $",
+          "variation": 0.3
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Élections américaines",
+          "texte": "Les démocrates remportent la Chambre et le Sénat, ce qui ouvre une période de cohabitation avec Donald Trump. Les marchés y voient moins d'incertitude et une limite aux dépenses publiques, et Wall Street monte fortement. Wall Street n'est pas clôturée à l'heure de ce point : ses variations sont provisoires."
+        },
+        {
+          "titre": "Pétrole et Iran",
+          "texte": "Le Brent perd près de 9 % et revient vers 95 dollars, après que le vice-président JD Vance a attribué la défaite républicaine à la guerre. Le marché en déduit que Washington a plus de raisons de chercher un accord, et Donald Trump dit ne pas prévoir de frappe immédiate. Rien n'est signé : le mouvement repose sur une anticipation."
+        },
+        {
+          "titre": "Inflation et BCE",
+          "texte": "L'inflation de la zone euro monte à 4,0 % en octobre, tirée par l'énergie, alors que l'inflation sous-jacente reste à 2,5 %. Le taux de dépôt de la BCE est à 2,50 % et la prochaine décision est attendue le 17 décembre. La chute du pétrole, si elle dure, réduirait la pression sur les prix."
+        },
+        {
+          "titre": "Fed et taux",
+          "texte": "Les rendements reculent : le 10 ans américain revient vers 4,9 % et l'OAT française vers 4,8 %. Le taux de la Fed est à 3,75-4,00 % et des données d'emploi solides ont fait monter les paris sur une hausse en décembre, selon Yahoo Finance. L'emploi de vendredi et l'inflation de mardi seront décisifs avant la réunion des 8 et 9 décembre."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 368.62,
+        "pv": -30.58,
+        "texte": "Sur la séance, la hausse de tes ETF Monde et Nasdaq-100 (environ +4,30 €) compense presque la chute de STMicroelectronics (environ -4,43 €), soit une journée quasi neutre. La valeur recule toutefois de 372,52 € à 368,62 € par rapport à hier, car les cours précédents dataient de fin octobre et sont enfin actualisés ce soir."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Perd 5,14 % à 40,885 € avec tout le secteur des puces, sans nouvelle propre à la société trouvée."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "Chute de 11,78 % à 110,05 € après l'abaissement de Morgan Stanley à pondération en ligne, objectif ramené à 140 €, malgré le relèvement d'UBS à conserver."
+        },
+        {
+          "nom": "Thales",
+          "texte": "Recule de 2,36 % à 227,50 € et casse le support des 228 €, la défense étant délaissée après le scrutin américain."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Gagne 2,63 % à 187,36 €, nouveau plus haut d'un an, avec des ventes d'actions du directeur général signalées ces derniers jours."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "BNP Paribas",
+          "isin": "FR0000131104",
+          "risque": "Modéré",
+          "prix": "≈ 91,70 € la part",
+          "texte": "La banque a mené le CAC 40 avec +4,67 %, portée par la baisse des taux longs français et l'idée d'une supervision américaine plus souple pour les banques européennes. Ses résultats sont déjà publiés depuis le 28 octobre et le titre se paie environ 7,8 fois les bénéfices estimés pour 2026. Le principal risque est d'acheter après la hausse : le mouvement du jour est fait et une remontée de l'OAT pèserait de nouveau sur le secteur."
+        },
+        {
+          "nom": "Air France-KLM",
+          "isin": "FR001400J770",
+          "risque": "Élevé",
+          "prix": "≈ 11,28 € la part",
+          "texte": "Avec un Brent en chute de près de 9 %, le carburant, gros poste de coûts du transport aérien, pourrait peser moins lourd. Le titre gagne déjà 3,9 % aujourd'hui avec des volumes environ 1,8 fois supérieurs à la moyenne, et la société publie ses résultats trimestriels demain. Le principal risque est cette publication : elle peut retourner le titre en une séance, et le pétrole peut rebondir si les espoirs de paix avec l'Iran sont déçus."
+        },
+        {
+          "nom": "Voltalia",
+          "isin": "FR0011995588",
+          "risque": "Très élevé",
+          "prix": "≈ 3,87 € la part",
+          "texte": "Les renouvelables ont rebondi en Europe après le revers républicain, un camp hostile au secteur : Voltalia gagne 4,59 %, avec une part accessible à un petit budget. Le thème est toutefois fragile pour cette société précise, qui a chuté de 17 % en septembre après un avertissement sur ses résultats. Le principal risque est que le rebond du jour reste purement thématique, sans amélioration de ses comptes."
+        }
+      ],
+      "idee": {
+        "nom": "BNP Paribas",
+        "isin": "FR0000131104",
+        "risque": "Modéré",
+        "prix": "≈ 91,70 € la part",
+        "texte": "La banque a mené le CAC 40 avec +4,67 %, portée par la baisse des taux longs français et l'idée d'une supervision américaine plus souple pour les banques européennes. Ses résultats sont déjà publiés depuis le 28 octobre et le titre se paie environ 7,8 fois les bénéfices estimés pour 2026. Le principal risque est d'acheter après la hausse : le mouvement du jour est fait et une remontée de l'OAT pèserait de nouveau sur le secteur."
+      },
+      "concept": {
+        "terme": "La prime de risque géopolitique",
+        "texte": "La prime de risque géopolitique est le supplément de prix ou de rendement qu'un marché intègre quand une guerre, une sanction ou une tension diplomatique menace un actif. Sur le pétrole, elle correspond à la part du prix qui ne vient pas de l'offre et de la demande du moment, mais de la crainte d'une interruption future des livraisons. Comme elle repose sur des anticipations, elle peut disparaître très vite : le Brent a perdu près de 9 % en une séance sur l'espoir d'une sortie de la guerre en Iran, sans qu'un seul baril supplémentaire soit arrivé sur le marché. Le mouvement inverse est aussi brutal si l'espoir est déçu, et une prime qui se dégonfle n'annonce donc pas à elle seule une baisse durable. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "Banque de France : Rapport sur la stabilité financière, juin 2025 (risque géopolitique)",
+            "url": "https://www.banque-france.fr/system/files/2025-06/RSF_juin_2025.pdf"
+          },
+          {
+            "titre": "Investopedia : Risk Premium ⚠️",
+            "url": "https://www.investopedia.com/terms/r/riskpremium.asp"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché est porteur à court terme : le CAC 40 signe sa plus forte hausse depuis le 6 mai, le Brent tombe et les taux reculent. Mais les hausses sont déjà faites, l'emploi américain de vendredi et l'inflation de mardi peuvent tout rebattre, et rien ne remplit tous les critères ce soir : rien de solide, donc aucune idée Favorable. Le journal ne compte aucune idée close : l'échantillon est trop petit pour juger la méthode. Attention sur STMicroelectronics, ta ligne : clôture sous les moyennes 20 et 50 jours et moins-value d'environ 19 %.",
+        "opportunites": [
+          {
+            "nom": "Air France-KLM",
+            "isin": "FR001400J770",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Résultats du 3e trimestre le 5 novembre, Brent à -9 %",
+            "cours": "11,28 €",
+            "entree": "11,55 €",
+            "invalidation": "11,00 €",
+            "objectif": "12,70 €",
+            "ratio": "2,1",
+            "frais": "2 € soit 1,1 % sur 16 actions",
+            "these": "Le titre clôture à 11,275 € au-dessus de sa moyenne 20 jours (10,53 €) avec des volumes 1,8 fois supérieurs à la moyenne, et il gagne 13 % depuis son plus bas du 23 octobre à 9,90 €. Le carburant baisse et Ryanair ou Turkish Airlines ont bien réagi à leurs chiffres cette semaine. Ce qui contredit l'idée : une grande partie de la nouvelle est déjà dans le cours, et je n'ai pas trouvé de consensus fiable ni vérifié dirigeants et positions courtes. Les niveaux donnés sont un plan conditionnel, à recalculer après la publication de demain : un passage au-dessus de 11,53 € sur une publication propre, pas avant.",
+            "risque": "Publication binaire qui peut ouvrir sous l'invalidation, et pétrole qui peut rebondir vite si les discussions avec l'Iran échouent."
+          },
+          {
+            "nom": "STMicroelectronics",
+            "isin": "NL0000226223",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Résultats d'Infineon le 10 novembre, date préliminaire",
+            "cours": "40,89 €",
+            "entree": "44,10 €",
+            "invalidation": "41,90 €",
+            "objectif": "48,60 €",
+            "ratio": "2,0",
+            "frais": "2 € soit 1,1 % sur 4 actions",
+            "these": "Position détenue, à surveiller. Le titre perd 5,14 % à 40,885 € sur des volumes 1,8 fois supérieurs à la moyenne, avec un nouvel échec à 44,05 €, et clôture sous ses moyennes 20 jours (42,69 €) et 50 jours (44,25 €). L'ATR(14) est d'environ 2 €, soit près de 5 % du cours. La baisse vient du secteur, craintes sur les centres de données, sans nouvelle propre à la société trouvée, mais une chute n'est pas un catalyseur. Il faudrait une clôture au-dessus de 44,05 € pour parler de reprise ; à la baisse, la zone à surveiller est 38,61 à 39,54 €, plus bas d'octobre.",
+            "risque": "Si la zone de 38,61 € cède, la tendance baissière entamée depuis 52 € début octobre se prolonge. Infineon peut aussi décevoir et entraîner tout le secteur."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "Une action, c'est quoi, et à quoi sert le PEA ?",
+        "niveau": "Débutant",
+        "texte": "Une action est une petite part du capital d'une entreprise : l'acheter, c'est devenir copropriétaire, pour une fraction infime. Elle peut rapporter de deux façons : la hausse du cours si tu revends plus cher, et le dividende si l'entreprise en verse un. Elle donne aussi un droit de vote en assemblée générale. Son prix évolue chaque jour selon l'offre et la demande, c'est-à-dire selon ce que les investisseurs anticipent, pas selon une valeur fixe. Le risque est réel : rien ne garantit le capital investi, et une société peut baisser longtemps. Le PEA est une enveloppe qui accueille des actions européennes et certains ETF, avec un plafond de versement de 150 000 € et un avantage fiscal après cinq ans. Il ne protège pas de la baisse : il change seulement la façon dont les gains sont imposés. Tu y distingues donc toujours le titre, qui porte le risque, et l'enveloppe, qui porte la fiscalité.",
+        "exemple": "Ta ligne STMicroelectronics : 2 actions achetées 50,31 € plus 0,50 € de frais, soit 101,12 € investis. À 40,885 €, elles valent 81,77 €, soit une moins-value latente de 19,35 €, environ -19 %. Elle reste latente tant que tu ne vends pas, et le PEA n'y change rien.",
+        "references": [
+          {
+            "titre": "AMF : Actionnaire individuel, à quoi devez-vous faire attention ?",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/etre-un-actionnaire-vigilant"
+          },
+          {
+            "titre": "Service-public : Plan d'épargne en actions (PEA)",
+            "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2385"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Que devient l'acheteur d'une action ?",
+          "choix": [
+            "Un prêteur remboursé à une date fixe",
+            "Un copropriétaire de l'entreprise",
+            "Un client garanti contre la baisse",
+            "Un salarié de l'entreprise"
+          ],
+          "bonne": 1,
+          "explication": "Une action est une part du capital. Un prêteur détient une obligation, pas une action, et le capital n'est jamais garanti."
+        },
+        {
+          "question": "Le Brent perd près de 9 % sur un espoir de paix, sans changement immédiat des livraisons. Quelle explication est la plus juste ?",
+          "choix": [
+            "La production mondiale a bondi dans la journée",
+            "Les raffineries ont fermé",
+            "La demande mondiale s'est effondrée",
+            "La prime de risque géopolitique se dégonfle"
+          ],
+          "bonne": 3,
+          "explication": "La prime reflète une crainte sur les livraisons futures. Elle peut disparaître en une séance, et revenir aussi vite si l'espoir est déçu."
+        },
+        {
+          "question": "Révision du concept d'hier, le risque politique : quand l'incertitude d'un scrutin se dissipe, que peut-il se passer ?",
+          "choix": [
+            "Les marchés peuvent monter même si le résultat n'était pas celui attendu",
+            "Les cours restent figés",
+            "Les taux d'intérêt sont fixés par le gagnant",
+            "Seules les actions américaines bougent"
+          ],
+          "bonne": 0,
+          "explication": "Les marchés détestent l'incertitude : sa levée peut suffire à les faire monter, comme le 4 novembre. Il n'y a pas encore de leçon antérieure, la révision porte donc sur ce concept."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-05",
+          "titre": "Résultats trimestriels : Air France-KLM, Legrand, Bouygues, ArcelorMittal"
+        },
+        {
+          "date": "2026-11-06",
+          "titre": "États-Unis : rapport sur l'emploi d'octobre"
+        },
+        {
+          "date": "2026-11-10",
+          "titre": "États-Unis : inflation d'octobre (CPI)"
+        },
+        {
+          "date": "2026-11-10",
+          "titre": "Infineon : résultats annuels (date préliminaire)"
+        },
+        {
+          "date": "2026-11-18",
+          "titre": "Soitec : résultats du 1er semestre"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama / Reuters : L'Europe finit en forte hausse au lendemain des midterms",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-forte-hausse-au-lendemain-des-midterms-le-petrole-chute-1bdafabcbb80a927e1a05e5f09ef8e61"
+        },
+        {
+          "titre": "Boursier.com : Clôture Paris",
+          "url": "https://www.boursier.com/indices/actualites/news/cloture-paris-le-cac-40-grimpe-de-2-apres-la-vague-bleue-des-midterms-997617.html"
+        },
+        {
+          "titre": "CNBC : le pétrole passe sous les 90 dollars (WTI)",
+          "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html"
+        },
+        {
+          "titre": "CNN : Wall Street après les midterms",
+          "url": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections"
+        },
+        {
+          "titre": "Yahoo Finance : Asian shares mixed as Democrats retake US Congress",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-democrats-retake-090331664.html"
+        },
+        {
+          "titre": "Tradoshi : calendrier économique 2026-2027",
+          "url": "https://tradoshi.com/blog/calendrier-economique"
+        }
+      ]
+    },
+    {
       "date": "2026-11-03",
       "titre": "Paris reprend son souffle avant les élections de mi-mandat américaines",
       "resume": "Les bourses européennes marquent une pause mardi, dans l'attente du scrutin américain de mi-mandat. Le CAC 40 passe brièvement sous 8 000 points à l'ouverture puis termine autour de 8 020 points, en légère baisse d'environ 0,3 %. Les doutes sur la rentabilité des investissements dans l'IA et un Apple en recul d'environ 2 % après des prévisions décevantes pèsent sur la tech.",

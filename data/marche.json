@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-03T20:15:00+01:00",
-    "resume": "Mardi 3 novembre 2026 : séance prudente à Paris, le CAC 40 termine autour de 8 020 points (environ -0,3 %) avant les élections américaines de mi-mandat, avec des craintes sur la rentabilité de l'IA et Apple en baisse d'environ 2 %. Faute de cours de clôture fiable pour tes lignes, les prix restent ceux des dernières clôtures connues (STMicroelectronics à 41,88 € au 30 octobre). Prochaines échéances : inflation de la zone euro le 4, emploi américain le 6, Infineon le 10, Soitec le 18."
+    "date": "2026-11-04T21:05:00+01:00",
+    "resume": "Mercredi 4 novembre 2026 : le CAC 40 gagne 1,96 % à 8 177,89 points après la vague démocrate au Congrès américain, tandis que le Brent chute de près de 9 % sous 95 dollars. Les puces font exception : STMicroelectronics perd 5,14 % à 40,885 €, Soitec 11,78 %. Tes ETF montent de 1,2 % à 1,9 %. Prochaines échéances : emploi américain le 6, inflation américaine et Infineon le 10, Soitec le 18."
   },
   "actifs": [
     {
@@ -30,11 +30,15 @@
         {
           "d": "2026-10-09",
           "p": 8.1
+        },
+        {
+          "d": "2026-11-04",
+          "p": 6.21
         }
       ],
-      "prix": 8.1,
-      "prixDate": "2026-10-09",
-      "variationJour": -3.46
+      "prix": 6.21,
+      "prixDate": "2026-11-04",
+      "variationJour": -2.36
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
@@ -68,15 +72,24 @@
         {
           "d": "2026-10-09",
           "p": 169.68
+        },
+        {
+          "d": "2026-11-04",
+          "p": 187.36
         }
       ],
-      "prix": 169.68,
-      "prixDate": "2026-10-09",
-      "variationJour": 1.04
+      "prix": 187.36,
+      "prixDate": "2026-11-04",
+      "variationJour": 2.63
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
       "actus": [
+        {
+          "date": "2026-11-04",
+          "titre": "Thales casse le support des 228 € alors que la défense recule après le scrutin américain",
+          "url": "https://www.abcbourse.com/marches/thales-cassure-du-support-des-228-euros-le-titre-glisse-vers-la-zone-des-223_705577"
+        },
         {
           "date": "2026-10-21",
           "titre": "La DGA commande quatre sections supplémentaires du système sol-air SAMP/T NG à Eurosam (Thales et MBDA), ce qui porte à douze les sections prévues pour l'armée de l'Air et de l'Espace",
@@ -120,11 +133,15 @@
         {
           "d": "2026-10-19",
           "p": 229.5
+        },
+        {
+          "d": "2026-11-04",
+          "p": 227.5
         }
       ],
-      "prix": 229.5,
-      "prixDate": "2026-10-19",
-      "variationJour": -1.92
+      "prix": 227.5,
+      "prixDate": "2026-11-04",
+      "variationJour": -2.36
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -157,11 +174,15 @@
         {
           "d": "2026-10-09",
           "p": 88.25
+        },
+        {
+          "d": "2026-11-04",
+          "p": 94.5
         }
       ],
-      "prix": 88.25,
-      "prixDate": "2026-10-09",
-      "variationJour": 1.73
+      "prix": 94.5,
+      "prixDate": "2026-11-04",
+      "variationJour": 2.05
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
@@ -215,15 +236,29 @@
         {
           "d": "2026-10-09",
           "p": 110.44
+        },
+        {
+          "d": "2026-11-04",
+          "p": 101.78
         }
       ],
-      "prix": 110.44,
-      "prixDate": "2026-10-09",
-      "variationJour": -0.56
+      "prix": 101.78,
+      "prixDate": "2026-11-04",
+      "variationJour": 0.81
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
+        {
+          "date": "2026-11-04",
+          "titre": "Morgan Stanley abaisse Soitec à pondération en ligne, objectif ramené à 140 €, le titre chute de près de 12 %",
+          "url": "https://www.abcbourse.com/marches/soitec-degrade-a-ponderation-en-ligne-par-morgan-stanley_705602"
+        },
+        {
+          "date": "2026-11-04",
+          "titre": "UBS relève Soitec à conserver",
+          "url": "https://www.abcbourse.com/marches/soitec-releve-a-conserver-par-ubs_705587"
+        },
         {
           "date": "2026-10-30",
           "titre": "Soitec chute lourdement dans le sillage des semi-conducteurs, plombés par les doutes sur la rentabilité des dépenses en IA (cours de clôture non confirmé)",
@@ -243,16 +278,6 @@
           "date": "2026-10-22",
           "titre": "Soitec chute d'environ 10 % à 114,70 € dans le sillage du secteur des puces",
           "url": "https://www.zonebourse.com/cours/action/SOITEC-4695/"
-        },
-        {
-          "date": "2026-10-16",
-          "titre": "Soitec recule d'environ 0,4 % à 129,30 € en début de séance, sans rebond franc après la chute des puces",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-a-l-equilibre-apres-une-semaine-de-soubresauts-9d2208818c0261344a374b89f8f5d555"
-        },
-        {
-          "date": "2026-10-15",
-          "titre": "Soitec lâche près de 8 % dans le sillage de Séoul et des semi-conducteurs, sans annonce de la société",
-          "url": "https://www.zonebourse.com/actualite-bourse/sbf-120-stmicroelectronics-et-soitec-perdent-plus-de-6-dans-le-sillage-de-la-chute-des-valeurs-as-ce785dd3d880f324"
         }
       ],
       "isin": "FR0013227113",
@@ -319,11 +344,15 @@
         {
           "d": "2026-10-27",
           "p": 121.95
+        },
+        {
+          "d": "2026-11-04",
+          "p": 110.05
         }
       ],
-      "prix": 121.95,
-      "prixDate": "2026-10-27",
-      "variationJour": 3.96
+      "prix": 110.05,
+      "prixDate": "2026-11-04",
+      "variationJour": -11.78
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -358,11 +387,15 @@
         {
           "d": "2026-10-08",
           "p": 15.577
+        },
+        {
+          "d": "2026-11-04",
+          "p": 12.355
         }
       ],
-      "prix": 15.577,
-      "prixDate": "2026-10-08",
-      "variationJour": -2.92
+      "prix": 12.355,
+      "prixDate": "2026-11-04",
+      "variationJour": -0.44
     },
     {
       "activite": "Un seul produit qui achète environ 1 400 grandes entreprises de 23 pays développés, pondérées selon leur taille. Les États-Unis pèsent environ 70 % et la tech environ 25 %.",
@@ -394,11 +427,15 @@
         {
           "d": "2026-10-26",
           "p": 6.329
+        },
+        {
+          "d": "2026-11-04",
+          "p": 6.333
         }
       ],
-      "prix": 6.329,
-      "prixDate": "2026-10-26",
-      "variationJour": 0.44
+      "prix": 6.333,
+      "prixDate": "2026-11-04",
+      "variationJour": 1.21
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
@@ -456,11 +493,15 @@
         {
           "d": "2026-10-23",
           "p": 6.843
+        },
+        {
+          "d": "2026-11-04",
+          "p": 6.743
         }
       ],
-      "prix": 6.843,
-      "prixDate": "2026-10-23",
-      "variationJour": 0.04
+      "prix": 6.743,
+      "prixDate": "2026-11-04",
+      "variationJour": 1.87
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -488,15 +529,24 @@
         {
           "d": "2026-10-09",
           "p": 7.215
+        },
+        {
+          "d": "2026-11-04",
+          "p": 7.158
         }
       ],
-      "prix": 7.215,
-      "prixDate": "2026-10-09",
-      "variationJour": 0.49
+      "prix": 7.158,
+      "prixDate": "2026-11-04",
+      "variationJour": 1.26
     },
     {
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
+        {
+          "date": "2026-11-04",
+          "titre": "Les puces européennes décrochent après la victoire démocrate : le marché craint des limites aux centres de données",
+          "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+        },
         {
           "date": "2026-10-30",
           "titre": "STMicroelectronics recule d'environ 5,3 % à 41,88 € dans une chute générale des semi-conducteurs, après les résultats décevants d'Intel et d'Amazon aux États-Unis",
@@ -521,11 +571,6 @@
           "date": "2026-10-23",
           "titre": "STMicroelectronics cède encore 1,2 % à 39,47 € avant ses résultats du 29 octobre, après une séance volatile entre 38,61 € et 40,28 €",
           "url": "https://www.boursorama.com/cours/1rPSTMPA/"
-        },
-        {
-          "date": "2026-10-22",
-          "titre": "STMicroelectronics recule de près de 5 % à 39,96 € dans une séance difficile pour les semi-conducteurs européens",
-          "url": "https://www.zonebourse.com/cours/action/STMICROELECTRONICS-N-V-4710/"
         }
       ],
       "isin": "NL0000226223",
@@ -587,11 +632,15 @@
         {
           "d": "2026-10-30",
           "p": 41.88
+        },
+        {
+          "d": "2026-11-04",
+          "p": 40.885
         }
       ],
-      "prix": 41.88,
-      "prixDate": "2026-10-30",
-      "variationJour": -5.26
+      "prix": 40.885,
+      "prixDate": "2026-11-04",
+      "variationJour": -5.14
     }
   ],
   "agenda": [
@@ -647,7 +696,7 @@
       "id": "us-jobs-2026-10",
       "date": "2026-11-06",
       "titre": "États-Unis : rapport sur l'emploi d'octobre",
-      "detail": "Date habituelle (premier vendredi du mois), à confirmer ; un emploi faible ou solide influence les attentes sur les taux de la Fed"
+      "detail": "Publication à 14h30 heure de Paris ; un emploi solide renforcerait les paris sur une hausse des taux de la Fed en décembre"
     },
     {
       "id": "ifx-q4-2026",
@@ -656,10 +705,28 @@
       "detail": "Date indiquée par les agendas boursiers, à confirmer par la société ; un test pour les semi-conducteurs européens, dont STMicroelectronics"
     },
     {
+      "id": "us-cpi-2026-10",
+      "date": "2026-11-10",
+      "titre": "États-Unis : inflation d'octobre (CPI)",
+      "detail": "Publication à 14h30 heure de Paris, indicateur clé avant la réunion de la Fed des 8 et 9 décembre"
+    },
+    {
       "id": "soitec-s1-2026",
       "date": "2026-11-18",
       "titre": "Soitec : résultats du 1er semestre",
       "detail": "Date indiquée par les agendas boursiers, à confirmer par la société"
+    },
+    {
+      "id": "ez-flash-hicp-2026-11",
+      "date": "2026-12-01",
+      "titre": "Zone euro : estimation rapide de l'inflation de novembre",
+      "detail": "Après 4,0 % en octobre, dernier grand chiffre avant la décision de la BCE du 17 décembre"
+    },
+    {
+      "id": "us-jobs-2026-11",
+      "date": "2026-12-04",
+      "titre": "États-Unis : rapport sur l'emploi de novembre",
+      "detail": "Dernier rapport sur l'emploi avant la réunion de la Fed des 8 et 9 décembre"
     }
   ],
   "historique": [
@@ -791,6 +858,11 @@
     {
       "d": "2026-11-03",
       "valeur": 372.52,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-11-04",
+      "valeur": 368.62,
       "investi": 399.2
     }
   ]

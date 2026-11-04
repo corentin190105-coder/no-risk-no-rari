@@ -296,3 +296,13 @@ Le risque politique désigne l'incertitude créée par des événements comme de
 **Références**
 - [Banque de France : Rapport sur la stabilité financière, décembre 2024 ⚠️](https://www.banque-france.fr/fr/actualites/rapport-sur-la-stabilite-financiere-decembre-2024)
 - [La Banque Postale : Comment l'incertitude politique pèse sur les marchés financiers ? ⚠️](https://www.labanquepostale.fr/collectivites/actualite/incertitude-politique-marches-financiers.html)
+
+## Q: Qu'est-ce que la prime de risque géopolitique ?
+
+_2026-11-04 21:03 CET_
+
+La prime de risque géopolitique est le supplément de prix ou de rendement qu'un marché intègre quand une guerre, une sanction ou une tension diplomatique menace un actif. Sur le pétrole, elle correspond à la part du prix qui ne vient pas de l'offre et de la demande du moment, mais de la crainte d'une interruption future des livraisons. Comme elle repose sur des anticipations, elle peut disparaître très vite : le Brent a perdu près de 9 % en une séance sur l'espoir d'une sortie de la guerre en Iran, sans qu'un seul baril supplémentaire soit arrivé sur le marché. Le mouvement inverse est aussi brutal si l'espoir est déçu, et une prime qui se dégonfle n'annonce donc pas à elle seule une baisse durable. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [Banque de France : Rapport sur la stabilité financière, juin 2025 (risque géopolitique)](https://www.banque-france.fr/system/files/2025-06/RSF_juin_2025.pdf)
+- [Investopedia : Risk Premium ⚠️](https://www.investopedia.com/terms/r/riskpremium.asp)
