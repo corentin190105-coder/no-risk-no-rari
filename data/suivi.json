@@ -1,0 +1,8 @@
+{
+  "valeurs": [
+    "DCAM.PA", "PNAS.PA", "STMPA.PA", "PUST.PA", "SOI.PA", "ASML.AS", "IFX.DE"
+  ],
+  "indices": [
+    "^FCHI", "^GDAXI", "^STOXX50E", "^GSPC", "^IXIC", "^N225", "^HSI"
+  ]
+}
