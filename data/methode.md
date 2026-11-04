@@ -14,6 +14,12 @@ Charge via ToolSearch mcp__Firecrawl__firecrawl_scrape et mcp__Firecrawl__firecr
 - Calendrier macro : firecrawl_search "calendrier économique" avec includeDomains ["fr.investing.com"] ou ["fxstreet.fr"]. Le scrape direct de la page Investing renvoie vide. Les heures affichées sont celles de New York (GMT-5 à GMT-4) : convertis en heure de Paris et vérifie les événements majeurs (BCE, Fed, inflation, emploi) sur une seconde source.
 - Twelve Data : la formule actuelle n'inclut pas Euronext. Utilise-le pour les titres américains (mcp__Twelve_Data__*, à charger via ToolSearch). Ne l'interroge pas pour une valeur de Paris.
 
+## Marchés et horaires
+Toutes les heures sont à l'heure de Paris et peuvent bouger de une heure quand les changements d'heure ne coïncident pas : vérifie-les. Euronext Paris : 9h00 à 17h35. Wall Street : 15h30 à 22h00. Tokyo et Hong Kong : fermés pendant l'essentiel de la séance de Paris.
+- À 9h12, résume toujours la séance d'Asie : Nikkei 225, Hang Seng et Shanghai Composite, avec leurs variations et leur cause. Regarde le lien avec les semi-conducteurs, le luxe et la Chine, qui touchent directement les valeurs européennes.
+- Dans le point du soir, ajoute Nikkei 225 et Hang Seng à "indices", en plus de la liste de la tâche.
+- Le soir, Wall Street n'est pas clôturée : indique que ses variations sont provisoires.
+
 ## Compte PEA ou CTO
 Cette section prime sur toute mention "uniquement PEA" dans les tâches. Le PEA reste le compte par défaut. Une idée peut viser le CTO de Corentin seulement si elle n'a pas d'équivalent éligible PEA et si son intérêt est exceptionnel, jamais par simple commodité. Indique "compte": "PEA" ou "CTO" dans chaque opportunité et chaque entrée de data/idees.json. Pour le CTO, la plus-value est imposée (environ 30 %, à vérifier selon le taux en vigueur) : affiche le gain net après frais et impôt, et signale le risque de change pour un titre en dollars. Vérifie que le titre paraît disponible chez Trade Republic, sinon dis-le. Actions et ETF cotés uniquement : pas de crypto, de meme coins ni de penny stocks.
 
