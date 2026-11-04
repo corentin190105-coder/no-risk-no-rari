@@ -1,6 +1,11 @@
 {
   "alertes": [
     {
+      "date": "2026-11-04T17:15:13+01:00",
+      "titre": "Avant clôture : le CAC 40 gagne 2,4 %, mais les semi-conducteurs décrochent et STMicroelectronics perd 5 %",
+      "texte": "Le CAC 40 signe sa meilleure séance de la semaine avec environ +2,4 % vers 8 210 points, porté par la détente des taux après la victoire démocrate, et Wall Street suit avec près de +1,5 % sur le S&P 500. Le fait nouveau de l'après-midi est le décrochage des puces : STMicroelectronics recule d'environ 5 % vers 40,90 € après un plus bas à 40,24 €, Infineon et ASML perdent autour de 4 %, et l'ETF américain du secteur cède près de 3 %. Le repli touche tout le secteur et aucune nouvelle propre à STMicroelectronics n'a été trouvée, sa cause précise reste à confirmer. Les ETF Monde et Nasdaq-100 montent d'environ 1 %, ce qui amortit le choc sur le portefeuille. Aucune nouvelle idée ne passe les critères ce soir : les hausses sont déjà faites et une chute sans cause identifiée n'est pas un catalyseur."
+    },
+    {
       "date": "2026-11-04T14:18:38+01:00",
       "titre": "Avant Wall Street : le CAC 40 accélère à +1,8 %, mais STMicroelectronics repasse dans le rouge",
       "texte": "Le CAC 40 amplifie sa hausse et gagne environ 1,8 % vers 8 165 points, alors que les contrats américains se sont retournés à la hausse : environ +1,4 % sur le Dow Jones, +1 % sur le S&P 500 et le Nasdaq. BNP Paribas prend 5 % et Air France-KLM près de 6 %, le mouvement dépassant désormais les seules banques. L'emploi privé ADP ressort à 86 000 postes contre 69 000 attendus, un chiffre correct qui ne change pas le tableau, et la prochaine vraie échéance est l'ISM des services à 16h00, avant l'emploi officiel de vendredi. Le changement négatif de la matinée vient de STMicroelectronics : après un nouvel échec sous 44,05 €, le titre recule d'environ 1,5 % vers 42,40 € à contre-courant du marché, sans nouvelle propre à la société trouvée. Aucune nouvelle idée ne passe les critères : les hausses du jour sont déjà faites et les opportunités suivies n'ont pas de catalyseur proche."
