@@ -40,6 +40,23 @@ html, body { margin: 0; }
 .term { font-family: var(--font-display); font-weight: 800; font-size: 30px; line-height: 1; text-transform: uppercase; }
 .src { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; }
 .src a { color: var(--fg-2); }
+/* Court terme, alertes, journal et quiz */
+.avis { display: inline-flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: 5px 11px; border-radius: 999px; background: color-mix(in srgb, var(--a) 30%, transparent); color: var(--fg); }
+.plan { display: grid; grid-template-columns: repeat(auto-fit, minmax(92px, 1fr)); gap: 8px; margin: 0; }
+.plan div { border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; min-width: 0; }
+.plan dt { font-size: 11px; color: var(--fg-2); text-transform: uppercase; letter-spacing: .05em; }
+.plan dd { margin: 2px 0 0; font-family: var(--font-data); font-size: 14px; color: var(--fg); overflow-wrap: anywhere; }
+.track { display: flex; flex-wrap: wrap; gap: 8px 18px; font-family: var(--font-data); font-size: 14px; color: var(--fg-2); }
+.track b { color: var(--fg); font-weight: 600; }
+.quiz { display: grid; gap: 16px; }
+.quiz fieldset { border: 0; margin: 0; padding: 0; display: grid; gap: 8px; min-width: 0; }
+.quiz legend { padding: 0 0 4px; color: var(--fg); font-weight: 600; font-size: 15px; }
+.q-opt { font: inherit; font-size: 14.5px; text-align: left; color: var(--fg); background: transparent; border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; cursor: pointer; min-height: 44px; }
+.q-opt:disabled { cursor: default; color: var(--fg-2); }
+.q-opt:focus-visible { outline: 2px solid var(--fg-2); outline-offset: 2px; }
+.q-opt.ok { border-color: var(--good); background: color-mix(in srgb, var(--good) 22%, transparent); color: var(--fg); }
+.q-opt.ko { border-color: var(--bad); background: color-mix(in srgb, var(--bad) 22%, transparent); color: var(--fg); }
+.q-exp { margin: 0; font-size: 14px; color: var(--fg-2); }
 @media (max-width: 900px) { .cards { grid-template-columns: minmax(0, 1fr); } }
 </style>
 </head>
@@ -64,7 +81,7 @@ html, body { margin: 0; }
   </section>
 
   <footer class="foot">
-    <span>Rédigé chaque soir vers 21h par Claude à partir de l'actualité du jour. Ce n'est pas un conseil en investissement.</span>
+    <span>Rédigé chaque soir vers 21h par Claude à partir de l'actualité du jour. Les avis sont des analyses sans garantie, pas un conseil en investissement réglementé. La décision reste la tienne.</span>
   </footer>
 </div>
 <script>
@@ -76,7 +93,54 @@ html, body { margin: 0; }
   const pct = (x) => (x >= 0 ? "+" : "") + Number(x).toLocaleString("fr-FR", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " %";
   const fmt = (d, o) => { const t = new Date(String(d).slice(0, 10) + "T12:00:00"); return isNaN(t) ? esc(d) : t.toLocaleDateString("fr-FR", o); };
   const RISK = { "Modéré": "--r2", "Élevé": "--r3", "Très élevé": "--r4", "Socle": "--r1" };
-  let points = [], idx = 0;
+  const AVIS = { "Favorable": "--good", "Attendre": "--s4", "Éviter": "--bad" };
+  const store = { get(k) { try { return JSON.parse(localStorage.getItem(k)) || {}; } catch { return {}; } }, set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} } };
+  const memo = {};
+  const answers = (d) => memo[d] || (memo[d] = store.get("quiz:" + d));
+  let points = [], idx = 0, journal = [], alertes = [];
+
+  function trackRecord() {
+    const clos = journal.filter((i) => i.statut !== "ouverte" && typeof i.perfPct === "number");
+    if (!journal.length) return "";
+    const ok = clos.filter((i) => i.perfPct > 0).length;
+    const moy = clos.length ? clos.reduce((a, i) => a + i.perfPct, 0) / clos.length : null;
+    return `<div class="track"><span>Idées suivies <b>${journal.length}</b></span><span>Ouvertes <b>${journal.length - clos.length}</b></span><span>Gagnantes <b>${clos.length ? ok + "/" + clos.length : "n.d."}</b></span><span>Perf. moyenne nette <b>${moy === null ? "n.d." : pct(moy)}</b></span></div>`;
+  }
+
+  function courtTerme(ct) {
+    if (!ct) return "";
+    const ops = ct.opportunites || [];
+    return `<div class="card full" style="--c: var(--accent)"><h3>Court terme PEA</h3>
+      ${ct.contexte ? `<p>${esc(ct.contexte)}</p>` : ""}
+      ${trackRecord()}
+      ${ops.length ? ops.map((o) => `<div style="display:grid;gap:10px;border-top:1px solid var(--line);padding-top:12px">
+        <div class="idea-head"><span class="nm">${esc(o.nom)}</span><span class="avis" style="--a: var(${AVIS[o.avis] || "--s4"})">${esc(o.avis)}</span></div>
+        <div class="chips">${o.isin ? `<span class="chip">${esc(o.isin)}</span>` : ""}${o.horizon ? `<span class="chip">${esc(o.horizon)}</span>` : ""}${o.catalyseur ? `<span class="chip">${esc(o.catalyseur)}</span>` : ""}</div>
+        <dl class="plan">${[["Cours", o.cours], ["Entrée", o.entree], ["Invalidation", o.invalidation], ["Objectif", o.objectif], ["Gain/risque", o.ratio], ["Frais A/R", o.frais]].filter((x) => x[1] !== undefined && x[1] !== "").map((x) => `<div><dt>${x[0]}</dt><dd>${esc(x[1])}</dd></div>`).join("")}</dl>
+        <p>${esc(o.these)}</p>${o.risque ? `<p><strong>Ce qui peut invalider l'idée :</strong> ${esc(o.risque)}</p>` : ""}</div>`).join("") : `<p>Aucune opportunité assez solide aujourd'hui : ne rien faire est aussi une décision.</p>`}
+    </div>`;
+  }
+
+  function alertesDuJour(d) {
+    const l = alertes.filter((a) => String(a.date).slice(0, 10) === d);
+    if (!l.length) return "";
+    return `<div class="card full" style="--c: var(--bad)"><h3>Alertes en séance</h3><ul class="items">${l.map((a) => `<li><strong>${esc(String(a.date).slice(11, 16))} · ${esc(a.titre)}</strong><span>${esc(a.texte)}</span></li>`).join("")}</ul></div>`;
+  }
+
+  function education(p) {
+    const l = p.lecon, qz = Array.isArray(p.quiz) ? p.quiz : [];
+    if (!l && !qz.length) return "";
+    const ans = answers(p.date);
+    const done = qz.filter((_, i) => ans[i] !== undefined).length;
+    const score = qz.filter((q, i) => ans[i] === q.bonne).length;
+    return `<div class="card full" style="--c: var(--s4)"><h3>École de la finance</h3>
+      ${l ? `<span class="term">${esc(l.titre)}</span>${l.niveau ? `<div class="chips"><span class="chip">${esc(l.niveau)}</span></div>` : ""}<p>${esc(l.texte)}</p>${l.exemple ? `<p><strong>Exemple :</strong> ${esc(l.exemple)}</p>` : ""}${(l.references || []).length ? `<ul class="src">${l.references.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.titre)}</a></li>`).join("")}</ul>` : ""}` : ""}
+      ${qz.length ? `<div class="quiz">${qz.map((q, i) => {
+        const a = ans[i], rep = a !== undefined;
+        return `<fieldset><legend>${i + 1}. ${esc(q.question)}</legend>${(q.choix || []).map((c, k) => `<button type="button" class="q-opt ${rep && k === q.bonne ? "ok" : rep && k === a ? "ko" : ""}" data-q="${i}" data-c="${k}" ${rep ? "disabled" : ""}>${esc(c)}</button>`).join("")}${rep ? `<p class="q-exp" aria-live="polite">${esc(q.explication)}</p>` : ""}</fieldset>`;
+      }).join("")}${done === qz.length ? `<strong>Score : ${score}/${qz.length}</strong>` : ""}</div>` : ""}
+    </div>`;
+  }
 
   function tiles(list) {
     const g = css("--good"), b = css("--bad"), sf = css("--surface");
@@ -108,6 +172,8 @@ html, body { margin: 0; }
       </div>
       ${(p.indices || []).length ? `<div class="panel" style="margin-top:12px"><h3>Les marchés du jour</h3>${tiles(p.indices)}</div>` : ""}
       <div class="cards" style="margin-top:12px">
+        ${alertesDuJour(p.date)}
+        ${courtTerme(p.courtTerme)}
         ${(p.macro || []).length ? `<div class="card" style="--c: var(--s1)"><h3>Macroéconomie</h3><ul class="items">${p.macro.map((m) => `<li><strong>${esc(m.titre)}</strong><span>${esc(m.texte)}</span></li>`).join("")}</ul></div>` : ""}
         <div class="card" style="--c: var(${(Number(pf.pv) || 0) >= 0 ? "--good" : "--bad"})"><h3>Mon portefeuille</h3>
           ${typeof pf.valeur === "number" ? `<div class="idea-head"><span class="nm">${eur.format(pf.valeur)}</span>${typeof pf.pv === "number" ? `<span class="${pf.pv >= 0 ? "up" : "down"}" style="font-family:var(--font-data)">${pf.pv >= 0 ? "+" : "−"}${eur.format(Math.abs(pf.pv))}</span>` : ""}</div>` : ""}
@@ -119,12 +185,22 @@ html, body { margin: 0; }
           <div class="chips">${d.risque ? `<span class="chip"><span class="sw" style="background:var(${RISK[d.risque] || "--r3"})"></span>Risque ${esc(String(d.risque).toLowerCase())}</span>` : ""}${d.isin ? `<span class="chip">${esc(d.isin)}</span>` : ""}</div>
           <p>${esc(d.texte)}</p></div>`).join("")}
         ${p.concept ? `<div class="card" style="--c: var(--s4)"><h3>Le concept du jour</h3><span class="term">${esc(p.concept.terme)}</span><p>${esc(p.concept.texte)}</p></div>` : ""}
+        ${education(p)}
         ${(p.rendezvous || []).length ? `<div class="card full" style="--c: var(--s2)"><h3>Les prochains rendez-vous</h3><ul class="mini-list">${p.rendezvous.map((r) => `<li><span class="dt">${fmt(r.date, { day: "numeric", month: "short" })}</span>${esc(r.titre)}</li>`).join("")}</ul></div>` : ""}
         ${(p.sources || []).length ? `<div class="card full" style="--c: var(--muted)"><h3>Sources</h3><ul class="src">${p.sources.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.titre)}</a></li>`).join("")}</ul></div>` : ""}
       </div>`;
   }
 
   $("days").addEventListener("click", (e) => { const b = e.target.closest("button"); if (!b) return; idx = Number(b.dataset.i); render(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+
+  $("content").addEventListener("click", (e) => {
+    const b = e.target.closest(".q-opt"); if (!b || b.disabled) return;
+    const p = points[idx], a = answers(p.date), y = window.scrollY;
+    a[b.dataset.q] = Number(b.dataset.c); store.set("quiz:" + p.date, a); render(); window.scrollTo(0, y);
+  });
+
+  const extra = (f) => fetch(`data/${f}.json?t=` + Date.now(), { cache: "no-store" }).then((r) => r.ok ? r.json() : {}).catch(() => ({}));
+  Promise.all([extra("idees"), extra("alertes")]).then(([i, a]) => { journal = i.idees || []; alertes = a.alertes || []; if (points.length) render(); });
 
   fetch("data/points.json?t=" + Date.now(), { cache: "no-store" }).then((r) => r.json()).then((d) => {
     points = [...(d.points || [])].sort((a, b) => String(b.date).localeCompare(String(a.date)));
