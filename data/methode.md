@@ -5,6 +5,7 @@ Référence commune des tâches du soir et des analyses en séance. Lecture seul
 ## Outils et sources testés
 Charge via ToolSearch mcp__Firecrawl__firecrawl_scrape et mcp__Firecrawl__firecrawl_search. WebFetch et le shell sont bloqués sur les sites boursiers.
 - Historique et cours : firecrawl_scrape avec alexandria {"provider": "finance-yahoo-com", "capability": "equities/history", "options": {"symbol": "STLAP.PA", "interval": "1d", "range": "6mo"}}. Suffixe .PA pour Paris. Coût 5 crédits : uniquement pour une valeur candidate ou une position à risque, jamais pour toute la liste. Utilise "range": "5d" quand les derniers jours suffisent.
+- Résultats et révisions : firecrawl_scrape avec alexandria {"provider": "finance-yahoo-com", "capability": "equities/earnings", "options": {"symbol": "STLAP.PA"}} pour la prochaine date, les surprises passées et la tendance des estimations. Couverture à vérifier valeur par valeur en Europe. Si la date est estimée, confirme-la.
 - ABC Bourse (https://www.abcbourse.com/cotation/<code>p, ex. STMPAp) : cours, volumes, 30 séances, agenda. Le "consensus" y vient des membres, jamais des analystes.
 - Zonebourse (https://www.zonebourse.com/cours/action/<NOM-ID>/consensus/, URL à trouver par firecrawl_search) : consensus, objectifs, valorisation, actualité.
 - Investing (page "<nom>-technical", à trouver avec site:fr.investing.com ; Stellantis : fiat-technical, cotation de Milan) : RSI, MACD, moyennes mobiles, pivots. Précise toujours la période du signal.
