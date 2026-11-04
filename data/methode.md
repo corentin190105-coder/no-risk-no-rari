@@ -35,8 +35,8 @@ Toutes les conditions sont obligatoires :
 10. Vérifie volumes relatifs, tendance par rapport aux moyennes 20 et 50 jours, dirigeants, positions courtes, consensus et calendrier macro. Mentionne dans la thèse ce qui contredit l'idée.
 Vérifie chaque chiffre décisif sur deux sources et signale les écarts. N'utilise jamais un commentaire de forum comme argument. Si un critère échoue, l'avis est "Attendre" ou "Éviter". Ne jamais forcer une idée.
 
-## Rétrospective hebdomadaire
-Chaque dimanche, dans la tâche du soir, reprends toutes les opportunités "Favorable" et "Attendre" de courtTerme publiées il y a 10 à 17 jours. Pour chacune, compare le cours du jour de l'idée et le cours actuel : l'entrée a-t-elle été touchée, l'objectif ou l'invalidation, et quel aurait été le résultat net de 2 € de frais sur 200 € ? Écris le bilan dans courtTerme.retro en 3 à 5 phrases : ce qui a marché, ce qui a échoué, et pourquoi, sans enjoliver. Vérifie aussi si les avis "Attendre" ont fait rater un gain ou éviter une perte. Reprends ce bilan en une ligne dans la notification. Sans idée sur cette période, écris-le simplement.
+## Rétrospective à 5 et 10 jours
+Chaque soir de bourse, reprends les opportunités "Favorable" et "Attendre" de courtTerme publiées il y a exactement 5 et 10 jours de bourse. À 5 jours, le bilan est intermédiaire ; à 10 jours, il est définitif. Pour chacune, compare le cours du jour de l'idée et le cours actuel : l'entrée a-t-elle été touchée, l'objectif ou l'invalidation, et quel aurait été le résultat net de 2 € de frais sur 200 € ? Écris le bilan dans courtTerme.retro en 2 à 5 phrases : ce qui a marché, ce qui a échoué, et pourquoi, sans enjoliver. Vérifie aussi si les avis "Attendre" ont fait rater un gain ou éviter une perte. Reprends ce bilan en une ligne dans la notification. Sans idée à ces dates, laisse retro vide et n'en parle pas.
 
 ## Limite à rappeler
 Ces critères n'ont pas été validés par un backtest. Leur seule mesure est le journal data/idees.json.
