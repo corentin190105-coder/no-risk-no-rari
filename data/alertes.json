@@ -1,6 +1,11 @@
 {
   "alertes": [
     {
+      "date": "2026-11-04T14:18:38+01:00",
+      "titre": "Avant Wall Street : le CAC 40 accélère à +1,8 %, mais STMicroelectronics repasse dans le rouge",
+      "texte": "Le CAC 40 amplifie sa hausse et gagne environ 1,8 % vers 8 165 points, alors que les contrats américains se sont retournés à la hausse : environ +1,4 % sur le Dow Jones, +1 % sur le S&P 500 et le Nasdaq. BNP Paribas prend 5 % et Air France-KLM près de 6 %, le mouvement dépassant désormais les seules banques. L'emploi privé ADP ressort à 86 000 postes contre 69 000 attendus, un chiffre correct qui ne change pas le tableau, et la prochaine vraie échéance est l'ISM des services à 16h00, avant l'emploi officiel de vendredi. Le changement négatif de la matinée vient de STMicroelectronics : après un nouvel échec sous 44,05 €, le titre recule d'environ 1,5 % vers 42,40 € à contre-courant du marché, sans nouvelle propre à la société trouvée. Aucune nouvelle idée ne passe les critères : les hausses du jour sont déjà faites et les opportunités suivies n'ont pas de catalyseur proche."
+    },
+    {
       "date": "2026-11-04T11:14:10+01:00",
       "titre": "Matinée : la hausse se confirme, les banques mènent et l'inflation monte à 4 %",
       "texte": "Le CAC 40 accélère et gagne environ 1,2 % vers 8 115 points, contre 0,3 % juste après l'ouverture, porté par la détente des taux après la victoire démocrate au Congrès américain. Les banques mènent la hausse, alors que la défense recule nettement avec Thales autour de -4,5 %. L'inflation de la zone euro monte à 4,0 % en octobre selon Eurostat, sous l'effet de l'énergie, mais l'inflation sous-jacente reste stable à 2,5 %. STMicroelectronics gagne 0,7 % à 43,40 € après avoir buté sur 44,05 €, une zone déjà rejetée lundi : la reprise n'est pas confirmée tant que le titre ne clôture pas au-dessus. Aucune nouvelle idée ne remplit tous les critères ce matin, car les mouvements du jour sont déjà faits ou reposent sur des catalyseurs anciens."
