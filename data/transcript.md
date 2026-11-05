@@ -306,3 +306,14 @@ La prime de risque géopolitique est le supplément de prix ou de rendement qu'u
 **Références**
 - [Banque de France : Rapport sur la stabilité financière, juin 2025 (risque géopolitique)](https://www.banque-france.fr/system/files/2025-06/RSF_juin_2025.pdf)
 - [Investopedia : Risk Premium ⚠️](https://www.investopedia.com/terms/r/riskpremium.asp)
+
+## Q: Qu'est-ce que l'indice VIX ?
+
+_2026-11-05 21:13 CET_
+
+Le VIX est un indice calculé par le Cboe qui mesure la volatilité que les investisseurs anticipent sur le S&P 500 pour les 30 prochains jours, à partir du prix des options. On le surnomme l'indice de la peur, car il monte quand les investisseurs paient plus cher pour se protéger d'une baisse. Il ne prédit pas le sens du marché : il indique l'ampleur des mouvements attendus. Comme repère courant, un niveau de 10 à 15 traduit un climat calme, 20 à 30 un marché nerveux, et au-delà de 30 une forte tension. Aujourd'hui, il a bondi de plus de 60 % en séance, vers 27 selon Yahoo Finance, ce qui montre que la nervosité a augmenté très vite. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [AMF : Épisode de volatilité de début février 2018, l'impact des produits sur VIX](https://www.amf-france.org/sites/institutionnel/files/contenu_simple/lettre_ou_cahier/risques_tendances/Episode%20de%20volatilite%20debut%20fevrier%202018%20%20l%27impact%20des%20produits%20sur%20VIX.pdf)
+- [Fortuneo : Qu'est-ce que l'indice de la peur ?](https://www.fortuneo.fr/blog/qu-est-ce-que-l-indice-de-la-peur-594)
+- [Investopedia : VIX ⚠️](https://www.investopedia.com/terms/v/vix.asp)

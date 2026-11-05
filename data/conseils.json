@@ -1,8 +1,8 @@
 {
- "maj": "2026-11-05T00:20:00+01:00",
+ "maj": "2026-11-05T21:13:00+01:00",
  "verdict": {
-  "titre": "Pour l'instant : pas de nouvel achat court terme, et deux lignes à surveiller",
-  "texte": "Tes ETF restent ton socle, tu n'as rien à y changer. STMicroelectronics et Stellantis sont les deux lignes à risque : leurs niveaux de sortie sont fixés ci-dessous, décide à l'avance plutôt que dans l'émotion. Air France-KLM publie ses résultats le 5 novembre : je n'achète pas avant, je revois le plan après la publication. La rubrique Découvertes te propose aussi des pistes hors de ton portefeuille."
+  "titre": "STMicroelectronics : ta règle de sortie est déclenchée. Aucun nouvel achat court terme",
+  "texte": "STMicroelectronics a clôturé à 37,09 €, sous le niveau de 38,61 € fixé à l'avance : le plan passe sur Vendre. Stellantis se rapproche de 3,75 €, à surveiller. Tes ETF restent ton socle : tu n'as rien à y changer, même si le Nasdaq-100 baisse fort. Air France-KLM a livré de bons résultats, mais le mouvement est fait : j'attends une clôture au-dessus de 12,90 €."
  },
  "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
  "positions": [
@@ -20,7 +20,7 @@
    "isin": "FR001400ZGR7",
    "symbole": "PNAS.PA",
    "action": "Garder",
-   "pourquoi": "Le cours est sous ses moyennes 20 et 50 jours après la baisse de la tech, mais il reste au-dessus de sa moyenne 200 jours (6,40 €). L'ETF est plus risqué que le Monde car il est concentré sur la tech américaine.",
+   "pourquoi": "Le Nasdaq est entré en correction, et l'ETF recule vers 6,49 € à 15h44, sous ses moyennes 20 et 50 jours, tout près de sa moyenne 200 jours (6,40 €). C'est une baisse de marché, pas un problème propre à cette ligne, mais elle est concentrée sur la tech américaine.",
    "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
    "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
   },
@@ -39,9 +39,9 @@
    "symbole": "AI.PA",
    "action": "Garder",
    "sortie": 171.03,
-   "pourquoi": "Tu es en gain et la tendance est haussière, mais le titre a beaucoup monté : son RSI à 88 indique un mouvement très tendu. Avec une seule action, il n'y a rien à alléger.",
+   "pourquoi": "Tu es en gain et la tendance est haussière, vers 190 € en séance. Le titre a beaucoup monté, sur des niveaux tendus. Avec une seule action, il n'y a rien à alléger.",
    "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
-   "renforcerSi": "pas maintenant : une part vaut environ 187 € et le mouvement est déjà fait."
+   "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
   },
   {
    "nom": "Stellantis",
@@ -49,7 +49,7 @@
    "symbole": "STLAP.PA",
    "action": "Garder",
    "sortie": 3.75,
-   "pourquoi": "C'est ta ligne la plus risquée : le titre reste en tendance baissière, très loin de sa moyenne 200 jours (5,57 €). Tu l'as acheté pour un rebond, donc il faut une limite claire.",
+   "pourquoi": "C'est ta ligne la plus risquée : le titre a reculé de 4,68 % le 5 novembre vers 3,96 €, sous ton prix d'achat, sans nouvelle propre à la société trouvée. Il reste à environ 5 % de ton niveau de sortie.",
    "vendreSi": "clôture sous 3,75 €, soit 2 ATR sous le cours. Sur 13 actions, la perte serait d'environ 5 € plus 1 € de frais.",
    "renforcerSi": "non, tant que le cours n'a pas repassé durablement sa moyenne 50 jours (4,18 €) sur un fait nouveau."
   },
@@ -57,11 +57,11 @@
    "nom": "STMicroelectronics",
    "isin": "NL0000226223",
    "symbole": "STMPA.PA",
-   "action": "Garder",
+   "action": "Vendre",
    "sortie": 38.61,
-   "pourquoi": "Le titre est sous ses moyennes 20, 50 et 200 jours et le secteur des puces reste sous pression. Tu perds environ 19 %, mais ce chiffre ne doit pas guider la décision : seule compte la suite.",
-   "vendreSi": "clôture sous 38,61 €, le plus bas d'octobre : le support aurait cédé.",
-   "renforcerSi": "non, tant qu'il n'y a pas de clôture au-dessus de 44,05 €, une zone rejetée plusieurs fois."
+   "pourquoi": "Le titre a clôturé à 37,09 € le 5 novembre, sous 38,61 €, le niveau décidé à l'avance. La baisse vient de tout le secteur, sans nouvelle propre à la société trouvée. La moins-value ne doit pas guider ce choix : seule compte la règle que tu t'es fixée.",
+   "vendreSi": "condition remplie. Sur 2 actions, la vente rapporterait environ 73 € après 1 € de frais, soit une perte d'environ 28 €. Un ordre à cours limité évite une exécution à un prix surprenant. L'emploi américain tombe à 14h30 et peut faire bouger le titre. Un rebond reste possible, et les résultats d'Infineon le 10 novembre peuvent rassurer : garder revient à accepter ce risque en connaissance de cause.",
+   "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de 44,05 €."
   }
  ],
  "achats": [
@@ -92,32 +92,32 @@
    "plan": [
     [
      "Déclencheur",
-     "Clôture au-dessus de 11,55 €"
+     "Clôture au-dessus de 12,90 €"
     ],
     [
      "Sortie",
-     "11,00 €"
+     "12,10 €"
     ],
     [
      "Objectif",
-     "12,70 €"
+     "14,50 €"
     ],
     [
      "Exemple",
-     "16 actions, environ 185 €"
+     "15 actions, environ 194 €"
     ],
     [
      "Perte max",
-     "environ 11 €, frais compris"
+     "environ 14 €, frais compris"
     ],
     [
      "Gain visé",
-     "environ 16 €, frais compris"
+     "environ 22 €, frais compris"
     ]
    ],
-   "quand": "Seulement après les résultats du 5 novembre, si la publication est bonne et si le titre clôture au-dessus de 11,55 €. Niveaux à recalculer après la publication.",
-   "pourquoi": "Le catalyseur est daté et la baisse du pétrole aide les compagnies aériennes. Le consensus, les dirigeants et les positions courtes restent à vérifier.",
-   "contre": "La publication peut ouvrir le titre sous 11 €. Une bonne partie de la nouvelle est peut-être déjà dans le cours."
+   "quand": "Seulement sur une clôture au-dessus de 12,90 €, et une fois l'ATR disponible : la valeur doit d'abord entrer dans la liste suivie.",
+   "pourquoi": "Le bénéfice net du 3e trimestre, 938 millions d'euros contre 731 attendus, est un vrai fait nouveau. Consensus révisé, dirigeants et positions courtes restent à vérifier.",
+   "contre": "Le titre a déjà pris 12 % et le pétrole rebondit. Sans niveau d'entrée propre, je ne cours pas après le mouvement."
   }
  ],
  "decouvertes": [
@@ -142,16 +142,6 @@
    "faux": "Moins de commandes de méthaniers, ou une chute durable du pétrole et du gaz qui freine les projets."
   },
   {
-   "nom": "Exosens",
-   "isin": "FR001400Q9V2",
-   "symbole": "EXENS.PA",
-   "theme": "La vision nocturne, de la défense au nucléaire",
-   "risque": "Élevé",
-   "pourquoi": "Moins connue que Thales, cette société fabrique des détecteurs et de l'imagerie. Son chiffre d'affaires du 3e trimestre a progressé de 23,5 % selon le point du 31 octobre.",
-   "aBorder": "À creuser plutôt qu'à acheter maintenant : la tendance est baissière et le marché craint pour la défense depuis la victoire démocrate. Je regarde la valorisation et l'évolution de la marge.",
-   "faux": "Marge brute qui continue de reculer, ou budgets de défense revus à la baisse."
-  },
-  {
    "nom": "Orange",
    "isin": "FR0000133308",
    "symbole": "ORA.PA",
@@ -170,6 +160,16 @@
    "pourquoi": "Tu n'as aucune valeur de santé. Ce secteur réagit peu aux craintes sur l'IA, et les résultats du 3e trimestre ont dépassé les attentes selon le point du 30 octobre.",
    "aBorder": "Pas maintenant : le titre a pris 17 % en 20 séances et son RSI est à 87. Je le garde en tête pour un repli, ou j'attends le prochain fait nouveau.",
    "faux": "Déception sur un médicament clé, ou résultats simplement inférieurs à des attentes devenues élevées."
+  },
+  {
+   "nom": "OVHcloud",
+   "isin": "FR0014005HJ9",
+   "symbole": "OVH.PA",
+   "theme": "Le cloud européen, à contre-courant de la peur sur l'IA",
+   "risque": "Très élevé",
+   "pourquoi": "Tes lignes tech sont surtout américaines ou liées aux puces. OVHcloud a dépassé les attentes fin octobre et vise plus de 10 % de croissance en 2027, selon BFM Bourse et France Épargne, avec un ancrage français et européen.",
+   "aBorder": "À creuser, pas à acheter ce soir : je vérifie d'abord le cours après la vente du 5 novembre sur les centres de données. Une part vaut environ 14 €, avec des mouvements forts.",
+   "faux": "Des dépenses en serveurs qui dévorent la trésorerie, ou une demande cloud qui ralentit."
   }
  ]
 }
