@@ -317,3 +317,14 @@ Le VIX est un indice calculé par le Cboe qui mesure la volatilité que les inve
 - [AMF : Épisode de volatilité de début février 2018, l'impact des produits sur VIX](https://www.amf-france.org/sites/institutionnel/files/contenu_simple/lettre_ou_cahier/risques_tendances/Episode%20de%20volatilite%20debut%20fevrier%202018%20%20l%27impact%20des%20produits%20sur%20VIX.pdf)
 - [Fortuneo : Qu'est-ce que l'indice de la peur ?](https://www.fortuneo.fr/blog/qu-est-ce-que-l-indice-de-la-peur-594)
 - [Investopedia : VIX ⚠️](https://www.investopedia.com/terms/v/vix.asp)
+
+## Q: Qu'est-ce que le rapport sur l'emploi américain (NFP) ?
+
+_2026-11-06 21:10 CET_
+
+Le rapport sur l'emploi américain, appelé NFP pour « non-farm payrolls », est publié en général le premier vendredi du mois à 14h30, heure de Paris, par le Bureau des statistiques du travail. Il donne le nombre d'emplois créés hors secteur agricole le mois précédent, le taux de chômage et l'évolution des salaires horaires. Les marchés le suivent de près, car la Fed fixe ses taux en regardant l'emploi et l'inflation : un marché du travail solide l'autorise à garder des taux élevés, voire à les relever. Ce qui fait bouger les cours, c'est l'écart avec la prévision des économistes, plus que le chiffre lui-même. Aujourd'hui, 165 000 créations de postes contre environ 60 000 attendues ont renforcé les paris sur une hausse des taux en décembre. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [ABC Bourse : Créations d'emplois (USA), série statistique et analyse](https://www.abcbourse.com/marches/economie_creation_emploi_usa-16)
+- [BLS : Employment Situation Summary ⚠️](https://www.bls.gov/news.release/empsit.nr0.htm)
+- [Investopedia : Nonfarm Payroll ⚠️](https://www.investopedia.com/terms/n/nonfarmpayroll.asp)

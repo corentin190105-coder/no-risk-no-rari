@@ -1,6 +1,305 @@
 {
  "points": [
   {
+   "date": "2026-11-06",
+   "titre": "L'emploi américain surprend, le Nasdaq rebondit, mais le CAC 40 recule de 0,81 %",
+   "resume": "Le CAC 40 cède 0,81 % à 8 139 points, plus de 35 de ses valeurs étant en baisse, avec le luxe, Capgemini et Euronext parmi les plus pénalisés. L'emploi américain d'octobre, à 165 000 créations de postes contre environ 60 000 attendues, relance les paris sur une hausse des taux de la Fed en décembre. Wall Street rebondit pourtant après la déroute de jeudi, emmenée par les puces.",
+   "humeur": "baisse",
+   "indices": [
+    {
+     "nom": "CAC 40",
+     "valeur": "8 139,00 pts",
+     "variation": -0.81
+    },
+    {
+     "nom": "Euro Stoxx 50 (chiffre non recoupé)",
+     "valeur": "≈ 6 140 pts",
+     "variation": -1.4
+    },
+    {
+     "nom": "S&P 500 (provisoire, vers 18h)",
+     "valeur": "≈ 7 420 pts",
+     "variation": 0.9
+    },
+    {
+     "nom": "Nasdaq (provisoire, vers 18h)",
+     "valeur": "≈ 24 680 pts",
+     "variation": 1.5
+    },
+    {
+     "nom": "Nikkei 225",
+     "valeur": "57 434,77 pts",
+     "variation": -5.96
+    },
+    {
+     "nom": "Hang Seng",
+     "valeur": "24 481,86 pts",
+     "variation": -1.27
+    },
+    {
+     "nom": "Brent",
+     "valeur": "≈ 97,60 $",
+     "variation": -0.7
+    },
+    {
+     "nom": "Or",
+     "valeur": "≈ 4 062 $",
+     "variation": -0.62
+    },
+    {
+     "nom": "Euro/dollar",
+     "valeur": "1,114 $",
+     "variation": -0.72
+    }
+   ],
+   "macro": [
+    {
+     "titre": "Emploi américain et Fed",
+     "texte": "L'économie américaine a créé 165 000 postes en octobre, contre environ 60 000 attendus, et le chômage recule à 4,1 %, selon ABC Bourse et BFM Bourse. Ce chiffre conforte le scénario d'une nouvelle hausse des taux de la Fed en décembre, et le rendement américain à 10 ans se tient vers 4,86 %. L'inflation américaine de mardi sera le prochain test."
+    },
+    {
+     "titre": "IA et semi-conducteurs",
+     "texte": "Après la pire séance de l'indice américain des semi-conducteurs depuis mars 2020, jeudi, à -12,25 %, les puces rebondissent, avec AMD vers +11 % selon TheStreet. Le tableau reste contrasté : Microchip chute d'environ 13 % après une révision de ses prévisions, et TP (ex-Teleperformance) perd 15 % à Paris, vue comme une victime de l'IA. Wall Street n'est pas clôturée à l'heure de ce point : ses variations sont provisoires."
+    },
+    {
+     "titre": "Asie",
+     "texte": "Le Nikkei a chuté de 5,96 % à 57 434,77 points, rattrapant la déroute de la tech américaine de jeudi, et le Hang Seng recule de 1,27 %. Le Japon est très exposé aux équipements de puces, ce qui explique l'ampleur du repli."
+    },
+    {
+     "titre": "Pétrole, taux européens et euro",
+     "texte": "Le Brent recule d'environ 0,7 % vers 97,60 dollars selon BFM Bourse, toujours sous la tension liée à l'Iran et au détroit d'Ormuz. L'euro perd environ 0,7 % face au dollar, à 1,114, après le chiffre de l'emploi. L'OAT française à 10 ans se tient vers 4,77 % ; la BCE décidera le 17 décembre."
+    }
+   ],
+   "portefeuille": {
+    "valeur": 753.8,
+    "pv": -45.48,
+    "texte": "Ton portefeuille vaut environ 753,80 € pour 799,28 € investis, soit une moins-value d'environ 45,48 € : STMicroelectronics et Stellantis remontent, mais tes ETF et Air Liquide reculent. Cette valeur est prudente : tes ETF et Air Liquide sont au cours de 15h25, quand le CAC 40 perdait encore 1,85 %, et ils ont sans doute fini un peu plus haut."
+   },
+   "valeurs": [
+    {
+     "nom": "STMicroelectronics",
+     "texte": "Reprend 1,54 % à 37,64 € avec le rebond des puces, mais reste sous ton niveau de sortie de 38,61 € pour la deuxième séance."
+    },
+    {
+     "nom": "Stellantis",
+     "texte": "Gagne 1,39 % à 4,02 € et repasse juste au-dessus de ton prix d'achat de 4,04 € en séance ; le groupe a nommé un nouveau patron pour l'Amérique du Nord."
+    },
+    {
+     "nom": "Soitec",
+     "texte": "Rebondit d'environ 3 % vers 94 € après une chute de plus de 26 % en deux séances."
+    },
+    {
+     "nom": "Thales",
+     "texte": "La défense européenne reste sous pression après la victoire démocrate aux États-Unis ; Thales évoluait vers 221 € à 15h25, cours de clôture non trouvé."
+    }
+   ],
+   "idees": [
+    {
+     "nom": "Nexans",
+     "isin": "FR0000044448",
+     "risque": "Élevé",
+     "prix": "≈ 123 € la part",
+     "texte": "Le spécialiste des câbles gagne environ 4,4 % après un contrat en Grèce : il fournira les câbles 110 kV d'une interconnexion entre Corinthe et l'île de Kos, en sous-traitance de Hellenic Cables, selon ABC Bourse. Il illustre le thème de l'électrification et des réseaux, qui profite aussi des centres de données. Le montant du contrat n'est pas communiqué et le titre restait sous ses moyennes 50 et 200 jours hier. Le principal risque est que ce contrat soit trop petit pour changer la tendance de fond."
+    },
+    {
+     "nom": "Euronext",
+     "isin": "NL0006294274",
+     "risque": "Modéré",
+     "prix": "≈ 170 € la part",
+     "texte": "L'opérateur de la Bourse de Paris a publié ses résultats trimestriels et annoncé des rachats d'actions, selon Boursorama et Option Finance. Les séances agitées comme celles de cette semaine font monter les volumes échangés, donc ses revenus. Le titre recule pourtant d'environ 2,5 % aujourd'hui selon BFM Bourse, sans que j'aie lu le détail des chiffres. Le principal risque est une part chère pour un petit budget, presque le quart de ton portefeuille."
+    },
+    {
+     "nom": "Riber",
+     "isin": "FR0000075954",
+     "risque": "Très élevé",
+     "prix": "≈ 6 € la part (cours de 15h25)",
+     "texte": "Ce fabricant français de machines pour semi-conducteurs composés et photonique profite du rebond des puces, avec environ +5,9 % vers 5,95 € à 15h25, après un recul de 9,5 % la veille. La part est très abordable et donne une exposition directe aux équipements de puces. Le titre a perdu environ un tiers en 20 séances et reste loin de ses moyennes 20 et 50 jours. Le principal risque est une petite capitalisation très volatile, avec un ATR proche de 0,46 €, soit près de 8 % du cours."
+    }
+   ],
+   "idee": {
+    "nom": "Nexans",
+    "isin": "FR0000044448",
+    "risque": "Élevé",
+    "prix": "≈ 123 € la part",
+    "texte": "Le spécialiste des câbles gagne environ 4,4 % après un contrat en Grèce : il fournira les câbles 110 kV d'une interconnexion entre Corinthe et l'île de Kos, en sous-traitance de Hellenic Cables, selon ABC Bourse. Il illustre le thème de l'électrification et des réseaux, qui profite aussi des centres de données. Le montant du contrat n'est pas communiqué et le titre restait sous ses moyennes 50 et 200 jours hier. Le principal risque est que ce contrat soit trop petit pour changer la tendance de fond."
+   },
+   "concept": {
+    "terme": "Le rapport sur l'emploi américain (NFP)",
+    "texte": "Le rapport sur l'emploi américain, appelé NFP pour « non-farm payrolls », est publié en général le premier vendredi du mois à 14h30, heure de Paris, par le Bureau des statistiques du travail. Il donne le nombre d'emplois créés hors secteur agricole le mois précédent, le taux de chômage et l'évolution des salaires horaires. Les marchés le suivent de près, car la Fed fixe ses taux en regardant l'emploi et l'inflation : un marché du travail solide l'autorise à garder des taux élevés, voire à les relever. Ce qui fait bouger les cours, c'est l'écart avec la prévision des économistes, plus que le chiffre lui-même. Aujourd'hui, 165 000 créations de postes contre environ 60 000 attendues ont renforcé les paris sur une hausse des taux en décembre. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+    "references": [
+     {
+      "titre": "ABC Bourse : Créations d'emplois (USA), série statistique et analyse",
+      "url": "https://www.abcbourse.com/marches/economie_creation_emploi_usa-16"
+     },
+     {
+      "titre": "BLS : Employment Situation Summary ⚠️",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+     },
+     {
+      "titre": "Investopedia : Nonfarm Payroll ⚠️",
+      "url": "https://www.investopedia.com/terms/n/nonfarmpayroll.asp"
+     }
+    ]
+   },
+   "courtTerme": {
+    "contexte": "Le marché n'est pas porteur pour agir à court terme : le CAC 40 recule de 0,81 % et un emploi américain très fort relance les paris sur une hausse des taux de la Fed en décembre, avant l'inflation américaine de mardi 10 novembre. Le rebond du Nasdaq après sa pire séance depuis 19 mois reste fragile. Le journal ne compte aucune idée close : l'échantillon est trop petit pour juger la méthode. Attention sur tes lignes : STMicroelectronics finit à 37,64 €, toujours sous ton niveau de sortie de 38,61 €, avec Infineon qui publie mardi ; Stellantis remonte à 4,02 €, loin de 3,75 €.",
+    "opportunites": [
+     {
+      "nom": "Air France-KLM",
+      "isin": "FR001400J770",
+      "compte": "PEA",
+      "avis": "Attendre",
+      "horizon": "2 à 10 jours",
+      "catalyseur": "Barclays passe à l'achat avec un objectif relevé de 9 € à 18 €, le 6 novembre, après les résultats du 3e trimestre",
+      "cours": "≈ 13,53 €",
+      "entree": "13,00 €, sur repli seulement",
+      "invalidation": "12,20 €",
+      "objectif": "15,00 €",
+      "ratio": "2,5",
+      "frais": "2 € soit 1,0 % sur 15 actions",
+      "these": "Le fait est nouveau depuis hier : Barclays passe de sous-pondérer à surpondérer et double son objectif à 18 €, selon Boursorama, ce qui porte le titre d'environ 7 % après +12 % jeudi. Le titre a donc pris près de 20 % en deux séances, avec un RSI déjà au-dessus de 75 hier : acheter maintenant revient à courir après le mouvement. Il reste absent de data/suivi.json, donc sans ATR à jour, ce qui interdit un avis Favorable. Ce qui contredit l'idée : un Brent proche de 98 dollars, et des dirigeants, positions courtes et consensus que je n'ai pas vérifiés. Les niveaux sont un plan conditionnel, sur un repli vers 13 € qui tient.",
+      "risque": "Une prise de bénéfices après une telle hausse peut ramener le titre vers 12 €. L'objectif de 15 € n'a rien de garanti, et le pétrole reste le premier risque du secteur."
+     },
+     {
+      "nom": "STMicroelectronics",
+      "isin": "NL0000226223",
+      "compte": "PEA",
+      "avis": "Éviter",
+      "horizon": "2 à 10 jours",
+      "catalyseur": "Résultats d'Infineon le 10 novembre à 8h00",
+      "cours": "37,64 €",
+      "entree": "aucune",
+      "invalidation": "38,61 €, toujours sous ce niveau",
+      "objectif": "aucun",
+      "ratio": "sans objet",
+      "frais": "1 € à la vente, soit 1,3 % sur 2 actions",
+      "these": "Position détenue. Le titre reprend 1,54 % à 37,64 €, porté par le rebond des puces américaines, avec AMD vers +11 %, mais il finit une deuxième séance sous 38,61 €, le niveau fixé à l'avance, et loin de ses moyennes 20 et 50 jours (41,72 € et 44,02 €). Le volume du jour, environ 1,1 million de titres à 15h25, reste inférieur à sa moyenne de 2,4 millions : le rebond manque de conviction. Ce qui contredit la sortie : Infineon peut rassurer mardi et l'indice des semi-conducteurs sort d'une chute de 12 %, un excès qui se corrige parfois vite. Microchip, qui chute d'environ 13 % après avoir abaissé ses prévisions, rappelle que la demande reste fragile.",
+      "risque": "Vendre peut faire manquer un rebond si Infineon rassure ; garder revient à ignorer la limite que tu t'étais fixée."
+     }
+    ],
+    "retro": ""
+   },
+   "lecon": {
+    "titre": "Lire un compte de résultat : du chiffre d'affaires au résultat net",
+    "niveau": "Débutant",
+    "texte": "Le compte de résultat raconte ce qu'une entreprise a gagné et dépensé sur une période, un trimestre ou une année. Il commence par le chiffre d'affaires, c'est-à-dire les ventes. On retire ensuite les coûts de l'activité (achats, salaires, amortissements) pour obtenir le résultat opérationnel, qui mesure la rentabilité du métier lui-même. Rapporté au chiffre d'affaires, il donne la marge opérationnelle, un bon repère pour comparer deux sociétés d'un même secteur. Après les frais financiers et l'impôt, il reste le résultat net, qui revient aux actionnaires. Pour une première lecture, regarde trois choses : la croissance des ventes, l'évolution de la marge et l'écart avec ce que le marché attendait. Une société peut gagner de l'argent et voir son cours chuter si ses ventes déçoivent ou si elle baisse ses objectifs, car le cours reflète surtout l'avenir.",
+    "exemple": "Ce vendredi, TP (ex-Teleperformance) a publié un chiffre d'affaires de 2,2 milliards d'euros au 3e trimestre, en baisse de 1,2 % à périmètre comparable, et vise désormais un recul de 1,5 % à 2,5 % de ses ventes en 2026, selon BFM Bourse. Sa marge opérationnelle visée reste à 14,6 %, soit environ 14,60 € de résultat opérationnel pour 100 € de ventes, et pourtant le titre a perdu environ 15 %, parce que ce sont les ventes futures qui ont déçu.",
+    "references": [
+     {
+      "titre": "La finance pour tous : Quelles informations comptables rechercher lorsqu'on est actionnaire ?",
+      "url": "https://www.lafinancepourtous.com/pratique/placements/actions-3/quelles-informations-comptables-rechercher-lorsquon-est-actionnaire/"
+     },
+     {
+      "titre": "AMF : Bien s'informer sur les sociétés cotées en bourse",
+      "url": "https://www.amf-france.org/sites/institutionnel/files/pdf/59207/fr/Bien_s%27informer_sur_les_societes_cotees_en_bourse.pdf?1713329565"
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "question": "Quelle ligne du compte de résultat mesure la rentabilité du métier lui-même, avant frais financiers et impôt ?",
+     "choix": [
+      "Le chiffre d'affaires",
+      "Le résultat net",
+      "La trésorerie disponible",
+      "Le résultat opérationnel"
+     ],
+     "bonne": 3,
+     "explication": "Le résultat opérationnel retire des ventes les coûts de l'activité. Le résultat net vient après les frais financiers et l'impôt."
+    },
+    {
+     "question": "Pourquoi un rapport sur l'emploi américain très fort peut-il faire baisser les actions de croissance ?",
+     "choix": [
+      "Il augmente les chances que la Fed garde des taux élevés ou les relève",
+      "Il oblige les entreprises à verser plus de dividendes",
+      "Il fait automatiquement baisser le dollar",
+      "Il réduit le nombre d'actions en circulation"
+     ],
+     "bonne": 0,
+     "explication": "Un marché du travail solide laisse la Fed libre de resserrer sa politique. Des taux plus élevés pèsent sur la valeur des entreprises dont les profits sont attendus loin dans le futur."
+    },
+    {
+     "question": "Révision : tu veux être sûr de ne pas vendre en dessous de 4 € la part. Quel ordre utilises-tu ?",
+     "choix": [
+      "Un ordre au marché",
+      "Un ordre d'achat à 4 €",
+      "Un ordre de vente à cours limité à 4 €",
+      "Un ordre sans durée de validité"
+     ],
+     "bonne": 2,
+     "explication": "L'ordre à cours limité fixe un prix minimum à la vente. En échange, il peut ne jamais s'exécuter si le cours n'atteint pas 4 €."
+    }
+   ],
+   "rendezvous": [
+    {
+     "date": "2026-11-10",
+     "titre": "États-Unis : inflation d'octobre (CPI, 14h30)"
+    },
+    {
+     "date": "2026-11-10",
+     "titre": "Infineon : résultats annuels (8h00)"
+    },
+    {
+     "date": "2026-11-11",
+     "titre": "OPEP : rapport mensuel"
+    },
+    {
+     "date": "2026-11-13",
+     "titre": "États-Unis : prix à la production d'octobre (date à confirmer)"
+    },
+    {
+     "date": "2026-11-17",
+     "titre": "États-Unis : ventes au détail d'octobre (date à confirmer)"
+    },
+    {
+     "date": "2026-11-18",
+     "titre": "Soitec : résultats du 1er semestre (date à confirmer)"
+    },
+    {
+     "date": "2026-11-18",
+     "titre": "Fed : compte rendu de la réunion d'octobre (date à confirmer)"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Boursorama : La Bourse de Paris termine dans le rouge dans un climat d'aversion pour le risque",
+     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque-65c78769cd39da733b365d299b55d622"
+    },
+    {
+     "titre": "BFM Bourse : malgré l'emploi américain et un sursaut du Nasdaq, le CAC 40 recule",
+     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-americain-solides-et-un-sursaut-du-nasdaq-le-cac-40-recule-1173355.html"
+    },
+    {
+     "titre": "ABC Bourse : la Bourse de Paris termine en baisse",
+     "url": "https://www.abcbourse.com/marches/cac-40-la-bourse-de-paris-termine-en-baisse-wall-street-ne-rassure-qu-a-moitie_705783"
+    },
+    {
+     "titre": "TheStreet : Stock Market Today, 6 novembre 2026",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"
+    },
+    {
+     "titre": "Trading Economics : Euro Stoxx 50",
+     "url": "https://tradingeconomics.com/euro-area/stock-market"
+    },
+    {
+     "titre": "ABC Bourse : Nexans grimpe après un contrat en Grèce",
+     "url": "https://www.abcbourse.com/marches/newsContent/705770"
+    },
+    {
+     "titre": "Boursorama : changements de recommandations, Air France-KLM",
+     "url": "https://www.boursorama.com/bourse/actualites/les-changements-de-recommandations-air-france-klm-solvay-36f568e94115b8960c932de481492e21"
+    },
+    {
+     "titre": "BFM Bourse : TP plonge de 15 %",
+     "url": "https://www.tradingsat.com/teleperformance-FR0000051807/actualites/plongeon-de-15-1173325.html"
+    },
+    {
+     "titre": "Boursorama : Euronext limite son recul après ses résultats",
+     "url": "https://www.boursorama.com/bourse/actualites/euronext-limite-son-recul-apres-ses-resultats-et-l-annonce-de-rachats-d-actions-437f3dae428d2c66717ead7868eaedd5"
+    }
+   ]
+  },
+  {
    "date": "2026-11-05",
    "titre": "Le Nasdaq plonge en correction, Paris résiste et STMicroelectronics casse son niveau de sortie",
    "resume": "Le CAC 40 gagne 0,34 % à 8 205,37 points, grâce à Air France-KLM et à la faible part de la tech dans l'indice, alors que le Nasdaq cède environ 5 % en séance. Les puces s'effondrent sur la crainte d'un encadrement des centres de données après la victoire démocrate et sur les ventes décevantes de Qualcomm. STMicroelectronics perd 9,33 % et Soitec 16,73 %.",

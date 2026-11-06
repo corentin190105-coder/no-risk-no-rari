@@ -1,7 +1,7 @@
 {
  "meta": {
-  "date": "2026-11-05T21:13:00+01:00",
-  "resume": "Jeudi 5 novembre 2026 : le CAC 40 gagne 0,34 % à 8 205,37 points alors que le Nasdaq plonge d'environ 5 % en séance. STMicroelectronics perd 9,33 % à 37,09 € et clôture sous ton niveau de sortie de 38,61 €. Attention : data/cours.json s'arrête à 15h44, donc les cours de tes ETF, d'Air Liquide, de Thales, d'Amundi et de Riber sont ceux de cette heure, pas de la clôture ; STMicroelectronics, Soitec et Stellantis sont à jour. Prochaines échéances : emploi américain le 6, inflation américaine et Infineon le 10."
+  "date": "2026-11-06T21:30:00+01:00",
+  "resume": "Vendredi 6 novembre 2026 : le CAC 40 cède 0,81 % à 8 139 points malgré un emploi américain solide (165 000 postes) et un Nasdaq qui rebondit d'environ 1,5 %. STMicroelectronics reprend 1,54 % à 37,64 € mais reste sous ton niveau de sortie de 38,61 € ; Stellantis remonte à 4,02 €. Attention : data/cours.json s'arrête à 15h41, donc tes ETF, Air Liquide, Thales, Amundi et Riber sont au cours de 15h25, quand le CAC 40 perdait encore 1,85 % : leur valeur réelle de clôture est sans doute un peu plus haute. Prochaines échéances : inflation américaine et Infineon le 10 novembre."
  },
  "actifs": [
   {
@@ -38,11 +38,15 @@
     {
      "d": "2026-11-05",
      "p": 5.85
+    },
+    {
+     "d": "2026-11-06",
+     "p": 5.95
     }
    ],
-   "prix": 5.85,
-   "prixDate": "2026-11-05",
-   "variationJour": -5.8
+   "prix": 5.95,
+   "prixDate": "2026-11-06",
+   "variationJour": 5.87
   },
   {
    "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
@@ -84,15 +88,24 @@
     {
      "d": "2026-11-05",
      "p": 190.36
+    },
+    {
+     "d": "2026-11-06",
+     "p": 187.04
     }
    ],
-   "prix": 190.36,
-   "prixDate": "2026-11-05",
-   "variationJour": 1.6
+   "prix": 187.04,
+   "prixDate": "2026-11-06",
+   "variationJour": -1.41
   },
   {
    "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
    "actus": [
+    {
+     "date": "2026-11-06",
+     "titre": "La défense européenne reste vendue après la victoire démocrate aux États-Unis, qui fait craindre une baisse des dépenses militaires américaines",
+     "url": "https://rekto.substack.com/p/vendredi-6-novembre-2026"
+    },
     {
      "date": "2026-11-05",
      "titre": "La défense européenne recule : Rheinmetall perd environ 16 % après une nouvelle baisse de son objectif de ventes 2026",
@@ -154,11 +167,15 @@
     {
      "d": "2026-11-05",
      "p": 225.0
+    },
+    {
+     "d": "2026-11-06",
+     "p": 220.8
     }
    ],
-   "prix": 225.0,
-   "prixDate": "2026-11-05",
-   "variationJour": -1.1
+   "prix": 220.8,
+   "prixDate": "2026-11-06",
+   "variationJour": -1.69
   },
   {
    "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -199,15 +216,24 @@
     {
      "d": "2026-11-05",
      "p": 95.15
+    },
+    {
+     "d": "2026-11-06",
+     "p": 93.3
     }
    ],
-   "prix": 95.15,
-   "prixDate": "2026-11-05",
-   "variationJour": 0.69
+   "prix": 93.3,
+   "prixDate": "2026-11-06",
+   "variationJour": -1.01
   },
   {
    "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
    "actus": [
+    {
+     "date": "2026-11-06",
+     "titre": "Le Nasdaq rebondit d'environ 1,5 % après sa chute de 5,5 % de jeudi, porté par AMD, malgré un emploi américain qui relance les paris sur une hausse des taux",
+     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-americain-solides-et-un-sursaut-du-nasdaq-le-cac-40-recule-1173355.html"
+    },
     {
      "date": "2026-11-05",
      "titre": "Le Nasdaq plonge d'environ 5 % en séance et entre en correction, à plus de 10 % sous son record d'octobre",
@@ -232,11 +258,6 @@
      "date": "2026-10-08",
      "titre": "Le Nasdaq recule d'environ 1,2 % : les géants de la tech et des puces pénalisés par des doutes sur les revenus d'OpenAI",
      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
-    },
-    {
-     "date": "2026-10-05",
-     "titre": "Le Nasdaq-100 inscrit un nouveau record porté par les semi-conducteurs et les géants de la tech",
-     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-05-2026"
     }
    ],
    "isin": "FR0011871110",
@@ -270,15 +291,24 @@
     {
      "d": "2026-11-05",
      "p": 98.87
+    },
+    {
+     "d": "2026-11-06",
+     "p": 97.61
     }
    ],
-   "prix": 98.87,
-   "prixDate": "2026-11-05",
-   "variationJour": -2.86
+   "prix": 97.61,
+   "prixDate": "2026-11-06",
+   "variationJour": 0.45
   },
   {
    "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
    "actus": [
+    {
+     "date": "2026-11-06",
+     "titre": "Soitec rebondit d'environ 3 % vers 94 € après une chute de plus de 26 % en deux séances",
+     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque-65c78769cd39da733b365d299b55d622"
+    },
     {
      "date": "2026-11-05",
      "titre": "Soitec chute de 16,73 % à 91,64 € sur la crainte d'une réglementation plus stricte des centres de données américains",
@@ -303,11 +333,6 @@
      "date": "2026-10-26",
      "titre": "Soitec rebondit d'environ 5 % à 117,30 € après deux séances de baisse, dans un marché des puces plus détendu",
      "url": "https://www.boursorama.com/cours/1rPSOI/"
-    },
-    {
-     "date": "2026-10-23",
-     "titre": "Soitec recule d'environ 2,7 % à 111,65 € au lendemain d'une chute de près de 10 %",
-     "url": "https://www.marketscreener.com/quote/stock/SOITEC-4695/"
     }
    ],
    "isin": "FR0013227113",
@@ -382,11 +407,15 @@
     {
      "d": "2026-11-05",
      "p": 91.64
+    },
+    {
+     "d": "2026-11-06",
+     "p": 94.34
     }
    ],
-   "prix": 91.64,
-   "prixDate": "2026-11-05",
-   "variationJour": -16.73
+   "prix": 94.34,
+   "prixDate": "2026-11-06",
+   "variationJour": 2.95
   },
   {
    "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -469,15 +498,24 @@
     {
      "d": "2026-11-05",
      "p": 6.284
+    },
+    {
+     "d": "2026-11-06",
+     "p": 6.134
     }
    ],
-   "prix": 6.284,
-   "prixDate": "2026-11-05",
-   "variationJour": -0.77
+   "prix": 6.134,
+   "prixDate": "2026-11-06",
+   "variationJour": -0.98
   },
   {
    "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
    "actus": [
+    {
+     "date": "2026-11-06",
+     "titre": "Le Nasdaq rebondit d'environ 1,5 % après sa chute de 5,5 % de jeudi, porté par AMD, malgré un emploi américain qui relance les paris sur une hausse des taux",
+     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-americain-solides-et-un-sursaut-du-nasdaq-le-cac-40-recule-1173355.html"
+    },
     {
      "date": "2026-11-05",
      "titre": "Le Nasdaq plonge d'environ 5 % en séance et entre en correction, à plus de 10 % sous son record d'octobre",
@@ -502,11 +540,6 @@
      "date": "2026-10-08",
      "titre": "Le Nasdaq recule d'environ 1,2 % : les géants de la tech et des puces pénalisés par des doutes sur les revenus d'OpenAI",
      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
-    },
-    {
-     "date": "2026-10-05",
-     "titre": "Le Nasdaq-100 inscrit un nouveau record porté par les semi-conducteurs et les géants de la tech",
-     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-05-2026"
     }
    ],
    "isin": "FR001400ZGR7",
@@ -544,11 +577,15 @@
     {
      "d": "2026-11-05",
      "p": 6.488
+    },
+    {
+     "d": "2026-11-06",
+     "p": 6.4
     }
    ],
-   "prix": 6.488,
-   "prixDate": "2026-11-05",
-   "variationJour": -3.78
+   "prix": 6.4,
+   "prixDate": "2026-11-06",
+   "variationJour": -1.01
   },
   {
    "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -590,6 +627,11 @@
    "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
    "actus": [
     {
+     "date": "2026-11-06",
+     "titre": "STMicroelectronics reprend 1,54 % à 37,64 € avec le rebond des puces, mais reste sous son niveau de sortie de 38,61 €",
+     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque-65c78769cd39da733b365d299b55d622"
+    },
+    {
      "date": "2026-11-05",
      "titre": "STMicroelectronics perd 9,33 % à 37,09 € et clôture sous son niveau de sortie de 38,61 €, avec tout le secteur des puces",
      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-ae5fec63ab8cc4466762250a0232725a"
@@ -613,11 +655,6 @@
      "date": "2026-10-27",
      "titre": "STMicroelectronics s'envole d'environ 7 % à Paris, les semi-conducteurs sont rachetés avant les résultats du 29 octobre",
      "url": "https://www.boursorama.com/bourse/actualites/la-tech-reprend-la-main-paris-suit-le-mouvement-41c47ef105516e98655b497a4b70ea06"
-    },
-    {
-     "date": "2026-10-26",
-     "titre": "STMicroelectronics remonte d'environ 2,6 % à 40,50 € à trois jours de ses résultats du troisième trimestre, attendus jeudi avant l'ouverture",
-     "url": "https://www.marketscreener.com/quote/stock/STMICROELECTRONICS-N-V-4710/"
     }
    ],
    "isin": "NL0000226223",
@@ -687,11 +724,15 @@
     {
      "d": "2026-11-05",
      "p": 37.09
+    },
+    {
+     "d": "2026-11-06",
+     "p": 37.64
     }
    ],
-   "prix": 37.09,
-   "prixDate": "2026-11-05",
-   "variationJour": -9.33
+   "prix": 37.64,
+   "prixDate": "2026-11-06",
+   "variationJour": 1.54
   },
   {
    "isin": "NL00150001Q9",
@@ -708,14 +749,19 @@
    "rendezvous": [],
    "actus": [
     {
+     "date": "2026-11-06",
+     "titre": "Stellantis regagne 1,39 % à 4,02 €, juste sous ton prix d'achat de 4,04 € ; le groupe a nommé un nouveau patron pour l'Amérique du Nord",
+     "url": "https://www.abcbourse.com/cotation/STLAPp"
+    },
+    {
      "date": "2026-11-05",
      "titre": "Stellantis recule de 4,68 % dans une séance sans nouvelle propre à la société trouvée",
      "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html"
     }
    ],
-   "prix": 3.964,
-   "prixDate": "2026-11-05",
-   "variationJour": -4.68,
+   "prix": 4.019,
+   "prixDate": "2026-11-06",
+   "variationJour": 1.39,
    "historique": [
     {
      "d": "2026-11-04",
@@ -724,6 +770,10 @@
     {
      "d": "2026-11-05",
      "p": 3.964
+    },
+    {
+     "d": "2026-11-06",
+     "p": 4.019
     }
    ]
   },
@@ -741,9 +791,9 @@
    "risques": "Il dépend d'un seul pays et de quelques secteurs, avec un poids important du luxe. Il recoupe en partie l'ETF Monde pour ce qui concerne les grandes valeurs françaises.",
    "rendezvous": [],
    "actus": [],
-   "prix": 41.975,
-   "prixDate": "2026-11-05",
-   "variationJour": 0.68,
+   "prix": 41.005,
+   "prixDate": "2026-11-06",
+   "variationJour": -1.89,
    "historique": [
     {
      "d": "2026-11-04",
@@ -752,41 +802,15 @@
     {
      "d": "2026-11-05",
      "p": 41.975
+    },
+    {
+     "d": "2026-11-06",
+     "p": 41.005
     }
    ]
   }
  ],
  "agenda": [
-  {
-   "id": "bce-2026-10",
-   "date": "2026-10-29",
-   "titre": "BCE : décision sur les taux",
-   "detail": "Taux de dépôt à 2,50 % après deux hausses depuis juin ; inflation à 3,8 % en septembre"
-  },
-  {
-   "id": "stm-t3-2026",
-   "date": "2026-10-29",
-   "titre": "STMicroelectronics : résultats du 3e trimestre",
-   "detail": "Avant l'ouverture. Prévision donnée en juillet : 3,70 milliards de dollars de chiffre d'affaires, marge brute de 37 %"
-  },
-  {
-   "id": "ai-t3-2026",
-   "date": "2026-10-29",
-   "titre": "Air Liquide : chiffre d'affaires du 3e trimestre",
-   "detail": "Premier trimestre publié après le plan BEYOND"
-  },
-  {
-   "id": "amun-t3-2026",
-   "date": "2026-10-29",
-   "titre": "Amundi : résultats du 3e trimestre",
-   "detail": "Collecte et encours à suivre, ils reflètent l'engouement pour les ETF"
-  },
-  {
-   "id": "us-pce-gdp-2026-10",
-   "date": "2026-10-29",
-   "titre": "États-Unis : PIB du 3e trimestre et indice PCE",
-   "detail": "Le PCE est l'indicateur d'inflation préféré de la Fed, publié le lendemain de sa décision sur les taux"
-  },
   {
    "id": "us-midterms-2026",
    "date": "2026-11-03",
@@ -803,7 +827,7 @@
    "id": "us-jobs-2026-10",
    "date": "2026-11-06",
    "titre": "États-Unis : rapport sur l'emploi d'octobre",
-   "detail": "Publication à 14h30 heure de Paris. Consensus cité : +62 000 postes après +29 000, chômage à 4,2 %"
+   "detail": "Publié : +165 000 postes contre environ 60 000 attendus, chômage à 4,1 %. Le chiffre renforce les paris sur une hausse des taux de la Fed en décembre"
   },
   {
    "id": "ifx-q4-2026",
@@ -993,6 +1017,11 @@
   {
    "d": "2026-11-05",
    "valeur": 764.55,
+   "investi": 799.28
+  },
+  {
+   "d": "2026-11-06",
+   "valeur": 753.8,
    "investi": 799.28
   }
  ]

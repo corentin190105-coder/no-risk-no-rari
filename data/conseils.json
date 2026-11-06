@@ -1,8 +1,8 @@
 {
- "maj": "2026-11-05T21:13:00+01:00",
+ "maj": "2026-11-06T21:30:00+01:00",
  "verdict": {
-  "titre": "STMicroelectronics : ta règle de sortie est déclenchée. Aucun nouvel achat court terme",
-  "texte": "STMicroelectronics a clôturé à 37,09 €, sous le niveau de 38,61 € fixé à l'avance : le plan passe sur Vendre. Stellantis se rapproche de 3,75 €, à surveiller. Tes ETF restent ton socle : tu n'as rien à y changer, même si le Nasdaq-100 baisse fort. Air France-KLM a livré de bons résultats, mais le mouvement est fait : j'attends une clôture au-dessus de 12,90 €."
+  "titre": "STMicroelectronics reste sous ta règle de sortie. Aucun nouvel achat court terme",
+  "texte": "STMicroelectronics rebondit à 37,64 € mais finit une deuxième séance sous 38,61 €, le niveau fixé à l'avance : le plan reste sur Vendre. Stellantis remonte à 4,02 €, loin de 3,75 €. L'emploi américain très fort relance la crainte d'une hausse des taux avant l'inflation de mardi : ce n'est pas le moment de multiplier les ordres. Air France-KLM a gagné près de 20 % en deux séances : j'attends un repli."
  },
  "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
  "positions": [
@@ -20,7 +20,7 @@
    "isin": "FR001400ZGR7",
    "symbole": "PNAS.PA",
    "action": "Garder",
-   "pourquoi": "Le Nasdaq est entré en correction, et l'ETF recule vers 6,49 € à 15h44, sous ses moyennes 20 et 50 jours, tout près de sa moyenne 200 jours (6,40 €). C'est une baisse de marché, pas un problème propre à cette ligne, mais elle est concentrée sur la tech américaine.",
+   "pourquoi": "Le Nasdaq a chuté de 5,5 % jeudi puis rebondit vendredi. L'ETF valait 6,40 € à 15h25, sous ses moyennes 20 et 50 jours. C'est une baisse de marché, pas un problème propre à cette ligne, mais elle est concentrée sur la tech américaine.",
    "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
    "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
   },
@@ -39,7 +39,7 @@
    "symbole": "AI.PA",
    "action": "Garder",
    "sortie": 171.03,
-   "pourquoi": "Tu es en gain et la tendance est haussière, vers 190 € en séance. Le titre a beaucoup monté, sur des niveaux tendus. Avec une seule action, il n'y a rien à alléger.",
+   "pourquoi": "Tu es en gain et la tendance reste haussière, vers 187 € à 15h25 le 6 novembre, au-dessus de ses moyennes 20 et 50 jours. Le titre a beaucoup monté. Avec une seule action, il n'y a rien à alléger.",
    "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
    "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
   },
@@ -49,7 +49,7 @@
    "symbole": "STLAP.PA",
    "action": "Garder",
    "sortie": 3.75,
-   "pourquoi": "C'est ta ligne la plus risquée : le titre a reculé de 4,68 % le 5 novembre vers 3,96 €, sous ton prix d'achat, sans nouvelle propre à la société trouvée. Il reste à environ 5 % de ton niveau de sortie.",
+   "pourquoi": "C'est ta ligne la plus risquée. Le titre remonte de 1,39 % à 4,02 € le 6 novembre, juste sous ton prix d'achat de 4,04 €, et s'éloigne de ton niveau de sortie. Le groupe a nommé un nouveau patron pour l'Amérique du Nord.",
    "vendreSi": "clôture sous 3,75 €, soit 2 ATR sous le cours. Sur 13 actions, la perte serait d'environ 5 € plus 1 € de frais.",
    "renforcerSi": "non, tant que le cours n'a pas repassé durablement sa moyenne 50 jours (4,18 €) sur un fait nouveau."
   },
@@ -59,8 +59,8 @@
    "symbole": "STMPA.PA",
    "action": "Vendre",
    "sortie": 38.61,
-   "pourquoi": "Le titre a clôturé à 37,09 € le 5 novembre, sous 38,61 €, le niveau décidé à l'avance. La baisse vient de tout le secteur, sans nouvelle propre à la société trouvée. La moins-value ne doit pas guider ce choix : seule compte la règle que tu t'es fixée.",
-   "vendreSi": "condition remplie. Sur 2 actions, la vente rapporterait environ 73 € après 1 € de frais, soit une perte d'environ 28 €. Un ordre à cours limité évite une exécution à un prix surprenant. L'emploi américain tombe à 14h30 et peut faire bouger le titre. Un rebond reste possible, et les résultats d'Infineon le 10 novembre peuvent rassurer : garder revient à accepter ce risque en connaissance de cause.",
+   "pourquoi": "Le titre a clôturé à 37,09 € le 5 novembre puis à 37,64 € le 6, deux fois sous 38,61 €, le niveau décidé à l'avance. Le rebond du jour suit celui des puces américaines, avec un volume faible. La moins-value ne doit pas guider ce choix : seule compte la règle que tu t'es fixée.",
+   "vendreSi": "condition remplie. Sur 2 actions, la vente rapporterait environ 74 € après 1 € de frais. Infineon publie le 10 novembre : si tu choisis d'attendre ce chiffre, c'est une exception à ta règle, à décider en connaissance de cause.",
    "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de 44,05 €."
   }
  ],
@@ -92,19 +92,19 @@
    "plan": [
     [
      "Déclencheur",
-     "Clôture au-dessus de 12,90 €"
+     "Repli vers 13,00 € qui tient en clôture"
     ],
     [
      "Sortie",
-     "12,10 €"
+     "12,20 €"
     ],
     [
      "Objectif",
-     "14,50 €"
+     "15,00 €"
     ],
     [
      "Exemple",
-     "15 actions, environ 194 €"
+     "15 actions, environ 195 €"
     ],
     [
      "Perte max",
@@ -112,12 +112,12 @@
     ],
     [
      "Gain visé",
-     "environ 22 €, frais compris"
+     "environ 28 €, frais compris"
     ]
    ],
-   "quand": "Seulement sur une clôture au-dessus de 12,90 €, et une fois l'ATR disponible : la valeur doit d'abord entrer dans la liste suivie.",
-   "pourquoi": "Le bénéfice net du 3e trimestre, 938 millions d'euros contre 731 attendus, est un vrai fait nouveau. Consensus révisé, dirigeants et positions courtes restent à vérifier.",
-   "contre": "Le titre a déjà pris 12 % et le pétrole rebondit. Sans niveau d'entrée propre, je ne cours pas après le mouvement."
+   "quand": "Seulement sur un repli vers 13 € qui tient, et une fois l'ATR disponible : la valeur doit d'abord entrer dans la liste suivie.",
+   "pourquoi": "Après des résultats supérieurs aux attentes, Barclays passe à l'achat avec un objectif doublé à 18 €, le 6 novembre. Le fait nouveau est réel.",
+   "contre": "Le titre a pris près de 20 % en deux séances et le pétrole reste proche de 98 dollars. Je ne cours pas après le mouvement."
   }
  ],
  "decouvertes": [
@@ -162,14 +162,14 @@
    "faux": "Déception sur un médicament clé, ou résultats simplement inférieurs à des attentes devenues élevées."
   },
   {
-   "nom": "OVHcloud",
-   "isin": "FR0014005HJ9",
-   "symbole": "OVH.PA",
-   "theme": "Le cloud européen, à contre-courant de la peur sur l'IA",
-   "risque": "Très élevé",
-   "pourquoi": "Tes lignes tech sont surtout américaines ou liées aux puces. OVHcloud a dépassé les attentes fin octobre et vise plus de 10 % de croissance en 2027, selon BFM Bourse et France Épargne, avec un ancrage français et européen.",
-   "aBorder": "À creuser, pas à acheter ce soir : je vérifie d'abord le cours après la vente du 5 novembre sur les centres de données. Une part vaut environ 14 €, avec des mouvements forts.",
-   "faux": "Des dépenses en serveurs qui dévorent la trésorerie, ou une demande cloud qui ralentit."
+   "nom": "Nexans",
+   "isin": "FR0000044448",
+   "symbole": "NEX.PA",
+   "theme": "Les câbles des réseaux électriques",
+   "risque": "Élevé",
+   "pourquoi": "Tu n'as aucune valeur liée à l'électrification. Nexans fabrique les câbles qui relient les réseaux et les parcs d'énergie ; le 6 novembre, il a remporté un contrat d'interconnexion en Grèce, selon ABC Bourse, et le titre a gagné environ 4,4 %.",
+   "aBorder": "À étudier sur plusieurs mois : le titre est sous ses moyennes 50 et 200 jours et une part vaut environ 123 €, soit plus de 15 % de ton portefeuille.",
+   "faux": "Des retards de grands projets, ou une baisse des investissements dans les réseaux électriques."
   }
  ]
 }
