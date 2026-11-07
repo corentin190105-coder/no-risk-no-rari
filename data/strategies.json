@@ -1,98 +1,98 @@
 {
- "maj": "2026-11-05T00:00:51+01:00",
+ "maj": "2026-11-07T23:20:47+01:00",
  "regle": "Revue tous les 21 jours de bourse, 200 € par ligne, 1 € par ordre, hors dividendes et hors fiscalité.",
  "methodes": {
   "Panier égal de toutes les actions": {
    "total": {
     "n": 48,
-    "annuel_pct": 21.7,
-    "pire_baisse_pct": -12.9
+    "annuel_pct": 43.7,
+    "pire_baisse_pct": -10.2
    },
    "ancien": {
     "n": 24,
-    "annuel_pct": 5.1,
-    "pire_baisse_pct": -12.9
+    "annuel_pct": 3.4,
+    "pire_baisse_pct": -10.2
    },
    "recent": {
     "n": 24,
-    "annuel_pct": 41.0,
-    "pire_baisse_pct": -9.4
+    "annuel_pct": 99.6,
+    "pire_baisse_pct": -7.4
    }
   },
   "Momentum 12 mois, 5 lignes": {
    "total": {
     "n": 48,
-    "annuel_pct": 4.9,
-    "pire_baisse_pct": -36.3
+    "annuel_pct": 2.2,
+    "pire_baisse_pct": -32.8
    },
    "ancien": {
     "n": 24,
-    "annuel_pct": -6.1,
-    "pire_baisse_pct": -22.6
+    "annuel_pct": -8.2,
+    "pire_baisse_pct": -24.7
    },
    "recent": {
     "n": 24,
-    "annuel_pct": 17.2,
-    "pire_baisse_pct": -36.3
+    "annuel_pct": 13.8,
+    "pire_baisse_pct": -32.8
    }
   },
   "Momentum 6 mois au-dessus de la MM200": {
    "total": {
     "n": 48,
-    "annuel_pct": 2.8,
-    "pire_baisse_pct": -40.5
+    "annuel_pct": 7.7,
+    "pire_baisse_pct": -30.7
    },
    "ancien": {
     "n": 24,
-    "annuel_pct": -7.5,
-    "pire_baisse_pct": -29.9
+    "annuel_pct": -2.8,
+    "pire_baisse_pct": -20.2
    },
    "recent": {
     "n": 24,
-    "annuel_pct": 14.2,
-    "pire_baisse_pct": -23.2
+    "annuel_pct": 19.4,
+    "pire_baisse_pct": -18.3
    }
   },
   "5 actions les moins volatiles": {
    "total": {
     "n": 48,
-    "annuel_pct": 5.9,
-    "pire_baisse_pct": -10.7
+    "annuel_pct": 4.7,
+    "pire_baisse_pct": -13.4
    },
    "ancien": {
     "n": 24,
-    "annuel_pct": 1.6,
-    "pire_baisse_pct": -10.7
+    "annuel_pct": 0.3,
+    "pire_baisse_pct": -13.4
    },
    "recent": {
     "n": 24,
-    "annuel_pct": 10.5,
-    "pire_baisse_pct": -8.1
+    "annuel_pct": 9.4,
+    "pire_baisse_pct": -9.6
    }
   },
   "CAC 40 (hors dividendes)": {
    "total": {
     "n": 48,
-    "annuel_pct": 5.2,
-    "pire_baisse_pct": -10.7
+    "annuel_pct": 5.4,
+    "pire_baisse_pct": -12.4
    },
    "ancien": {
     "n": 24,
     "annuel_pct": 8.1,
-    "pire_baisse_pct": -8.1
+    "pire_baisse_pct": -9.6
    },
    "recent": {
     "n": 24,
-    "annuel_pct": 2.4,
-    "pire_baisse_pct": -9.3
+    "annuel_pct": 2.7,
+    "pire_baisse_pct": -7.9
    }
   }
  },
  "evenements": {
   "Hausse de 5 % sur fort volume, 20 séances": {
-   "n": 459,
-   "moyenne_nette_pct": -0.4,
-   "gagnants_pct": 45.8
+   "n": 458,
+   "moyenne_nette_pct": -0.37,
+   "gagnants_pct": 45.9
   },
   "Idem au-dessus de la MM200": {
    "n": 284,
@@ -101,8 +101,8 @@
   },
   "Entrée au hasard, 20 séances": {
    "n": 2539,
-   "moyenne_nette_pct": 1.89,
-   "gagnants_pct": 49.7
+   "moyenne_nette_pct": 1.25,
+   "gagnants_pct": 47.9
   }
  }
 }
