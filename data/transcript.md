@@ -328,3 +328,13 @@ Le rapport sur l'emploi américain, appelé NFP pour « non-farm payrolls », es
 - [ABC Bourse : Créations d'emplois (USA), série statistique et analyse](https://www.abcbourse.com/marches/economie_creation_emploi_usa-16)
 - [BLS : Employment Situation Summary ⚠️](https://www.bls.gov/news.release/empsit.nr0.htm)
 - [Investopedia : Nonfarm Payroll ⚠️](https://www.investopedia.com/terms/n/nonfarmpayroll.asp)
+
+## Q: Qu'est-ce que le rachat d'actions ?
+
+_2026-11-07 21:04 CET_
+
+Un rachat d'actions, ou « buyback », est une opération par laquelle une entreprise achète en Bourse ses propres actions. Elle peut ensuite les annuler, ce qui réduit le nombre d'actions en circulation : chaque action restante représente alors une part un peu plus grande des bénéfices, et le bénéfice par action augmente mécaniquement. C'est une façon de rendre de l'argent aux actionnaires, comme le dividende, mais sans versement direct. Le marché l'interprète souvent comme un signe de confiance de la direction, à condition que l'entreprise ne s'endette pas pour le financer. Vendredi, Lam Research a annoncé un programme de 25 milliards de dollars et son action a gagné environ 8 %. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [La finance pour tous : À quoi correspondent les rachats d'actions ?](https://www.lafinancepourtous.com/outils/questions-reponses/a-quoi-correspondent-les-rachats-daction/)
+- [AMF : Rachats d'actions, déclarations des sociétés cotées](https://www.amf-france.org/fr/formulaires-et-declarations/societes-cotees-et-operations-financieres/rachats-dactions)

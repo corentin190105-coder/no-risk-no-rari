@@ -1,1028 +1,1048 @@
 {
- "meta": {
-  "date": "2026-11-06T21:30:00+01:00",
-  "resume": "Vendredi 6 novembre 2026 : le CAC 40 cède 0,81 % à 8 139 points malgré un emploi américain solide (165 000 postes) et un Nasdaq qui rebondit d'environ 1,5 %. STMicroelectronics reprend 1,54 % à 37,64 € mais reste sous ton niveau de sortie de 38,61 € ; Stellantis remonte à 4,02 €. Attention : data/cours.json s'arrête à 15h41, donc tes ETF, Air Liquide, Thales, Amundi et Riber sont au cours de 15h25, quand le CAC 40 perdait encore 1,85 % : leur valeur réelle de clôture est sans doute un peu plus haute. Prochaines échéances : inflation américaine et Infineon le 10 novembre."
- },
- "actifs": [
-  {
-   "activite": "PME française (121 salariés), leader mondial des machines d'épitaxie par jets moléculaires : elles déposent des matériaux couche d'atomes par couche d'atomes pour fabriquer des semi-conducteurs avancés (lasers, capteurs, puces radio).",
-   "actus": [],
-   "isin": "FR0000075954",
-   "marche": "Clients laboratoires et industriels, machines de production à plusieurs millions d'euros pièce. Chiffre d'affaires 2025 de 40,3 millions d'euros, réparti entre Europe, Asie et Amérique du Nord. Cotée sur Euronext Growth, éligible PEA et PEA-PME.",
-   "nom": "Riber",
-   "pea": true,
-   "potentiel": "Sa machine Rosie vise la photonique sur silicium (et les matériaux quantiques), avec 2 à 3 livraisons par an prévues dès 2026-2027. Une seule commande pèse 5 à 10 % de l'activité annuelle.",
-   "rendezvous": [],
-   "risque": "Très élevé",
-   "risques": "Très petite capitalisation : mouvements violents (+176 % depuis janvier mais -26 % sur un mois à un moment de 2026). Revenus irréguliers selon les commandes, pas d'objectif chiffré pour 2026.",
-   "secteur": "Équipements semi-conducteurs",
-   "ticker": "ALRIB",
-   "type": "Action",
-   "historique": [
+  "meta": {
+    "date": "2026-11-07T21:05:00+01:00",
+    "resume": "Samedi 7 novembre 2026, marchés fermés. À la clôture de vendredi, ton portefeuille vaut 757,52 € pour 799,28 € investis, soit -41,76 € : les cours de vendredi sont maintenant les vrais cours de clôture, un peu meilleurs que ceux de 15h25 affichés hier soir. STMicroelectronics reste à 37,64 €, sous ton niveau de sortie de 38,61 €. Le Brent a perdu environ 16 % sur la semaine sur l'espoir d'un accord avec l'Iran. Mardi 10 novembre : inflation américaine et résultats d'Infineon."
+  },
+  "actifs": [
     {
-     "d": "2026-10-05",
-     "p": 9.88
+      "activite": "PME française (121 salariés), leader mondial des machines d'épitaxie par jets moléculaires : elles déposent des matériaux couche d'atomes par couche d'atomes pour fabriquer des semi-conducteurs avancés (lasers, capteurs, puces radio).",
+      "actus": [],
+      "isin": "FR0000075954",
+      "marche": "Clients laboratoires et industriels, machines de production à plusieurs millions d'euros pièce. Chiffre d'affaires 2025 de 40,3 millions d'euros, réparti entre Europe, Asie et Amérique du Nord. Cotée sur Euronext Growth, éligible PEA et PEA-PME.",
+      "nom": "Riber",
+      "pea": true,
+      "potentiel": "Sa machine Rosie vise la photonique sur silicium (et les matériaux quantiques), avec 2 à 3 livraisons par an prévues dès 2026-2027. Une seule commande pèse 5 à 10 % de l'activité annuelle.",
+      "rendezvous": [],
+      "risque": "Très élevé",
+      "risques": "Très petite capitalisation : mouvements violents (+176 % depuis janvier mais -26 % sur un mois à un moment de 2026). Revenus irréguliers selon les commandes, pas d'objectif chiffré pour 2026.",
+      "secteur": "Équipements semi-conducteurs",
+      "ticker": "ALRIB",
+      "type": "Action",
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 9.88
+        },
+        {
+          "d": "2026-10-08",
+          "p": 8.39
+        },
+        {
+          "d": "2026-10-09",
+          "p": 8.1
+        },
+        {
+          "d": "2026-11-04",
+          "p": 6.21
+        },
+        {
+          "d": "2026-11-05",
+          "p": 5.85
+        },
+        {
+          "d": "2026-11-06",
+          "p": 5.81
+        }
+      ],
+      "prix": 5.81,
+      "prixDate": "2026-11-06",
+      "variationJour": 3.38
     },
     {
-     "d": "2026-10-08",
-     "p": 8.39
+      "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
+      "actus": [
+        {
+          "date": "2026-10-05",
+          "titre": "Air Liquide dévoile son plan BEYOND 2026-2030 : croissance des ventes d'environ 5 % par an, bénéfice par action visé à +10 % par an et premier rachat d'actions de son histoire (4 milliards d'euros sur 2027-2028)",
+          "url": "https://www.boursorama.com/bourse/actualites/air-liquide-lance-son-plan-strategique-et-un-rachat-d-actions-historique-463c17e46553ce90c4d2915ac193a157"
+        }
+      ],
+      "isin": "FR0000120073",
+      "marche": "Un oligopole mondial (avec Linde, Air Products, Messer) qui fournit l'industrie, la santé et l'électronique.",
+      "nom": "Air Liquide",
+      "pea": true,
+      "potentiel": "La façon la plus sûre de s'exposer à l'hydrogène dans un PEA. Le plan BEYOND présenté le 5 octobre 2026 vise environ 5 % de croissance des ventes par an et 10 % de hausse du bénéfice par action jusqu'en 2030, avec un premier rachat d'actions de 4 milliards d'euros en 2027-2028.",
+      "rendezvous": [],
+      "risque": "Modéré",
+      "risques": "Croissance plus lente qu'un pari pur. Le secteur hydrogène reste difficile en Bourse et ses spécialistes sont souvent déficitaires.",
+      "secteur": "Gaz industriels · hydrogène",
+      "ticker": "AI",
+      "type": "Action",
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 170.76
+        },
+        {
+          "d": "2026-10-08",
+          "p": 167.94
+        },
+        {
+          "d": "2026-10-09",
+          "p": 169.68
+        },
+        {
+          "d": "2026-11-04",
+          "p": 187.36
+        },
+        {
+          "d": "2026-11-05",
+          "p": 190.36
+        },
+        {
+          "d": "2026-11-06",
+          "p": 187.78
+        }
+      ],
+      "prix": 187.78,
+      "prixDate": "2026-11-06",
+      "variationJour": -1.02
     },
     {
-     "d": "2026-10-09",
-     "p": 8.1
+      "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
+      "actus": [
+        {
+          "date": "2026-11-06",
+          "titre": "La défense européenne reste vendue après la victoire démocrate aux États-Unis, qui fait craindre une baisse des dépenses militaires américaines",
+          "url": "https://rekto.substack.com/p/vendredi-6-novembre-2026"
+        },
+        {
+          "date": "2026-11-05",
+          "titre": "La défense européenne recule : Rheinmetall perd environ 16 % après une nouvelle baisse de son objectif de ventes 2026",
+          "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-at-6-219-70-down-1-58-prozent/70466022"
+        },
+        {
+          "date": "2026-11-04",
+          "titre": "Thales casse le support des 228 € alors que la défense recule après le scrutin américain",
+          "url": "https://www.abcbourse.com/marches/thales-cassure-du-support-des-228-euros-le-titre-glisse-vers-la-zone-des-223_705577"
+        },
+        {
+          "date": "2026-10-21",
+          "titre": "La DGA commande quatre sections supplémentaires du système sol-air SAMP/T NG à Eurosam (Thales et MBDA), ce qui porte à douze les sections prévues pour l'armée de l'Air et de l'Espace",
+          "url": "https://www.boursorama.com/bourse/actualites/thales-gagne-1-apres-une-commande-de-la-dga-b74ef595a880deeadebb225e1794d280"
+        },
+        {
+          "date": "2026-10-19",
+          "titre": "Thales recule de près de 2 % à 229,5 € la veille de ses commandes du troisième trimestre",
+          "url": "https://www.abcbourse.com/cotation/HOp"
+        },
+        {
+          "date": "2026-10-03",
+          "titre": "L'Irlande commande des radars Ground Master à Thales via un accord d'État à État signé avec la DGA, livraisons de 2027 à fin 2028",
+          "url": "https://media24.fr/2026/10/03/la-france-joue-les-intermediaires-pour-vendre-ce-bijou-capable-de-detecter-un-avion-a-515-km-a-un-pays-theoriquement-neutre-lirlande"
+        }
+      ],
+      "isin": "FR0000121329",
+      "marche": "Le réarmement européen : Berlin prévoit environ 150 milliards de dollars de dépenses de défense en 2026 (+30 %), et les achats d'équipements militaires européens pourraient croître de 16 % par an jusqu'en 2030.",
+      "nom": "Thales",
+      "pea": true,
+      "potentiel": "Commandes défense en hausse de 75 % au premier trimestre 2026, contrat-cadre avec Rheinmetall pour des systèmes de vision, rachat d'Exail (drones sous-marins).",
+      "rendezvous": [],
+      "risque": "Élevé",
+      "risques": "Le secteur corrige (ETF défense européenne près de -10 % en un mois) car les États sous pression budgétaire peuvent reporter des commandes. Cours multiplié par 3,1 en quatre ans : beaucoup de bonnes nouvelles déjà dans le prix. Part autour de 238 €.",
+      "secteur": "Défense · technologies",
+      "ticker": "HO",
+      "type": "Action",
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 226.8
+        },
+        {
+          "d": "2026-10-07",
+          "p": 216.4
+        },
+        {
+          "d": "2026-10-09",
+          "p": 218.3
+        },
+        {
+          "d": "2026-10-19",
+          "p": 229.5
+        },
+        {
+          "d": "2026-11-04",
+          "p": 227.5
+        },
+        {
+          "d": "2026-11-05",
+          "p": 225.0
+        },
+        {
+          "d": "2026-11-06",
+          "p": 221.7
+        }
+      ],
+      "prix": 221.7,
+      "prixDate": "2026-11-06",
+      "variationJour": -1.29
     },
     {
-     "d": "2026-11-04",
-     "p": 6.21
+      "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
+      "actus": [],
+      "isin": "FR0004125920",
+      "marche": "Encours proches de 2 600 milliards d'euros fin juin 2026, plateforme ETF au-delà de 400 milliards. Logique des pelles et pioches : il gagne quand les épargnants investissent en ETF.",
+      "nom": "Amundi",
+      "pea": true,
+      "potentiel": "Meilleur semestre de son histoire au S1 2026 avec 56,4 milliards d'euros collectés. Dividende 2025 de 4,25 € par action, soit environ 5,5 % de rendement.",
+      "rendezvous": [
+        {
+          "date": "2027-02-02",
+          "titre": "Résultats annuels 2026"
+        }
+      ],
+      "risque": "Modéré",
+      "risques": "Ses revenus baissent quand les marchés chutent, en même temps que tes ETF. Guerre des prix sur les ETF face à BlackRock et Vanguard.",
+      "secteur": "Gestion d'actifs",
+      "ticker": "AMUN",
+      "type": "Action",
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 88.7
+        },
+        {
+          "d": "2026-10-08",
+          "p": 86.75
+        },
+        {
+          "d": "2026-10-09",
+          "p": 88.25
+        },
+        {
+          "d": "2026-11-04",
+          "p": 94.5
+        },
+        {
+          "d": "2026-11-05",
+          "p": 95.15
+        },
+        {
+          "d": "2026-11-06",
+          "p": 93.95
+        }
+      ],
+      "prix": 93.95,
+      "prixDate": "2026-11-06",
+      "variationJour": -0.32
     },
     {
-     "d": "2026-11-05",
-     "p": 5.85
+      "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
+      "actus": [
+        {
+          "date": "2026-11-06",
+          "titre": "Le Nasdaq-100 finit en hausse d'environ 1,4 % vendredi (ETF QQQ), mais la semaine reste nettement négative pour la tech américaine",
+          "url": "https://www.xtb.com/fr/analyses-marches/resume-quotidien-wall-street-rebondit-apres-la-vague-de-ventes-le-dollar-americain-se-raffermit-grace-a-des-chiffres-solides-de-l-emploi-non-agricole-nfp-tandis-que-les-cours-du-petrole-reculent"
+        },
+        {
+          "date": "2026-11-06",
+          "titre": "Le Nasdaq rebondit d'environ 1,5 % après sa chute de 5,5 % de jeudi, porté par AMD, malgré un emploi américain qui relance les paris sur une hausse des taux",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-americain-solides-et-un-sursaut-du-nasdaq-le-cac-40-recule-1173355.html"
+        },
+        {
+          "date": "2026-11-05",
+          "titre": "Le Nasdaq plonge d'environ 5 % en séance et entre en correction, à plus de 10 % sous son record d'octobre",
+          "url": "https://www.france-epargne.fr/news/le-nasdaq-plonge-dans-la-correction-le-cac-40-tient-au-dessus-de-8-200-points"
+        },
+        {
+          "date": "2026-10-26",
+          "titre": "Wall Street rebondit d'environ 1 % lundi, portée par les valeurs de l'IA après le dépôt du dossier d'introduction en bourse d'Anthropic, attendue sur le Nasdaq en novembre",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-apprete-a-connaitre-sa-meilleure-journee-depuis-un-mois-l-annonce-de-l-introduction-en-bourse-d-anthropic-ayant-stimule-les-valeurs-liees-a-l-ia-1089d8f98fea96709b733fc2eebb4f0d"
+        },
+        {
+          "date": "2026-10-16",
+          "titre": "Le Nasdaq décroche d'environ 2 % en séance vendredi, entraîné par les valeurs liées à l'IA et les inquiétudes sur leur endettement",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
+        },
+        {
+          "date": "2026-10-12",
+          "titre": "Le Nasdaq-100 recule d'environ 0,5 à 0,8 % en séance lundi, pénalisé par les valeurs d'infrastructure IA et les semi-conducteurs",
+          "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
+        }
+      ],
+      "isin": "FR0011871110",
+      "marche": "Les 100 plus grandes valeurs non financières du Nasdaq, dominées par la tech et l'IA.",
+      "nom": "Amundi PEA Nasdaq-100",
+      "pea": true,
+      "potentiel": "Croissance des géants technologiques américains sur le long terme.",
+      "rendezvous": [],
+      "risque": "Modéré",
+      "risques": "Concentration sur la tech US, sensibilité aux taux d'intérêt, corrections fortes possibles.",
+      "secteur": "Tech US",
+      "ticker": "PUST",
+      "type": "ETF",
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 110.86
+        },
+        {
+          "d": "2026-10-08",
+          "p": 111.06
+        },
+        {
+          "d": "2026-10-09",
+          "p": 110.44
+        },
+        {
+          "d": "2026-11-04",
+          "p": 101.78
+        },
+        {
+          "d": "2026-11-05",
+          "p": 98.87
+        },
+        {
+          "d": "2026-11-06",
+          "p": 97.92
+        }
+      ],
+      "prix": 97.92,
+      "prixDate": "2026-11-06",
+      "variationJour": 0.77
     },
     {
-     "d": "2026-11-06",
-     "p": 5.95
+      "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
+      "actus": [
+        {
+          "date": "2026-11-06",
+          "titre": "Soitec rebondit d'environ 3 % vers 94 € après une chute de plus de 26 % en deux séances",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque-65c78769cd39da733b365d299b55d622"
+        },
+        {
+          "date": "2026-11-05",
+          "titre": "Soitec chute de 16,73 % à 91,64 € sur la crainte d'une réglementation plus stricte des centres de données américains",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-ae5fec63ab8cc4466762250a0232725a"
+        },
+        {
+          "date": "2026-11-04",
+          "titre": "Morgan Stanley abaisse Soitec à pondération en ligne, objectif ramené à 140 €, le titre chute de près de 12 %",
+          "url": "https://www.abcbourse.com/marches/soitec-degrade-a-ponderation-en-ligne-par-morgan-stanley_705602"
+        },
+        {
+          "date": "2026-11-04",
+          "titre": "UBS relève Soitec à conserver",
+          "url": "https://www.abcbourse.com/marches/soitec-releve-a-conserver-par-ubs_705587"
+        },
+        {
+          "date": "2026-10-30",
+          "titre": "Soitec chute lourdement dans le sillage des semi-conducteurs, plombés par les doutes sur la rentabilité des dépenses en IA (cours de clôture non confirmé)",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026"
+        },
+        {
+          "date": "2026-10-26",
+          "titre": "Soitec rebondit d'environ 5 % à 117,30 € après deux séances de baisse, dans un marché des puces plus détendu",
+          "url": "https://www.boursorama.com/cours/1rPSOI/"
+        }
+      ],
+      "isin": "FR0013227113",
+      "marche": "Trois marchés : les smartphones (RF-SOI, en difficulté à cause du surstock des clients), l'automobile (faible) et surtout l'Edge & Cloud AI avec le Photonics-SOI, utilisé dans les data centers pour transporter les données par la lumière.",
+      "nom": "Soitec",
+      "pea": true,
+      "potentiel": "Début septembre 2026, Soitec a relevé sa prévision de croissance trimestrielle à environ 50 % et vise des ventes Photonics-SOI multipliées par 2,5 à 3 sur l'exercice, avec des contrats pluriannuels de réservation de capacités.",
+      "rendezvous": [
+        {
+          "date": "2026-11-18",
+          "titre": "Résultats du premier semestre (date indiquée par les agendas boursiers, à confirmer par Soitec)"
+        }
+      ],
+      "risque": "Très élevé",
+      "risques": "Encore en perte (220 millions d'euros sur le dernier exercice). Volatilité extrême : chute d'environ 73 % en 2025, puis cours multiplié par près de 4 au printemps 2026, puis -27 % en un mois en août. Le mobile et l'auto freinent encore.",
+      "secteur": "Semi-conducteurs",
+      "ticker": "SOI",
+      "type": "Action",
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 167.45
+        },
+        {
+          "d": "2026-10-08",
+          "p": 152.4
+        },
+        {
+          "d": "2026-10-09",
+          "p": 159.95
+        },
+        {
+          "d": "2026-10-12",
+          "p": 153.85
+        },
+        {
+          "d": "2026-10-13",
+          "p": 148.16
+        },
+        {
+          "d": "2026-10-14",
+          "p": 154.97
+        },
+        {
+          "d": "2026-10-15",
+          "p": 129.85
+        },
+        {
+          "d": "2026-10-20",
+          "p": 123.65
+        },
+        {
+          "d": "2026-10-22",
+          "p": 114.7
+        },
+        {
+          "d": "2026-10-23",
+          "p": 111.65
+        },
+        {
+          "d": "2026-10-26",
+          "p": 117.3
+        },
+        {
+          "d": "2026-10-27",
+          "p": 121.95
+        },
+        {
+          "d": "2026-11-04",
+          "p": 110.05
+        },
+        {
+          "d": "2026-11-05",
+          "p": 91.64
+        },
+        {
+          "d": "2026-11-06",
+          "p": 94.34
+        }
+      ],
+      "prix": 94.34,
+      "prixDate": "2026-11-06",
+      "variationJour": 2.95
+    },
+    {
+      "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
+      "actus": [
+        {
+          "date": "2026-10-08",
+          "titre": "Le Bitcoin retombe vers 82 000 dollars, freiné par la hausse des taux et un dollar fort",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+        },
+        {
+          "date": "2026-10-05",
+          "titre": "Le Bitcoin repasse au-dessus de 86 000 dollars après un rapport sur l'emploi américain décevant qui éloigne une hausse des taux de la Fed",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-october-5-2026-bitcoin-back-above-86000-after-higher-rate-expectations-fade-114459647.html"
+        }
+      ],
+      "isin": "FR0014002IH8",
+      "marche": "L'écosystème du Bitcoin coté en Bourse. Part autour de 15 € en juillet 2026.",
+      "nom": "Melanion Bitcoin Equities",
+      "pea": true,
+      "potentiel": "Profite d'une hausse du Bitcoin, souvent amplifiée par les mineurs.",
+      "rendezvous": [],
+      "risque": "Très élevé",
+      "risques": "Volatilité extrême (séances à -9 % ou +8 %). Ne suit pas mécaniquement le cours du Bitcoin.",
+      "secteur": "Crypto",
+      "ticker": "BTC",
+      "type": "ETF",
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 16.795
+        },
+        {
+          "d": "2026-10-08",
+          "p": 15.577
+        },
+        {
+          "d": "2026-11-04",
+          "p": 12.355
+        }
+      ],
+      "prix": 12.355,
+      "prixDate": "2026-11-04",
+      "variationJour": -0.44
+    },
+    {
+      "activite": "Un seul produit qui achète environ 1 400 grandes entreprises de 23 pays développés, pondérées selon leur taille. Les États-Unis pèsent environ 70 % et la tech environ 25 %.",
+      "actus": [],
+      "isin": "FR001400U5Q4",
+      "marche": "L'économie mondiale cotée. Amundi le rend éligible au PEA grâce à un contrat d'échange (swap) : il détient des actions européennes et échange leur performance contre celle du MSCI World. Frais : 0,20 % par an, part autour de 6 €.",
+      "nom": "Amundi PEA Monde (MSCI World)",
+      "pea": true,
+      "potentiel": "Profite de la croissance de toutes les grandes entreprises mondiales sans avoir à choisir. Historiquement, l'indice s'est toujours rattrapé sur 10 à 15 ans après les crises.",
+      "rendezvous": [],
+      "risque": "Socle",
+      "risques": "Baisse en même temps que tout le marché lors d'une crise (souvent 20 à 30 %). Exposé au dollar et fortement aux États-Unis.",
+      "secteur": "Monde",
+      "ticker": "DCAM",
+      "type": "ETF",
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 6.366
+        },
+        {
+          "d": "2026-10-08",
+          "p": 6.355
+        },
+        {
+          "d": "2026-10-09",
+          "p": 6.389
+        },
+        {
+          "d": "2026-10-26",
+          "p": 6.329
+        },
+        {
+          "d": "2026-11-04",
+          "p": 6.333
+        },
+        {
+          "d": "2026-11-05",
+          "p": 6.284
+        },
+        {
+          "d": "2026-11-06",
+          "p": 6.177
+        }
+      ],
+      "prix": 6.177,
+      "prixDate": "2026-11-06",
+      "variationJour": -0.29
+    },
+    {
+      "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
+      "actus": [
+        {
+          "date": "2026-11-06",
+          "titre": "Le Nasdaq-100 finit en hausse d'environ 1,4 % vendredi (ETF QQQ), mais la semaine reste nettement négative pour la tech américaine",
+          "url": "https://www.xtb.com/fr/analyses-marches/resume-quotidien-wall-street-rebondit-apres-la-vague-de-ventes-le-dollar-americain-se-raffermit-grace-a-des-chiffres-solides-de-l-emploi-non-agricole-nfp-tandis-que-les-cours-du-petrole-reculent"
+        },
+        {
+          "date": "2026-11-06",
+          "titre": "Le Nasdaq rebondit d'environ 1,5 % après sa chute de 5,5 % de jeudi, porté par AMD, malgré un emploi américain qui relance les paris sur une hausse des taux",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-americain-solides-et-un-sursaut-du-nasdaq-le-cac-40-recule-1173355.html"
+        },
+        {
+          "date": "2026-11-05",
+          "titre": "Le Nasdaq plonge d'environ 5 % en séance et entre en correction, à plus de 10 % sous son record d'octobre",
+          "url": "https://www.france-epargne.fr/news/le-nasdaq-plonge-dans-la-correction-le-cac-40-tient-au-dessus-de-8-200-points"
+        },
+        {
+          "date": "2026-10-26",
+          "titre": "Wall Street rebondit d'environ 1 % lundi, portée par les valeurs de l'IA après le dépôt du dossier d'introduction en bourse d'Anthropic, attendue sur le Nasdaq en novembre",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-apprete-a-connaitre-sa-meilleure-journee-depuis-un-mois-l-annonce-de-l-introduction-en-bourse-d-anthropic-ayant-stimule-les-valeurs-liees-a-l-ia-1089d8f98fea96709b733fc2eebb4f0d"
+        },
+        {
+          "date": "2026-10-16",
+          "titre": "Le Nasdaq décroche d'environ 2 % en séance vendredi, entraîné par les valeurs liées à l'IA et les inquiétudes sur leur endettement",
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
+        },
+        {
+          "date": "2026-10-12",
+          "titre": "Le Nasdaq-100 recule d'environ 0,5 à 0,8 % en séance lundi, pénalisé par les valeurs d'infrastructure IA et les semi-conducteurs",
+          "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
+        }
+      ],
+      "isin": "FR001400ZGR7",
+      "marche": "La tech américaine, au cœur de l'intelligence artificielle. Les 10 premières lignes pèsent environ la moitié de l'ETF. Frais : 0,30 % par an.",
+      "nom": "Amundi PEA Nasdaq-100 (part à petit prix)",
+      "pea": true,
+      "potentiel": "Capte la croissance des géants de l'IA et du cloud. C'est un satellite de croissance à côté du socle MSCI World.",
+      "rendezvous": [],
+      "risque": "Modéré",
+      "risques": "Très sensible aux hausses de taux (le contexte actuel avec la BCE et la Fed) et concentré sur un pays et un secteur. Le Nasdaq-100 a perdu près de 33 % en 2022.",
+      "secteur": "Tech US",
+      "ticker": "PNAS",
+      "type": "ETF",
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 7.272
+        },
+        {
+          "d": "2026-10-08",
+          "p": 7.293
+        },
+        {
+          "d": "2026-10-09",
+          "p": 7.243
+        },
+        {
+          "d": "2026-10-23",
+          "p": 6.843
+        },
+        {
+          "d": "2026-11-04",
+          "p": 6.743
+        },
+        {
+          "d": "2026-11-05",
+          "p": 6.488
+        },
+        {
+          "d": "2026-11-06",
+          "p": 6.421
+        }
+      ],
+      "prix": 6.421,
+      "prixDate": "2026-11-06",
+      "variationJour": -0.68
+    },
+    {
+      "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
+      "actus": [],
+      "isin": "IE0002XZSHO1",
+      "marche": "L'économie mondiale cotée. Frais : 0,20 % par an, part autour de 7 €. Le choisir permet de ne pas tout mettre chez le même gestionnaire si tu as déjà des ETF Amundi.",
+      "nom": "iShares MSCI World Swap PEA",
+      "pea": true,
+      "potentiel": "Identique à DCAM : la croissance de long terme des grandes entreprises mondiales, avec une diversification maximale.",
+      "rendezvous": [],
+      "risque": "Socle",
+      "risques": "Baisse avec l'ensemble des marchés en cas de crise, forte part des États-Unis et du dollar.",
+      "secteur": "Monde",
+      "ticker": "WPEA",
+      "type": "ETF",
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 7.189
+        },
+        {
+          "d": "2026-10-08",
+          "p": 7.18
+        },
+        {
+          "d": "2026-10-09",
+          "p": 7.215
+        },
+        {
+          "d": "2026-11-04",
+          "p": 7.158
+        },
+        {
+          "d": "2026-11-06",
+          "p": 6.977
+        }
+      ],
+      "prix": 6.977,
+      "prixDate": "2026-11-06",
+      "variationJour": -0.39
+    },
+    {
+      "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
+      "actus": [
+        {
+          "date": "2026-11-06",
+          "titre": "Lam Research annonce un rachat d'actions de 25 milliards de dollars et gagne environ 8 % : les équipementiers et fabricants de puces rebondissent après la chute de jeudi",
+          "url": "https://www.xtb.com/fr/analyses-marches/resume-quotidien-wall-street-rebondit-apres-la-vague-de-ventes-le-dollar-americain-se-raffermit-grace-a-des-chiffres-solides-de-l-emploi-non-agricole-nfp-tandis-que-les-cours-du-petrole-reculent"
+        },
+        {
+          "date": "2026-11-06",
+          "titre": "STMicroelectronics reprend 1,54 % à 37,64 € avec le rebond des puces, mais reste sous son niveau de sortie de 38,61 €",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque-65c78769cd39da733b365d299b55d622"
+        },
+        {
+          "date": "2026-11-05",
+          "titre": "STMicroelectronics perd 9,33 % à 37,09 € et clôture sous son niveau de sortie de 38,61 €, avec tout le secteur des puces",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-ae5fec63ab8cc4466762250a0232725a"
+        },
+        {
+          "date": "2026-11-04",
+          "titre": "Les puces européennes décrochent après la victoire démocrate : le marché craint des limites aux centres de données",
+          "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+        },
+        {
+          "date": "2026-10-30",
+          "titre": "STMicroelectronics recule d'environ 5,3 % à 41,88 € dans une chute générale des semi-conducteurs, après les résultats décevants d'Intel et d'Amazon aux États-Unis",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026"
+        },
+        {
+          "date": "2026-10-29",
+          "titre": "STMicroelectronics publie un chiffre d'affaires de 3,76 milliards de dollars au 3e trimestre et prévoit environ 4,15 milliards pour le 4e",
+          "url": "https://www.globenewswire.com/news-release/2026/10/29/3390920/0/fr/stmicroelectronics-annonce-ses-r%C3%A9sultats-financiers-du-troisi%C3%A8me-trimestre-2026.html"
+        }
+      ],
+      "isin": "NL0000226223",
+      "marche": "L'automobile est son premier marché (de l'ordre de 40 % des ventes), puis l'industrie, l'électronique grand public (Apple) et les télécoms. Nouveau relais : les data centers IA.",
+      "nom": "STMicroelectronics",
+      "pea": true,
+      "potentiel": "Revenus data centers IA visés au-dessus de 1 milliard de dollars en 2026 et bien au-dessus de 2 milliards en 2027, dont environ 80 % viendront des puces de liaisons par fibre optique. Le cycle des semi-conducteurs repart (stocks des distributeurs bas) et la direction vise une marge brute de 44 à 46 %.",
+      "rendezvous": [
+        {
+          "date": "2026-11-10",
+          "titre": "Infineon publie ses résultats annuels : test pour les puces européennes"
+        }
+      ],
+      "risque": "Élevé",
+      "risques": "Dépendance à l'automobile. Le 23 juillet 2026, l'action a chuté de 15 % malgré de bons résultats car la prévision était légèrement sous les attentes : ce sont les prévisions qui font le cours. Sensible aux annonces sur l'IA (-6,6 % le 14 septembre).",
+      "secteur": "Semi-conducteurs",
+      "ticker": "STMPA",
+      "type": "Action",
+      "historique": [
+        {
+          "d": "2026-10-05",
+          "p": 50.87
+        },
+        {
+          "d": "2026-10-08",
+          "p": 47.985
+        },
+        {
+          "d": "2026-10-09",
+          "p": 46.55
+        },
+        {
+          "d": "2026-10-12",
+          "p": 45.565
+        },
+        {
+          "d": "2026-10-13",
+          "p": 44.24
+        },
+        {
+          "d": "2026-10-14",
+          "p": 45.04
+        },
+        {
+          "d": "2026-10-15",
+          "p": 41.32
+        },
+        {
+          "d": "2026-10-22",
+          "p": 39.96
+        },
+        {
+          "d": "2026-10-23",
+          "p": 39.47
+        },
+        {
+          "d": "2026-10-26",
+          "p": 40.5
+        },
+        {
+          "d": "2026-10-27",
+          "p": 43.36
+        },
+        {
+          "d": "2026-10-30",
+          "p": 41.88
+        },
+        {
+          "d": "2026-11-04",
+          "p": 40.885
+        },
+        {
+          "d": "2026-11-05",
+          "p": 37.09
+        },
+        {
+          "d": "2026-11-06",
+          "p": 37.635
+        }
+      ],
+      "prix": 37.635,
+      "prixDate": "2026-11-06",
+      "variationJour": 1.54
+    },
+    {
+      "isin": "NL00150001Q9",
+      "nom": "Stellantis",
+      "ticker": "STLAP",
+      "type": "Action",
+      "risque": "Très élevé",
+      "secteur": "Automobile",
+      "pea": true,
+      "activite": "Constructeur automobile né de la fusion de PSA et Fiat Chrysler, avec des marques comme Peugeot, Citroën, Fiat, Jeep et Ram. Le groupe vend surtout en Europe et en Amérique du Nord.",
+      "marche": "L'automobile subit une demande prudente, une transition électrique coûteuse et la concurrence chinoise. Le marché américain pèse lourd dans les profits du groupe.",
+      "potentiel": "Le potentiel repose sur un redressement des ventes et des marges aux États-Unis, après une très forte baisse du titre en 2026. Une part vaut environ 4 €, ce qui la rend accessible.",
+      "risques": "Le titre reste en tendance baissière et très loin de sa moyenne 200 jours. Un nouveau recul des ventes, des dépréciations ou des droits de douane pèseraient encore. Un cours bas ne suffit jamais à faire une bonne affaire.",
+      "rendezvous": [],
+      "actus": [
+        {
+          "date": "2026-11-06",
+          "titre": "Stellantis regagne 1,39 % à 4,02 €, juste sous ton prix d'achat de 4,04 € ; le groupe a nommé un nouveau patron pour l'Amérique du Nord",
+          "url": "https://www.abcbourse.com/cotation/STLAPp"
+        },
+        {
+          "date": "2026-11-05",
+          "titre": "Stellantis recule de 4,68 % dans une séance sans nouvelle propre à la société trouvée",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html"
+        }
+      ],
+      "prix": 4.019,
+      "prixDate": "2026-11-06",
+      "variationJour": 1.39,
+      "historique": [
+        {
+          "d": "2026-11-04",
+          "p": 4.1585
+        },
+        {
+          "d": "2026-11-05",
+          "p": 3.964
+        },
+        {
+          "d": "2026-11-06",
+          "p": 4.019
+        }
+      ]
+    },
+    {
+      "isin": "FR0013380607",
+      "nom": "Core CAC 40 Sur",
+      "ticker": "CACC",
+      "type": "ETF",
+      "risque": "Modéré",
+      "secteur": "Actions françaises",
+      "pea": true,
+      "activite": "ETF qui réplique l'indice CAC 40, soit les 40 grandes valeurs de la Bourse de Paris, en une seule ligne.",
+      "marche": "Le CAC 40 est très exposé au luxe, à l'industrie, aux banques et à l'énergie, et peu à la tech américaine, ce qui explique sa résistance actuelle.",
+      "potentiel": "Il suit l'évolution des grandes entreprises françaises, dont beaucoup réalisent leurs ventes à l'international. Il complète un ETF Monde sans s'y substituer.",
+      "risques": "Il dépend d'un seul pays et de quelques secteurs, avec un poids important du luxe. Il recoupe en partie l'ETF Monde pour ce qui concerne les grandes valeurs françaises.",
+      "rendezvous": [],
+      "actus": [],
+      "prix": 41.39,
+      "prixDate": "2026-11-06",
+      "variationJour": -0.97,
+      "historique": [
+        {
+          "d": "2026-11-04",
+          "p": 41.69
+        },
+        {
+          "d": "2026-11-05",
+          "p": 41.975
+        },
+        {
+          "d": "2026-11-06",
+          "p": 41.39
+        }
+      ]
     }
-   ],
-   "prix": 5.95,
-   "prixDate": "2026-11-06",
-   "variationJour": 5.87
-  },
-  {
-   "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
-   "actus": [
+  ],
+  "agenda": [
     {
-     "date": "2026-10-05",
-     "titre": "Air Liquide dévoile son plan BEYOND 2026-2030 : croissance des ventes d'environ 5 % par an, bénéfice par action visé à +10 % par an et premier rachat d'actions de son histoire (4 milliards d'euros sur 2027-2028)",
-     "url": "https://www.boursorama.com/bourse/actualites/air-liquide-lance-son-plan-strategique-et-un-rachat-d-actions-historique-463c17e46553ce90c4d2915ac193a157"
+      "id": "us-midterms-2026",
+      "date": "2026-11-03",
+      "titre": "États-Unis : élections de mi-mandat",
+      "detail": "Échéance politique citée par Donald Trump dans le dossier iranien ; elle peut alimenter la volatilité des marchés"
+    },
+    {
+      "id": "ez-flash-hicp-2026-10",
+      "date": "2026-11-04",
+      "titre": "Zone euro : estimation rapide de l'inflation d'octobre",
+      "detail": "Date indiquée par Eurostat ; l'inflation était de 3,8 % en septembre, tirée par l'énergie"
+    },
+    {
+      "id": "us-jobs-2026-10",
+      "date": "2026-11-06",
+      "titre": "États-Unis : rapport sur l'emploi d'octobre",
+      "detail": "Publié : +165 000 postes contre environ 60 000 attendus, chômage à 4,1 %. Le chiffre renforce les paris sur une hausse des taux de la Fed en décembre"
+    },
+    {
+      "id": "ifx-q4-2026",
+      "date": "2026-11-10",
+      "titre": "Infineon : résultats du 4e trimestre",
+      "detail": "Publication attendue à 8h00 selon l'agenda de l'AFP : un test pour les semi-conducteurs européens, dont STMicroelectronics"
+    },
+    {
+      "id": "us-cpi-2026-10",
+      "date": "2026-11-10",
+      "titre": "États-Unis : inflation d'octobre (CPI)",
+      "detail": "Publication mardi à 14h30 heure de Paris, confirmée par les calendriers de la semaine. Après un emploi très fort, un chiffre élevé renforcerait les paris sur une hausse des taux de la Fed les 8 et 9 décembre"
+    },
+    {
+      "id": "opec-momr-2026-11",
+      "date": "2026-11-11",
+      "titre": "OPEP : rapport mensuel sur le pétrole",
+      "detail": "Repère pour le Brent après sa plus forte baisse hebdomadaire depuis 2020, sur l'espoir d'un accord entre les États-Unis et l'Iran"
+    },
+    {
+      "id": "us-ppi-2026-10",
+      "date": "2026-11-13",
+      "titre": "États-Unis : prix à la production d'octobre",
+      "detail": "Date indicative d'un calendrier privé, à confirmer auprès du BLS"
+    },
+    {
+      "id": "us-retail-2026-10",
+      "date": "2026-11-17",
+      "titre": "États-Unis : ventes au détail d'octobre",
+      "detail": "Date indicative d'un calendrier privé, à confirmer"
+    },
+    {
+      "id": "soitec-s1-2026",
+      "date": "2026-11-18",
+      "titre": "Soitec : résultats du 1er semestre",
+      "detail": "Date indiquée par les agendas boursiers, à confirmer par la société"
+    },
+    {
+      "id": "fomc-minutes-2026-10",
+      "date": "2026-11-18",
+      "titre": "Fed : compte rendu de la réunion d'octobre",
+      "detail": "Publication à 20h00 heure de Paris, date indicative. À lire pour le débat sur une hausse des taux"
+    },
+    {
+      "id": "ez-flash-hicp-2026-11",
+      "date": "2026-12-01",
+      "titre": "Zone euro : estimation rapide de l'inflation de novembre",
+      "detail": "Après 4,0 % en octobre, dernier grand chiffre avant la décision de la BCE du 17 décembre"
+    },
+    {
+      "id": "us-jobs-2026-11",
+      "date": "2026-12-04",
+      "titre": "États-Unis : rapport sur l'emploi de novembre",
+      "detail": "Dernier rapport sur l'emploi avant la réunion de la Fed des 8 et 9 décembre"
     }
-   ],
-   "isin": "FR0000120073",
-   "marche": "Un oligopole mondial (avec Linde, Air Products, Messer) qui fournit l'industrie, la santé et l'électronique.",
-   "nom": "Air Liquide",
-   "pea": true,
-   "potentiel": "La façon la plus sûre de s'exposer à l'hydrogène dans un PEA. Le plan BEYOND présenté le 5 octobre 2026 vise environ 5 % de croissance des ventes par an et 10 % de hausse du bénéfice par action jusqu'en 2030, avec un premier rachat d'actions de 4 milliards d'euros en 2027-2028.",
-   "rendezvous": [],
-   "risque": "Modéré",
-   "risques": "Croissance plus lente qu'un pari pur. Le secteur hydrogène reste difficile en Bourse et ses spécialistes sont souvent déficitaires.",
-   "secteur": "Gaz industriels · hydrogène",
-   "ticker": "AI",
-   "type": "Action",
-   "historique": [
+  ],
+  "historique": [
     {
-     "d": "2026-10-05",
-     "p": 170.76
+      "d": "2026-10-05",
+      "valeur": 399.96,
+      "investi": 399.2
     },
     {
-     "d": "2026-10-08",
-     "p": 167.94
+      "d": "2026-10-08",
+      "valeur": 394.35,
+      "investi": 399.2
     },
     {
-     "d": "2026-10-09",
-     "p": 169.68
+      "d": "2026-10-09",
+      "valeur": 392.3,
+      "investi": 399.2
     },
     {
-     "d": "2026-11-04",
-     "p": 187.36
+      "d": "2026-10-11",
+      "valeur": 391.3,
+      "investi": 399.2
     },
     {
-     "d": "2026-11-05",
-     "p": 190.36
+      "d": "2026-10-12",
+      "valeur": 389.33,
+      "investi": 399.2
     },
     {
-     "d": "2026-11-06",
-     "p": 187.04
+      "d": "2026-10-13",
+      "valeur": 386.68,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-14",
+      "valeur": 388.28,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-15",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-16",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-17",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-18",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-19",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-20",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-21",
+      "valeur": 380.84,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-22",
+      "valeur": 378.12,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-23",
+      "valeur": 377.14,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-25",
+      "valeur": 377.14,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-26",
+      "valeur": 369.76,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-27",
+      "valeur": 375.48,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-28",
+      "valeur": 375.48,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-29",
+      "valeur": 375.48,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-30",
+      "valeur": 372.52,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-10-31",
+      "valeur": 372.52,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-11-01",
+      "valeur": 372.52,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-11-02",
+      "valeur": 372.52,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-11-03",
+      "valeur": 372.52,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-11-04",
+      "valeur": 368.62,
+      "investi": 399.2
+    },
+    {
+      "d": "2026-11-05",
+      "valeur": 764.55,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-06",
+      "valeur": 757.52,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-07",
+      "valeur": 757.52,
+      "investi": 799.28
     }
-   ],
-   "prix": 187.04,
-   "prixDate": "2026-11-06",
-   "variationJour": -1.41
-  },
-  {
-   "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
-   "actus": [
-    {
-     "date": "2026-11-06",
-     "titre": "La défense européenne reste vendue après la victoire démocrate aux États-Unis, qui fait craindre une baisse des dépenses militaires américaines",
-     "url": "https://rekto.substack.com/p/vendredi-6-novembre-2026"
-    },
-    {
-     "date": "2026-11-05",
-     "titre": "La défense européenne recule : Rheinmetall perd environ 16 % après une nouvelle baisse de son objectif de ventes 2026",
-     "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-at-6-219-70-down-1-58-prozent/70466022"
-    },
-    {
-     "date": "2026-11-04",
-     "titre": "Thales casse le support des 228 € alors que la défense recule après le scrutin américain",
-     "url": "https://www.abcbourse.com/marches/thales-cassure-du-support-des-228-euros-le-titre-glisse-vers-la-zone-des-223_705577"
-    },
-    {
-     "date": "2026-10-21",
-     "titre": "La DGA commande quatre sections supplémentaires du système sol-air SAMP/T NG à Eurosam (Thales et MBDA), ce qui porte à douze les sections prévues pour l'armée de l'Air et de l'Espace",
-     "url": "https://www.boursorama.com/bourse/actualites/thales-gagne-1-apres-une-commande-de-la-dga-b74ef595a880deeadebb225e1794d280"
-    },
-    {
-     "date": "2026-10-19",
-     "titre": "Thales recule de près de 2 % à 229,5 € la veille de ses commandes du troisième trimestre",
-     "url": "https://www.abcbourse.com/cotation/HOp"
-    },
-    {
-     "date": "2026-10-03",
-     "titre": "L'Irlande commande des radars Ground Master à Thales via un accord d'État à État signé avec la DGA, livraisons de 2027 à fin 2028",
-     "url": "https://media24.fr/2026/10/03/la-france-joue-les-intermediaires-pour-vendre-ce-bijou-capable-de-detecter-un-avion-a-515-km-a-un-pays-theoriquement-neutre-lirlande"
-    }
-   ],
-   "isin": "FR0000121329",
-   "marche": "Le réarmement européen : Berlin prévoit environ 150 milliards de dollars de dépenses de défense en 2026 (+30 %), et les achats d'équipements militaires européens pourraient croître de 16 % par an jusqu'en 2030.",
-   "nom": "Thales",
-   "pea": true,
-   "potentiel": "Commandes défense en hausse de 75 % au premier trimestre 2026, contrat-cadre avec Rheinmetall pour des systèmes de vision, rachat d'Exail (drones sous-marins).",
-   "rendezvous": [],
-   "risque": "Élevé",
-   "risques": "Le secteur corrige (ETF défense européenne près de -10 % en un mois) car les États sous pression budgétaire peuvent reporter des commandes. Cours multiplié par 3,1 en quatre ans : beaucoup de bonnes nouvelles déjà dans le prix. Part autour de 238 €.",
-   "secteur": "Défense · technologies",
-   "ticker": "HO",
-   "type": "Action",
-   "historique": [
-    {
-     "d": "2026-10-05",
-     "p": 226.8
-    },
-    {
-     "d": "2026-10-07",
-     "p": 216.4
-    },
-    {
-     "d": "2026-10-09",
-     "p": 218.3
-    },
-    {
-     "d": "2026-10-19",
-     "p": 229.5
-    },
-    {
-     "d": "2026-11-04",
-     "p": 227.5
-    },
-    {
-     "d": "2026-11-05",
-     "p": 225.0
-    },
-    {
-     "d": "2026-11-06",
-     "p": 220.8
-    }
-   ],
-   "prix": 220.8,
-   "prixDate": "2026-11-06",
-   "variationJour": -1.69
-  },
-  {
-   "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
-   "actus": [],
-   "isin": "FR0004125920",
-   "marche": "Encours proches de 2 600 milliards d'euros fin juin 2026, plateforme ETF au-delà de 400 milliards. Logique des pelles et pioches : il gagne quand les épargnants investissent en ETF.",
-   "nom": "Amundi",
-   "pea": true,
-   "potentiel": "Meilleur semestre de son histoire au S1 2026 avec 56,4 milliards d'euros collectés. Dividende 2025 de 4,25 € par action, soit environ 5,5 % de rendement.",
-   "rendezvous": [
-    {
-     "date": "2027-02-02",
-     "titre": "Résultats annuels 2026"
-    }
-   ],
-   "risque": "Modéré",
-   "risques": "Ses revenus baissent quand les marchés chutent, en même temps que tes ETF. Guerre des prix sur les ETF face à BlackRock et Vanguard.",
-   "secteur": "Gestion d'actifs",
-   "ticker": "AMUN",
-   "type": "Action",
-   "historique": [
-    {
-     "d": "2026-10-05",
-     "p": 88.7
-    },
-    {
-     "d": "2026-10-08",
-     "p": 86.75
-    },
-    {
-     "d": "2026-10-09",
-     "p": 88.25
-    },
-    {
-     "d": "2026-11-04",
-     "p": 94.5
-    },
-    {
-     "d": "2026-11-05",
-     "p": 95.15
-    },
-    {
-     "d": "2026-11-06",
-     "p": 93.3
-    }
-   ],
-   "prix": 93.3,
-   "prixDate": "2026-11-06",
-   "variationJour": -1.01
-  },
-  {
-   "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
-   "actus": [
-    {
-     "date": "2026-11-06",
-     "titre": "Le Nasdaq rebondit d'environ 1,5 % après sa chute de 5,5 % de jeudi, porté par AMD, malgré un emploi américain qui relance les paris sur une hausse des taux",
-     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-americain-solides-et-un-sursaut-du-nasdaq-le-cac-40-recule-1173355.html"
-    },
-    {
-     "date": "2026-11-05",
-     "titre": "Le Nasdaq plonge d'environ 5 % en séance et entre en correction, à plus de 10 % sous son record d'octobre",
-     "url": "https://www.france-epargne.fr/news/le-nasdaq-plonge-dans-la-correction-le-cac-40-tient-au-dessus-de-8-200-points"
-    },
-    {
-     "date": "2026-10-26",
-     "titre": "Wall Street rebondit d'environ 1 % lundi, portée par les valeurs de l'IA après le dépôt du dossier d'introduction en bourse d'Anthropic, attendue sur le Nasdaq en novembre",
-     "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-apprete-a-connaitre-sa-meilleure-journee-depuis-un-mois-l-annonce-de-l-introduction-en-bourse-d-anthropic-ayant-stimule-les-valeurs-liees-a-l-ia-1089d8f98fea96709b733fc2eebb4f0d"
-    },
-    {
-     "date": "2026-10-16",
-     "titre": "Le Nasdaq décroche d'environ 2 % en séance vendredi, entraîné par les valeurs liées à l'IA et les inquiétudes sur leur endettement",
-     "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
-    },
-    {
-     "date": "2026-10-12",
-     "titre": "Le Nasdaq-100 recule d'environ 0,5 à 0,8 % en séance lundi, pénalisé par les valeurs d'infrastructure IA et les semi-conducteurs",
-     "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
-    },
-    {
-     "date": "2026-10-08",
-     "titre": "Le Nasdaq recule d'environ 1,2 % : les géants de la tech et des puces pénalisés par des doutes sur les revenus d'OpenAI",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
-    }
-   ],
-   "isin": "FR0011871110",
-   "marche": "Les 100 plus grandes valeurs non financières du Nasdaq, dominées par la tech et l'IA.",
-   "nom": "Amundi PEA Nasdaq-100",
-   "pea": true,
-   "potentiel": "Croissance des géants technologiques américains sur le long terme.",
-   "rendezvous": [],
-   "risque": "Modéré",
-   "risques": "Concentration sur la tech US, sensibilité aux taux d'intérêt, corrections fortes possibles.",
-   "secteur": "Tech US",
-   "ticker": "PUST",
-   "type": "ETF",
-   "historique": [
-    {
-     "d": "2026-10-05",
-     "p": 110.86
-    },
-    {
-     "d": "2026-10-08",
-     "p": 111.06
-    },
-    {
-     "d": "2026-10-09",
-     "p": 110.44
-    },
-    {
-     "d": "2026-11-04",
-     "p": 101.78
-    },
-    {
-     "d": "2026-11-05",
-     "p": 98.87
-    },
-    {
-     "d": "2026-11-06",
-     "p": 97.61
-    }
-   ],
-   "prix": 97.61,
-   "prixDate": "2026-11-06",
-   "variationJour": 0.45
-  },
-  {
-   "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
-   "actus": [
-    {
-     "date": "2026-11-06",
-     "titre": "Soitec rebondit d'environ 3 % vers 94 € après une chute de plus de 26 % en deux séances",
-     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque-65c78769cd39da733b365d299b55d622"
-    },
-    {
-     "date": "2026-11-05",
-     "titre": "Soitec chute de 16,73 % à 91,64 € sur la crainte d'une réglementation plus stricte des centres de données américains",
-     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-ae5fec63ab8cc4466762250a0232725a"
-    },
-    {
-     "date": "2026-11-04",
-     "titre": "Morgan Stanley abaisse Soitec à pondération en ligne, objectif ramené à 140 €, le titre chute de près de 12 %",
-     "url": "https://www.abcbourse.com/marches/soitec-degrade-a-ponderation-en-ligne-par-morgan-stanley_705602"
-    },
-    {
-     "date": "2026-11-04",
-     "titre": "UBS relève Soitec à conserver",
-     "url": "https://www.abcbourse.com/marches/soitec-releve-a-conserver-par-ubs_705587"
-    },
-    {
-     "date": "2026-10-30",
-     "titre": "Soitec chute lourdement dans le sillage des semi-conducteurs, plombés par les doutes sur la rentabilité des dépenses en IA (cours de clôture non confirmé)",
-     "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026"
-    },
-    {
-     "date": "2026-10-26",
-     "titre": "Soitec rebondit d'environ 5 % à 117,30 € après deux séances de baisse, dans un marché des puces plus détendu",
-     "url": "https://www.boursorama.com/cours/1rPSOI/"
-    }
-   ],
-   "isin": "FR0013227113",
-   "marche": "Trois marchés : les smartphones (RF-SOI, en difficulté à cause du surstock des clients), l'automobile (faible) et surtout l'Edge & Cloud AI avec le Photonics-SOI, utilisé dans les data centers pour transporter les données par la lumière.",
-   "nom": "Soitec",
-   "pea": true,
-   "potentiel": "Début septembre 2026, Soitec a relevé sa prévision de croissance trimestrielle à environ 50 % et vise des ventes Photonics-SOI multipliées par 2,5 à 3 sur l'exercice, avec des contrats pluriannuels de réservation de capacités.",
-   "rendezvous": [
-    {
-     "date": "2026-11-18",
-     "titre": "Résultats du premier semestre (date indiquée par les agendas boursiers, à confirmer par Soitec)"
-    }
-   ],
-   "risque": "Très élevé",
-   "risques": "Encore en perte (220 millions d'euros sur le dernier exercice). Volatilité extrême : chute d'environ 73 % en 2025, puis cours multiplié par près de 4 au printemps 2026, puis -27 % en un mois en août. Le mobile et l'auto freinent encore.",
-   "secteur": "Semi-conducteurs",
-   "ticker": "SOI",
-   "type": "Action",
-   "historique": [
-    {
-     "d": "2026-10-05",
-     "p": 167.45
-    },
-    {
-     "d": "2026-10-08",
-     "p": 152.4
-    },
-    {
-     "d": "2026-10-09",
-     "p": 159.95
-    },
-    {
-     "d": "2026-10-12",
-     "p": 153.85
-    },
-    {
-     "d": "2026-10-13",
-     "p": 148.16
-    },
-    {
-     "d": "2026-10-14",
-     "p": 154.97
-    },
-    {
-     "d": "2026-10-15",
-     "p": 129.85
-    },
-    {
-     "d": "2026-10-20",
-     "p": 123.65
-    },
-    {
-     "d": "2026-10-22",
-     "p": 114.7
-    },
-    {
-     "d": "2026-10-23",
-     "p": 111.65
-    },
-    {
-     "d": "2026-10-26",
-     "p": 117.3
-    },
-    {
-     "d": "2026-10-27",
-     "p": 121.95
-    },
-    {
-     "d": "2026-11-04",
-     "p": 110.05
-    },
-    {
-     "d": "2026-11-05",
-     "p": 91.64
-    },
-    {
-     "d": "2026-11-06",
-     "p": 94.34
-    }
-   ],
-   "prix": 94.34,
-   "prixDate": "2026-11-06",
-   "variationJour": 2.95
-  },
-  {
-   "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
-   "actus": [
-    {
-     "date": "2026-10-08",
-     "titre": "Le Bitcoin retombe vers 82 000 dollars, freiné par la hausse des taux et un dollar fort",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
-    },
-    {
-     "date": "2026-10-05",
-     "titre": "Le Bitcoin repasse au-dessus de 86 000 dollars après un rapport sur l'emploi américain décevant qui éloigne une hausse des taux de la Fed",
-     "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-october-5-2026-bitcoin-back-above-86000-after-higher-rate-expectations-fade-114459647.html"
-    }
-   ],
-   "isin": "FR0014002IH8",
-   "marche": "L'écosystème du Bitcoin coté en Bourse. Part autour de 15 € en juillet 2026.",
-   "nom": "Melanion Bitcoin Equities",
-   "pea": true,
-   "potentiel": "Profite d'une hausse du Bitcoin, souvent amplifiée par les mineurs.",
-   "rendezvous": [],
-   "risque": "Très élevé",
-   "risques": "Volatilité extrême (séances à -9 % ou +8 %). Ne suit pas mécaniquement le cours du Bitcoin.",
-   "secteur": "Crypto",
-   "ticker": "BTC",
-   "type": "ETF",
-   "historique": [
-    {
-     "d": "2026-10-05",
-     "p": 16.795
-    },
-    {
-     "d": "2026-10-08",
-     "p": 15.577
-    },
-    {
-     "d": "2026-11-04",
-     "p": 12.355
-    }
-   ],
-   "prix": 12.355,
-   "prixDate": "2026-11-04",
-   "variationJour": -0.44
-  },
-  {
-   "activite": "Un seul produit qui achète environ 1 400 grandes entreprises de 23 pays développés, pondérées selon leur taille. Les États-Unis pèsent environ 70 % et la tech environ 25 %.",
-   "actus": [],
-   "isin": "FR001400U5Q4",
-   "marche": "L'économie mondiale cotée. Amundi le rend éligible au PEA grâce à un contrat d'échange (swap) : il détient des actions européennes et échange leur performance contre celle du MSCI World. Frais : 0,20 % par an, part autour de 6 €.",
-   "nom": "Amundi PEA Monde (MSCI World)",
-   "pea": true,
-   "potentiel": "Profite de la croissance de toutes les grandes entreprises mondiales sans avoir à choisir. Historiquement, l'indice s'est toujours rattrapé sur 10 à 15 ans après les crises.",
-   "rendezvous": [],
-   "risque": "Socle",
-   "risques": "Baisse en même temps que tout le marché lors d'une crise (souvent 20 à 30 %). Exposé au dollar et fortement aux États-Unis.",
-   "secteur": "Monde",
-   "ticker": "DCAM",
-   "type": "ETF",
-   "historique": [
-    {
-     "d": "2026-10-05",
-     "p": 6.366
-    },
-    {
-     "d": "2026-10-08",
-     "p": 6.355
-    },
-    {
-     "d": "2026-10-09",
-     "p": 6.389
-    },
-    {
-     "d": "2026-10-26",
-     "p": 6.329
-    },
-    {
-     "d": "2026-11-04",
-     "p": 6.333
-    },
-    {
-     "d": "2026-11-05",
-     "p": 6.284
-    },
-    {
-     "d": "2026-11-06",
-     "p": 6.134
-    }
-   ],
-   "prix": 6.134,
-   "prixDate": "2026-11-06",
-   "variationJour": -0.98
-  },
-  {
-   "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
-   "actus": [
-    {
-     "date": "2026-11-06",
-     "titre": "Le Nasdaq rebondit d'environ 1,5 % après sa chute de 5,5 % de jeudi, porté par AMD, malgré un emploi américain qui relance les paris sur une hausse des taux",
-     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-americain-solides-et-un-sursaut-du-nasdaq-le-cac-40-recule-1173355.html"
-    },
-    {
-     "date": "2026-11-05",
-     "titre": "Le Nasdaq plonge d'environ 5 % en séance et entre en correction, à plus de 10 % sous son record d'octobre",
-     "url": "https://www.france-epargne.fr/news/le-nasdaq-plonge-dans-la-correction-le-cac-40-tient-au-dessus-de-8-200-points"
-    },
-    {
-     "date": "2026-10-26",
-     "titre": "Wall Street rebondit d'environ 1 % lundi, portée par les valeurs de l'IA après le dépôt du dossier d'introduction en bourse d'Anthropic, attendue sur le Nasdaq en novembre",
-     "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-apprete-a-connaitre-sa-meilleure-journee-depuis-un-mois-l-annonce-de-l-introduction-en-bourse-d-anthropic-ayant-stimule-les-valeurs-liees-a-l-ia-1089d8f98fea96709b733fc2eebb4f0d"
-    },
-    {
-     "date": "2026-10-16",
-     "titre": "Le Nasdaq décroche d'environ 2 % en séance vendredi, entraîné par les valeurs liées à l'IA et les inquiétudes sur leur endettement",
-     "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
-    },
-    {
-     "date": "2026-10-12",
-     "titre": "Le Nasdaq-100 recule d'environ 0,5 à 0,8 % en séance lundi, pénalisé par les valeurs d'infrastructure IA et les semi-conducteurs",
-     "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
-    },
-    {
-     "date": "2026-10-08",
-     "titre": "Le Nasdaq recule d'environ 1,2 % : les géants de la tech et des puces pénalisés par des doutes sur les revenus d'OpenAI",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
-    }
-   ],
-   "isin": "FR001400ZGR7",
-   "marche": "La tech américaine, au cœur de l'intelligence artificielle. Les 10 premières lignes pèsent environ la moitié de l'ETF. Frais : 0,30 % par an.",
-   "nom": "Amundi PEA Nasdaq-100 (part à petit prix)",
-   "pea": true,
-   "potentiel": "Capte la croissance des géants de l'IA et du cloud. C'est un satellite de croissance à côté du socle MSCI World.",
-   "rendezvous": [],
-   "risque": "Modéré",
-   "risques": "Très sensible aux hausses de taux (le contexte actuel avec la BCE et la Fed) et concentré sur un pays et un secteur. Le Nasdaq-100 a perdu près de 33 % en 2022.",
-   "secteur": "Tech US",
-   "ticker": "PNAS",
-   "type": "ETF",
-   "historique": [
-    {
-     "d": "2026-10-05",
-     "p": 7.272
-    },
-    {
-     "d": "2026-10-08",
-     "p": 7.293
-    },
-    {
-     "d": "2026-10-09",
-     "p": 7.243
-    },
-    {
-     "d": "2026-10-23",
-     "p": 6.843
-    },
-    {
-     "d": "2026-11-04",
-     "p": 6.743
-    },
-    {
-     "d": "2026-11-05",
-     "p": 6.488
-    },
-    {
-     "d": "2026-11-06",
-     "p": 6.4
-    }
-   ],
-   "prix": 6.4,
-   "prixDate": "2026-11-06",
-   "variationJour": -1.01
-  },
-  {
-   "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
-   "actus": [],
-   "isin": "IE0002XZSHO1",
-   "marche": "L'économie mondiale cotée. Frais : 0,20 % par an, part autour de 7 €. Le choisir permet de ne pas tout mettre chez le même gestionnaire si tu as déjà des ETF Amundi.",
-   "nom": "iShares MSCI World Swap PEA",
-   "pea": true,
-   "potentiel": "Identique à DCAM : la croissance de long terme des grandes entreprises mondiales, avec une diversification maximale.",
-   "rendezvous": [],
-   "risque": "Socle",
-   "risques": "Baisse avec l'ensemble des marchés en cas de crise, forte part des États-Unis et du dollar.",
-   "secteur": "Monde",
-   "ticker": "WPEA",
-   "type": "ETF",
-   "historique": [
-    {
-     "d": "2026-10-05",
-     "p": 7.189
-    },
-    {
-     "d": "2026-10-08",
-     "p": 7.18
-    },
-    {
-     "d": "2026-10-09",
-     "p": 7.215
-    },
-    {
-     "d": "2026-11-04",
-     "p": 7.158
-    }
-   ],
-   "prix": 7.158,
-   "prixDate": "2026-11-04",
-   "variationJour": 1.26
-  },
-  {
-   "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
-   "actus": [
-    {
-     "date": "2026-11-06",
-     "titre": "STMicroelectronics reprend 1,54 % à 37,64 € avec le rebond des puces, mais reste sous son niveau de sortie de 38,61 €",
-     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque-65c78769cd39da733b365d299b55d622"
-    },
-    {
-     "date": "2026-11-05",
-     "titre": "STMicroelectronics perd 9,33 % à 37,09 € et clôture sous son niveau de sortie de 38,61 €, avec tout le secteur des puces",
-     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-ae5fec63ab8cc4466762250a0232725a"
-    },
-    {
-     "date": "2026-11-04",
-     "titre": "Les puces européennes décrochent après la victoire démocrate : le marché craint des limites aux centres de données",
-     "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
-    },
-    {
-     "date": "2026-10-30",
-     "titre": "STMicroelectronics recule d'environ 5,3 % à 41,88 € dans une chute générale des semi-conducteurs, après les résultats décevants d'Intel et d'Amazon aux États-Unis",
-     "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026"
-    },
-    {
-     "date": "2026-10-29",
-     "titre": "STMicroelectronics publie un chiffre d'affaires de 3,76 milliards de dollars au 3e trimestre et prévoit environ 4,15 milliards pour le 4e",
-     "url": "https://www.globenewswire.com/news-release/2026/10/29/3390920/0/fr/stmicroelectronics-annonce-ses-r%C3%A9sultats-financiers-du-troisi%C3%A8me-trimestre-2026.html"
-    },
-    {
-     "date": "2026-10-27",
-     "titre": "STMicroelectronics s'envole d'environ 7 % à Paris, les semi-conducteurs sont rachetés avant les résultats du 29 octobre",
-     "url": "https://www.boursorama.com/bourse/actualites/la-tech-reprend-la-main-paris-suit-le-mouvement-41c47ef105516e98655b497a4b70ea06"
-    }
-   ],
-   "isin": "NL0000226223",
-   "marche": "L'automobile est son premier marché (de l'ordre de 40 % des ventes), puis l'industrie, l'électronique grand public (Apple) et les télécoms. Nouveau relais : les data centers IA.",
-   "nom": "STMicroelectronics",
-   "pea": true,
-   "potentiel": "Revenus data centers IA visés au-dessus de 1 milliard de dollars en 2026 et bien au-dessus de 2 milliards en 2027, dont environ 80 % viendront des puces de liaisons par fibre optique. Le cycle des semi-conducteurs repart (stocks des distributeurs bas) et la direction vise une marge brute de 44 à 46 %.",
-   "rendezvous": [],
-   "risque": "Élevé",
-   "risques": "Dépendance à l'automobile. Le 23 juillet 2026, l'action a chuté de 15 % malgré de bons résultats car la prévision était légèrement sous les attentes : ce sont les prévisions qui font le cours. Sensible aux annonces sur l'IA (-6,6 % le 14 septembre).",
-   "secteur": "Semi-conducteurs",
-   "ticker": "STMPA",
-   "type": "Action",
-   "historique": [
-    {
-     "d": "2026-10-05",
-     "p": 50.87
-    },
-    {
-     "d": "2026-10-08",
-     "p": 47.985
-    },
-    {
-     "d": "2026-10-09",
-     "p": 46.55
-    },
-    {
-     "d": "2026-10-12",
-     "p": 45.565
-    },
-    {
-     "d": "2026-10-13",
-     "p": 44.24
-    },
-    {
-     "d": "2026-10-14",
-     "p": 45.04
-    },
-    {
-     "d": "2026-10-15",
-     "p": 41.32
-    },
-    {
-     "d": "2026-10-22",
-     "p": 39.96
-    },
-    {
-     "d": "2026-10-23",
-     "p": 39.47
-    },
-    {
-     "d": "2026-10-26",
-     "p": 40.5
-    },
-    {
-     "d": "2026-10-27",
-     "p": 43.36
-    },
-    {
-     "d": "2026-10-30",
-     "p": 41.88
-    },
-    {
-     "d": "2026-11-04",
-     "p": 40.885
-    },
-    {
-     "d": "2026-11-05",
-     "p": 37.09
-    },
-    {
-     "d": "2026-11-06",
-     "p": 37.64
-    }
-   ],
-   "prix": 37.64,
-   "prixDate": "2026-11-06",
-   "variationJour": 1.54
-  },
-  {
-   "isin": "NL00150001Q9",
-   "nom": "Stellantis",
-   "ticker": "STLAP",
-   "type": "Action",
-   "risque": "Très élevé",
-   "secteur": "Automobile",
-   "pea": true,
-   "activite": "Constructeur automobile né de la fusion de PSA et Fiat Chrysler, avec des marques comme Peugeot, Citroën, Fiat, Jeep et Ram. Le groupe vend surtout en Europe et en Amérique du Nord.",
-   "marche": "L'automobile subit une demande prudente, une transition électrique coûteuse et la concurrence chinoise. Le marché américain pèse lourd dans les profits du groupe.",
-   "potentiel": "Le potentiel repose sur un redressement des ventes et des marges aux États-Unis, après une très forte baisse du titre en 2026. Une part vaut environ 4 €, ce qui la rend accessible.",
-   "risques": "Le titre reste en tendance baissière et très loin de sa moyenne 200 jours. Un nouveau recul des ventes, des dépréciations ou des droits de douane pèseraient encore. Un cours bas ne suffit jamais à faire une bonne affaire.",
-   "rendezvous": [],
-   "actus": [
-    {
-     "date": "2026-11-06",
-     "titre": "Stellantis regagne 1,39 % à 4,02 €, juste sous ton prix d'achat de 4,04 € ; le groupe a nommé un nouveau patron pour l'Amérique du Nord",
-     "url": "https://www.abcbourse.com/cotation/STLAPp"
-    },
-    {
-     "date": "2026-11-05",
-     "titre": "Stellantis recule de 4,68 % dans une séance sans nouvelle propre à la société trouvée",
-     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html"
-    }
-   ],
-   "prix": 4.019,
-   "prixDate": "2026-11-06",
-   "variationJour": 1.39,
-   "historique": [
-    {
-     "d": "2026-11-04",
-     "p": 4.1585
-    },
-    {
-     "d": "2026-11-05",
-     "p": 3.964
-    },
-    {
-     "d": "2026-11-06",
-     "p": 4.019
-    }
-   ]
-  },
-  {
-   "isin": "FR0013380607",
-   "nom": "Core CAC 40 Sur",
-   "ticker": "CACC",
-   "type": "ETF",
-   "risque": "Modéré",
-   "secteur": "Actions françaises",
-   "pea": true,
-   "activite": "ETF qui réplique l'indice CAC 40, soit les 40 grandes valeurs de la Bourse de Paris, en une seule ligne.",
-   "marche": "Le CAC 40 est très exposé au luxe, à l'industrie, aux banques et à l'énergie, et peu à la tech américaine, ce qui explique sa résistance actuelle.",
-   "potentiel": "Il suit l'évolution des grandes entreprises françaises, dont beaucoup réalisent leurs ventes à l'international. Il complète un ETF Monde sans s'y substituer.",
-   "risques": "Il dépend d'un seul pays et de quelques secteurs, avec un poids important du luxe. Il recoupe en partie l'ETF Monde pour ce qui concerne les grandes valeurs françaises.",
-   "rendezvous": [],
-   "actus": [],
-   "prix": 41.005,
-   "prixDate": "2026-11-06",
-   "variationJour": -1.89,
-   "historique": [
-    {
-     "d": "2026-11-04",
-     "p": 41.69
-    },
-    {
-     "d": "2026-11-05",
-     "p": 41.975
-    },
-    {
-     "d": "2026-11-06",
-     "p": 41.005
-    }
-   ]
-  }
- ],
- "agenda": [
-  {
-   "id": "us-midterms-2026",
-   "date": "2026-11-03",
-   "titre": "États-Unis : élections de mi-mandat",
-   "detail": "Échéance politique citée par Donald Trump dans le dossier iranien ; elle peut alimenter la volatilité des marchés"
-  },
-  {
-   "id": "ez-flash-hicp-2026-10",
-   "date": "2026-11-04",
-   "titre": "Zone euro : estimation rapide de l'inflation d'octobre",
-   "detail": "Date indiquée par Eurostat ; l'inflation était de 3,8 % en septembre, tirée par l'énergie"
-  },
-  {
-   "id": "us-jobs-2026-10",
-   "date": "2026-11-06",
-   "titre": "États-Unis : rapport sur l'emploi d'octobre",
-   "detail": "Publié : +165 000 postes contre environ 60 000 attendus, chômage à 4,1 %. Le chiffre renforce les paris sur une hausse des taux de la Fed en décembre"
-  },
-  {
-   "id": "ifx-q4-2026",
-   "date": "2026-11-10",
-   "titre": "Infineon : résultats du 4e trimestre",
-   "detail": "Publication attendue à 8h00 selon l'agenda de l'AFP : un test pour les semi-conducteurs européens, dont STMicroelectronics"
-  },
-  {
-   "id": "us-cpi-2026-10",
-   "date": "2026-11-10",
-   "titre": "États-Unis : inflation d'octobre (CPI)",
-   "detail": "Publication à 14h30 heure de Paris, indicateur clé avant la réunion de la Fed des 8 et 9 décembre"
-  },
-  {
-   "id": "us-ppi-2026-10",
-   "date": "2026-11-13",
-   "titre": "États-Unis : prix à la production d'octobre",
-   "detail": "Date indicative d'un calendrier privé, à confirmer auprès du BLS"
-  },
-  {
-   "id": "us-retail-2026-10",
-   "date": "2026-11-17",
-   "titre": "États-Unis : ventes au détail d'octobre",
-   "detail": "Date indicative d'un calendrier privé, à confirmer"
-  },
-  {
-   "id": "soitec-s1-2026",
-   "date": "2026-11-18",
-   "titre": "Soitec : résultats du 1er semestre",
-   "detail": "Date indiquée par les agendas boursiers, à confirmer par la société"
-  },
-  {
-   "id": "fomc-minutes-2026-10",
-   "date": "2026-11-18",
-   "titre": "Fed : compte rendu de la réunion d'octobre",
-   "detail": "Publication à 20h00 heure de Paris, date indicative. À lire pour le débat sur une hausse des taux"
-  },
-  {
-   "id": "ez-flash-hicp-2026-11",
-   "date": "2026-12-01",
-   "titre": "Zone euro : estimation rapide de l'inflation de novembre",
-   "detail": "Après 4,0 % en octobre, dernier grand chiffre avant la décision de la BCE du 17 décembre"
-  },
-  {
-   "id": "us-jobs-2026-11",
-   "date": "2026-12-04",
-   "titre": "États-Unis : rapport sur l'emploi de novembre",
-   "detail": "Dernier rapport sur l'emploi avant la réunion de la Fed des 8 et 9 décembre"
-  }
- ],
- "historique": [
-  {
-   "d": "2026-10-05",
-   "valeur": 399.96,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-08",
-   "valeur": 394.35,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-09",
-   "valeur": 392.3,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-11",
-   "valeur": 391.3,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-12",
-   "valeur": 389.33,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-13",
-   "valeur": 386.68,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-14",
-   "valeur": 388.28,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-15",
-   "valeur": 380.84,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-16",
-   "valeur": 380.84,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-17",
-   "valeur": 380.84,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-18",
-   "valeur": 380.84,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-19",
-   "valeur": 380.84,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-20",
-   "valeur": 380.84,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-21",
-   "valeur": 380.84,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-22",
-   "valeur": 378.12,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-23",
-   "valeur": 377.14,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-25",
-   "valeur": 377.14,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-26",
-   "valeur": 369.76,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-27",
-   "valeur": 375.48,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-28",
-   "valeur": 375.48,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-29",
-   "valeur": 375.48,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-30",
-   "valeur": 372.52,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-10-31",
-   "valeur": 372.52,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-11-01",
-   "valeur": 372.52,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-11-02",
-   "valeur": 372.52,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-11-03",
-   "valeur": 372.52,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-11-04",
-   "valeur": 368.62,
-   "investi": 399.2
-  },
-  {
-   "d": "2026-11-05",
-   "valeur": 764.55,
-   "investi": 799.28
-  },
-  {
-   "d": "2026-11-06",
-   "valeur": 753.8,
-   "investi": 799.28
-  }
- ]
+  ]
 }

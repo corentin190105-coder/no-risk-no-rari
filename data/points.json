@@ -1,6 +1,281 @@
 {
  "points": [
   {
+   "date": "2026-11-07",
+   "titre": "Samedi sans cotation : le pétrole signe sa pire semaine depuis 2020 sur l'espoir d'un accord avec l'Iran",
+   "resume": "Les marchés sont fermés et ce point reprend les vrais cours de clôture de vendredi. La semaine a été très contrastée : le CAC 40 gagne environ 2 % sur cinq séances malgré son recul de 0,81 % vendredi, alors que le S&P 500 perd environ 2,7 % après la chute de la tech de jeudi. Le Brent finit à 98,32 dollars, en baisse d'environ 16 % sur la semaine, et tout se jouera mardi avec l'inflation américaine.",
+   "humeur": "stable",
+   "indices": [
+    {
+     "nom": "CAC 40 (vendredi)",
+     "valeur": "8 139,00 pts",
+     "variation": -0.81
+    },
+    {
+     "nom": "Euro Stoxx 50 (vendredi)",
+     "valeur": "6 170,49 pts",
+     "variation": -0.98
+    },
+    {
+     "nom": "S&P 500 (vendredi, estimé d'après l'ETF SPY)",
+     "valeur": "≈ 7 376 pts",
+     "variation": 0.31
+    },
+    {
+     "nom": "Nasdaq (vendredi, cours de 21h39)",
+     "valeur": "≈ 24 641 pts",
+     "variation": 1.34
+    },
+    {
+     "nom": "Nikkei 225 (vendredi)",
+     "valeur": "57 434,77 pts",
+     "variation": -5.96
+    },
+    {
+     "nom": "Hang Seng (vendredi)",
+     "valeur": "24 481,86 pts",
+     "variation": -1.27
+    },
+    {
+     "nom": "Brent (sur la semaine)",
+     "valeur": "98,32 $",
+     "variation": -16.0
+    },
+    {
+     "nom": "Or (vendredi)",
+     "valeur": "≈ 4 063 $",
+     "variation": -1.24
+    },
+    {
+     "nom": "Euro/dollar (vendredi)",
+     "valeur": "1,1140 $",
+     "variation": -0.75
+    }
+   ],
+   "macro": [
+    {
+     "titre": "Iran et pétrole",
+     "texte": "Le Brent a été réglé à 98,32 dollars vendredi et perd environ 16 % sur la semaine, sa plus forte baisse depuis 2020, selon FinanceFeeds : le marché parie sur un accord, l'Iran examinant des propositions sur son programme nucléaire en échange d'un allègement des sanctions, selon XTB. Samedi, Donald Trump a pourtant confirmé une nouvelle frappe américaine limitée sur une défense aérienne iranienne près du détroit d'Ormuz, et sa décision sur des frappes plus larges reste en suspens selon HNGN. Le pétrole peut donc rebondir vite si les discussions échouent."
+    },
+    {
+     "titre": "Fed et inflation américaine",
+     "texte": "Après un emploi très fort vendredi, Mary Daly, membre de la Fed, a jugé que l'inflation dans les services ne baissait pas assez et qu'un nouveau resserrement pourrait être nécessaire, selon XTB. L'inflation américaine d'octobre, publiée mardi à 14h30, sera le chiffre clé avant la réunion des 8 et 9 décembre. Le dollar s'est raffermi et l'euro termine vers 1,114 dollar."
+    },
+    {
+     "titre": "IA et semi-conducteurs",
+     "texte": "La tech américaine a repris une partie de sa chute de jeudi : l'ETF QQQ, qui suit le Nasdaq-100, gagne 1,4 % vendredi. Lam Research a bondi d'environ 8 % après un rachat d'actions de 25 milliards de dollars, et Vistra d'environ 10 % sur la demande d'électricité des centres de données, selon XTB. La semaine reste malgré tout négative pour la tech, et les résultats d'Infineon mardi testeront les puces européennes."
+    },
+    {
+     "titre": "Europe et BCE",
+     "texte": "Les Bourses européennes ont fini vendredi en baisse, le Stoxx 600 cédant 1,05 %, selon Boursorama, pénalisées par les télécoms et la technologie. Sur la semaine, Paris a pourtant mieux résisté que Wall Street. L'inflation de la zone euro, à 4,0 % en octobre, garde la BCE sous pression avant sa décision du 17 décembre."
+    }
+   ],
+   "portefeuille": {
+    "valeur": 757.52,
+    "pv": -41.76,
+    "texte": "À la clôture de vendredi, ton portefeuille vaut 757,52 € pour 799,28 € investis, soit une moins-value de 41,76 €, un peu mieux que les 753,80 € estimés hier avec des cours de 15h25. STMicroelectronics (-25,85 €) et l'ETF Nasdaq-100 (-16,76 €) pèsent le plus, tandis qu'Air Liquide (+5,70 €) et l'ETF CAC 40 (+1,08 €) sont en gain."
+   },
+   "valeurs": [
+    {
+     "nom": "STMicroelectronics",
+     "texte": "Aucune nouvelle propre ce week-end ; le rachat d'actions géant de Lam Research a soutenu tout le secteur vendredi, mais le titre reste à 37,64 €, sous ton niveau de sortie. Infineon publie mardi."
+    },
+    {
+     "nom": "Amundi PEA Nasdaq-100",
+     "texte": "La part à petit prix finit vendredi à 6,42 €, contre 6,40 € estimés hier à 15h25 : le rebond de la tech américaine n'a pas encore effacé la baisse de la semaine."
+    }
+   ],
+   "idees": [
+    {
+     "nom": "Legrand",
+     "isin": "FR0010307819",
+     "risque": "Modéré",
+     "prix": "≈ 130 € la part",
+     "texte": "Vendredi, Vistra a bondi d'environ 10 % à Wall Street sur la demande d'électricité liée à l'IA, et Legrand a été la meilleure hausse du CAC 40 avec +1,65 % à 129,65 €, selon Idéal Investisseur. Le groupe fournit les équipements électriques des centres de données et avait relevé ses objectifs de moyen terme fin septembre, selon ABC Bourse. C'est une façon moins risquée de suivre l'IA qu'une valeur de puces. Le principal risque : le titre reste sous sa moyenne 50 jours et une part pèse environ 17 % de ton portefeuille."
+    },
+    {
+     "nom": "Accor",
+     "isin": "FR0000120404",
+     "risque": "Élevé",
+     "prix": "≈ 50 € la part",
+     "texte": "Le Brent a perdu environ 16 % cette semaine, sa plus forte baisse depuis 2020, sur l'espoir d'un accord entre les États-Unis et l'Iran, selon FinanceFeeds. Accor est très présent au Moyen-Orient et s'était montré prudent sur cette région dès avril, selon Option Finance : une désescalade durable l'aiderait directement, avec un pétrole moins cher pour les voyageurs. Le titre a déjà pris environ 8 % en cinq séances, à 50 €. Le principal risque est géopolitique : Donald Trump a confirmé samedi une nouvelle frappe limitée en Iran, et un échec des discussions ferait rechuter le titre."
+    },
+    {
+     "nom": "X-FAB Silicon Foundries",
+     "isin": "BE0974310428",
+     "risque": "Très élevé",
+     "prix": "≈ 4,84 € la part",
+     "texte": "Ce fondeur belge coté à Paris fabrique des puces analogiques et de puissance pour l'automobile et l'industrie. Au 3e trimestre, ses commandes ont bondi de 38 % sur un an à 224,7 millions de dollars, même si ses ventes ont reculé de 15 % et qu'il affiche une petite perte, selon Idéal Investisseur. Vendredi, le rebond des puces après le rachat d'actions géant de Lam Research l'a fait remonter d'environ 2,6 % à 4,84 €, après un plus bas à 4,64 € jeudi. Le principal risque : la tendance reste très baissière, le titre ayant perdu environ 30 % en un mois, et la reprise des commandes doit encore se voir dans les ventes."
+    }
+   ],
+   "idee": {
+    "nom": "Legrand",
+    "isin": "FR0010307819",
+    "risque": "Modéré",
+    "prix": "≈ 130 € la part",
+    "texte": "Vendredi, Vistra a bondi d'environ 10 % à Wall Street sur la demande d'électricité liée à l'IA, et Legrand a été la meilleure hausse du CAC 40 avec +1,65 % à 129,65 €, selon Idéal Investisseur. Le groupe fournit les équipements électriques des centres de données et avait relevé ses objectifs de moyen terme fin septembre, selon ABC Bourse. C'est une façon moins risquée de suivre l'IA qu'une valeur de puces. Le principal risque : le titre reste sous sa moyenne 50 jours et une part pèse environ 17 % de ton portefeuille."
+   },
+   "concept": {
+    "terme": "Le rachat d'actions",
+    "texte": "Un rachat d'actions, ou « buyback », est une opération par laquelle une entreprise achète en Bourse ses propres actions. Elle peut ensuite les annuler, ce qui réduit le nombre d'actions en circulation : chaque action restante représente alors une part un peu plus grande des bénéfices, et le bénéfice par action augmente mécaniquement. C'est une façon de rendre de l'argent aux actionnaires, comme le dividende, mais sans versement direct. Le marché l'interprète souvent comme un signe de confiance de la direction, à condition que l'entreprise ne s'endette pas pour le financer. Vendredi, Lam Research a annoncé un programme de 25 milliards de dollars et son action a gagné environ 8 %. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+    "references": [
+     {
+      "titre": "La finance pour tous : À quoi correspondent les rachats d'actions ?",
+      "url": "https://www.lafinancepourtous.com/outils/questions-reponses/a-quoi-correspondent-les-rachats-daction/"
+     },
+     {
+      "titre": "AMF : Rachats d'actions, déclarations des sociétés cotées",
+      "url": "https://www.amf-france.org/fr/formulaires-et-declarations/societes-cotees-et-operations-financieres/rachats-dactions"
+     }
+    ]
+   },
+   "courtTerme": {
+    "contexte": "Les marchés sont fermés ce week-end et rien ne pousse à agir lundi matin : la semaine s'ouvre sur deux rendez-vous à risque, l'inflation américaine et les résultats d'Infineon, tous deux mardi 10 novembre, avec une Fed qui envisage de relever ses taux et un dossier iranien encore incertain. Le journal ne compte aucune idée close : l'échantillon est trop petit pour juger la méthode. Sur tes lignes, rien n'a changé depuis vendredi soir, mais les cours sont désormais les vrais cours de clôture : STMicroelectronics reste à 37,64 €, sous ton niveau de sortie de 38,61 € depuis deux séances, et c'est la publication d'Infineon mardi qui dira si le rebond des puces tient ; Stellantis (4,02 €) et Air Liquide (187,78 €) restent loin de leurs niveaux de sortie.",
+    "opportunites": [
+     {
+      "nom": "Infineon Technologies",
+      "isin": "DE0006231004",
+      "compte": "PEA",
+      "avis": "Attendre",
+      "horizon": "2 à 10 jours",
+      "catalyseur": "Résultats annuels le mardi 10 novembre à 8h00, le même jour que l'inflation américaine",
+      "cours": "45,76 €",
+      "entree": "48,20 €, seulement après les résultats et une clôture au-dessus de 48 €",
+      "invalidation": "45,20 €",
+      "objectif": "54,20 €",
+      "ratio": "2,0",
+      "frais": "2 € soit 1,0 % sur 4 actions",
+      "these": "Le fabricant allemand de puces de puissance, éligible au PEA, a perdu près de la moitié de sa valeur depuis son plus haut de six mois à 88,83 € et finit la semaine à 45,76 €, tout près de son plus bas de 44,74 €. Ses résultats de mardi sont le vrai test du secteur en Europe, y compris pour ta ligne STMicroelectronics. Le volume de vendredi, 6,9 millions de titres contre 4,2 millions en moyenne, montre un intérêt fort mais pas encore une inversion de tendance. Avec un ATR de 2,90 €, l'invalidation est à environ 1 ATR et 6,2 % sous l'entrée ; sur 4 actions, la perte serait d'environ 14 € frais compris, soit 1,8 % du portefeuille. Ce qui contredit l'idée : le titre reste très loin de ses moyennes 20 et 50 jours (51,84 € et 55,54 €), et la moyenne 20 jours fera résistance avant l'objectif.",
+      "risque": "Acheter avant la publication serait un pari sur un chiffre, pas une idée ; et une inflation américaine forte le même jour peut écraser une bonne surprise."
+     }
+    ],
+    "retro": ""
+   },
+   "lecon": {
+    "titre": "Lire un bilan : ce que l'entreprise possède et ce qu'elle doit",
+    "niveau": "Débutant",
+    "texte": "Le compte de résultat raconte une période ; le bilan, lui, est une photographie de l'entreprise à une date précise. À gauche, l'actif liste ce qu'elle possède : usines, brevets, stocks, créances sur ses clients et trésorerie. À droite, le passif montre comment tout cela est financé : par les capitaux propres, l'argent des actionnaires et les bénéfices mis de côté, et par les dettes. Les deux colonnes sont toujours égales, car chaque euro possédé a été financé d'une façon ou d'une autre. Pour un investisseur, trois repères suffisent au début : le niveau des capitaux propres, la dette financière comparée à ces capitaux propres, et la trésorerie disponible. La dette nette, c'est-à-dire la dette financière moins la trésorerie, dit si l'entreprise pourrait rembourser ses emprunts facilement. Une société très endettée devient fragile quand les taux montent ou que ses ventes baissent, ce qui compte en ce moment avec la Fed qui envisage de relever ses taux.",
+    "exemple": "Imagine une entreprise avec 100 millions d'euros d'actifs, dont 20 millions de trésorerie, financés par 60 millions de capitaux propres et 40 millions de dettes. Sa dette nette vaut 40 - 20 = 20 millions, soit un tiers de ses capitaux propres : c'est un endettement raisonnable. Si elle rachetait pour 20 millions de ses propres actions avec sa trésorerie, comme Lam Research vient de l'annoncer à bien plus grande échelle, sa trésorerie et ses capitaux propres baisseraient tous les deux de 20 millions, et sa dette nette passerait à 40 millions, soit 100 % de ses capitaux propres restants.",
+    "references": [
+     {
+      "titre": "economie.gouv.fr : Que regarder dans un bilan ?",
+      "url": "https://www.economie.gouv.fr/facileco/que-regarder-dans-un-bilan"
+     },
+     {
+      "titre": "La finance pour tous : Le bilan",
+      "url": "https://www.lafinancepourtous.com/decryptages/entreprise/gestion-et-comptabilite/comptes-de-l-entreprise/comprendre-le-bilan-le-compte-de-resultat-et-l-annexe/le-bilan/"
+     },
+     {
+      "titre": "Service-public.fr : Différence entre l'actif et le passif d'une entreprise",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F31439"
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "question": "Dans un bilan, où trouve-t-on les capitaux propres ?",
+     "choix": [
+      "À l'actif, avec la trésorerie",
+      "Au passif, avec les dettes",
+      "Dans le compte de résultat, avant l'impôt",
+      "Dans l'annexe uniquement"
+     ],
+     "bonne": 1,
+     "explication": "Le passif montre comment l'entreprise est financée : par ses actionnaires (capitaux propres) et par ses dettes."
+    },
+    {
+     "question": "Une entreprise rachète puis annule 10 % de ses actions, avec un bénéfice inchangé. Que devient son bénéfice par action ?",
+     "choix": [
+      "Il baisse de 10 %",
+      "Il ne change pas",
+      "Il augmente, car le bénéfice est réparti sur moins d'actions",
+      "Il devient nul jusqu'au prochain exercice"
+     ],
+     "bonne": 2,
+     "explication": "Le même bénéfice est divisé par un nombre d'actions plus petit. Le bénéfice par action progresse d'environ 11 %."
+    },
+    {
+     "question": "Révision : quelle ligne du compte de résultat mesure la rentabilité du métier lui-même ?",
+     "choix": [
+      "Le résultat opérationnel",
+      "Le chiffre d'affaires",
+      "La dette nette",
+      "Les capitaux propres"
+     ],
+     "bonne": 0,
+     "explication": "Le résultat opérationnel retire des ventes les coûts de l'activité, avant frais financiers et impôt. Dette nette et capitaux propres viennent du bilan."
+    }
+   ],
+   "rendezvous": [
+    {
+     "date": "2026-11-10",
+     "titre": "États-Unis : inflation d'octobre (CPI, 14h30)"
+    },
+    {
+     "date": "2026-11-10",
+     "titre": "Infineon : résultats annuels (8h00)"
+    },
+    {
+     "date": "2026-11-11",
+     "titre": "OPEP : rapport mensuel"
+    },
+    {
+     "date": "2026-11-13",
+     "titre": "États-Unis : prix à la production d'octobre (date à confirmer)"
+    },
+    {
+     "date": "2026-11-17",
+     "titre": "États-Unis : ventes au détail d'octobre (date à confirmer)"
+    },
+    {
+     "date": "2026-11-18",
+     "titre": "Soitec : résultats du 1er semestre (date à confirmer)"
+    },
+    {
+     "date": "2026-11-18",
+     "titre": "Fed : compte rendu de la réunion d'octobre (date à confirmer)"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "XTB : Wall Street rebondit après la vague de ventes (6 novembre)",
+     "url": "https://www.xtb.com/fr/analyses-marches/resume-quotidien-wall-street-rebondit-apres-la-vague-de-ventes-le-dollar-americain-se-raffermit-grace-a-des-chiffres-solides-de-l-emploi-non-agricole-nfp-tandis-que-les-cours-du-petrole-reculent"
+    },
+    {
+     "titre": "FinanceFeeds : le Brent à 98,32 $ après une baisse hebdomadaire de 16 %",
+     "url": "https://financefeeds.com/brent-crude-oil-price-98-32-saturday-week-ahead-us-iran-deal-bets-cpi-10-november-bull-105-bear-93/"
+    },
+    {
+     "titre": "Boursorama : L'Europe finit dans le rouge (6 novembre)",
+     "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-rouge-seance-plus-tranquille-a-wall-street-337fffc859f97adfbf7b960dd169657b"
+    },
+    {
+     "titre": "HNGN : Trump confirme une nouvelle frappe limitée en Iran (7 novembre)",
+     "url": "https://hngn.com/articles/273722/20261107/trump-says-iran-decision-coming-soon-advisers-split.htm"
+    },
+    {
+     "titre": "Idéal Investisseur : X-FAB, commandes en hausse de 38 % au 3e trimestre",
+     "url": "https://www.ideal-investisseur.fr/en/stock-news/x-fab-orders-up-38-in-the-third-quarter-but-net-loss-of-2-8m/28242.html"
+    },
+    {
+     "titre": "Option Finance : Accor reste prudent sur le Moyen-Orient (avril 2026)",
+     "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-04-24-accor-demarre-2026-en-croissance-mais-reste-prudent-sur-le-moyen-orient.html"
+    },
+    {
+     "titre": "ABC Bourse : Legrand relève ses objectifs de moyen terme",
+     "url": "https://www.abcbourse.com/marches/legrand-electrise-le-marche-avec-le-relevement-de-ses-objectifs-de-moyen-terme_703329"
+    },
+    {
+     "titre": "Twelve Data : cotations SPY, QQQ, EUR/USD et or (6 novembre)",
+     "url": "https://twelvedata.com/"
+    },
+    {
+     "titre": "data/cours.json : clôtures Yahoo Finance du 6 novembre (source non officielle)",
+     "url": "https://corentin190105-coder.github.io/no-risk-no-rari/data/cours.json"
+    }
+   ]
+  },
+  {
    "date": "2026-11-06",
    "titre": "L'emploi américain surprend, le Nasdaq rebondit, mais le CAC 40 recule de 0,81 %",
    "resume": "Le CAC 40 cède 0,81 % à 8 139 points, plus de 35 de ses valeurs étant en baisse, avec le luxe, Capgemini et Euronext parmi les plus pénalisés. L'emploi américain d'octobre, à 165 000 créations de postes contre environ 60 000 attendues, relance les paris sur une hausse des taux de la Fed en décembre. Wall Street rebondit pourtant après la déroute de jeudi, emmenée par les puces.",

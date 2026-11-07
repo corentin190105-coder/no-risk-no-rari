@@ -1,8 +1,8 @@
 {
- "maj": "2026-11-06T21:30:00+01:00",
+ "maj": "2026-11-07T21:05:00+01:00",
  "verdict": {
-  "titre": "STMicroelectronics reste sous ta règle de sortie. Aucun nouvel achat court terme",
-  "texte": "STMicroelectronics rebondit à 37,64 € mais finit une deuxième séance sous 38,61 €, le niveau fixé à l'avance : le plan reste sur Vendre. Stellantis remonte à 4,02 €, loin de 3,75 €. L'emploi américain très fort relance la crainte d'une hausse des taux avant l'inflation de mardi : ce n'est pas le moment de multiplier les ordres. Air France-KLM a gagné près de 20 % en deux séances : j'attends un repli."
+  "titre": "Week-end sans changement : STMicroelectronics reste sous ta règle de sortie, rien à acheter à court terme",
+  "texte": "Avec les vrais cours de clôture de vendredi, ton portefeuille vaut 757,52 €, soit -41,76 €. STMicroelectronics finit à 37,64 €, deux séances sous 38,61 € : le plan reste sur Vendre, et si tu choisis d'attendre Infineon mardi, c'est une exception à ta règle. Mardi concentre le risque de la semaine, avec l'inflation américaine et Infineon : aucun nouvel achat court terme avant."
  },
  "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
  "positions": [
@@ -20,7 +20,7 @@
    "isin": "FR001400ZGR7",
    "symbole": "PNAS.PA",
    "action": "Garder",
-   "pourquoi": "Le Nasdaq a chuté de 5,5 % jeudi puis rebondit vendredi. L'ETF valait 6,40 € à 15h25, sous ses moyennes 20 et 50 jours. C'est une baisse de marché, pas un problème propre à cette ligne, mais elle est concentrée sur la tech américaine.",
+   "pourquoi": "Le Nasdaq a chuté de 5,5 % jeudi puis rebondi vendredi. L'ETF finit la semaine à 6,42 €, sous ses moyennes 20 et 50 jours (6,88 € et 6,89 €). C'est une baisse de marché, pas un problème propre à cette ligne, mais elle est concentrée sur la tech américaine.",
    "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
    "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
   },
@@ -39,7 +39,7 @@
    "symbole": "AI.PA",
    "action": "Garder",
    "sortie": 171.03,
-   "pourquoi": "Tu es en gain et la tendance reste haussière, vers 187 € à 15h25 le 6 novembre, au-dessus de ses moyennes 20 et 50 jours. Le titre a beaucoup monté. Avec une seule action, il n'y a rien à alléger.",
+   "pourquoi": "Tu es en gain et la tendance reste haussière : 187,78 € à la clôture du 6 novembre, au-dessus de ses moyennes 20 et 50 jours (176,68 € et 171,85 €). Le titre a beaucoup monté. Avec une seule action, il n'y a rien à alléger.",
    "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
    "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
   },
@@ -49,7 +49,7 @@
    "symbole": "STLAP.PA",
    "action": "Garder",
    "sortie": 3.75,
-   "pourquoi": "C'est ta ligne la plus risquée. Le titre remonte de 1,39 % à 4,02 € le 6 novembre, juste sous ton prix d'achat de 4,04 €, et s'éloigne de ton niveau de sortie. Le groupe a nommé un nouveau patron pour l'Amérique du Nord.",
+   "pourquoi": "C'est ta ligne la plus risquée. Le titre a fini la semaine à 4,02 €, juste sous ton prix d'achat de 4,04 € et loin de ton niveau de sortie. Aucune nouvelle importante ce week-end.",
    "vendreSi": "clôture sous 3,75 €, soit 2 ATR sous le cours. Sur 13 actions, la perte serait d'environ 5 € plus 1 € de frais.",
    "renforcerSi": "non, tant que le cours n'a pas repassé durablement sa moyenne 50 jours (4,18 €) sur un fait nouveau."
   },
@@ -59,8 +59,8 @@
    "symbole": "STMPA.PA",
    "action": "Vendre",
    "sortie": 38.61,
-   "pourquoi": "Le titre a clôturé à 37,09 € le 5 novembre puis à 37,64 € le 6, deux fois sous 38,61 €, le niveau décidé à l'avance. Le rebond du jour suit celui des puces américaines, avec un volume faible. La moins-value ne doit pas guider ce choix : seule compte la règle que tu t'es fixée.",
-   "vendreSi": "condition remplie. Sur 2 actions, la vente rapporterait environ 74 € après 1 € de frais. Infineon publie le 10 novembre : si tu choisis d'attendre ce chiffre, c'est une exception à ta règle, à décider en connaissance de cause.",
+   "pourquoi": "Le titre a clôturé à 37,09 € le 5 novembre puis à 37,64 € le 6, deux fois sous 38,61 €, le niveau décidé à l'avance. Le rebond de vendredi suit celui des puces américaines. La moins-value ne doit pas guider ce choix : seule compte la règle que tu t'es fixée.",
+   "vendreSi": "condition remplie. Sur 2 actions, la vente rapporterait environ 74 € après 1 € de frais. Infineon publie le 10 novembre avant l'ouverture : si tu choisis d'attendre ce chiffre, c'est une exception à ta règle, à décider en connaissance de cause.",
    "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de 44,05 €."
   }
  ],
@@ -118,6 +118,43 @@
    "quand": "Seulement sur un repli vers 13 € qui tient, et une fois l'ATR disponible : la valeur doit d'abord entrer dans la liste suivie.",
    "pourquoi": "Après des résultats supérieurs aux attentes, Barclays passe à l'achat avec un objectif doublé à 18 €, le 6 novembre. Le fait nouveau est réel.",
    "contre": "Le titre a pris près de 20 % en deux séances et le pétrole reste proche de 98 dollars. Je ne cours pas après le mouvement."
+  },
+  {
+   "nom": "Infineon Technologies",
+   "statut": "Attendre",
+   "plan": [
+    [
+     "Déclencheur",
+     "Après les résultats du 10 novembre, clôture au-dessus de 48 €"
+    ],
+    [
+     "Entrée",
+     "48,20 €"
+    ],
+    [
+     "Sortie",
+     "45,20 €"
+    ],
+    [
+     "Objectif",
+     "54,20 €"
+    ],
+    [
+     "Exemple",
+     "4 actions, environ 193 €"
+    ],
+    [
+     "Perte max",
+     "environ 14 €, frais compris"
+    ],
+    [
+     "Gain visé",
+     "environ 22 €, frais compris"
+    ]
+   ],
+   "quand": "Jamais avant la publication de mardi : seulement si les résultats rassurent et que le cours tient au-dessus de 48 €.",
+   "pourquoi": "Ses résultats sont le vrai test des puces européennes. Le titre a perdu près de la moitié de sa valeur en six mois et finit à 45,76 €, près de son plus bas.",
+   "contre": "La tendance reste très baissière, la moyenne 20 jours (51,84 €) fera résistance, et l'inflation américaine tombe le même jour."
   }
  ],
  "decouvertes": [
@@ -132,14 +169,14 @@
    "faux": "La tech asiatique pèse lourd dedans : ce n'est pas une protection totale si les puces continuent de baisser. Le risque de change existe aussi."
   },
   {
-   "nom": "GTT",
-   "isin": "FR0011726835",
-   "symbole": "GTT.PA",
-   "theme": "Le gaz liquéfié, par un fournisseur discret",
+   "nom": "Getlink",
+   "isin": "FR0010533075",
+   "symbole": "GET.PA",
+   "theme": "Une infrastructure qui encaisse des péages",
    "risque": "Modéré",
-   "pourquoi": "GTT conçoit les cuves de nombreux méthaniers. Son carnet de commandes était à un niveau historique selon le point du 23 octobre, et l'activité dépend moins du prix du gaz que des commandes de navires.",
-   "aBorder": "Le titre a perdu 14 % en 20 séances et reste sous sa moyenne 200 jours (199,50 €). Je lis d'abord les raisons de cette baisse, puis les prochaines commandes. Une part vaut 184 €, soit près d'un quart de ton portefeuille : c'est gros.",
-   "faux": "Moins de commandes de méthaniers, ou une chute durable du pétrole et du gaz qui freine les projets."
+   "pourquoi": "Getlink exploite le tunnel sous la Manche et encaisse un péage à chaque passage de camion, de voiture ou de train : un revenu régulier, très différent de tes valeurs technologiques. Le titre est en tendance haussière, à 20,22 € le 6 novembre selon le radar, avec +7,9 % en 20 séances, et la baisse du pétrole réduit le coût de l'énergie pour ce type d'activité.",
+   "aBorder": "Pour le long terme et en petite ligne. Pas dans l'urgence : le RSI est à 78, le mouvement récent est déjà fort.",
+   "faux": "Un trafic transmanche qui recule, une hausse des coûts de l'énergie, ou des taux élevés qui pèsent sur les valeurs d'infrastructure endettées."
   },
   {
    "nom": "Orange",
