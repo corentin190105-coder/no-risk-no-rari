@@ -338,3 +338,13 @@ Un rachat d'actions, ou « buyback », est une opération par laquelle une entre
 **Références**
 - [La finance pour tous : À quoi correspondent les rachats d'actions ?](https://www.lafinancepourtous.com/outils/questions-reponses/a-quoi-correspondent-les-rachats-daction/)
 - [AMF : Rachats d'actions, déclarations des sociétés cotées](https://www.amf-france.org/fr/formulaires-et-declarations/societes-cotees-et-operations-financieres/rachats-dactions)
+
+## Q: Qu'est-ce que les sanctions économiques ?
+
+_2026-11-08 21:03 CET_
+
+Les sanctions économiques sont des mesures prises par un État, l'Union européenne ou l'ONU pour faire pression sur un pays, une entreprise ou une personne sans recourir aux armes. Elles prennent la forme d'interdictions de commercer, d'embargos sur certains produits comme le pétrole, de gel des avoirs ou d'exclusion des circuits bancaires internationaux. Pour les marchés, elles comptent parce qu'elles réduisent l'offre de matières premières ou ferment des débouchés aux entreprises : quand un grand producteur de pétrole est sanctionné, le baril a tendance à monter, et leur levée a l'effet inverse. Ce week-end, les discussions entre les États-Unis et l'Iran portent justement sur la levée d'une partie des sanctions américaines en échange de l'accès d'inspecteurs nucléaires, ce qui explique pourquoi chaque nouvelle fait bouger le Brent. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [Direction générale du Trésor : Sanctions économiques et financières](https://www.tresor.economie.gouv.fr/services-aux-entreprises/sanctions-economiques)
+- [Conseil de l'UE : Sanctions de l'UE à l'encontre de l'Iran](https://www.consilium.europa.eu/fr/policies/sanctions-against-iran/)

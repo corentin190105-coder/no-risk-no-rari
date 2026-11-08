@@ -1,212 +1,212 @@
 {
- "maj": "2026-11-07T21:05:00+01:00",
- "verdict": {
-  "titre": "Week-end sans changement : STMicroelectronics reste sous ta règle de sortie, rien à acheter à court terme",
-  "texte": "Avec les vrais cours de clôture de vendredi, ton portefeuille vaut 757,52 €, soit -41,76 €. STMicroelectronics finit à 37,64 €, deux séances sous 38,61 € : le plan reste sur Vendre, et si tu choisis d'attendre Infineon mardi, c'est une exception à ta règle. Mardi concentre le risque de la semaine, avec l'inflation américaine et Infineon : aucun nouvel achat court terme avant."
- },
- "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
- "positions": [
-  {
-   "nom": "Amundi PEA Monde (MSCI World)",
-   "isin": "FR001400U5Q4",
-   "symbole": "DCAM.PA",
-   "action": "Garder",
-   "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales, et une baisse ne se traite pas comme sur une action seule.",
-   "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
-   "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
+  "maj": "2026-11-08T21:05:00+01:00",
+  "verdict": {
+    "titre": "Dimanche sans changement : STMicroelectronics reste sur Vendre, aucun achat court terme avant mardi",
+    "texte": "Aux cours de vendredi, ton portefeuille vaut 757,52 €, soit -41,76 €. Les nouvelles frappes américaines en Iran rendent l'ouverture de lundi incertaine pour le pétrole, et mardi concentre l'inflation américaine et les résultats d'Infineon. STMicroelectronics reste sous 38,61 € : le plan reste sur Vendre, et attendre Infineon serait une exception à ta règle."
   },
-  {
-   "nom": "Amundi PEA Nasdaq-100",
-   "isin": "FR001400ZGR7",
-   "symbole": "PNAS.PA",
-   "action": "Garder",
-   "pourquoi": "Le Nasdaq a chuté de 5,5 % jeudi puis rebondi vendredi. L'ETF finit la semaine à 6,42 €, sous ses moyennes 20 et 50 jours (6,88 € et 6,89 €). C'est une baisse de marché, pas un problème propre à cette ligne, mais elle est concentrée sur la tech américaine.",
-   "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
-   "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
-  },
-  {
-   "nom": "Core CAC 40",
-   "isin": "FR0013380607",
-   "symbole": "CACC.PA",
-   "action": "Garder",
-   "pourquoi": "Ligne récente et diversifiée sur les grandes valeurs françaises, au-dessus de ses moyennes 50 et 200 jours.",
-   "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
-   "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
-  },
-  {
-   "nom": "Air Liquide",
-   "isin": "FR0000120073",
-   "symbole": "AI.PA",
-   "action": "Garder",
-   "sortie": 171.03,
-   "pourquoi": "Tu es en gain et la tendance reste haussière : 187,78 € à la clôture du 6 novembre, au-dessus de ses moyennes 20 et 50 jours (176,68 € et 171,85 €). Le titre a beaucoup monté. Avec une seule action, il n'y a rien à alléger.",
-   "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
-   "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
-  },
-  {
-   "nom": "Stellantis",
-   "isin": "NL00150001Q9",
-   "symbole": "STLAP.PA",
-   "action": "Garder",
-   "sortie": 3.75,
-   "pourquoi": "C'est ta ligne la plus risquée. Le titre a fini la semaine à 4,02 €, juste sous ton prix d'achat de 4,04 € et loin de ton niveau de sortie. Aucune nouvelle importante ce week-end.",
-   "vendreSi": "clôture sous 3,75 €, soit 2 ATR sous le cours. Sur 13 actions, la perte serait d'environ 5 € plus 1 € de frais.",
-   "renforcerSi": "non, tant que le cours n'a pas repassé durablement sa moyenne 50 jours (4,18 €) sur un fait nouveau."
-  },
-  {
-   "nom": "STMicroelectronics",
-   "isin": "NL0000226223",
-   "symbole": "STMPA.PA",
-   "action": "Vendre",
-   "sortie": 38.61,
-   "pourquoi": "Le titre a clôturé à 37,09 € le 5 novembre puis à 37,64 € le 6, deux fois sous 38,61 €, le niveau décidé à l'avance. Le rebond de vendredi suit celui des puces américaines. La moins-value ne doit pas guider ce choix : seule compte la règle que tu t'es fixée.",
-   "vendreSi": "condition remplie. Sur 2 actions, la vente rapporterait environ 74 € après 1 € de frais. Infineon publie le 10 novembre avant l'ouverture : si tu choisis d'attendre ce chiffre, c'est une exception à ta règle, à décider en connaissance de cause.",
-   "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de 44,05 €."
-  }
- ],
- "achats": [
-  {
-   "nom": "Socle : Amundi PEA Monde",
-   "statut": "Prêt",
-   "plan": [
-    [
-     "Ordre",
-     "Achat au marché, en séance"
-    ],
-    [
-     "Exemple",
-     "15 parts, environ 95 €"
-    ],
-    [
-     "Frais",
-     "1 €, soit environ 1 %"
-    ]
-   ],
-   "quand": "Quand tu as de l'épargne disponible, sans attendre un signal. Un seul ordre par mois limite les frais.",
-   "pourquoi": "C'est le seul achat que je peux te conseiller sans condition de marché : il vise le long terme. Garde d'abord une épargne de précaution hors bourse.",
-   "contre": "Les marchés peuvent baisser plusieurs années de suite. Cet achat n'a de sens que si tu peux laisser l'argent investi au moins 5 ans."
-  },
-  {
-   "nom": "Air France-KLM",
-   "statut": "Attendre",
-   "plan": [
-    [
-     "Déclencheur",
-     "Repli vers 13,00 € qui tient en clôture"
-    ],
-    [
-     "Sortie",
-     "12,20 €"
-    ],
-    [
-     "Objectif",
-     "15,00 €"
-    ],
-    [
-     "Exemple",
-     "15 actions, environ 195 €"
-    ],
-    [
-     "Perte max",
-     "environ 14 €, frais compris"
-    ],
-    [
-     "Gain visé",
-     "environ 28 €, frais compris"
-    ]
-   ],
-   "quand": "Seulement sur un repli vers 13 € qui tient, et une fois l'ATR disponible : la valeur doit d'abord entrer dans la liste suivie.",
-   "pourquoi": "Après des résultats supérieurs aux attentes, Barclays passe à l'achat avec un objectif doublé à 18 €, le 6 novembre. Le fait nouveau est réel.",
-   "contre": "Le titre a pris près de 20 % en deux séances et le pétrole reste proche de 98 dollars. Je ne cours pas après le mouvement."
-  },
-  {
-   "nom": "Infineon Technologies",
-   "statut": "Attendre",
-   "plan": [
-    [
-     "Déclencheur",
-     "Après les résultats du 10 novembre, clôture au-dessus de 48 €"
-    ],
-    [
-     "Entrée",
-     "48,20 €"
-    ],
-    [
-     "Sortie",
-     "45,20 €"
-    ],
-    [
-     "Objectif",
-     "54,20 €"
-    ],
-    [
-     "Exemple",
-     "4 actions, environ 193 €"
-    ],
-    [
-     "Perte max",
-     "environ 14 €, frais compris"
-    ],
-    [
-     "Gain visé",
-     "environ 22 €, frais compris"
-    ]
-   ],
-   "quand": "Jamais avant la publication de mardi : seulement si les résultats rassurent et que le cours tient au-dessus de 48 €.",
-   "pourquoi": "Ses résultats sont le vrai test des puces européennes. Le titre a perdu près de la moitié de sa valeur en six mois et finit à 45,76 €, près de son plus bas.",
-   "contre": "La tendance reste très baissière, la moyenne 20 jours (51,84 €) fera résistance, et l'inflation américaine tombe le même jour."
-  }
- ],
- "decouvertes": [
-  {
-   "nom": "Amundi PEA Émergents",
-   "isin": "FR0013412020",
-   "symbole": "PAEEM.PA",
-   "theme": "Ce qui manque à ton portefeuille",
-   "risque": "Modéré",
-   "pourquoi": "Tu es exposé aux États-Unis, à l'Europe et à la France, mais presque pas à l'Inde, à la Chine ou à Taïwan. Cet ETF ajoute une vraie diversification géographique.",
-   "aBorder": "Pour le long terme, par achats réguliers et en petite part du portefeuille. La baisse récente d'environ 9 % en 20 séances n'est pas en soi une raison d'acheter.",
-   "faux": "La tech asiatique pèse lourd dedans : ce n'est pas une protection totale si les puces continuent de baisser. Le risque de change existe aussi."
-  },
-  {
-   "nom": "Getlink",
-   "isin": "FR0010533075",
-   "symbole": "GET.PA",
-   "theme": "Une infrastructure qui encaisse des péages",
-   "risque": "Modéré",
-   "pourquoi": "Getlink exploite le tunnel sous la Manche et encaisse un péage à chaque passage de camion, de voiture ou de train : un revenu régulier, très différent de tes valeurs technologiques. Le titre est en tendance haussière, à 20,22 € le 6 novembre selon le radar, avec +7,9 % en 20 séances, et la baisse du pétrole réduit le coût de l'énergie pour ce type d'activité.",
-   "aBorder": "Pour le long terme et en petite ligne. Pas dans l'urgence : le RSI est à 78, le mouvement récent est déjà fort.",
-   "faux": "Un trafic transmanche qui recule, une hausse des coûts de l'énergie, ou des taux élevés qui pèsent sur les valeurs d'infrastructure endettées."
-  },
-  {
-   "nom": "Orange",
-   "isin": "FR0000133308",
-   "symbole": "ORA.PA",
-   "theme": "Le défensif que personne ne regarde",
-   "risque": "Modéré",
-   "pourquoi": "Valeur peu spectaculaire, mais qui équilibrerait un portefeuille chargé en tech. Le groupe a relevé son objectif 2026 fin octobre, selon le point du 30 octobre, et une part vaut environ 15 €.",
-   "aBorder": "Pour un investissement de plusieurs années, avec dividende. Vérifie le montant et la date du prochain dividende avant d'acheter.",
-   "faux": "Une dette trop lourde, ou une France qui ne progresse plus."
-  },
-  {
-   "nom": "Sanofi",
-   "isin": "FR0000120578",
-   "symbole": "SAN.PA",
-   "theme": "La santé, loin de la bulle de l'IA",
-   "risque": "Modéré",
-   "pourquoi": "Tu n'as aucune valeur de santé. Ce secteur réagit peu aux craintes sur l'IA, et les résultats du 3e trimestre ont dépassé les attentes selon le point du 30 octobre.",
-   "aBorder": "Pas maintenant : le titre a pris 17 % en 20 séances et son RSI est à 87. Je le garde en tête pour un repli, ou j'attends le prochain fait nouveau.",
-   "faux": "Déception sur un médicament clé, ou résultats simplement inférieurs à des attentes devenues élevées."
-  },
-  {
-   "nom": "Nexans",
-   "isin": "FR0000044448",
-   "symbole": "NEX.PA",
-   "theme": "Les câbles des réseaux électriques",
-   "risque": "Élevé",
-   "pourquoi": "Tu n'as aucune valeur liée à l'électrification. Nexans fabrique les câbles qui relient les réseaux et les parcs d'énergie ; le 6 novembre, il a remporté un contrat d'interconnexion en Grèce, selon ABC Bourse, et le titre a gagné environ 4,4 %.",
-   "aBorder": "À étudier sur plusieurs mois : le titre est sous ses moyennes 50 et 200 jours et une part vaut environ 123 €, soit plus de 15 % de ton portefeuille.",
-   "faux": "Des retards de grands projets, ou une baisse des investissements dans les réseaux électriques."
-  }
- ]
+  "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
+  "positions": [
+    {
+      "nom": "Amundi PEA Monde (MSCI World)",
+      "isin": "FR001400U5Q4",
+      "symbole": "DCAM.PA",
+      "action": "Garder",
+      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales, et une baisse ne se traite pas comme sur une action seule.",
+      "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
+      "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
+    },
+    {
+      "nom": "Amundi PEA Nasdaq-100",
+      "isin": "FR001400ZGR7",
+      "symbole": "PNAS.PA",
+      "action": "Garder",
+      "pourquoi": "Le Nasdaq a chuté de 5,5 % jeudi puis rebondi vendredi. L'ETF finit la semaine à 6,42 €, sous ses moyennes 20 et 50 jours (6,88 € et 6,89 €). C'est une baisse de marché, pas un problème propre à cette ligne, mais elle est concentrée sur la tech américaine.",
+      "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
+      "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
+    },
+    {
+      "nom": "Core CAC 40",
+      "isin": "FR0013380607",
+      "symbole": "CACC.PA",
+      "action": "Garder",
+      "pourquoi": "Ligne récente et diversifiée sur les grandes valeurs françaises, au-dessus de ses moyennes 50 et 200 jours.",
+      "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
+      "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
+    },
+    {
+      "nom": "Air Liquide",
+      "isin": "FR0000120073",
+      "symbole": "AI.PA",
+      "action": "Garder",
+      "sortie": 171.03,
+      "pourquoi": "Tu es en gain et la tendance reste haussière : 187,78 € à la clôture du 6 novembre, au-dessus de ses moyennes 20 et 50 jours (176,68 € et 171,85 €). Le titre a beaucoup monté. Avec une seule action, il n'y a rien à alléger.",
+      "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
+      "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
+    },
+    {
+      "nom": "Stellantis",
+      "isin": "NL00150001Q9",
+      "symbole": "STLAP.PA",
+      "action": "Garder",
+      "sortie": 3.75,
+      "pourquoi": "C'est ta ligne la plus risquée. Le titre a fini la semaine à 4,02 €, juste sous ton prix d'achat de 4,04 € et loin de ton niveau de sortie. Aucune nouvelle importante ce week-end.",
+      "vendreSi": "clôture sous 3,75 €, soit 2 ATR sous le cours. Sur 13 actions, la perte serait d'environ 5 € plus 1 € de frais.",
+      "renforcerSi": "non, tant que le cours n'a pas repassé durablement sa moyenne 50 jours (4,18 €) sur un fait nouveau."
+    },
+    {
+      "nom": "STMicroelectronics",
+      "isin": "NL0000226223",
+      "symbole": "STMPA.PA",
+      "action": "Vendre",
+      "sortie": 38.61,
+      "pourquoi": "Le titre a clôturé à 37,09 € le 5 novembre puis à 37,64 € le 6, deux fois sous 38,61 €, le niveau décidé à l'avance. Le rebond de vendredi suit celui des puces américaines. La moins-value ne doit pas guider ce choix : seule compte la règle que tu t'es fixée.",
+      "vendreSi": "condition remplie. Sur 2 actions, la vente rapporterait environ 74 € après 1 € de frais. Infineon publie le 10 novembre avant l'ouverture : si tu choisis d'attendre ce chiffre, c'est une exception à ta règle, à décider en connaissance de cause.",
+      "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de 44,05 €."
+    }
+  ],
+  "achats": [
+    {
+      "nom": "Socle : Amundi PEA Monde",
+      "statut": "Prêt",
+      "plan": [
+        [
+          "Ordre",
+          "Achat au marché, en séance"
+        ],
+        [
+          "Exemple",
+          "15 parts, environ 95 €"
+        ],
+        [
+          "Frais",
+          "1 €, soit environ 1 %"
+        ]
+      ],
+      "quand": "Quand tu as de l'épargne disponible, sans attendre un signal. Un seul ordre par mois limite les frais.",
+      "pourquoi": "C'est le seul achat que je peux te conseiller sans condition de marché : il vise le long terme. Garde d'abord une épargne de précaution hors bourse.",
+      "contre": "Les marchés peuvent baisser plusieurs années de suite. Cet achat n'a de sens que si tu peux laisser l'argent investi au moins 5 ans."
+    },
+    {
+      "nom": "Air France-KLM",
+      "statut": "Attendre",
+      "plan": [
+        [
+          "Déclencheur",
+          "Repli vers 13,00 € qui tient en clôture"
+        ],
+        [
+          "Sortie",
+          "12,20 €"
+        ],
+        [
+          "Objectif",
+          "15,00 €"
+        ],
+        [
+          "Exemple",
+          "15 actions, environ 195 €"
+        ],
+        [
+          "Perte max",
+          "environ 14 €, frais compris"
+        ],
+        [
+          "Gain visé",
+          "environ 28 €, frais compris"
+        ]
+      ],
+      "quand": "Seulement sur un repli vers 13 € qui tient, et une fois l'ATR disponible : la valeur doit d'abord entrer dans la liste suivie.",
+      "pourquoi": "Après des résultats supérieurs aux attentes, Barclays passe à l'achat avec un objectif doublé à 18 €, le 6 novembre. Le fait nouveau est réel.",
+      "contre": "Le titre a pris près de 20 % en deux séances et le pétrole reste proche de 98 dollars. Je ne cours pas après le mouvement."
+    },
+    {
+      "nom": "Infineon Technologies",
+      "statut": "Attendre",
+      "plan": [
+        [
+          "Déclencheur",
+          "Après les résultats du 10 novembre, clôture au-dessus de 48 €"
+        ],
+        [
+          "Entrée",
+          "48,20 €"
+        ],
+        [
+          "Sortie",
+          "45,20 €"
+        ],
+        [
+          "Objectif",
+          "54,20 €"
+        ],
+        [
+          "Exemple",
+          "4 actions, environ 193 €"
+        ],
+        [
+          "Perte max",
+          "environ 14 €, frais compris"
+        ],
+        [
+          "Gain visé",
+          "environ 22 €, frais compris"
+        ]
+      ],
+      "quand": "Jamais avant la publication de mardi : seulement si les résultats rassurent et que le cours tient au-dessus de 48 €.",
+      "pourquoi": "Ses résultats sont le vrai test des puces européennes. Le titre a perdu près de la moitié de sa valeur en six mois et finit à 45,76 €, près de son plus bas.",
+      "contre": "La tendance reste très baissière, la moyenne 20 jours (51,84 €) fera résistance, et l'inflation américaine tombe le même jour."
+    }
+  ],
+  "decouvertes": [
+    {
+      "nom": "Amundi PEA Émergents",
+      "isin": "FR0013412020",
+      "symbole": "PAEEM.PA",
+      "theme": "Ce qui manque à ton portefeuille",
+      "risque": "Modéré",
+      "pourquoi": "Tu es exposé aux États-Unis, à l'Europe et à la France, mais presque pas à l'Inde, à la Chine ou à Taïwan. Cet ETF ajoute une vraie diversification géographique.",
+      "aBorder": "Pour le long terme, par achats réguliers et en petite part du portefeuille. La baisse récente d'environ 9 % en 20 séances n'est pas en soi une raison d'acheter.",
+      "faux": "La tech asiatique pèse lourd dedans : ce n'est pas une protection totale si les puces continuent de baisser. Le risque de change existe aussi."
+    },
+    {
+      "nom": "Getlink",
+      "isin": "FR0010533075",
+      "symbole": "GET.PA",
+      "theme": "Une infrastructure qui encaisse des péages",
+      "risque": "Modéré",
+      "pourquoi": "Getlink exploite le tunnel sous la Manche et encaisse un péage à chaque passage de camion, de voiture ou de train : un revenu régulier, très différent de tes valeurs technologiques. Le titre est en tendance haussière, à 20,22 € le 6 novembre selon le radar, avec +7,9 % en 20 séances, et la baisse du pétrole réduit le coût de l'énergie pour ce type d'activité.",
+      "aBorder": "Pour le long terme et en petite ligne. Pas dans l'urgence : le RSI est à 78, le mouvement récent est déjà fort.",
+      "faux": "Un trafic transmanche qui recule, une hausse des coûts de l'énergie, ou des taux élevés qui pèsent sur les valeurs d'infrastructure endettées."
+    },
+    {
+      "nom": "Bureau Veritas",
+      "isin": "FR0006174348",
+      "symbole": "BVI.PA",
+      "theme": "Le contrôle et la certification, un métier discret",
+      "risque": "Modéré",
+      "pourquoi": "Tu n'as aucune valeur de services aux entreprises. Bureau Veritas inspecte et certifie bâtiments, usines, navires et produits : des revenus récurrents, liés aux normes plutôt qu'aux cycles de la tech. Le titre est en tendance haussière, à 29,95 € le 6 novembre selon le radar, avec +10,6 % en 20 séances.",
+      "aBorder": "À étudier pour le long terme, en petite ligne. Pas dans l'urgence : le RSI est à 73, le mouvement récent est déjà fort.",
+      "faux": "Un ralentissement industriel mondial qui réduit les missions d'inspection, ou une acquisition coûteuse mal digérée."
+    },
+    {
+      "nom": "Sanofi",
+      "isin": "FR0000120578",
+      "symbole": "SAN.PA",
+      "theme": "La santé, loin de la bulle de l'IA",
+      "risque": "Modéré",
+      "pourquoi": "Tu n'as aucune valeur de santé. Ce secteur réagit peu aux craintes sur l'IA, et les résultats du 3e trimestre ont dépassé les attentes selon le point du 30 octobre.",
+      "aBorder": "Pas maintenant : le titre a pris 17 % en 20 séances et son RSI est à 87. Je le garde en tête pour un repli, ou j'attends le prochain fait nouveau.",
+      "faux": "Déception sur un médicament clé, ou résultats simplement inférieurs à des attentes devenues élevées."
+    },
+    {
+      "nom": "Nexans",
+      "isin": "FR0000044448",
+      "symbole": "NEX.PA",
+      "theme": "Les câbles des réseaux électriques",
+      "risque": "Élevé",
+      "pourquoi": "Tu n'as aucune valeur liée à l'électrification. Nexans fabrique les câbles qui relient les réseaux et les parcs d'énergie ; le 6 novembre, il a remporté un contrat d'interconnexion en Grèce, selon ABC Bourse, et le titre a gagné environ 4,4 %.",
+      "aBorder": "À étudier sur plusieurs mois : le titre est sous ses moyennes 50 et 200 jours et une part vaut environ 123 €, soit plus de 15 % de ton portefeuille.",
+      "faux": "Des retards de grands projets, ou une baisse des investissements dans les réseaux électriques."
+    }
+  ]
 }

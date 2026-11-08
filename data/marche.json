@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-07T21:05:00+01:00",
-    "resume": "Samedi 7 novembre 2026, marchés fermés. À la clôture de vendredi, ton portefeuille vaut 757,52 € pour 799,28 € investis, soit -41,76 € : les cours de vendredi sont maintenant les vrais cours de clôture, un peu meilleurs que ceux de 15h25 affichés hier soir. STMicroelectronics reste à 37,64 €, sous ton niveau de sortie de 38,61 €. Le Brent a perdu environ 16 % sur la semaine sur l'espoir d'un accord avec l'Iran. Mardi 10 novembre : inflation américaine et résultats d'Infineon."
+    "date": "2026-11-08T21:05:00+01:00",
+    "resume": "Dimanche 8 novembre 2026, marchés fermés. Ton portefeuille vaut toujours 757,52 € pour 799,28 € investis, soit -41,76 €, aux cours de clôture de vendredi. Le fait du week-end : Donald Trump a confirmé de nouvelles frappes limitées sur une défense aérienne iranienne à Qeshm, alors que les discussions continuent via le Qatar, ce qui peut faire bouger le pétrole lundi. Mardi 10 novembre reste la journée clé : inflation américaine et résultats d'Infineon."
   },
   "actifs": [
     {
@@ -631,6 +631,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-11-08",
+          "titre": "Infineon publie mardi ses résultats annuels à 8h00, lors du salon electronica de Munich : un test direct pour les puces européennes",
+          "url": "https://fr.tradingview.com/news/afp:fc968e06994b0:0/"
+        },
+        {
           "date": "2026-11-06",
           "titre": "Lam Research annonce un rachat d'actions de 25 milliards de dollars et gagne environ 8 % : les équipementiers et fabricants de puces rebondissent après la chute de jeudi",
           "url": "https://www.xtb.com/fr/analyses-marches/resume-quotidien-wall-street-rebondit-apres-la-vague-de-ventes-le-dollar-americain-se-raffermit-grace-a-des-chiffres-solides-de-l-emploi-non-agricole-nfp-tandis-que-les-cours-du-petrole-reculent"
@@ -654,11 +659,6 @@
           "date": "2026-10-30",
           "titre": "STMicroelectronics recule d'environ 5,3 % à 41,88 € dans une chute générale des semi-conducteurs, après les résultats décevants d'Intel et d'Amazon aux États-Unis",
           "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "STMicroelectronics publie un chiffre d'affaires de 3,76 milliards de dollars au 3e trimestre et prévoit environ 4,15 milliards pour le 4e",
-          "url": "https://www.globenewswire.com/news-release/2026/10/29/3390920/0/fr/stmicroelectronics-annonce-ses-r%C3%A9sultats-financiers-du-troisi%C3%A8me-trimestre-2026.html"
         }
       ],
       "isin": "NL0000226223",
@@ -839,6 +839,18 @@
       "detail": "Publié : +165 000 postes contre environ 60 000 attendus, chômage à 4,1 %. Le chiffre renforce les paris sur une hausse des taux de la Fed en décembre"
     },
     {
+      "id": "eurogroupe-bce-2026-11",
+      "date": "2026-11-09",
+      "titre": "Eurogroupe : examen des candidatures à la présidence de la BCE",
+      "detail": "Les ministres des Finances de la zone euro puis de l'UE examinent les candidats à la succession à la tête de la BCE, selon l'agenda de l'AFP. Un choix qui peut orienter les taux européens"
+    },
+    {
+      "id": "cn-cpi-2026-10",
+      "date": "2026-11-09",
+      "titre": "Chine : inflation d'octobre",
+      "detail": "Publication à 2h30 heure de Paris, suivie du commerce extérieur mardi à 4h00 : un repère pour le luxe et les industriels européens exposés à la Chine"
+    },
+    {
       "id": "ifx-q4-2026",
       "date": "2026-11-10",
       "titre": "Infineon : résultats du 4e trimestre",
@@ -860,7 +872,13 @@
       "id": "us-ppi-2026-10",
       "date": "2026-11-13",
       "titre": "États-Unis : prix à la production d'octobre",
-      "detail": "Date indicative d'un calendrier privé, à confirmer auprès du BLS"
+      "detail": "Publication vendredi à 14h30 heure de Paris, confirmée par les agendas de l'AFP et de Zonebourse. Second chiffre d'inflation de la semaine après le CPI"
+    },
+    {
+      "id": "ez-gdp-q3-2026",
+      "date": "2026-11-13",
+      "titre": "Zone euro : PIB du 3e trimestre (2e estimation)",
+      "detail": "Publication à 11h00 selon l'agenda de l'AFP, le même jour que les prix à la production américains"
     },
     {
       "id": "us-retail-2026-10",
@@ -1041,6 +1059,11 @@
     },
     {
       "d": "2026-11-07",
+      "valeur": 757.52,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-08",
       "valeur": 757.52,
       "investi": 799.28
     }
