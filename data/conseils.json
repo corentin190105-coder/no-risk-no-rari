@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-08T21:05:00+01:00",
+  "maj": "2026-11-09T21:08:00+01:00",
   "verdict": {
-    "titre": "Dimanche sans changement : STMicroelectronics reste sur Vendre, aucun achat court terme avant mardi",
-    "texte": "Aux cours de vendredi, ton portefeuille vaut 757,52 €, soit -41,76 €. Les nouvelles frappes américaines en Iran rendent l'ouverture de lundi incertaine pour le pétrole, et mardi concentre l'inflation américaine et les résultats d'Infineon. STMicroelectronics reste sous 38,61 € : le plan reste sur Vendre, et attendre Infineon serait une exception à ta règle."
+    "titre": "STMicroelectronics repasse au-dessus de 38,61 € : on garde, sous surveillance stricte avant Infineon",
+    "texte": "Ton portefeuille vaut 767,96 €, soit -31,32 €, en hausse d'environ 10 € sur la journée grâce au rebond des puces et à la chute du pétrole. STMicroelectronics clôture à 39,63 €, au-dessus de son niveau de sortie : le signal de vente est annulé, mais le niveau de 38,61 € reste inchangé. Aucun achat court terme ce soir : demain apporte les résultats d'Infineon et l'inflation américaine."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -11,7 +11,7 @@
       "isin": "FR001400U5Q4",
       "symbole": "DCAM.PA",
       "action": "Garder",
-      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales, et une baisse ne se traite pas comme sur une action seule.",
+      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il reprend 0,9 % à 6,23 €, juste sous sa moyenne 20 jours (6,32 €), une variation normale pour ce type de placement.",
       "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
       "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
     },
@@ -20,7 +20,7 @@
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "Le Nasdaq a chuté de 5,5 % jeudi puis rebondi vendredi. L'ETF finit la semaine à 6,42 €, sous ses moyennes 20 et 50 jours (6,88 € et 6,89 €). C'est une baisse de marché, pas un problème propre à cette ligne, mais elle est concentrée sur la tech américaine.",
+      "pourquoi": "L'ETF reprend 1,5 % à 6,52 € avec le rebond de la tech américaine, malgré la chute d'environ 6 % de Nvidia, l'un de ses plus gros poids. Il reste sous ses moyennes 20 et 50 jours (6,84 € et 6,89 €) : c'est une baisse de marché concentrée sur la tech américaine, pas un problème propre à la ligne.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -29,7 +29,7 @@
       "isin": "FR0013380607",
       "symbole": "CACC.PA",
       "action": "Garder",
-      "pourquoi": "Ligne récente et diversifiée sur les grandes valeurs françaises, au-dessus de ses moyennes 50 et 200 jours.",
+      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle gagne 1,3 % à 41,92 €, au-dessus de ses moyennes 20 et 50 jours (40,49 € et 40,78 €), et c'est l'une de tes lignes en gain.",
       "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
       "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
     },
@@ -39,7 +39,7 @@
       "symbole": "AI.PA",
       "action": "Garder",
       "sortie": 171.03,
-      "pourquoi": "Tu es en gain et la tendance reste haussière : 187,78 € à la clôture du 6 novembre, au-dessus de ses moyennes 20 et 50 jours (176,68 € et 171,85 €). Le titre a beaucoup monté. Avec une seule action, il n'y a rien à alléger.",
+      "pourquoi": "Tu es en gain d'environ 7 € et la tendance reste haussière : 189,46 € ce soir, au-dessus de ses moyennes 20 et 50 jours (177,71 € et 172,25 €), tout près de son plus haut de six mois (190,90 €). Avec une seule action, il n'y a rien à alléger.",
       "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
       "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
     },
@@ -49,19 +49,19 @@
       "symbole": "STLAP.PA",
       "action": "Garder",
       "sortie": 3.75,
-      "pourquoi": "C'est ta ligne la plus risquée. Le titre a fini la semaine à 4,02 €, juste sous ton prix d'achat de 4,04 € et loin de ton niveau de sortie. Aucune nouvelle importante ce week-end.",
+      "pourquoi": "C'est ta ligne la plus risquée. Le titre recule de 1,2 % à 3,97 €, juste sous ton prix d'achat de 4,04 € et proche de sa moyenne 20 jours (3,95 €), sur un volume deux fois plus faible que d'habitude. Aucune nouvelle importante aujourd'hui.",
       "vendreSi": "clôture sous 3,75 €, soit 2 ATR sous le cours. Sur 13 actions, la perte serait d'environ 5 € plus 1 € de frais.",
-      "renforcerSi": "non, tant que le cours n'a pas repassé durablement sa moyenne 50 jours (4,18 €) sur un fait nouveau."
+      "renforcerSi": "non, tant que le cours n'a pas repassé durablement sa moyenne 50 jours (4,14 €) sur un fait nouveau."
     },
     {
       "nom": "STMicroelectronics",
       "isin": "NL0000226223",
       "symbole": "STMPA.PA",
-      "action": "Vendre",
+      "action": "Garder",
       "sortie": 38.61,
-      "pourquoi": "Le titre a clôturé à 37,09 € le 5 novembre puis à 37,64 € le 6, deux fois sous 38,61 €, le niveau décidé à l'avance. Le rebond de vendredi suit celui des puces américaines. La moins-value ne doit pas guider ce choix : seule compte la règle que tu t'es fixée.",
-      "vendreSi": "condition remplie. Sur 2 actions, la vente rapporterait environ 74 € après 1 € de frais. Infineon publie le 10 novembre avant l'ouverture : si tu choisis d'attendre ce chiffre, c'est une exception à ta règle, à décider en connaissance de cause.",
-      "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de 44,05 €."
+      "pourquoi": "Le titre mène le CAC 40 avec +5,3 % à 39,63 € et clôture au-dessus de 38,61 €, ce qui annule le signal de vente déclenché les 5 et 6 novembre. Mais il reste sous ses moyennes 20 et 50 jours (41,40 € et 43,94 €) : c'est un rebond, pas encore un retournement. Le niveau de sortie ne bouge pas : je ne le relève pas et je ne le baisse pas.",
+      "vendreSi": "nouvelle clôture sous 38,61 €, cette fois sans exception, même avant ou après une publication. Sur 2 actions, la vente rapporterait alors environ 76 € après 1 € de frais. Les résultats d'Infineon demain à 8h00 sont le premier test.",
+      "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de sa moyenne 50 jours, vers 44 €, sur un fait nouveau."
     }
   ],
   "achats": [
@@ -115,7 +115,7 @@
           "environ 28 €, frais compris"
         ]
       ],
-      "quand": "Seulement sur un repli vers 13 € qui tient, et une fois l'ATR disponible : la valeur doit d'abord entrer dans la liste suivie.",
+      "quand": "Seulement sur un repli vers 13 € qui tient, et une fois l'ATR disponible : la valeur doit d'abord entrer dans la liste suivie. Plan non revu ce soir : la chute du pétrole lui est favorable, mais le cours n'a pas été vérifié.",
       "pourquoi": "Après des résultats supérieurs aux attentes, Barclays passe à l'achat avec un objectif doublé à 18 €, le 6 novembre. Le fait nouveau est réel.",
       "contre": "Le titre a pris près de 20 % en deux séances et le pétrole reste proche de 98 dollars. Je ne cours pas après le mouvement."
     },
@@ -129,19 +129,19 @@
         ],
         [
           "Entrée",
-          "48,20 €"
+          "48,60 €"
         ],
         [
           "Sortie",
-          "45,20 €"
+          "45,60 €"
         ],
         [
           "Objectif",
-          "54,20 €"
+          "54,60 €"
         ],
         [
           "Exemple",
-          "4 actions, environ 193 €"
+          "4 actions, environ 194 €"
         ],
         [
           "Perte max",
@@ -152,9 +152,9 @@
           "environ 22 €, frais compris"
         ]
       ],
-      "quand": "Jamais avant la publication de mardi : seulement si les résultats rassurent et que le cours tient au-dessus de 48 €.",
-      "pourquoi": "Ses résultats sont le vrai test des puces européennes. Le titre a perdu près de la moitié de sa valeur en six mois et finit à 45,76 €, près de son plus bas.",
-      "contre": "La tendance reste très baissière, la moyenne 20 jours (51,84 €) fera résistance, et l'inflation américaine tombe le même jour."
+      "quand": "Jamais avant la publication de demain 8h00 : seulement si les résultats rassurent et que le cours tient au-dessus de 48 € en clôture.",
+      "pourquoi": "Ses résultats sont le vrai test des puces européennes. Le titre a déjà repris 6,3 % à 48,63 € ce soir avec le rebond du secteur, sur un volume supérieur à la moyenne.",
+      "contre": "Ce rebond la veille des chiffres augmente le risque de déception. La tendance reste baissière sous les moyennes 20 et 50 jours (51,41 € et 55,39 €), et l'inflation américaine tombe le même jour."
     }
   ],
   "decouvertes": [
@@ -199,14 +199,14 @@
       "faux": "Déception sur un médicament clé, ou résultats simplement inférieurs à des attentes devenues élevées."
     },
     {
-      "nom": "Nexans",
-      "isin": "FR0000044448",
-      "symbole": "NEX.PA",
-      "theme": "Les câbles des réseaux électriques",
-      "risque": "Élevé",
-      "pourquoi": "Tu n'as aucune valeur liée à l'électrification. Nexans fabrique les câbles qui relient les réseaux et les parcs d'énergie ; le 6 novembre, il a remporté un contrat d'interconnexion en Grèce, selon ABC Bourse, et le titre a gagné environ 4,4 %.",
-      "aBorder": "À étudier sur plusieurs mois : le titre est sous ses moyennes 50 et 200 jours et une part vaut environ 123 €, soit plus de 15 % de ton portefeuille.",
-      "faux": "Des retards de grands projets, ou une baisse des investissements dans les réseaux électriques."
+      "nom": "Crédit Agricole",
+      "isin": "FR0000045072",
+      "symbole": "ACA.PA",
+      "theme": "Les banques, absentes de ton portefeuille",
+      "risque": "Modéré",
+      "pourquoi": "Tu n'as aucune banque. Le 9 novembre, Crédit Agricole a proposé de fusionner sa filiale italienne avec Banco BPM, troisième banque d'Italie, pour monter à 45 % de son capital, selon BFM Bourse. Le titre a fini quasi stable à 15,79 €, une part reste très abordable.",
+      "aBorder": "À étudier pour le long terme, en petite ligne, une fois connues les conditions de l'opération et la réaction des autorités italiennes.",
+      "faux": "Une opération coûteuse en capital, un refus politique en Italie, ou une baisse des taux qui réduirait les marges des banques."
     }
   ]
 }

@@ -348,3 +348,15 @@ Les sanctions économiques sont des mesures prises par un État, l'Union europé
 **Références**
 - [Direction générale du Trésor : Sanctions économiques et financières](https://www.tresor.economie.gouv.fr/services-aux-entreprises/sanctions-economiques)
 - [Conseil de l'UE : Sanctions de l'UE à l'encontre de l'Iran](https://www.consilium.europa.eu/fr/policies/sanctions-against-iran/)
+
+## Q: Qu'est-ce que la gouvernance d'entreprise ?
+
+_2026-11-09 21:08 CET_
+
+La gouvernance d'entreprise désigne l'ensemble des règles qui organisent la manière dont une société est dirigée et contrôlée : qui décide, qui surveille les dirigeants, et comment les actionnaires sont informés. En France, elle repose sur le conseil d'administration, des administrateurs indépendants, des comités d'audit et de rémunération, et des codes de place comme le code Afep-Medef. Pour un investisseur, une bonne gouvernance réduit le risque qu'un dirigeant prenne des décisions dans son propre intérêt ou cache une information importante. Quand elle est mise en doute, le cours peut chuter même si l'activité va bien : lundi, Nvidia a perdu environ 6 % après l'ouverture par son conseil d'une enquête sur une relation de son PDG avec une personne soupçonnée d'espionnage, alors que ses ventes ne sont pas en cause. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [La finance pour tous : Gouvernement (ou gouvernance) d'entreprise](https://www.lafinancepourtous.com/decryptages/entreprise/bourse-et-actionnaires/gouvernement-ou-gouvernance-d-entreprise/)
+- [Investopedia : Corporate Governance ⚠️](https://www.investopedia.com/terms/c/corporategovernance.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction
