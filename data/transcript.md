@@ -360,3 +360,16 @@ La gouvernance d'entreprise désigne l'ensemble des règles qui organisent la ma
 - [Investopedia : Corporate Governance ⚠️](https://www.investopedia.com/terms/c/corporategovernance.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le risque de change ?
+
+_2026-11-10 21:04 CET_
+
+Le risque de change est le risque que la valeur d'un placement, mesurée en euros, varie à cause du taux de change entre l'euro et une autre devise, et pas seulement à cause du placement lui-même. Un ETF coté en euros qui détient des actions américaines sans couverture de change suit en réalité deux mouvements : celui des actions en dollars et celui du dollar face à l'euro. Quand le dollar monte, la valeur en euros de ces actions monte d'autant, et l'inverse quand il baisse. Mardi, l'euro a perdu environ 0,65 % à 1,115 dollar après l'inflation américaine, si bien que l'ETF PEA Nasdaq-100 a fini quasi stable à Paris alors que le Nasdaq reculait d'environ 1,3 % à la même heure. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [AMF : Ce qu'il faut savoir sur les ETF avant d'investir (risque de change)](https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/placements-collectifs/trackers-etf)
+- [AMF : Connaissez-vous vraiment les risques des différents placements financiers ?](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/cadrer-son-projet/risques-et-rendements-des-placements/connaissez-vous-vraiment-les-risques-des-differents-placements-financiers)
+- [Investopedia : Exchange Rate Risk ⚠️](https://www.investopedia.com/terms/e/exchangeraterisk.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

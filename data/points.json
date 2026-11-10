@@ -1,6 +1,301 @@
 {
   "points": [
     {
+      "date": "2026-11-10",
+      "titre": "L'inflation américaine freine le CAC 40 (+0,55 %) et rend quasi certaine une hausse des taux de la Fed",
+      "resume": "Le CAC 40 gagne 0,55 % à 8 278,59 points, son plus haut depuis début septembre, porté par le pétrole au plus bas depuis près de deux mois, mais il a perdu la moitié de sa hausse après l'inflation américaine d'octobre, plus forte que prévu. Wall Street recule, le Nasdaq en tête, et le dollar signe sa meilleure séance depuis septembre. Infineon rassure avec ses résultats, mais les valeurs de puces rendent une partie de leurs gains en fin de journée.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 278,59 pts",
+          "variation": 0.55
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "≈ 6 337 pts",
+          "variation": 0.74
+        },
+        {
+          "nom": "S&P 500 (provisoire, vers 18h30)",
+          "valeur": "≈ 7 484 pts",
+          "variation": -0.87
+        },
+        {
+          "nom": "Nasdaq (provisoire, vers 18h30)",
+          "valeur": "≈ 24 922 pts",
+          "variation": -1.31
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "60 459,58 pts",
+          "variation": 2.87
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "24 557,04 pts",
+          "variation": 0.44
+        },
+        {
+          "nom": "Brent (clôture européenne)",
+          "valeur": "92,00 $",
+          "variation": -0.62
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 4 053 $",
+          "variation": -2.1
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "1,1150 $",
+          "variation": -0.65
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Inflation américaine : troisième mois au-dessus des attentes",
+          "texte": "Les prix à la consommation ont augmenté de 0,4 % en octobre contre 0,3 % attendu, et de 0,3 % hors énergie et alimentation contre 0,2 %. Fait inédit depuis 1941, aucun taux sur un an n'a pu être calculé, faute de données d'octobre 2025 à cause du « shutdown ». Selon l'outil FedWatch cité par BFM Bourse, une hausse des taux de la Fed le 9 décembre est désormais quasi certaine, et la présidente de la Fed de Dallas plaide même pour au moins un demi-point."
+        },
+        {
+          "titre": "Taux et dollar : forte tension",
+          "texte": "Le rendement à dix ans américain a bondi d'environ 15 points de base à 5,01 %, et le deux ans de 21 points à 4,76 %, selon Reuters. Le dollar signe sa meilleure séance depuis septembre et l'euro recule de 0,65 % à 1,115 dollar. En France, l'OAT à dix ans finit vers 4,80 %."
+        },
+        {
+          "titre": "Pétrole : au plus bas depuis près de deux mois",
+          "texte": "Le Brent termine vers 92 dollars (-0,6 %), après être passé brièvement sous 90 dollars, une première depuis août selon Les Echos cité par Quartz. Marco Rubio a affirmé que les sanctions et le blocus naval rendaient inutiles de grandes opérations de combat en Iran, après la suspension des frappes annoncée par Donald Trump. Les analystes restent prudents : rien de concret ne montre encore qu'un accord de paix est proche."
+        },
+        {
+          "titre": "IA : Anthropic fixe les conditions de son entrée en Bourse",
+          "texte": "Anthropic prévoit de vendre 825 millions d'actions entre 70 et 78 dollars, pour une valorisation pouvant atteindre environ 1 400 milliards de dollars, sous la fourchette évoquée jusqu'ici par la presse américaine. Le prix doit être fixé le 18 novembre, pour une cotation au Nasdaq le lendemain. Ce sera un test de l'appétit des investisseurs pour l'IA, alors que Nvidia reste fragilisée par l'enquête visant son PDG."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 769.51,
+        "pv": -29.77,
+        "texte": "Ton portefeuille vaut 769,51 € pour 799,28 € investis, soit -29,77 €, en hausse d'environ 1,55 € sur la journée. Air Liquide (+0,5 %, plus haut de clôture à 190,34 €), STMicroelectronics (+1,2 %) et l'ETF CAC 40 (+0,5 %) compensent la baisse de 3,45 % de Stellantis, tandis que la hausse du dollar a protégé l'ETF Nasdaq-100 de la baisse de Wall Street."
+      },
+      "valeurs": [
+        {
+          "nom": "Stellantis",
+          "texte": "Le titre recule de 3,45 % à 3,83 € et finit au plus bas du jour, sans nouvelle propre trouvée, dans un secteur automobile en repli (Forvia -2,9 %). Il n'est plus qu'à 2,2 % de ton niveau de sortie de 3,75 € ; le groupe a par ailleurs confirmé la vente de son usine canadienne de Brampton."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Porté par les résultats d'Infineon, le titre a touché 41,08 € avant de rendre l'essentiel de sa hausse après l'inflation américaine, pour finir à 40,11 € (+1,2 %). Il reste au-dessus de ton niveau de sortie de 38,61 €, mais sous sa moyenne 20 jours (41,24 €)."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Le titre gagne 0,5 % à 190,34 €, son plus haut cours de clôture depuis au moins six mois, sans annonce propre au groupe. C'est ta meilleure ligne, avec un gain d'environ 8 €."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "L'ETF finit quasi stable à 6,53 € (+0,1 %) alors que le Nasdaq reculait d'environ 1,3 % à la clôture de Paris : la hausse du dollar face à l'euro a amorti la baisse. C'est le risque de change, expliqué dans le concept du jour."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Saint-Gobain",
+          "isin": "FR0000125007",
+          "risque": "Modéré",
+          "prix": "≈ 76 € la part",
+          "texte": "Saint-Gobain gagne 1,87 % à 76,34 €, parmi les meilleures hausses du CAC 40 selon l'AFP, porté par un Brent revenu vers 92 dollars, son plus bas depuis près de deux mois. Ce fabricant de matériaux de construction (verre, isolation, plâtre) consomme beaucoup d'énergie : un pétrole et un gaz moins chers soulagent directement ses marges, et la rénovation énergétique soutient sa demande. Le titre a déjà pris environ 9 % en cinq séances, ce qui invite à ne pas courir après le mouvement. Le principal risque : une reprise des tensions avec l'Iran ferait remonter l'énergie, et des taux plus élevés freinent le bâtiment."
+        },
+        {
+          "nom": "Edenred",
+          "isin": "FR0010908533",
+          "risque": "Élevé",
+          "prix": "≈ 26 € la part",
+          "texte": "Edenred bondit de 6,37 % à 25,89 €, en tête du SBF 120, après qu'un tribunal fédéral brésilien a suspendu une partie de la réforme des titres-restaurant, notamment le plafonnement des commissions, selon ABC Bourse. Le Brésil est le premier marché mondial de ces titres, et cette réforme expliquait une bonne part de la baisse d'environ 13 % du titre sur les 20 séances précédentes. Une part coûte environ 26 €, ce qui reste accessible avec un petit budget. Le principal risque : la décision est provisoire et peut être annulée en appel, ce qui effacerait le rebond aussi vite."
+        },
+        {
+          "nom": "Infineon Technologies",
+          "isin": "DE0006231004",
+          "risque": "Très élevé",
+          "prix": "≈ 49 € la part",
+          "texte": "Infineon a publié des résultats annuels solides : 16,35 milliards d'euros de chiffre d'affaires (+12 %), un quatrième trimestre record à 4,71 milliards, et un objectif d'environ 20 milliards en 2027, avec des ventes aux centres de données d'IA relevées vers 4 milliards. Le titre a bondi jusqu'à 52,06 € avant de rendre presque tout son gain après l'inflation américaine, pour finir à 49,05 € (+0,9 %). C'est une façon européenne, éligible au PEA, de s'exposer à l'électrification des centres de données. Le principal risque : la tendance reste baissière, sous sa moyenne 50 jours vers 55 €, après une chute de près de moitié en six mois, et des taux américains à 5 % pénalisent la tech."
+        }
+      ],
+      "idee": {
+        "nom": "Saint-Gobain",
+        "isin": "FR0000125007",
+        "risque": "Modéré",
+        "prix": "≈ 76 € la part",
+        "texte": "Saint-Gobain gagne 1,87 % à 76,34 €, parmi les meilleures hausses du CAC 40 selon l'AFP, porté par un Brent revenu vers 92 dollars, son plus bas depuis près de deux mois. Ce fabricant de matériaux de construction (verre, isolation, plâtre) consomme beaucoup d'énergie : un pétrole et un gaz moins chers soulagent directement ses marges, et la rénovation énergétique soutient sa demande. Le titre a déjà pris environ 9 % en cinq séances, ce qui invite à ne pas courir après le mouvement. Le principal risque : une reprise des tensions avec l'Iran ferait remonter l'énergie, et des taux plus élevés freinent le bâtiment."
+      },
+      "concept": {
+        "terme": "Le risque de change",
+        "texte": "Le risque de change est le risque que la valeur d'un placement, mesurée en euros, varie à cause du taux de change entre l'euro et une autre devise, et pas seulement à cause du placement lui-même. Un ETF coté en euros qui détient des actions américaines sans couverture de change suit en réalité deux mouvements : celui des actions en dollars et celui du dollar face à l'euro. Quand le dollar monte, la valeur en euros de ces actions monte d'autant, et l'inverse quand il baisse. Mardi, l'euro a perdu environ 0,65 % à 1,115 dollar après l'inflation américaine, si bien que l'ETF PEA Nasdaq-100 a fini quasi stable à Paris alors que le Nasdaq reculait d'environ 1,3 % à la même heure. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "AMF : Ce qu'il faut savoir sur les ETF avant d'investir (risque de change)",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/placements-collectifs/trackers-etf"
+          },
+          {
+            "titre": "AMF : Connaissez-vous vraiment les risques des différents placements financiers ?",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/cadrer-son-projet/risques-et-rendements-des-placements/connaissez-vous-vraiment-les-risques-des-differents-placements-financiers"
+          },
+          {
+            "titre": "Investopedia : Exchange Rate Risk ⚠️",
+            "url": "https://www.investopedia.com/terms/e/exchangeraterisk.asp"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché européen reste porteur grâce au pétrole, mais le cadre se durcit : l'inflation américaine dépasse les attentes, une hausse des taux de la Fed le 9 décembre est quasi certaine, le taux à dix ans américain repasse au-dessus de 5 % et le Nasdaq recule d'environ 1,3 %. Dans ce contexte, les valeurs technologiques qui montent le matin peuvent rendre leurs gains l'après-midi, comme Infineon et Soitec aujourd'hui : aucune idée ne passe tous les critères ce soir. Le journal ne compte encore aucune idée close, l'échantillon est trop petit pour juger la méthode. Sur tes lignes, Stellantis finit au plus bas du jour à 3,83 € (-3,45 %), à seulement 2,2 % de ton niveau de sortie de 3,75 € : c'est la position à surveiller demain ; STMicroelectronics (40,11 €) reste au-dessus de 38,61 € et Air Liquide signe un plus haut de clôture à 190,34 €.",
+        "opportunites": [
+          {
+            "nom": "Infineon Technologies",
+            "isin": "DE0006231004",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Résultats annuels du 10 novembre et objectif 2027 relevé pour les centres de données",
+            "cours": "49,05 €",
+            "entree": "50,50 €, seulement sur une clôture au-dessus",
+            "invalidation": "47,40 €",
+            "objectif": "56,80 €",
+            "ratio": "2,0",
+            "frais": "2 € soit 1,3 % sur 3 actions",
+            "these": "Les chiffres sont bons et le catalyseur est réel : chiffre d'affaires annuel de 16,35 milliards d'euros (+12 %), dividende relevé à 0,38 €, et environ 4 milliards de ventes visées dans les centres de données en 2027. Mais le marché n'a pas tenu le mouvement : ouverture à 50,88 €, plus haut à 52,06 €, clôture à 49,05 €, soit un gain réduit à 0,9 % sur un volume proche de sa moyenne. Le titre reste sous ses moyennes 20 et 50 jours (51,12 € et 55,28 €), donc en tendance baissière. Une clôture au-dessus de 50,50 € montrerait que les acheteurs reprennent la main ; l'invalidation à 47,40 € est à environ 1 ATR (3,06 €) et 6,1 % sous l'entrée. Je n'ai vérifié ni les dirigeants, ni les positions courtes, ni le consensus ce soir.",
+            "risque": "Des taux américains à 5 % et une Fed plus dure pèsent d'abord sur la tech. Sur 3 actions, la perte à l'invalidation serait d'environ 11 € frais compris, soit 1,5 % de ton portefeuille."
+          },
+          {
+            "nom": "Edenred",
+            "isin": "FR0010908533",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Suspension partielle de la réforme brésilienne des titres-restaurant par la justice, le 10 novembre",
+            "cours": "25,89 €",
+            "entree": "25,00 €, sur un repli qui tient en clôture",
+            "invalidation": "23,90 €",
+            "objectif": "27,60 €",
+            "ratio": "2,4",
+            "frais": "2 € soit 1,0 % sur 8 actions",
+            "these": "Le fait nouveau est daté et important, car le Brésil est le premier marché mondial des titres-restaurant. Mais le titre a déjà pris 6,37 % sur un volume environ 1,6 fois supérieur à celui de la veille, soit environ 1,5 ATR (1,05 € selon le radar) : acheter ce soir reviendrait à courir après le mouvement. Edenred n'est pas encore dans la liste suivie par le site, donc son ATR n'est pas dans le fichier de cours : je l'y ajoute ce soir. Un repli vers 25 € qui tient permettrait une entrée avec une invalidation à 23,90 €, environ 1 ATR et 4,4 % plus bas, et un objectif vers sa moyenne 50 jours (27,62 €).",
+            "risque": "La décision brésilienne est provisoire et peut être annulée en appel. Sur 8 actions, la perte à l'invalidation serait d'environ 11 € frais compris, soit 1,4 % de ton portefeuille."
+          }
+        ],
+        "retro": ""
+      },
+      "lecon": {
+        "titre": "Gérer le risque : fixer un niveau de sortie et choisir la taille de sa position",
+        "niveau": "Intermédiaire",
+        "texte": "Après l'analyse technique, place à la règle qui protège le plus un petit portefeuille : décider combien on accepte de perdre avant d'acheter. Le niveau de sortie, ou invalidation, est le cours auquel ton idée est jugée fausse ; on le place sous un support ou à au moins 1 ATR de l'entrée, pour ne pas être sorti par une simple variation normale. La perte possible par action est alors l'écart entre l'entrée et la sortie. On en déduit la taille de la position : nombre d'actions = perte maximale acceptée divisée par cet écart, en retirant les frais. Beaucoup d'investisseurs limitent cette perte à 1 à 2 % du portefeuille par idée ; le site fixe un plafond de 3 %. Un ordre stop peut exécuter la sortie automatiquement, mais il ne garantit pas le prix : en cas de chute brutale, il s'exécute au premier cours disponible. Enfin, un niveau de sortie ne se déplace jamais vers le bas pour éviter de vendre.",
+        "exemple": "Ta ligne Stellantis compte 13 actions achetées 4,04 €, avec une sortie à 3,75 €. Si elle est touchée, la perte serait de 13 × 0,29 € = 3,77 €, plus 2 € de frais d'achat et de vente, soit environ 5,77 €, c'est-à-dire 0,75 % de ton portefeuille de 769,51 €. Ce soir, le titre finit à 3,83 € : il ne reste qu'environ 1 € de baisse possible avant ce seuil.",
+        "references": [
+          {
+            "titre": "AMF : De l'achat à la vente de votre titre coté en bourse (ordre stop)",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-marches-financiers/les-ordres-de-bourse/acheter-et-vendre-un-titre-cote-en-bourse"
+          },
+          {
+            "titre": "AMF, médiateur : un ordre à seuil de déclenchement ne permet pas de maîtriser le prix d'exécution",
+            "url": "https://www.amf-france.org/fr/le-mediateur/journal-de-bord-du-mediateur/dossiers-du-mois/un-ordre-seuil-de-declenchement-ne-permet-pas-de-maitriser-le-prix-dexecution"
+          },
+          {
+            "titre": "ABC Bourse : Comment utiliser les ordres stop en bourse ?",
+            "url": "https://www.abcbourse.com/apprendre/2_comment_utiliser_les_ordres_stop.html"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Tu acceptes de perdre au maximum 12 € sur une idée, frais mis à part. Entrée prévue à 30 €, sortie à 28 €. Combien d'actions peux-tu acheter au maximum ?",
+          "choix": [
+            "4 actions",
+            "6 actions",
+            "12 actions",
+            "15 actions"
+          ],
+          "bonne": 1,
+          "explication": "La perte par action est de 30 - 28 = 2 €. Avec 12 € de perte maximale, cela fait 12 / 2 = 6 actions."
+        },
+        {
+          "question": "Tu détiens un ETF coté en euros, sans couverture de change, qui suit des actions américaines. L'indice ne bouge pas en dollars, mais le dollar monte de 2 % face à l'euro. Que devient la valeur de ton ETF en euros ?",
+          "choix": [
+            "Elle baisse d'environ 2 %",
+            "Elle ne bouge pas, puisque l'ETF est coté en euros",
+            "Elle monte d'environ 2 %",
+            "Elle varie seulement si la BCE change ses taux"
+          ],
+          "bonne": 2,
+          "explication": "Les actions sont valorisées en dollars : quand le dollar gagne 2 % face à l'euro, leur valeur en euros monte d'autant. La cotation en euros ne supprime pas le risque de change."
+        },
+        {
+          "question": "Révision : l'action A a un PER de 8, l'action B un PER de 25. Que peut-on en conclure ?",
+          "choix": [
+            "A est forcément une meilleure affaire",
+            "B va forcément baisser",
+            "Le PER ne sert que pour les banques",
+            "Le marché paie B bien plus cher par euro de bénéfice, souvent parce qu'il attend plus de croissance ; il faut comprendre pourquoi A est si peu chère"
+          ],
+          "bonne": 3,
+          "explication": "Le PER compare le prix au bénéfice. Un PER bas peut cacher un problème, un PER élevé refléter une croissance attendue : il se lit toujours avec le contexte."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-11",
+          "titre": "Siemens Energy et Vestas : résultats ; OPEP : rapport mensuel sur le pétrole"
+        },
+        {
+          "date": "2026-11-12",
+          "titre": "Siemens et Allianz : résultats ; aux États-Unis, Applied Materials et Cisco"
+        },
+        {
+          "date": "2026-11-13",
+          "titre": "États-Unis : prix à la production (14h30) ; zone euro : PIB du 3e trimestre (11h00)"
+        },
+        {
+          "date": "2026-11-17",
+          "titre": "États-Unis : ventes au détail d'octobre (date à confirmer)"
+        },
+        {
+          "date": "2026-11-18",
+          "titre": "Anthropic : prix de l'introduction en Bourse ; Soitec : résultats semestriels (à confirmer) ; Fed : compte rendu de la réunion d'octobre (20h00)"
+        },
+        {
+          "date": "2026-11-19",
+          "titre": "Anthropic : premier jour de cotation au Nasdaq (prévu)"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "BFM Bourse : freiné par l'inflation américaine, le CAC 40 échoue aux portes des 8 300 points (10 novembre)",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-freine-par-l-inflation-americaine-le-cac-40-echoue-aux-portes-des-8300-points-1173544.html"
+        },
+        {
+          "titre": "Reuters via Boursorama : l'Europe finit en hausse, tumulte à Wall Street après l'inflation (10 novembre)",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-tumulte-a-wall-street-apres-l-inflation-91fe46dc5a4dc37def19f7796cd825f2"
+        },
+        {
+          "titre": "Quartz : le CAC 40 termine en hausse de 0,55 % avec la baisse du pétrole (10 novembre)",
+          "url": "https://fr.qz.com/cac-40-hausse-petrole-inflation-americaine-bourse-111026"
+        },
+        {
+          "titre": "Boursorama : une publication annuelle rassurante galvanise Infineon (10 novembre)",
+          "url": "https://www.boursorama.com/bourse/actualites-amp/une-publication-annuelle-rassurante-galvanise-infineon-4b81c2d9bb307ce5d4b6818305d66dc1"
+        },
+        {
+          "titre": "ABC Bourse : Edenred et Pluxee montent, la réforme des titres-restaurant suspendue au Brésil (10 novembre)",
+          "url": "https://www.abcbourse.com/marches/edenred-et-pluxee-montent-en-bourse-la-reforme-des-titres-restaurant-suspendue_705916"
+        },
+        {
+          "titre": "USAGOLD : l'or recule de 2,1 % après l'inflation américaine (10 novembre)",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-10-2026/"
+        },
+        {
+          "titre": "Stock Titan : Stellantis vend l'usine de Brampton à Roshel",
+          "url": "https://www.stocktitan.net/sec-filings/STLA/6-k-stellantis-n-v-current-report-foreign-issuer-621980e3f65e.html"
+        },
+        {
+          "titre": "Yahoo Finance via Firecrawl : cours de clôture du 10 novembre (source non officielle)",
+          "url": "https://finance.yahoo.com/quote/STLAP.PA/history/"
+        }
+      ]
+    },
+    {
       "date": "2026-11-09",
       "titre": "Le CAC 40 rebondit de 1,16 % avec la chute du pétrole, les puces repartent malgré la chute de Nvidia",
       "resume": "La Bourse de Paris a effacé une partie des ventes de la semaine passée : le CAC 40 gagne 1,16 % à 8 233,30 points, porté par un pétrole en net recul sur des signes d'assouplissement de l'Iran et par le retour des achats sur les puces, STMicroelectronics en tête. À Wall Street, la hausse se poursuit malgré la chute d'environ 6 % de Nvidia, visée par une enquête interne sur son PDG. Demain concentre les risques de la semaine, avec les résultats d'Infineon et l'inflation américaine.",
@@ -5352,152 +5647,6 @@
           "url": "https://www.zonebourse.com/cours/action/THALES-4715/"
         }
       ]
-    },
-    {
-      "date": "2026-10-09",
-      "titre": "Le pétrole se détend après les propos de Trump sur l'Iran : le CAC 40 rebondit de 0,95 %",
-      "resume": "Le CAC 40 a gagné 0,95 % à 7 803 points, mais il perd 1,19 % sur la semaine. Donald Trump a affirmé que les États-Unis n'attaqueraient pas l'Iran avant les élections du 3 novembre, ce qui a fait reculer le pétrole et apaisé les taux d'emprunt. Wall Street a aussi terminé en hausse, avant la saison des résultats d'entreprises et les chiffres d'inflation de la semaine prochaine.",
-      "humeur": "hausse",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 803 pts",
-          "variation": 0.95
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "7 812 pts",
-          "variation": 0.59
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "27 366 pts",
-          "variation": 0.64
-        },
-        {
-          "nom": "Dow Jones",
-          "valeur": "51 655 pts",
-          "variation": 0.83
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 103 $",
-          "variation": -1.0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Pétrole : le Brent recule autour de 103 dollars",
-          "texte": "Après la flambée de la veille, le baril a perdu environ 1 % quand Donald Trump a parlé de discussions productives avec Téhéran et exclu une attaque avant le 3 novembre. Le blocus américain des ports iraniens reste en place, donc la tension peut revenir vite. Le niveau exact de clôture du Brent n'a pas pu être confirmé."
-        },
-        {
-          "titre": "Taux : un peu de répit, mais le niveau reste très haut",
-          "texte": "Le taux américain à 10 ans, monté jusqu'à 5,36 % cette semaine (un plus haut depuis 2002), est revenu vers 5,24 % vendredi. En France, l'écart avec le taux allemand à 10 ans a atteint 156 points de base, signe d'une inquiétude sur le budget et la situation politique."
-        },
-        {
-          "titre": "Inflation : rendez-vous clé la semaine prochaine",
-          "texte": "L'inflation américaine de septembre sera publiée le 14 octobre et l'inflation définitive de la zone euro le 16 octobre. Avec un pétrole proche de 100 dollars, ces chiffres diront si la Fed et la BCE ont de bonnes raisons de relever encore leurs taux."
-        },
-        {
-          "titre": "Résultats d'entreprises : la saison démarre",
-          "texte": "Les analystes attendent en moyenne une hausse des bénéfices du S&P 500 d'environ 30 % sur un an, tirée par l'énergie. Les premiers résultats de banques américaines lancent la saison et pourront faire bouger les marchés."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 392.3,
-        "pv": -6.9,
-        "texte": "Ton portefeuille vaut 392,30 € pour 399,20 € investis, soit 6,90 € de moins-value. L'ETF MSCI World progresse (+0,54 %), mais STMicroelectronics recule encore de 3 %, et les cours de l'ETF Nasdaq-100 n'ont pas pu être confirmés pour la clôture."
-      },
-      "valeurs": [
-        {
-          "nom": "Soitec",
-          "texte": "Bond de 4,95 % à 159,95 €, parmi les plus fortes hausses du CAC 40 et du SBF 120, après la chute de la veille liée aux doutes sur les revenus d'OpenAI."
-        },
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Nouveau recul de 3 % vers 46,55 € en fin de séance, à contre-courant du marché. Prochain rendez-vous : les résultats du 29 octobre."
-        },
-        {
-          "nom": "Riber",
-          "texte": "Repli de 3,46 % à 8,10 € après la chute de 12,5 % de la veille, sans annonce de la société."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Schneider Electric",
-          "isin": "FR0000121972",
-          "risque": "Modéré",
-          "prix": "≈ 266 € la part",
-          "texte": "Schneider fournit l'électricité, le refroidissement et les logiciels dont les centres de données de l'IA ont besoin. Le titre a perdu environ 10 % le 5 octobre après l'annonce du rachat de l'éditeur américain PTC pour environ 22,6 milliards de dollars, et il rebondit de 2 % vendredi. Le principal risque : un très gros rachat à intégrer, financé en grande partie par de la dette, dans un contexte de taux élevés."
-        },
-        {
-          "nom": "Exosens",
-          "isin": "FR001400Q9V2",
-          "risque": "Élevé",
-          "prix": "≈ 55 € la part",
-          "texte": "Exosens conçoit des capteurs et des tubes de vision nocturne et des détecteurs utilisés dans la défense, le nucléaire et l'imagerie scientifique, un thème de photonique porté par les budgets militaires. L'action a reculé d'environ 7 % en cinq séances et le consensus des analystes vise un cours moyen plus élevé. Le principal risque : une valeur de taille moyenne, très sensible aux commandes publiques et à un trimestre décevant (résultats le 27 octobre)."
-        },
-        {
-          "nom": "Amundi STOXX Europe 600 Technology (ETF)",
-          "isin": "LU1834988518",
-          "risque": "Modéré",
-          "prix": "≈ 122,5 € la part",
-          "texte": "Cet ETF éligible au PEA réunit les grandes entreprises technologiques européennes, dont les semi-conducteurs et les logiciels, pour 0,30 % de frais annuels. Il permet de profiter du rebond de la tech sans parier sur une seule valeur, alors que Soitec et d'autres titres du secteur ont rebondi vendredi. Le principal risque : le fonds a déjà gagné environ 25 % depuis janvier, et les semi-conducteurs restent très sensibles aux taux et aux doutes sur les revenus de l'IA."
-        }
-      ],
-      "rendezvous": [
-        {
-          "date": "2026-10-14",
-          "titre": "États-Unis : inflation de septembre"
-        },
-        {
-          "date": "2026-10-16",
-          "titre": "Zone euro : inflation définitive de septembre"
-        },
-        {
-          "date": "2026-10-21",
-          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "Boursorama : la Bourse de Paris termine en rebond, mais recul sur la semaine",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-rebond-mais-recul-sur-la-semaine-6e346e4ec2515e224dfaa5b6263084ce"
-        },
-        {
-          "title": "Boursorama : Wall Street termine la semaine en hausse",
-          "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-la-semaine-en-hausse-02d794ee32a239dfce2dba18e291deac"
-        },
-        {
-          "title": "Investing.com : France shares higher at close of trade",
-          "url": "https://in.investing.com/news/stock-market-news/france-shares-higher-at-close-of-trade-cac-40-up-095-5626362"
-        },
-        {
-          "title": "CNBC : pétrole et propos de Trump sur l'Iran",
-          "url": "https://www.cnbc.com/2026/10/09/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns.html"
-        }
-      ],
-      "idee": {
-        "nom": "Schneider Electric",
-        "isin": "FR0000121972",
-        "risque": "Modéré",
-        "prix": "≈ 266 € la part",
-        "texte": "Schneider fournit l'électricité, le refroidissement et les logiciels dont les centres de données de l'IA ont besoin. Le titre a perdu environ 10 % le 5 octobre après l'annonce du rachat de l'éditeur américain PTC pour environ 22,6 milliards de dollars, et il rebondit de 2 % vendredi. Le principal risque : un très gros rachat à intégrer, financé en grande partie par de la dette, dans un contexte de taux élevés."
-      },
-      "concept": {
-        "terme": "Ratio cours/bénéfice (PER)",
-        "texte": "Le PER (price earning ratio) se calcule en divisant le cours d'une action par le bénéfice net par action de l'entreprise. Un PER de 15 veut dire qu'on paie 15 € pour 1 € de bénéfice annuel, soit un rendement implicite d'environ 6,7 %. Plus il est élevé, plus les investisseurs anticipent une forte croissance, mais aussi plus le titre est exposé en cas de déception. Comme la saison des résultats trimestriels démarre et que les taux montent, le PER est très regardé en ce moment : des taux élevés tendent à faire baisser les PER acceptables. Il se compare surtout entre entreprises d'un même secteur, et il ne suffit pas à lui seul à juger une action.",
-        "references": [
-          {
-            "titre": "La finance pour tous : Price earning ratio (PER) ⚠️",
-            "url": "https://www.lafinancepourtous.com/outils/dictionnaire/per/"
-          },
-          {
-            "titre": "La finance pour tous : Profits et cours boursiers, quel est le lien ? ⚠️",
-            "url": "https://www.lafinancepourtous.com/decryptages/entreprise/bourse-et-actionnaires/profits-et-cours-boursiers-quel-est-le-lien/"
-          }
-        ]
-      }
     }
   ]
 }

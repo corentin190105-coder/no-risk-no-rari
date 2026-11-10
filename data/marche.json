@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-09T21:08:00+01:00",
-    "resume": "Lundi 9 novembre 2026 : la Bourse de Paris rebondit, le CAC 40 gagne 1,16 % à 8 233 points grâce à la chute du pétrole et au retour des achats sur les valeurs de l'IA. Ton portefeuille vaut 767,96 € pour 799,28 € investis, soit -31,32 €, en hausse d'environ 10 € sur la journée. STMicroelectronics repasse au-dessus de ton niveau de sortie de 38,61 €. Mardi est la journée clé : résultats d'Infineon à 8h00 et inflation américaine à 14h30."
+    "date": "2026-11-10T21:30:00+01:00",
+    "resume": "Mardi 10 novembre 2026 : le CAC 40 gagne 0,55 % à 8 278,59 points, porté par le pétrole au plus bas depuis deux mois, mais freiné par une inflation américaine plus forte que prévu qui rend quasi certaine une hausse des taux de la Fed en décembre. Ton portefeuille vaut 769,51 € pour 799,28 € investis, soit -29,77 €. Stellantis recule de 3,45 % à 3,83 €, à 2,2 % de ton niveau de sortie de 3,75 €."
   },
   "actifs": [
     {
@@ -46,15 +46,24 @@
         {
           "d": "2026-11-09",
           "p": 6.06
+        },
+        {
+          "d": "2026-11-10",
+          "p": 6.13
         }
       ],
-      "prix": 6.06,
-      "prixDate": "2026-11-09",
-      "variationJour": 4.3
+      "prix": 6.13,
+      "prixDate": "2026-11-10",
+      "variationJour": 1.16
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
       "actus": [
+        {
+          "date": "2026-11-10",
+          "titre": "Air Liquide termine à 190,34 €, son plus haut cours de clôture depuis au moins six mois, sans annonce propre au groupe",
+          "url": "https://www.abcbourse.com/cotation/AIp"
+        },
         {
           "date": "2026-10-05",
           "titre": "Air Liquide dévoile son plan BEYOND 2026-2030 : croissance des ventes d'environ 5 % par an, bénéfice par action visé à +10 % par an et premier rachat d'actions de son histoire (4 milliards d'euros sur 2027-2028)",
@@ -100,11 +109,15 @@
         {
           "d": "2026-11-09",
           "p": 189.46
+        },
+        {
+          "d": "2026-11-10",
+          "p": 190.34
         }
       ],
-      "prix": 189.46,
-      "prixDate": "2026-11-09",
-      "variationJour": 0.89
+      "prix": 190.34,
+      "prixDate": "2026-11-10",
+      "variationJour": 0.46
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
@@ -183,11 +196,15 @@
         {
           "d": "2026-11-09",
           "p": 228.7
+        },
+        {
+          "d": "2026-11-10",
+          "p": 232.7
         }
       ],
-      "prix": 228.7,
-      "prixDate": "2026-11-09",
-      "variationJour": 3.16
+      "prix": 232.7,
+      "prixDate": "2026-11-10",
+      "variationJour": 1.75
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -236,15 +253,24 @@
         {
           "d": "2026-11-09",
           "p": 95.3
+        },
+        {
+          "d": "2026-11-10",
+          "p": 97.1
         }
       ],
-      "prix": 95.3,
-      "prixDate": "2026-11-09",
-      "variationJour": 1.44
+      "prix": 97.1,
+      "prixDate": "2026-11-10",
+      "variationJour": 1.89
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
+        {
+          "date": "2026-11-10",
+          "titre": "Inflation américaine plus forte que prévu : le Nasdaq recule d'environ 1,3 % à la clôture européenne, mais la hausse du dollar amortit la baisse de l'ETF en euros",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-tumulte-a-wall-street-apres-l-inflation-91fe46dc5a4dc37def19f7796cd825f2"
+        },
         {
           "date": "2026-11-09",
           "titre": "Nvidia recule d'environ 6 % après l'enquête interne visant son PDG, mais le Nasdaq rebondit avec AMD",
@@ -269,11 +295,6 @@
           "date": "2026-10-26",
           "titre": "Wall Street rebondit d'environ 1 % lundi, portée par les valeurs de l'IA après le dépôt du dossier d'introduction en bourse d'Anthropic, attendue sur le Nasdaq en novembre",
           "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-apprete-a-connaitre-sa-meilleure-journee-depuis-un-mois-l-annonce-de-l-introduction-en-bourse-d-anthropic-ayant-stimule-les-valeurs-liees-a-l-ia-1089d8f98fea96709b733fc2eebb4f0d"
-        },
-        {
-          "date": "2026-10-16",
-          "titre": "Le Nasdaq décroche d'environ 2 % en séance vendredi, entraîné par les valeurs liées à l'IA et les inquiétudes sur leur endettement",
-          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
         }
       ],
       "isin": "FR0011871110",
@@ -315,15 +336,24 @@
         {
           "d": "2026-11-09",
           "p": 99.3
+        },
+        {
+          "d": "2026-11-10",
+          "p": 99.61
         }
       ],
-      "prix": 99.3,
-      "prixDate": "2026-11-09",
-      "variationJour": 1.41
+      "prix": 99.61,
+      "prixDate": "2026-11-10",
+      "variationJour": 0.31
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
+        {
+          "date": "2026-11-10",
+          "titre": "Soitec monte jusqu'à 106,20 € puis se retourne et finit en baisse de 3,1 % à 96,80 €, parmi les plus fortes baisses du SBF 120",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-freine-par-l-inflation-americaine-le-cac-40-echoue-aux-portes-des-8300-points-1173544.html"
+        },
         {
           "date": "2026-11-09",
           "titre": "Soitec rebondit de 5,9 % à 99,88 € avec les semi-conducteurs, après une semaine de fortes ventes",
@@ -348,11 +378,6 @@
           "date": "2026-11-04",
           "titre": "UBS relève Soitec à conserver",
           "url": "https://www.abcbourse.com/marches/soitec-releve-a-conserver-par-ubs_705587"
-        },
-        {
-          "date": "2026-10-30",
-          "titre": "Soitec chute lourdement dans le sillage des semi-conducteurs, plombés par les doutes sur la rentabilité des dépenses en IA (cours de clôture non confirmé)",
-          "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026"
         }
       ],
       "isin": "FR0013227113",
@@ -435,11 +460,15 @@
         {
           "d": "2026-11-09",
           "p": 99.88
+        },
+        {
+          "d": "2026-11-10",
+          "p": 96.8
         }
       ],
-      "prix": 99.88,
-      "prixDate": "2026-11-09",
-      "variationJour": 5.87
+      "prix": 96.8,
+      "prixDate": "2026-11-10",
+      "variationJour": -3.08
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -530,15 +559,24 @@
         {
           "d": "2026-11-09",
           "p": 6.234
+        },
+        {
+          "d": "2026-11-10",
+          "p": 6.245
         }
       ],
-      "prix": 6.234,
-      "prixDate": "2026-11-09",
-      "variationJour": 0.92
+      "prix": 6.245,
+      "prixDate": "2026-11-10",
+      "variationJour": 0.18
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
+        {
+          "date": "2026-11-10",
+          "titre": "Inflation américaine plus forte que prévu : le Nasdaq recule d'environ 1,3 % à la clôture européenne, mais la hausse du dollar amortit la baisse de l'ETF en euros",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-tumulte-a-wall-street-apres-l-inflation-91fe46dc5a4dc37def19f7796cd825f2"
+        },
         {
           "date": "2026-11-09",
           "titre": "Nvidia recule d'environ 6 % après l'enquête interne visant son PDG, mais le Nasdaq rebondit avec AMD",
@@ -563,11 +601,6 @@
           "date": "2026-10-26",
           "titre": "Wall Street rebondit d'environ 1 % lundi, portée par les valeurs de l'IA après le dépôt du dossier d'introduction en bourse d'Anthropic, attendue sur le Nasdaq en novembre",
           "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-apprete-a-connaitre-sa-meilleure-journee-depuis-un-mois-l-annonce-de-l-introduction-en-bourse-d-anthropic-ayant-stimule-les-valeurs-liees-a-l-ia-1089d8f98fea96709b733fc2eebb4f0d"
-        },
-        {
-          "date": "2026-10-16",
-          "titre": "Le Nasdaq décroche d'environ 2 % en séance vendredi, entraîné par les valeurs liées à l'IA et les inquiétudes sur leur endettement",
-          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -613,11 +646,15 @@
         {
           "d": "2026-11-09",
           "p": 6.516
+        },
+        {
+          "d": "2026-11-10",
+          "p": 6.532
         }
       ],
-      "prix": 6.516,
-      "prixDate": "2026-11-09",
-      "variationJour": 1.48
+      "prix": 6.532,
+      "prixDate": "2026-11-10",
+      "variationJour": 0.06
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -653,15 +690,24 @@
         {
           "d": "2026-11-06",
           "p": 6.977
+        },
+        {
+          "d": "2026-11-10",
+          "p": 7.053
         }
       ],
-      "prix": 6.977,
-      "prixDate": "2026-11-06",
-      "variationJour": -0.39
+      "prix": 7.053,
+      "prixDate": "2026-11-10",
+      "variationJour": 0.16
     },
     {
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
+        {
+          "date": "2026-11-10",
+          "titre": "Porté par les résultats d'Infineon, STMicroelectronics touche 41,08 € puis rend l'essentiel de son gain après l'inflation américaine et finit à 40,11 € (+1,2 %)",
+          "url": "https://www.boursorama.com/bourse/actualites-amp/une-publication-annuelle-rassurante-galvanise-infineon-4b81c2d9bb307ce5d4b6818305d66dc1"
+        },
         {
           "date": "2026-11-09",
           "titre": "STMicroelectronics mène le CAC 40 avec +5,3 % à 39,63 €, porté par le retour des achats sur les valeurs liées à l'IA",
@@ -686,11 +732,6 @@
           "date": "2026-11-05",
           "titre": "STMicroelectronics perd 9,33 % à 37,09 € et clôture sous son niveau de sortie de 38,61 €, avec tout le secteur des puces",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-ae5fec63ab8cc4466762250a0232725a"
-        },
-        {
-          "date": "2026-11-04",
-          "titre": "Les puces européennes décrochent après la victoire démocrate : le marché craint des limites aux centres de données",
-          "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
         }
       ],
       "isin": "NL0000226223",
@@ -698,12 +739,7 @@
       "nom": "STMicroelectronics",
       "pea": true,
       "potentiel": "Revenus data centers IA visés au-dessus de 1 milliard de dollars en 2026 et bien au-dessus de 2 milliards en 2027, dont environ 80 % viendront des puces de liaisons par fibre optique. Le cycle des semi-conducteurs repart (stocks des distributeurs bas) et la direction vise une marge brute de 44 à 46 %.",
-      "rendezvous": [
-        {
-          "date": "2026-11-10",
-          "titre": "Infineon publie ses résultats annuels : test pour les puces européennes"
-        }
-      ],
+      "rendezvous": [],
       "risque": "Élevé",
       "risques": "Dépendance à l'automobile. Le 23 juillet 2026, l'action a chuté de 15 % malgré de bons résultats car la prévision était légèrement sous les attentes : ce sont les prévisions qui font le cours. Sensible aux annonces sur l'IA (-6,6 % le 14 septembre).",
       "secteur": "Semi-conducteurs",
@@ -773,11 +809,15 @@
         {
           "d": "2026-11-09",
           "p": 39.63
+        },
+        {
+          "d": "2026-11-10",
+          "p": 40.105
         }
       ],
-      "prix": 39.63,
-      "prixDate": "2026-11-09",
-      "variationJour": 5.3
+      "prix": 40.105,
+      "prixDate": "2026-11-10",
+      "variationJour": 1.2
     },
     {
       "isin": "NL00150001Q9",
@@ -794,6 +834,16 @@
       "rendezvous": [],
       "actus": [
         {
+          "date": "2026-11-10",
+          "titre": "Stellantis recule de 3,45 % à 3,83 €, parmi les plus fortes baisses du SBF 120, sans nouvelle propre au groupe trouvée ; Forvia perd aussi 2,9 %",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-freine-par-l-inflation-americaine-le-cac-40-echoue-aux-portes-des-8300-points-1173544.html"
+        },
+        {
+          "date": "2026-11-10",
+          "titre": "Stellantis confirme la vente de son usine canadienne de Brampton au groupe Roshel, finalisation attendue fin 2026, sans montant publié",
+          "url": "https://www.stocktitan.net/sec-filings/STLA/6-k-stellantis-n-v-current-report-foreign-issuer-621980e3f65e.html"
+        },
+        {
           "date": "2026-11-06",
           "titre": "Stellantis regagne 1,39 % à 4,02 €, juste sous ton prix d'achat de 4,04 € ; le groupe a nommé un nouveau patron pour l'Amérique du Nord",
           "url": "https://www.abcbourse.com/cotation/STLAPp"
@@ -804,9 +854,9 @@
           "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html"
         }
       ],
-      "prix": 3.971,
-      "prixDate": "2026-11-09",
-      "variationJour": -1.19,
+      "prix": 3.834,
+      "prixDate": "2026-11-10",
+      "variationJour": -3.45,
       "historique": [
         {
           "d": "2026-11-04",
@@ -823,6 +873,10 @@
         {
           "d": "2026-11-09",
           "p": 3.971
+        },
+        {
+          "d": "2026-11-10",
+          "p": 3.834
         }
       ]
     },
@@ -840,9 +894,9 @@
       "risques": "Il dépend d'un seul pays et de quelques secteurs, avec un poids important du luxe. Il recoupe en partie l'ETF Monde pour ce qui concerne les grandes valeurs françaises.",
       "rendezvous": [],
       "actus": [],
-      "prix": 41.92,
-      "prixDate": "2026-11-09",
-      "variationJour": 1.28,
+      "prix": 42.15,
+      "prixDate": "2026-11-10",
+      "variationJour": 0.55,
       "historique": [
         {
           "d": "2026-11-04",
@@ -859,6 +913,10 @@
         {
           "d": "2026-11-09",
           "p": 41.92
+        },
+        {
+          "d": "2026-11-10",
+          "p": 42.15
         }
       ]
     }
@@ -898,13 +956,13 @@
       "id": "ifx-q4-2026",
       "date": "2026-11-10",
       "titre": "Infineon : résultats du 4e trimestre",
-      "detail": "Publication attendue à 8h00 selon l'agenda de l'AFP : un test pour les semi-conducteurs européens, dont STMicroelectronics"
+      "detail": "Publié : chiffre d'affaires annuel de 16,35 milliards d'euros (+12 %), objectif d'environ 20 milliards en 2027 et ventes aux centres de données relevées vers 4 milliards. Le titre a touché 52,06 € avant de finir à 49,05 € (+0,9 %)."
     },
     {
       "id": "us-cpi-2026-10",
       "date": "2026-11-10",
       "titre": "États-Unis : inflation d'octobre (CPI)",
-      "detail": "Publication mardi à 14h30 heure de Paris, confirmée par les calendriers de la semaine. Après un emploi très fort, un chiffre élevé renforcerait les paris sur une hausse des taux de la Fed les 8 et 9 décembre"
+      "detail": "Publié : +0,4 % sur un mois (0,3 % attendu), +0,3 % hors énergie et alimentation (0,2 % attendu). Aucun taux sur un an faute de données d'octobre 2025. Une hausse des taux de la Fed en décembre est désormais quasi certaine."
     },
     {
       "id": "opec-momr-2026-11",
@@ -943,6 +1001,12 @@
       "detail": "Publication à 20h00 heure de Paris, date indicative. À lire pour le débat sur une hausse des taux"
     },
     {
+      "id": "anthropic-ipo-2026",
+      "date": "2026-11-18",
+      "titre": "Anthropic : fixation du prix de son introduction en Bourse",
+      "detail": "Prix attendu entre 70 et 78 dollars par action, cotation au Nasdaq prévue le lendemain sous le symbole ANT. Un test de l'appétit des investisseurs pour l'IA, qui pèse sur ton ETF Nasdaq-100."
+    },
+    {
       "id": "ez-flash-hicp-2026-11",
       "date": "2026-12-01",
       "titre": "Zone euro : estimation rapide de l'inflation de novembre",
@@ -959,6 +1023,18 @@
       "date": "2026-12-09",
       "titre": "Fed : décision sur les taux",
       "detail": "Fin de la réunion des 8 et 9 décembre, annonce à 20h00 heure de Paris. Après un emploi d'octobre très fort, le marché envisage une hausse des taux : l'inflation de mardi pèsera lourd."
+    },
+    {
+      "id": "us-cpi-2026-11",
+      "date": "2026-12-10",
+      "titre": "États-Unis : inflation de novembre (CPI)",
+      "detail": "Publication le 10 décembre à 14h30 heure de Paris, le lendemain de la décision de la Fed."
+    },
+    {
+      "id": "bce-2026-12",
+      "date": "2026-12-17",
+      "titre": "BCE : décision sur les taux",
+      "detail": "Dernière réunion de l'année, avec une inflation de la zone euro à 4,0 % en octobre."
     }
   ],
   "historique": [
@@ -1120,6 +1196,11 @@
     {
       "d": "2026-11-09",
       "valeur": 767.96,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-10",
+      "valeur": 769.51,
       "investi": 799.28
     }
   ]

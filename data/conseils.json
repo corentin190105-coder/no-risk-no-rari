@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-09T21:08:00+01:00",
+  "maj": "2026-11-10T21:30:00+01:00",
   "verdict": {
-    "titre": "STMicroelectronics repasse au-dessus de 38,61 € : on garde, sous surveillance stricte avant Infineon",
-    "texte": "Ton portefeuille vaut 767,96 €, soit -31,32 €, en hausse d'environ 10 € sur la journée grâce au rebond des puces et à la chute du pétrole. STMicroelectronics clôture à 39,63 €, au-dessus de son niveau de sortie : le signal de vente est annulé, mais le niveau de 38,61 € reste inchangé. Aucun achat court terme ce soir : demain apporte les résultats d'Infineon et l'inflation américaine."
+    "titre": "Stellantis se rapproche de 3,75 € : on garde, mais la sortie n'est plus qu'à 2 % du cours",
+    "texte": "Ton portefeuille vaut 769,51 €, soit -29,77 €, en hausse d'environ 1,55 € sur la journée. La ligne à surveiller est Stellantis : -3,45 % à 3,83 €, au plus bas du jour. Une clôture sous 3,75 € déclencherait la vente prévue, sans exception. Aucun achat court terme ce soir : l'inflation américaine plus forte que prévu rend le marché plus fragile pour la tech."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -11,7 +11,7 @@
       "isin": "FR001400U5Q4",
       "symbole": "DCAM.PA",
       "action": "Garder",
-      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il reprend 0,9 % à 6,23 €, juste sous sa moyenne 20 jours (6,32 €), une variation normale pour ce type de placement.",
+      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il finit à 6,25 € (+0,2 %), toujours un peu sous sa moyenne 20 jours (6,31 €), une variation normale pour ce type de placement.",
       "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
       "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
     },
@@ -20,7 +20,7 @@
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "L'ETF reprend 1,5 % à 6,52 € avec le rebond de la tech américaine, malgré la chute d'environ 6 % de Nvidia, l'un de ses plus gros poids. Il reste sous ses moyennes 20 et 50 jours (6,84 € et 6,89 €) : c'est une baisse de marché concentrée sur la tech américaine, pas un problème propre à la ligne.",
+      "pourquoi": "L'ETF finit quasi stable à 6,53 € alors que le Nasdaq reculait d'environ 1,3 % : la hausse du dollar a amorti la baisse, c'est le risque de change qui joue ici en ta faveur. Il reste sous ses moyennes 20 et 50 jours (6,82 € et 6,89 €), dans une baisse de marché concentrée sur la tech américaine.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -29,7 +29,7 @@
       "isin": "FR0013380607",
       "symbole": "CACC.PA",
       "action": "Garder",
-      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle gagne 1,3 % à 41,92 €, au-dessus de ses moyennes 20 et 50 jours (40,49 € et 40,78 €), et c'est l'une de tes lignes en gain.",
+      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle gagne 0,5 % à 42,15 €, au-dessus de ses moyennes 20 et 50 jours (40,62 € et 40,79 €), et reste en gain.",
       "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
       "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
     },
@@ -39,7 +39,7 @@
       "symbole": "AI.PA",
       "action": "Garder",
       "sortie": 171.03,
-      "pourquoi": "Tu es en gain d'environ 7 € et la tendance reste haussière : 189,46 € ce soir, au-dessus de ses moyennes 20 et 50 jours (177,71 € et 172,25 €), tout près de son plus haut de six mois (190,90 €). Avec une seule action, il n'y a rien à alléger.",
+      "pourquoi": "Tu es en gain d'environ 8 € et la tendance reste haussière : 190,34 € ce soir, son plus haut cours de clôture depuis au moins six mois, au-dessus de ses moyennes 20 et 50 jours (178,78 € et 172,59 €). Avec une seule action, il n'y a rien à alléger.",
       "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
       "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
     },
@@ -49,8 +49,8 @@
       "symbole": "STLAP.PA",
       "action": "Garder",
       "sortie": 3.75,
-      "pourquoi": "C'est ta ligne la plus risquée. Le titre recule de 1,2 % à 3,97 €, juste sous ton prix d'achat de 4,04 € et proche de sa moyenne 20 jours (3,95 €), sur un volume deux fois plus faible que d'habitude. Aucune nouvelle importante aujourd'hui.",
-      "vendreSi": "clôture sous 3,75 €, soit 2 ATR sous le cours. Sur 13 actions, la perte serait d'environ 5 € plus 1 € de frais.",
+      "pourquoi": "C'est ta ligne la plus risquée. Le titre recule de 3,45 % à 3,83 € et finit au plus bas du jour, sans nouvelle propre au groupe trouvée, avec un secteur auto en repli. Il repasse sous sa moyenne 20 jours (3,95 €) et n'est plus qu'à 2,2 % du niveau de sortie. Je ne bouge pas ce niveau.",
+      "vendreSi": "clôture sous 3,75 €, sans exception. Sur 13 actions, la perte totale serait d'environ 3,77 € plus 2 € de frais d'achat et de vente, soit 0,75 % du portefeuille.",
       "renforcerSi": "non, tant que le cours n'a pas repassé durablement sa moyenne 50 jours (4,14 €) sur un fait nouveau."
     },
     {
@@ -59,8 +59,8 @@
       "symbole": "STMPA.PA",
       "action": "Garder",
       "sortie": 38.61,
-      "pourquoi": "Le titre mène le CAC 40 avec +5,3 % à 39,63 € et clôture au-dessus de 38,61 €, ce qui annule le signal de vente déclenché les 5 et 6 novembre. Mais il reste sous ses moyennes 20 et 50 jours (41,40 € et 43,94 €) : c'est un rebond, pas encore un retournement. Le niveau de sortie ne bouge pas : je ne le relève pas et je ne le baisse pas.",
-      "vendreSi": "nouvelle clôture sous 38,61 €, cette fois sans exception, même avant ou après une publication. Sur 2 actions, la vente rapporterait alors environ 76 € après 1 € de frais. Les résultats d'Infineon demain à 8h00 sont le premier test.",
+      "pourquoi": "Le titre a profité des résultats d'Infineon jusqu'à 41,08 €, puis a rendu l'essentiel après l'inflation américaine pour finir à 40,11 € (+1,2 %). Il reste au-dessus de 38,61 €, mais sous ses moyennes 20 et 50 jours (41,24 € et 43,91 €) : la tendance reste baissière. Le niveau de sortie ne bouge pas.",
+      "vendreSi": "clôture sous 38,61 €, sans exception. Sur 2 actions, la vente rapporterait alors environ 76 € après 1 € de frais.",
       "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de sa moyenne 50 jours, vers 44 €, sur un fait nouveau."
     }
   ],
@@ -87,74 +87,74 @@
       "contre": "Les marchés peuvent baisser plusieurs années de suite. Cet achat n'a de sens que si tu peux laisser l'argent investi au moins 5 ans."
     },
     {
-      "nom": "Air France-KLM",
-      "statut": "Attendre",
-      "plan": [
-        [
-          "Déclencheur",
-          "Repli vers 13,00 € qui tient en clôture"
-        ],
-        [
-          "Sortie",
-          "12,20 €"
-        ],
-        [
-          "Objectif",
-          "15,00 €"
-        ],
-        [
-          "Exemple",
-          "15 actions, environ 195 €"
-        ],
-        [
-          "Perte max",
-          "environ 14 €, frais compris"
-        ],
-        [
-          "Gain visé",
-          "environ 28 €, frais compris"
-        ]
-      ],
-      "quand": "Seulement sur un repli vers 13 € qui tient, et une fois l'ATR disponible : la valeur doit d'abord entrer dans la liste suivie. Plan non revu ce soir : la chute du pétrole lui est favorable, mais le cours n'a pas été vérifié.",
-      "pourquoi": "Après des résultats supérieurs aux attentes, Barclays passe à l'achat avec un objectif doublé à 18 €, le 6 novembre. Le fait nouveau est réel.",
-      "contre": "Le titre a pris près de 20 % en deux séances et le pétrole reste proche de 98 dollars. Je ne cours pas après le mouvement."
-    },
-    {
       "nom": "Infineon Technologies",
       "statut": "Attendre",
       "plan": [
         [
           "Déclencheur",
-          "Après les résultats du 10 novembre, clôture au-dessus de 48 €"
+          "Clôture au-dessus de 50,50 €"
         ],
         [
           "Entrée",
-          "48,60 €"
+          "50,50 €"
         ],
         [
           "Sortie",
-          "45,60 €"
+          "47,40 €"
         ],
         [
           "Objectif",
-          "54,60 €"
+          "56,80 €"
         ],
         [
           "Exemple",
-          "4 actions, environ 194 €"
+          "3 actions, environ 152 €"
         ],
         [
           "Perte max",
-          "environ 14 €, frais compris"
+          "environ 11 €, frais compris"
         ],
         [
           "Gain visé",
-          "environ 22 €, frais compris"
+          "environ 17 €, frais compris"
         ]
       ],
-      "quand": "Jamais avant la publication de demain 8h00 : seulement si les résultats rassurent et que le cours tient au-dessus de 48 € en clôture.",
-      "pourquoi": "Ses résultats sont le vrai test des puces européennes. Le titre a déjà repris 6,3 % à 48,63 € ce soir avec le rebond du secteur, sur un volume supérieur à la moyenne.",
-      "contre": "Ce rebond la veille des chiffres augmente le risque de déception. La tendance reste baissière sous les moyennes 20 et 50 jours (51,41 € et 55,39 €), et l'inflation américaine tombe le même jour."
+      "quand": "Seulement si le titre reprend la main en clôture au-dessus de 50,50 €. Pas avant : le marché a refusé de garder la hausse des résultats.",
+      "pourquoi": "Les résultats annuels rassurent : 16,35 milliards d'euros de chiffre d'affaires (+12 %) et environ 20 milliards visés en 2027, porté par les centres de données d'IA.",
+      "contre": "Le titre a touché 52,06 € puis fini à 49,05 € : les vendeurs dominent encore, sous les moyennes 20 et 50 jours. Des taux américains à 5 % pèsent sur la tech."
+    },
+    {
+      "nom": "Edenred",
+      "statut": "Attendre",
+      "plan": [
+        [
+          "Déclencheur",
+          "Repli vers 25,00 € qui tient en clôture"
+        ],
+        [
+          "Sortie",
+          "23,90 €"
+        ],
+        [
+          "Objectif",
+          "27,60 €"
+        ],
+        [
+          "Exemple",
+          "8 actions, environ 200 €"
+        ],
+        [
+          "Perte max",
+          "environ 11 €, frais compris"
+        ],
+        [
+          "Gain visé",
+          "environ 19 €, frais compris"
+        ]
+      ],
+      "quand": "Sur un repli qui tient, une fois l'ATR disponible dans le fichier de cours (ajout ce soir à la liste suivie).",
+      "pourquoi": "La justice brésilienne a suspendu une partie de la réforme des titres-restaurant, le 10 novembre : un fait nouveau sur son premier marché.",
+      "contre": "Le titre a déjà pris 6,37 % en une séance, et la décision peut être annulée en appel."
     }
   ],
   "decouvertes": [
@@ -199,14 +199,14 @@
       "faux": "Déception sur un médicament clé, ou résultats simplement inférieurs à des attentes devenues élevées."
     },
     {
-      "nom": "Crédit Agricole",
-      "isin": "FR0000045072",
-      "symbole": "ACA.PA",
-      "theme": "Les banques, absentes de ton portefeuille",
-      "risque": "Modéré",
-      "pourquoi": "Tu n'as aucune banque. Le 9 novembre, Crédit Agricole a proposé de fusionner sa filiale italienne avec Banco BPM, troisième banque d'Italie, pour monter à 45 % de son capital, selon BFM Bourse. Le titre a fini quasi stable à 15,79 €, une part reste très abordable.",
-      "aBorder": "À étudier pour le long terme, en petite ligne, une fois connues les conditions de l'opération et la réaction des autorités italiennes.",
-      "faux": "Une opération coûteuse en capital, un refus politique en Italie, ou une baisse des taux qui réduirait les marges des banques."
+      "nom": "Pluxee",
+      "isin": "NL0015001W49",
+      "symbole": "PLX.PA",
+      "theme": "Les avantages salariés, un métier peu connu",
+      "risque": "Élevé",
+      "pourquoi": "Ancienne filiale de Sodexo, Pluxee émet des titres-restaurant et des cartes d'avantages salariés. Elle a gagné 4,88 % le 10 novembre après la suspension partielle de la réforme brésilienne, et une part coûte environ 12 € : un dossier plus petit et moins suivi qu'Edenred, sur le même thème.",
+      "aBorder": "À étudier, pas à acheter dans l'urgence : attends de voir si la décision brésilienne tient en appel.",
+      "faux": "Une annulation de la décision au Brésil, ou une baisse des taux d'intérêt, qui réduit les revenus tirés des fonds placés en attendant le remboursement des titres."
     }
   ]
 }

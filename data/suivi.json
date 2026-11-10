@@ -21,7 +21,8 @@
     "TTE.PA",
     "AIR.PA",
     "STLAP.PA",
-    "SAF.PA"
+    "SAF.PA",
+    "EDEN.PA"
   ],
   "indices": [
     "^FCHI",
