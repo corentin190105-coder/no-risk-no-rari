@@ -2,7 +2,7 @@ name: Cours
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 7-17 * * 1-5"
+    - cron: "7,37 7-17 * * 1-5"
 permissions:
   contents: write
 concurrency:
