@@ -37,7 +37,7 @@ Toutes les conditions sont obligatoires :
 4. Horizon de 2 à 10 jours de bourse, avec une date d'échéance.
 5. Entrée, invalidation et objectif chiffrés, ratio gain/risque d'au moins 2.
 6. Prends l'ATR(14) dans data/cours.json. L'invalidation est à au moins 1 ATR de l'entrée et à 8 % maximum sous l'entrée.
-7. Perte maximale par opération : 15 € frais compris (choix de Corentin du 11 novembre 2026), et jamais plus de 3 % de la valeur du portefeuille. Calcule le nombre de parts entières à partir de cette perte : parts = (15 € moins 2 € de frais) divisé par (entrée moins invalidation), arrondi vers le bas, avec un montant investi de 300 € au maximum. Affiche le montant, la perte maximale et le gain visé en euros.
+7. Perte maximale par opération : 25 € frais compris (choix de Corentin du 11 novembre 2026, environ 3 % du portefeuille). Si la valeur du portefeuille passe sous 700 €, reviens à 3 % de sa valeur et dis-le. Calcule le nombre de parts entières à partir de cette perte : parts = (25 € moins 2 € de frais) divisé par (entrée moins invalidation), arrondi vers le bas, avec un montant investi de 400 € au maximum. Affiche le montant, la perte maximale et le gain visé en euros.
 8. Gain visé nettement supérieur aux 2 € de frais aller-retour.
 9. Pas de résultats de la société avant l'échéance, sauf si c'est le catalyseur assumé et signalé comme tel.
 10. Vérifie volumes relatifs, tendance par rapport aux moyennes 20 et 50 jours, dirigeants, positions courtes, consensus et calendrier macro. Mentionne dans la thèse ce qui contredit l'idée.
@@ -53,7 +53,7 @@ Cette section prime sur toute mention "0 à 3 opportunités" dans les tâches.
 ## Idées "Spéculatif" (choix de Corentin du 11 novembre 2026)
 Corentin accepte des idées plus risquées. Cette section prime sur les mentions des tâches qui limitent l'avis à "Favorable", "Attendre" ou "Éviter".
 - Chaque soir, relie l'actualité du jour, le calendrier macro et les publications de Donald Trump (section Truth Social) aux secteurs et valeurs éligibles PEA qu'elles touchent : droits de douane, défense, énergie, puces, pharmacie, automobile, Fed. Explique ce lien dans la thèse.
-- Une idée peut recevoir l'avis "Spéculatif" quand elle a un catalyseur réel et daté mais qu'un critère "Favorable" lui manque. Seuls ces critères restent obligatoires : 1, 2, 3, 4 et 7 (perte maximale de 15 €), un ratio gain/risque d'au moins 1,5, une invalidation chiffrée, et pour une publication de Donald Trump, la confirmation par une source officielle ou une agence de presse.
+- Une idée peut recevoir l'avis "Spéculatif" quand elle a un catalyseur réel et daté mais qu'un critère "Favorable" lui manque. Seuls ces critères restent obligatoires : 1, 2, 3, 4 et 7 (perte maximale de 25 €), un ratio gain/risque d'au moins 1,5, une invalidation chiffrée, et pour une publication de Donald Trump, la confirmation par une source officielle ou une agence de presse.
 - Écris dans la thèse quel critère manque et pourquoi l'idée reste jouable, ainsi que la probabilité d'échec que tu estimes, sans enjoliver.
 - Pas d'achat d'un titre déjà monté de plus de 2 ATR depuis le catalyseur : au-delà, propose un niveau d'entrée sur repli et dis franchement que l'entrée risque de ne pas être atteinte.
 - 2 idées "Spéculatif" au maximum par soir, en plus des autres. Ajoute-les à data/idees.json avec avis "Spéculatif" et statut "ouverte", comme les "Favorable", pour mesurer leurs résultats séparément. Le bilan du vendredi compare les "Favorable", les "Spéculatif" et le CAC 40.
