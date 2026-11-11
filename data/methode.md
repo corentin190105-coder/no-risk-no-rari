@@ -37,14 +37,22 @@ Toutes les conditions sont obligatoires :
 4. Horizon de 2 à 10 jours de bourse, avec une date d'échéance.
 5. Entrée, invalidation et objectif chiffrés, ratio gain/risque d'au moins 2.
 6. Prends l'ATR(14) dans data/cours.json. L'invalidation est à au moins 1 ATR de l'entrée et à 8 % maximum sous l'entrée.
-7. Sur environ 200 €, la perte à l'invalidation, frais compris, reste sous 3 % de la valeur du portefeuille. Sinon réduis la taille proposée et recalcule.
+7. Perte maximale par opération : 15 € frais compris (choix de Corentin du 11 novembre 2026), et jamais plus de 3 % de la valeur du portefeuille. Calcule le nombre de parts entières à partir de cette perte : parts = (15 € moins 2 € de frais) divisé par (entrée moins invalidation), arrondi vers le bas, avec un montant investi de 300 € au maximum. Affiche le montant, la perte maximale et le gain visé en euros.
 8. Gain visé nettement supérieur aux 2 € de frais aller-retour.
 9. Pas de résultats de la société avant l'échéance, sauf si c'est le catalyseur assumé et signalé comme tel.
 10. Vérifie volumes relatifs, tendance par rapport aux moyennes 20 et 50 jours, dirigeants, positions courtes, consensus et calendrier macro. Mentionne dans la thèse ce qui contredit l'idée.
 Vérifie chaque chiffre décisif sur deux sources et signale les écarts. N'utilise jamais un commentaire de forum comme argument. Si un critère échoue, l'avis est "Attendre" ou "Éviter". Ne jamais forcer une idée.
 
+## Nombre d'idées et explication (choix de Corentin du 11 novembre 2026)
+Cette section prime sur toute mention "0 à 3 opportunités" dans les tâches.
+- courtTerme.opportunites : jusqu'à 5 opportunités, classées par intérêt. Cherche-les dans tout data/radar.json (signaux, volume relatif, cassures) et dans l'actualité du jour, petites et moyennes valeurs comprises, pas seulement dans les valeurs déjà suivies. Plus d'idées ne veut pas dire des critères plus souples : une idée qui ne passe pas tous les critères reste "Attendre" ou "Éviter", avec le niveau précis qui la ferait passer à "Favorable".
+- Varie les profils : au moins une idée avec un objectif d'au moins 10 % quand une valeur plus volatile a un vrai catalyseur daté, en signalant clairement son risque plus élevé et la taille réduite qui en découle.
+- "these" explique pourquoi acheter, en 6 à 10 phrases simples, dans cet ordre : ce que fait l'entreprise en une phrase ; le catalyseur, sa date et pourquoi il peut faire monter le cours ; les chiffres clés (résultats, croissance, révisions, valorisation par rapport au secteur) ; la tendance (moyennes 20 et 50 jours, volume relatif, support ou résistance proche) ; l'avis des analystes ou des dirigeants s'il est vérifié ; ce qui contredit l'idée. Chaque chiffre est daté et sourcé dans "sources" du point.
+- "frais" donne le plan complet : nombre de parts, montant, perte maximale et gain visé en euros nets de 2 € de frais.
+
 ## Rétrospective à 5 et 10 jours
 Chaque soir de bourse, reprends les opportunités "Favorable" et "Attendre" de courtTerme publiées il y a exactement 5 et 10 jours de bourse. À 5 jours, le bilan est intermédiaire ; à 10 jours, il est définitif. Pour chacune, compare le cours du jour de l'idée et le cours actuel : l'entrée a-t-elle été touchée, l'objectif ou l'invalidation, et quel aurait été le résultat net de 2 € de frais sur 200 € ? Écris le bilan dans courtTerme.retro en 2 à 5 phrases : ce qui a marché, ce qui a échoué, et pourquoi, sans enjoliver. Vérifie aussi si les avis "Attendre" ont fait rater un gain ou éviter une perte. Reprends ce bilan en une ligne dans la notification. Sans idée à ces dates, laisse retro vide et n'en parle pas.
+Chaque vendredi soir, ajoute à retro un bilan des 3 "idees" du soir publiées 10 jours de bourse plus tôt : performance de chacune depuis le cours publié, comparée au CAC 40 sur la même période, et dis franchement si elles battent le marché.
 
 ## Radar et variété des valeurs
 data/radar.json, mis à jour après chaque clôture, scanne environ 100 valeurs de data/univers.json. Pour les idées du soir et "courtTerme", pars de ce radar et de l'actualité du jour, pas des fiches déjà suivies. Ne reprends pas une valeur déjà citée dans les 7 derniers points sauf fait nouveau, et ne répète pas une information déjà écrite dans le point de la veille : dis ce qui a changé.
