@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-10T21:30:00+01:00",
-    "resume": "Mardi 10 novembre 2026 : le CAC 40 gagne 0,55 % à 8 278,59 points, porté par le pétrole au plus bas depuis deux mois, mais freiné par une inflation américaine plus forte que prévu qui rend quasi certaine une hausse des taux de la Fed en décembre. Ton portefeuille vaut 769,51 € pour 799,28 € investis, soit -29,77 €. Stellantis recule de 3,45 % à 3,83 €, à 2,2 % de ton niveau de sortie de 3,75 €."
+    "date": "2026-11-11T21:30:00+01:00",
+    "resume": "Mercredi 11 novembre 2026 : le CAC 40 gagne 0,66 % à 8 332,87 points, sa troisième hausse d'affilée, porté par les semi-conducteurs après les résultats de CoreWeave, dans des volumes très faibles un jour férié. Ton portefeuille vaut 781,68 € pour 799,28 € investis, soit -17,60 €. Stellantis clôture à 3,71 €, sous ton niveau de sortie de 3,75 € : le plan prévoit la vente."
   },
   "actifs": [
     {
@@ -50,15 +50,24 @@
         {
           "d": "2026-11-10",
           "p": 6.13
+        },
+        {
+          "d": "2026-11-11",
+          "p": 6.52
         }
       ],
-      "prix": 6.13,
-      "prixDate": "2026-11-10",
-      "variationJour": 1.16
+      "prix": 6.52,
+      "prixDate": "2026-11-11",
+      "variationJour": 6.36
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
       "actus": [
+        {
+          "date": "2026-11-11",
+          "titre": "Air Liquide gagne près de 1 % à 192,16 €, nouveau plus haut de clôture sur six mois, sans annonce propre",
+          "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c"
+        },
         {
           "date": "2026-11-10",
           "titre": "Air Liquide termine à 190,34 €, son plus haut cours de clôture depuis au moins six mois, sans annonce propre au groupe",
@@ -113,15 +122,24 @@
         {
           "d": "2026-11-10",
           "p": 190.34
+        },
+        {
+          "d": "2026-11-11",
+          "p": 192.16
         }
       ],
-      "prix": 190.34,
-      "prixDate": "2026-11-10",
-      "variationJour": 0.46
+      "prix": 192.16,
+      "prixDate": "2026-11-11",
+      "variationJour": 0.96
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
       "actus": [
+        {
+          "date": "2026-11-11",
+          "titre": "Thales va accélérer la livraison de deux radars militaires à la Roumanie, financés par le programme européen SAFE ; le secteur de la défense recule après les résultats de CSG",
+          "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c"
+        },
         {
           "date": "2026-11-06",
           "titre": "La défense européenne reste vendue après la victoire démocrate aux États-Unis, qui fait craindre une baisse des dépenses militaires américaines",
@@ -146,11 +164,6 @@
           "date": "2026-10-19",
           "titre": "Thales recule de près de 2 % à 229,5 € la veille de ses commandes du troisième trimestre",
           "url": "https://www.abcbourse.com/cotation/HOp"
-        },
-        {
-          "date": "2026-10-03",
-          "titre": "L'Irlande commande des radars Ground Master à Thales via un accord d'État à État signé avec la DGA, livraisons de 2027 à fin 2028",
-          "url": "https://media24.fr/2026/10/03/la-france-joue-les-intermediaires-pour-vendre-ce-bijou-capable-de-detecter-un-avion-a-515-km-a-un-pays-theoriquement-neutre-lirlande"
         }
       ],
       "isin": "FR0000121329",
@@ -200,11 +213,15 @@
         {
           "d": "2026-11-10",
           "p": 232.7
+        },
+        {
+          "d": "2026-11-11",
+          "p": 230.4
         }
       ],
-      "prix": 232.7,
-      "prixDate": "2026-11-10",
-      "variationJour": 1.75
+      "prix": 230.4,
+      "prixDate": "2026-11-11",
+      "variationJour": -0.99
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -257,15 +274,24 @@
         {
           "d": "2026-11-10",
           "p": 97.1
+        },
+        {
+          "d": "2026-11-11",
+          "p": 97.6
         }
       ],
-      "prix": 97.1,
-      "prixDate": "2026-11-10",
-      "variationJour": 1.89
+      "prix": 97.6,
+      "prixDate": "2026-11-11",
+      "variationJour": 0.51
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
+        {
+          "date": "2026-11-11",
+          "titre": "Le Nasdaq rebondit derrière les valeurs de l'IA et l'euro tombe à 1,1095 dollar, au plus bas depuis la mi-mai 2025",
+          "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
+        },
         {
           "date": "2026-11-10",
           "titre": "Inflation américaine plus forte que prévu : le Nasdaq recule d'environ 1,3 % à la clôture européenne, mais la hausse du dollar amortit la baisse de l'ETF en euros",
@@ -290,11 +316,6 @@
           "date": "2026-11-05",
           "titre": "Le Nasdaq plonge d'environ 5 % en séance et entre en correction, à plus de 10 % sous son record d'octobre",
           "url": "https://www.france-epargne.fr/news/le-nasdaq-plonge-dans-la-correction-le-cac-40-tient-au-dessus-de-8-200-points"
-        },
-        {
-          "date": "2026-10-26",
-          "titre": "Wall Street rebondit d'environ 1 % lundi, portée par les valeurs de l'IA après le dépôt du dossier d'introduction en bourse d'Anthropic, attendue sur le Nasdaq en novembre",
-          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-apprete-a-connaitre-sa-meilleure-journee-depuis-un-mois-l-annonce-de-l-introduction-en-bourse-d-anthropic-ayant-stimule-les-valeurs-liees-a-l-ia-1089d8f98fea96709b733fc2eebb4f0d"
         }
       ],
       "isin": "FR0011871110",
@@ -340,15 +361,24 @@
         {
           "d": "2026-11-10",
           "p": 99.61
+        },
+        {
+          "d": "2026-11-11",
+          "p": 102.8
         }
       ],
-      "prix": 99.61,
-      "prixDate": "2026-11-10",
-      "variationJour": 0.31
+      "prix": 102.8,
+      "prixDate": "2026-11-11",
+      "variationJour": 3.2
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
+        {
+          "date": "2026-11-11",
+          "titre": "Soitec s'envole de 11,9 % à 108,35 € avec le retour de l'appétit pour l'IA ; résultats semestriels attendus le 18 novembre après la clôture",
+          "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
+        },
         {
           "date": "2026-11-10",
           "titre": "Soitec monte jusqu'à 106,20 € puis se retourne et finit en baisse de 3,1 % à 96,80 €, parmi les plus fortes baisses du SBF 120",
@@ -373,11 +403,6 @@
           "date": "2026-11-04",
           "titre": "Morgan Stanley abaisse Soitec à pondération en ligne, objectif ramené à 140 €, le titre chute de près de 12 %",
           "url": "https://www.abcbourse.com/marches/soitec-degrade-a-ponderation-en-ligne-par-morgan-stanley_705602"
-        },
-        {
-          "date": "2026-11-04",
-          "titre": "UBS relève Soitec à conserver",
-          "url": "https://www.abcbourse.com/marches/soitec-releve-a-conserver-par-ubs_705587"
         }
       ],
       "isin": "FR0013227113",
@@ -388,7 +413,7 @@
       "rendezvous": [
         {
           "date": "2026-11-18",
-          "titre": "Résultats du premier semestre (date indiquée par les agendas boursiers, à confirmer par Soitec)"
+          "titre": "Résultats du premier semestre 2026-2027, après la clôture (date annoncée par Soitec dans son communiqué du 22 juillet)"
         }
       ],
       "risque": "Très élevé",
@@ -464,11 +489,15 @@
         {
           "d": "2026-11-10",
           "p": 96.8
+        },
+        {
+          "d": "2026-11-11",
+          "p": 108.35
         }
       ],
-      "prix": 96.8,
-      "prixDate": "2026-11-10",
-      "variationJour": -3.08
+      "prix": 108.35,
+      "prixDate": "2026-11-11",
+      "variationJour": 11.93
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -563,15 +592,24 @@
         {
           "d": "2026-11-10",
           "p": 6.245
+        },
+        {
+          "d": "2026-11-11",
+          "p": 6.356
         }
       ],
-      "prix": 6.245,
-      "prixDate": "2026-11-10",
-      "variationJour": 0.18
+      "prix": 6.356,
+      "prixDate": "2026-11-11",
+      "variationJour": 1.78
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
+        {
+          "date": "2026-11-11",
+          "titre": "Le Nasdaq rebondit derrière les valeurs de l'IA et l'euro tombe à 1,1095 dollar, au plus bas depuis la mi-mai 2025",
+          "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
+        },
         {
           "date": "2026-11-10",
           "titre": "Inflation américaine plus forte que prévu : le Nasdaq recule d'environ 1,3 % à la clôture européenne, mais la hausse du dollar amortit la baisse de l'ETF en euros",
@@ -596,11 +634,6 @@
           "date": "2026-11-05",
           "titre": "Le Nasdaq plonge d'environ 5 % en séance et entre en correction, à plus de 10 % sous son record d'octobre",
           "url": "https://www.france-epargne.fr/news/le-nasdaq-plonge-dans-la-correction-le-cac-40-tient-au-dessus-de-8-200-points"
-        },
-        {
-          "date": "2026-10-26",
-          "titre": "Wall Street rebondit d'environ 1 % lundi, portée par les valeurs de l'IA après le dépôt du dossier d'introduction en bourse d'Anthropic, attendue sur le Nasdaq en novembre",
-          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-apprete-a-connaitre-sa-meilleure-journee-depuis-un-mois-l-annonce-de-l-introduction-en-bourse-d-anthropic-ayant-stimule-les-valeurs-liees-a-l-ia-1089d8f98fea96709b733fc2eebb4f0d"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -650,11 +683,15 @@
         {
           "d": "2026-11-10",
           "p": 6.532
+        },
+        {
+          "d": "2026-11-11",
+          "p": 6.74
         }
       ],
-      "prix": 6.532,
-      "prixDate": "2026-11-10",
-      "variationJour": 0.06
+      "prix": 6.74,
+      "prixDate": "2026-11-11",
+      "variationJour": 3.18
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -704,6 +741,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-11-11",
+          "titre": "Le titre bondit de 5,2 % à 42,18 €, meilleure hausse du CAC 40, porté par le regain d'intérêt pour l'IA après les résultats de CoreWeave",
+          "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
+        },
+        {
           "date": "2026-11-10",
           "titre": "Porté par les résultats d'Infineon, STMicroelectronics touche 41,08 € puis rend l'essentiel de son gain après l'inflation américaine et finit à 40,11 € (+1,2 %)",
           "url": "https://www.boursorama.com/bourse/actualites-amp/une-publication-annuelle-rassurante-galvanise-infineon-4b81c2d9bb307ce5d4b6818305d66dc1"
@@ -727,11 +769,6 @@
           "date": "2026-11-06",
           "titre": "STMicroelectronics reprend 1,54 % à 37,64 € avec le rebond des puces, mais reste sous son niveau de sortie de 38,61 €",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque-65c78769cd39da733b365d299b55d622"
-        },
-        {
-          "date": "2026-11-05",
-          "titre": "STMicroelectronics perd 9,33 % à 37,09 € et clôture sous son niveau de sortie de 38,61 €, avec tout le secteur des puces",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-ae5fec63ab8cc4466762250a0232725a"
         }
       ],
       "isin": "NL0000226223",
@@ -813,11 +850,15 @@
         {
           "d": "2026-11-10",
           "p": 40.105
+        },
+        {
+          "d": "2026-11-11",
+          "p": 42.175
         }
       ],
-      "prix": 40.105,
-      "prixDate": "2026-11-10",
-      "variationJour": 1.2
+      "prix": 42.175,
+      "prixDate": "2026-11-11",
+      "variationJour": 5.16
     },
     {
       "isin": "NL00150001Q9",
@@ -833,6 +874,11 @@
       "risques": "Le titre reste en tendance baissière et très loin de sa moyenne 200 jours. Un nouveau recul des ventes, des dépréciations ou des droits de douane pèseraient encore. Un cours bas ne suffit jamais à faire une bonne affaire.",
       "rendezvous": [],
       "actus": [
+        {
+          "date": "2026-11-11",
+          "titre": "Le titre recule d'environ 3 % à 3,71 €, plus forte baisse du CAC 40, et clôture sous 3,75 € sans nouvelle propre au groupe",
+          "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c"
+        },
         {
           "date": "2026-11-10",
           "titre": "Stellantis recule de 3,45 % à 3,83 €, parmi les plus fortes baisses du SBF 120, sans nouvelle propre au groupe trouvée ; Forvia perd aussi 2,9 %",
@@ -854,9 +900,9 @@
           "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html"
         }
       ],
-      "prix": 3.834,
-      "prixDate": "2026-11-10",
-      "variationJour": -3.45,
+      "prix": 3.713,
+      "prixDate": "2026-11-11",
+      "variationJour": -3.16,
       "historique": [
         {
           "d": "2026-11-04",
@@ -877,6 +923,10 @@
         {
           "d": "2026-11-10",
           "p": 3.834
+        },
+        {
+          "d": "2026-11-11",
+          "p": 3.713
         }
       ]
     },
@@ -894,9 +944,9 @@
       "risques": "Il dépend d'un seul pays et de quelques secteurs, avec un poids important du luxe. Il recoupe en partie l'ETF Monde pour ce qui concerne les grandes valeurs françaises.",
       "rendezvous": [],
       "actus": [],
-      "prix": 42.15,
-      "prixDate": "2026-11-10",
-      "variationJour": 0.55,
+      "prix": 42.39,
+      "prixDate": "2026-11-11",
+      "variationJour": 0.57,
       "historique": [
         {
           "d": "2026-11-04",
@@ -917,17 +967,15 @@
         {
           "d": "2026-11-10",
           "p": 42.15
+        },
+        {
+          "d": "2026-11-11",
+          "p": 42.39
         }
       ]
     }
   ],
   "agenda": [
-    {
-      "id": "us-midterms-2026",
-      "date": "2026-11-03",
-      "titre": "États-Unis : élections de mi-mandat",
-      "detail": "Échéance politique citée par Donald Trump dans le dossier iranien ; elle peut alimenter la volatilité des marchés"
-    },
     {
       "id": "ez-flash-hicp-2026-10",
       "date": "2026-11-04",
@@ -971,6 +1019,12 @@
       "detail": "Repère pour le Brent après sa plus forte baisse hebdomadaire depuis 2020, sur l'espoir d'un accord entre les États-Unis et l'Iran"
     },
     {
+      "id": "us-claims-2026-11-12",
+      "date": "2026-11-12",
+      "titre": "États-Unis : inscriptions hebdomadaires au chômage",
+      "detail": "Publication à 14h30 heure de Paris selon Zonebourse, après une séance du 11 novembre sans statistique majeure (jour férié des Anciens combattants aux États-Unis)."
+    },
+    {
       "id": "us-ppi-2026-10",
       "date": "2026-11-13",
       "titre": "États-Unis : prix à la production d'octobre",
@@ -991,8 +1045,8 @@
     {
       "id": "soitec-s1-2026",
       "date": "2026-11-18",
-      "titre": "Soitec : résultats du 1er semestre",
-      "detail": "Date indiquée par les agendas boursiers, à confirmer par la société"
+      "titre": "Soitec : résultats du 1er semestre (après la clôture)",
+      "detail": "Date annoncée par Soitec dans son communiqué du 22 juillet. La société visait alors une croissance de plus de 30 % du chiffre d'affaires au 2e trimestre."
     },
     {
       "id": "fomc-minutes-2026-10",
@@ -1201,6 +1255,11 @@
     {
       "d": "2026-11-10",
       "valeur": 769.51,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-11",
+      "valeur": 781.68,
       "investi": 799.28
     }
   ]

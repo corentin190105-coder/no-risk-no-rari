@@ -1,1 +1,20 @@
-{"idees": []}
+{
+  "idees": [
+    {
+      "id": "soi-2026-11-11",
+      "date": "2026-11-11",
+      "nom": "Soitec",
+      "isin": "FR0013227113",
+      "compte": "PEA",
+      "avis": "Spéculatif",
+      "horizon": "2 à 7 jours",
+      "entree": 105.0,
+      "invalidation": 94.5,
+      "objectif": 122.0,
+      "echeance": "2026-11-20",
+      "statut": "ouverte",
+      "dateCloture": null,
+      "perfPct": null
+    }
+  ]
+}

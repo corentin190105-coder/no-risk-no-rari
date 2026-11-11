@@ -373,3 +373,16 @@ Le risque de change est le risque que la valeur d'un placement, mesurée en euro
 - [Investopedia : Exchange Rate Risk ⚠️](https://www.investopedia.com/terms/e/exchangeraterisk.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que Le carnet de commandes ?
+
+_2026-11-11 21:03 CET_
+
+Le carnet de commandes est le montant total des commandes fermes qu'une entreprise a reçues mais qu'elle n'a pas encore livrées ni facturées. Il donne de la visibilité sur le chiffre d'affaires des années suivantes, surtout dans l'industrie où un contrat se livre sur plusieurs années. On le compare souvent aux ventes avec le ratio « book-to-bill » (commandes reçues sur la période divisées par le chiffre d'affaires) : au-dessus de 1, le carnet grossit. Mercredi, Siemens Energy a annoncé un carnet record d'environ 164 milliards d'euros, près de quatre années de chiffre d'affaires, avec 68,1 milliards de commandes pour 44,2 milliards de ventes, soit un ratio d'environ 1,5, et le titre a bondi d'environ 11 %. Un carnet plein ne garantit pourtant ni les marges ni les délais : une commande peut être décalée ou annulée, comme l'a rappelé le même jour la chute du groupe de défense CSG après des retards de livraison. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [Office québécois de la langue française : fiche « carnet de commandes »](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/500548/carnet-de-commandes)
+- [Bourse des crédits : définition du ratio book-to-bill](https://www.boursedescredits.com/lexique-definition-book-to-bill-534.php)
+- [Investopedia : Backlog ⚠️](https://www.investopedia.com/terms/b/backlog.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

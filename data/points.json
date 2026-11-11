@@ -1,6 +1,317 @@
 {
   "points": [
     {
+      "date": "2026-11-11",
+      "titre": "L'IA relance les semi-conducteurs, le CAC 40 gagne 0,66 % mais Stellantis passe sous ton niveau de sortie",
+      "resume": "Le CAC 40 signe sa troisième hausse d'affilée (+0,66 % à 8 332,87 points) dans des volumes très faibles, la Bourse de Paris restant ouverte un jour férié. Les résultats de CoreWeave et la future entrée en Bourse d'Anthropic ont relancé les valeurs de l'IA : STMicroelectronics prend 5,2 %, Soitec près de 12 % et Siemens Energy environ 11 % après un exercice record. Wall Street suit, Nasdaq en tête, malgré la perspective d'une hausse des taux de la Fed qui pousse le dollar à son plus haut depuis mai 2025.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 332,87 pts",
+          "variation": 0.66
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "≈ 6 393 pts",
+          "variation": 1.04
+        },
+        {
+          "nom": "S&P 500 (provisoire, vers 19h)",
+          "valeur": "≈ 7 635 pts",
+          "variation": 1.51
+        },
+        {
+          "nom": "Nasdaq (provisoire, vers 19h)",
+          "valeur": "≈ 25 603 pts",
+          "variation": 2.14
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "61 248,59 pts",
+          "variation": 1.31
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "24 315,92 pts",
+          "variation": -0.98
+        },
+        {
+          "nom": "Brent (vers 17h30)",
+          "valeur": "≈ 93,8 $",
+          "variation": 1.93
+        },
+        {
+          "nom": "Or (en séance américaine)",
+          "valeur": "≈ 4 040 $",
+          "variation": 0.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "1,1095 $",
+          "variation": -0.66
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Fed : le marché parie sur une hausse plus forte",
+          "texte": "Au lendemain d'une inflation américaine plus forte que prévu, les marchés anticipent désormais une hausse des taux de la Fed supérieure à un quart de point en décembre, et des attentes de hausse apparaissent aussi pour la BCE, selon Commerzbank cité par Zonebourse. L'euro recule de 0,66 % à 1,1095 dollar, son plus bas depuis la mi-mai 2025. Le marché obligataire américain était fermé pour le jour des Anciens combattants ; en Europe, l'OAT à dix ans se tient vers 4,79 %."
+        },
+        {
+          "titre": "IA : CoreWeave et Anthropic rallument l'intérêt",
+          "texte": "CoreWeave, loueur de puissance de calcul pour l'IA, a publié un chiffre d'affaires trimestriel de 3,66 milliards de dollars (+168 % sur un an), au-dessus des attentes. Avec l'entrée en Bourse d'Anthropic prévue à la mi-novembre, cela a relégué au second plan les craintes sur les taux. Les fabricants de puces européens et les spécialistes des infrastructures électriques (Schneider, Legrand, Siemens Energy) en ont le plus profité."
+        },
+        {
+          "titre": "Pétrole et gaz : rebond après plusieurs jours de baisse",
+          "texte": "Le Brent remonte d'environ 1,9 % vers 93,8 dollars en fin de journée européenne. Le gaz reste sous tension : le polonais Orlen a résilié un contrat de long terme avec QatarEnergy faute de livraisons, une première depuis le début du conflit selon AlphaValue. Une énergie qui remonte serait une mauvaise nouvelle pour l'inflation européenne."
+        },
+        {
+          "titre": "Défense : le secteur décroche après CSG",
+          "texte": "Le groupe tchèque CSG a chuté d'environ 21,6 % après des résultats décevants, des livraisons décalées et un objectif de marge abaissé. Rheinmetall (-6,6 %) et Renk (-4,3 %) ont suivi, et Thales recule de 1 % malgré la livraison accélérée de deux radars à la Roumanie. Le marché rappelle qu'un carnet de commandes plein ne suffit pas si les livraisons dérapent."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 781.68,
+        "pv": -17.6,
+        "texte": "Ton portefeuille vaut 781,68 € pour 799,28 € investis, soit -17,60 €, en hausse d'environ 12,17 € sur la journée grâce à STMicroelectronics (+5,2 %), à l'ETF Nasdaq-100 (+3,2 %), au Monde (+1,8 %) et à Air Liquide (+1 %). Seule ombre, mais importante : Stellantis clôture à 3,71 €, sous ton niveau de sortie de 3,75 €, et le plan prévoit de vendre la ligne."
+      },
+      "valeurs": [
+        {
+          "nom": "Stellantis",
+          "texte": "Le titre recule d'environ 3 % à 3,71 €, plus forte baisse du CAC 40, sans nouvelle propre trouvée et dans des volumes faibles. Il clôture sous ton niveau de sortie de 3,75 € : la règle fixée à l'avance s'applique, voir le plan d'action."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Meilleure hausse du CAC 40 (+5,2 % à 42,18 €), portée par le regain d'intérêt pour l'IA. Le titre repasse au-dessus de sa moyenne 20 jours (41,17 €) et s'éloigne nettement de ton niveau de sortie de 38,61 €, mais reste sous sa moyenne 50 jours (43,86 €)."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Le titre gagne près de 1 % à 192,16 €, un nouveau plus haut de clôture sur six mois, sans annonce propre. Ta ligne est en gain d'environ 10 €."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "L'ETF gagne 3,2 % à 6,74 € : il profite à la fois du rebond de la tech américaine et de la nouvelle hausse du dollar, qui augmente la valeur en euros des actions détenues."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "Valeur suivie : +11,9 % à 108,35 €, effaçant largement la baisse de la veille. Les résultats semestriels sont confirmés pour le 18 novembre après la clôture."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Siemens Energy",
+          "isin": "DE000ENER6Y0",
+          "risque": "Élevé",
+          "prix": "≈ 133 € la part",
+          "texte": "Siemens Energy a bondi d'environ 11 % à 132,76 € après un exercice 2026 record : chiffre d'affaires de 44,2 milliards d'euros (+15,5 %), 68,1 milliards de commandes, un carnet de 164 milliards, un dividende plus que triplé à 2,30 € et un rachat d'actions porté jusqu'à 9 milliards. Le groupe vend des turbines à gaz et des équipements de réseau électrique, très demandés par les centres de données de l'IA. Coté à Francfort, il est éligible au PEA. Le principal risque : après un tel bond, le titre est cher et peut consolider plusieurs séances, et l'éolien (Siemens Gamesa) vient tout juste de revenir à l'équilibre."
+        },
+        {
+          "nom": "Schneider Electric",
+          "isin": "FR0000121972",
+          "risque": "Modéré",
+          "prix": "≈ 243 € la part",
+          "texte": "Schneider Electric gagne 3,04 % à 242,50 €, deuxième hausse du CAC 40, dans le sillage des valeurs de l'IA et des résultats de Siemens Energy. Le groupe fournit la distribution électrique et le refroidissement des centres de données, un débouché qui profite directement de la reprise des investissements dans l'IA confirmée par CoreWeave. C'est une manière plus diversifiée et moins volatile qu'un fabricant de puces de jouer cette tendance. Le principal risque : une part coûte plus de 240 €, la valorisation est déjà élevée, et des taux plus hauts pèsent sur les valeurs de croissance."
+        },
+        {
+          "nom": "2CRSi",
+          "isin": "FR0013341781",
+          "risque": "Très élevé",
+          "prix": "≈ 19 € la part",
+          "texte": "2CRSi, fabricant strasbourgeois de serveurs informatiques, notamment pour l'IA, gagne 9,71 % à 18,76 € selon Boursorama, porté par le retour de l'appétit pour l'IA après les résultats de CoreWeave. Une part coûte moins de 20 €, ce qui la rend accessible avec un petit budget. C'est une petite valeur cotée sur Euronext Growth, beaucoup plus volatile que les grands groupes. Le principal risque : le titre a déjà connu des chutes très brutales, notamment après une révision de ses comptes, et une petite capitalisation peut perdre autant qu'elle a gagné en quelques séances."
+        }
+      ],
+      "idee": {
+        "nom": "Siemens Energy",
+        "isin": "DE000ENER6Y0",
+        "risque": "Élevé",
+        "prix": "≈ 133 € la part",
+        "texte": "Siemens Energy a bondi d'environ 11 % à 132,76 € après un exercice 2026 record : chiffre d'affaires de 44,2 milliards d'euros (+15,5 %), 68,1 milliards de commandes, un carnet de 164 milliards, un dividende plus que triplé à 2,30 € et un rachat d'actions porté jusqu'à 9 milliards. Le groupe vend des turbines à gaz et des équipements de réseau électrique, très demandés par les centres de données de l'IA. Coté à Francfort, il est éligible au PEA. Le principal risque : après un tel bond, le titre est cher et peut consolider plusieurs séances, et l'éolien (Siemens Gamesa) vient tout juste de revenir à l'équilibre."
+      },
+      "concept": {
+        "terme": "Le carnet de commandes",
+        "texte": "Le carnet de commandes est le montant total des commandes fermes qu'une entreprise a reçues mais qu'elle n'a pas encore livrées ni facturées. Il donne de la visibilité sur le chiffre d'affaires des années suivantes, surtout dans l'industrie où un contrat se livre sur plusieurs années. On le compare souvent aux ventes avec le ratio « book-to-bill » (commandes reçues sur la période divisées par le chiffre d'affaires) : au-dessus de 1, le carnet grossit. Mercredi, Siemens Energy a annoncé un carnet record d'environ 164 milliards d'euros, près de quatre années de chiffre d'affaires, avec 68,1 milliards de commandes pour 44,2 milliards de ventes, soit un ratio d'environ 1,5, et le titre a bondi d'environ 11 %. Un carnet plein ne garantit pourtant ni les marges ni les délais : une commande peut être décalée ou annulée, comme l'a rappelé le même jour la chute du groupe de défense CSG après des retards de livraison. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "Office québécois de la langue française : fiche « carnet de commandes »",
+            "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/500548/carnet-de-commandes"
+          },
+          {
+            "titre": "Bourse des crédits : définition du ratio book-to-bill",
+            "url": "https://www.boursedescredits.com/lexique-definition-book-to-bill-534.php"
+          },
+          {
+            "titre": "Investopedia : Backlog ⚠️",
+            "url": "https://www.investopedia.com/terms/b/backlog.asp"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché est porteur pour la tech, mais le signal est fragile : la hausse s'est faite dans des volumes très faibles un jour férié, et la perspective d'une hausse des taux de la Fed supérieure à un quart de point n'a pas disparu. Aucune idée ne passe tous les critères Favorable ce soir : les meilleurs dossiers ont déjà fortement monté dans la journée. Le journal ne compte encore aucune idée close, l'échantillon est trop petit pour juger la méthode. Je n'ai pas trouvé de publication de Donald Trump vérifiée qui change la donne ce soir. Sur tes lignes, Stellantis clôture à 3,71 €, sous ton niveau de sortie de 3,75 € : la vente prévue s'applique ; STMicroelectronics (42,18 €) s'éloigne de 38,61 € et Air Liquide signe un plus haut.",
+        "opportunites": [
+          {
+            "nom": "Soitec",
+            "isin": "FR0013227113",
+            "compte": "PEA",
+            "avis": "Spéculatif",
+            "horizon": "2 à 7 jours",
+            "catalyseur": "Résultats du 1er semestre le 18 novembre après la clôture, catalyseur assumé",
+            "cours": "108,35 €",
+            "entree": "105,00 € (ordre à cours limité, sur repli)",
+            "invalidation": "94,50 €",
+            "objectif": "122,00 €",
+            "ratio": "1,6",
+            "frais": "1 action conseillée : 105 € investis, perte maximale d'environ 12,50 € frais compris, gain visé d'environ 15 € net de 2 € de frais. Le calcul autorise 2 actions (perte de 23 €), mais un trou de cours aux résultats pourrait dépasser ce plafond.",
+            "these": "Soitec fabrique des plaques de silicium spéciales (SOI) utilisées dans les puces de smartphones, d'automobiles et, de plus en plus, dans la photonique des centres de données. Le catalyseur est daté : les résultats semestriels du 18 novembre après la clôture, confirmés par la société le 22 juillet. À cette date, Soitec annonçait un chiffre d'affaires du 1er trimestre de 113 millions d'euros (+23 % à périmètre constant), visait plus de 30 % de croissance au 2e trimestre et un doublement des ventes de Photonics-SOI sur l'exercice. Le titre a bondi de 11,9 % à 108,35 € mercredi sur un volume environ 1,1 fois sa moyenne, mais il reste sous ses moyennes 20 et 50 jours (116,49 € et 134,75 €), donc en tendance baissière, très loin de son plus haut de six mois à 200,50 €. Critères manquants : l'invalidation est à environ 1 ATR (10,58 €) mais à 10 % sous l'entrée, au-delà des 8 % autorisés ; les résultats tombent avant l'échéance ; je n'ai vérifié ni les dirigeants, ni les positions courtes, ni le consensus. L'idée reste jouable parce que la publication est un fait daté et que les attentes ont beaucoup baissé après la chute du titre. J'estime la probabilité d'échec à environ 55 à 60 % : Soitec a déjà chuté de plus de 10 % après certaines publications.",
+            "risque": "Risque très élevé et binaire : un trou de cours le 19 novembre peut faire sortir bien sous 94,50 €, d'où une seule action. Ne pas acheter au-dessus de 105 € pour ne pas courir après la hausse du jour."
+          },
+          {
+            "nom": "Infineon Technologies",
+            "isin": "DE0006231004",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Résultats annuels du 10 novembre et objectif 2027 relevé pour les centres de données",
+            "cours": "52,12 €",
+            "entree": "50,50 €, sur un repli qui tient en clôture",
+            "invalidation": "47,40 €",
+            "objectif": "56,80 €",
+            "ratio": "2,0",
+            "frais": "7 actions : environ 354 €, perte maximale d'environ 23,70 € frais compris, gain visé d'environ 42 € net de 2 € de frais",
+            "these": "Infineon fabrique des puces de puissance pour l'automobile, l'industrie et l'alimentation des centres de données. Le seuil d'hier, une clôture au-dessus de 50,50 €, est franchi : le titre gagne 6,3 % à 52,12 € sur un volume environ 1,3 fois sa moyenne, après des résultats annuels de 16,35 milliards d'euros (+12 %) et un objectif d'environ 20 milliards en 2027. Mais acheter à 52,12 € avec une invalidation à 47,40 € mettrait le risque à 9 %, au-delà des 8 % autorisés, pour un objectif à 56,80 € qui donne un ratio d'environ 1 seulement. Le titre reste aussi sous sa moyenne 50 jours (55,19 €), une résistance proche. L'idée passerait en Favorable sur un repli vers 50,50 € qui tient en clôture, après vérification des dirigeants, des positions courtes et du consensus, que je n'ai pas faite ce soir. Les résultats d'Applied Materials jeudi soir aux États-Unis peuvent faire bouger tout le secteur.",
+            "risque": "Des taux américains vers 5 % et une Fed plus dure pèsent d'abord sur la tech ; le rebond du jour s'est fait dans des volumes réduits par le jour férié."
+          },
+          {
+            "nom": "Siemens Energy",
+            "isin": "DE000ENER6Y0",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Exercice 2026 record publié le 11 novembre, rachat d'actions jusqu'à 9 milliards d'euros",
+            "cours": "≈ 132,80 €",
+            "entree": "125,00 €, sur un repli qui tient",
+            "invalidation": "115,00 €",
+            "objectif": "145,00 €",
+            "ratio": "2,0",
+            "frais": "Indicatif : 2 actions, environ 250 €, perte maximale d'environ 22 € frais compris, gain visé d'environ 38 € net",
+            "these": "Siemens Energy fabrique des turbines à gaz, des équipements de réseau électrique et des éoliennes. Le fait nouveau est fort : chiffre d'affaires de 44,2 milliards d'euros (+15,5 %), commandes de 68,1 milliards, carnet record de 164 milliards, dividende à 2,30 € et rachat d'actions jusqu'à 9 milliards. Mais le titre a déjà pris environ 11 % dans la journée, soit vraisemblablement plus de 2 ATR : acheter ce soir reviendrait à courir après le mouvement. La valeur n'était pas dans la liste suivie par le site, donc son ATR n'est pas encore calculé : je l'ajoute ce soir, et les niveaux ci-dessus restent indicatifs. Je n'ai vérifié ni les dirigeants, ni les positions courtes, ni le consensus.",
+            "risque": "Un titre qui a beaucoup monté sur une publication peut consolider plusieurs jours ; une prise de bénéfices sur les valeurs de l'IA le toucherait aussi."
+          }
+        ],
+        "retro": "Bilan intermédiaire à 5 jours des idées du 4 novembre. Air France-KLM (Attendre, entrée à 11,55 €, objectif 12,70 €) : l'entrée a été franchie puis l'objectif dépassé, le titre ayant clôturé à 14,40 € le 10 novembre selon le radar ; le plan aurait rapporté environ +9 % net, soit près de 18 € sur 200 €, et l'avis Attendre avec un seuil d'entrée était donc le bon scénario. STMicroelectronics (Attendre, entrée à 44,10 €) : l'entrée n'a jamais été touchée, le plus haut depuis étant 42,27 € ce mercredi ; aucune perte ni gain, et l'avis a évité une baisse jusqu'à 40,11 € mardi."
+      },
+      "lecon": {
+        "titre": "Taux d'intérêt et prix des actions : pourquoi une hausse des taux pèse d'abord sur la tech",
+        "niveau": "Intermédiaire",
+        "texte": "Après la gestion du risque, on ouvre le chapitre de la macroéconomie avec la variable la plus suivie par les marchés : les taux d'intérêt. La valeur d'une action correspond, en théorie, à la somme des bénéfices futurs qu'elle rapportera, ramenés à leur valeur d'aujourd'hui : c'est l'actualisation. Plus le taux est élevé, plus un euro reçu dans le futur vaut peu aujourd'hui, car l'investisseur pourrait obtenir ce taux sans risque avec une obligation d'État. Cet effet est d'autant plus fort que les bénéfices sont lointains : les entreprises de croissance, comme beaucoup de valeurs technologiques, attendent l'essentiel de leurs profits dans plusieurs années, et leur valeur théorique baisse donc plus vite quand les taux montent. À l'inverse, une entreprise qui verse déjà des bénéfices réguliers est moins touchée. Les banques centrales (Fed, BCE) influencent ces taux : une hausse attendue de leur taux directeur fait souvent monter les rendements des obligations et reculer les actions de croissance. Ce n'est pas mécanique au jour le jour : mercredi, l'enthousiasme pour l'IA a fait monter la tech malgré la perspective d'une hausse des taux de la Fed.",
+        "exemple": "Prenons 100 € de bénéfice attendus. Reçus dans 2 ans, ils valent aujourd'hui 100 / 1,03² ≈ 94,26 € avec un taux de 3 %, et 100 / 1,05² ≈ 90,70 € avec 5 %, soit environ 3,8 % de moins. Reçus dans 10 ans, ils valent 100 / 1,03¹⁰ ≈ 74,41 € à 3 % et 100 / 1,05¹⁰ ≈ 61,39 € à 5 %, soit environ 17,5 % de moins. C'est pourquoi un rendement américain à dix ans revenu vers 5 % cette semaine pèse davantage sur ton ETF Nasdaq-100 que sur Air Liquide.",
+        "references": [
+          {
+            "titre": "Banque de France : comprendre la stratégie monétaire",
+            "url": "https://www.banque-france.fr/fr/strategie-monetaire/comprendre-strategie-monetaire"
+          },
+          {
+            "titre": "Investopedia : How Do Interest Rates Affect the Stock Market? ⚠️",
+            "url": "https://www.investopedia.com/investing/how-interest-rates-affect-stock-market/"
+          },
+          {
+            "titre": "Investopedia : Discounted Cash Flow (DCF) ⚠️",
+            "url": "https://www.investopedia.com/terms/d/dcf.asp"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Les taux d'intérêt passent de 3 % à 5 %. Quelle valeur d'aujourd'hui baisse le plus en pourcentage ?",
+          "choix": [
+            "100 € reçus dans 1 an",
+            "100 € reçus dans 2 ans",
+            "100 € reçus dans 10 ans",
+            "Elles baissent toutes du même pourcentage"
+          ],
+          "bonne": 2,
+          "explication": "Plus un flux est lointain, plus l'actualisation pèse : environ -17,5 % pour 10 ans contre -3,8 % pour 2 ans. C'est pourquoi les valeurs de croissance sont plus sensibles aux taux."
+        },
+        {
+          "question": "Une entreprise reçoit 68 milliards de commandes sur un an pour 44 milliards de chiffre d'affaires. Que peut-on en déduire ?",
+          "choix": [
+            "Son carnet de commandes grossit : le ratio book-to-bill est d'environ 1,5",
+            "Son bénéfice va forcément augmenter de 50 %",
+            "Elle a encaissé 68 milliards d'euros de trésorerie",
+            "Son carnet de commandes diminue"
+          ],
+          "bonne": 0,
+          "explication": "Recevoir plus de commandes qu'on ne facture fait grossir le carnet. Cela ne dit rien des marges ni de la trésorerie déjà encaissée."
+        },
+        {
+          "question": "Révision : un cours passe au-dessus de sa moyenne 20 jours mais reste sous sa moyenne 50 jours, orientée à la baisse. Comment le lire ?",
+          "choix": [
+            "La tendance de fond est devenue haussière",
+            "Les moyennes mobiles ne servent qu'aux ETF",
+            "Il faut acheter immédiatement",
+            "Un rebond de court terme, mais la tendance de fond reste baissière tant que la moyenne 50 jours n'est pas reprise"
+          ],
+          "bonne": 3,
+          "explication": "La moyenne 20 jours décrit le court terme, la 50 jours la tendance de fond. C'est le cas de STMicroelectronics ce soir."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-12",
+          "titre": "États-Unis : inscriptions au chômage (14h30) et ventes de logements anciens (16h) ; Applied Materials et Cisco : résultats ; Siemens et Allianz : résultats"
+        },
+        {
+          "date": "2026-11-13",
+          "titre": "États-Unis : prix à la production (14h30) ; zone euro : PIB du 3e trimestre (11h00)"
+        },
+        {
+          "date": "2026-11-17",
+          "titre": "États-Unis : ventes au détail d'octobre (date à confirmer)"
+        },
+        {
+          "date": "2026-11-18",
+          "titre": "Soitec : résultats semestriels après la clôture ; Anthropic : prix de l'introduction en Bourse ; Fed : compte rendu de la réunion d'octobre (20h00)"
+        },
+        {
+          "date": "2026-11-19",
+          "titre": "Anthropic : premier jour de cotation au Nasdaq (prévu)"
+        },
+        {
+          "date": "2026-12-01",
+          "titre": "Zone euro : estimation rapide de l'inflation de novembre"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama (Zonebourse) : trois hausses d'affilée pour Paris, le reste de l'Europe dans le vert (11 novembre)",
+          "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
+        },
+        {
+          "titre": "Zonebourse : 11 novembre, l'IA rallume la flamme dans un marché déserté",
+          "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c"
+        },
+        {
+          "titre": "GreentechLead : Siemens Energy, chiffre d'affaires de 44,2 milliards et carnet record de 164 milliards",
+          "url": "https://greentechlead.com/wind/siemens-energy-revenue-jumps-15-5-to-e44-2-billion-orders-hit-e68-1-billion-backlog-reaches-record-e164-billion-56470"
+        },
+        {
+          "titre": "MLQ : Siemens Energy triple son dividende à 2,30 €",
+          "url": "https://mlq.ai/news/siemens-energy-more-than-triples-its-dividend-to-230-after-a-record-fiscal-2026-on-grid-and-gas-turbine-demand/"
+        },
+        {
+          "titre": "Soitec : chiffre d'affaires du 1er trimestre et date des résultats semestriels (communiqué du 22 juillet)",
+          "url": "https://www.ledevoir.com/communiques-de-presse/996503/soitec-publie-chiffre-affaires-premier-trimestre-excercice-fiscal-2027"
+        },
+        {
+          "titre": "USAGOLD : l'or se stabilise vers 4 034 dollars (11 novembre)",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-11-2026/"
+        },
+        {
+          "titre": "Yahoo Finance via data/cours.json : cours de clôture du 11 novembre (source non officielle)",
+          "url": "https://finance.yahoo.com/quote/STLAP.PA/history/"
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "titre": "L'inflation américaine freine le CAC 40 (+0,55 %) et rend quasi certaine une hausse des taux de la Fed",
       "resume": "Le CAC 40 gagne 0,55 % à 8 278,59 points, son plus haut depuis début septembre, porté par le pétrole au plus bas depuis près de deux mois, mais il a perdu la moitié de sa hausse après l'inflation américaine d'octobre, plus forte que prévu. Wall Street recule, le Nasdaq en tête, et le dollar signe sa meilleure séance depuis septembre. Infineon rassure avec ses résultats, mais les valeurs de puces rendent une partie de leurs gains en fin de journée.",
@@ -5481,170 +5792,6 @@
         {
           "titre": "Prix du baril : le pétrole avance faute d'accord au Moyen-Orient",
           "url": "https://prixdubaril.com/news-petrole/74857-le-petrole-avance-pousse-par-l-absence-d-accord-au-moyen-orient.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-11",
-      "titre": "Semaine du 5 au 9 octobre : rebond vendredi, mais le CAC 40 perd 1,2 % sur sept jours",
-      "resume": "Dimanche, les marchés sont fermés, voici le bilan de la séance de vendredi. Le CAC 40 a gagné 0,95 % à 7 803 points grâce à la détente du pétrole après les propos de Donald Trump sur des discussions avec l'Iran, mais il recule de 1,2 % sur la semaine. À Wall Street, le S&P 500 et le Nasdaq ont progressé d'environ 0,6 %, et la semaine qui vient sera dominée par l'inflation américaine de mercredi.",
-      "humeur": "hausse",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 803 pts",
-          "variation": 0.95
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "niveau non relevé",
-          "variation": 0.83
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "7 812 pts",
-          "variation": 0.59
-        },
-        {
-          "nom": "Nasdaq Composite",
-          "valeur": "27 366 pts",
-          "variation": 0.64
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 103,5 $ le baril",
-          "variation": -0.7
-        },
-        {
-          "nom": "Or",
-          "valeur": "≈ 4 194 $ l'once",
-          "variation": 1.2
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "≈ 1,12 $ (variation non relevée)",
-          "variation": 0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Inflation : le rendez-vous de mercredi",
-          "texte": "L'inflation américaine de septembre sera publiée le 14 octobre. Elle était de 3,4 % sur un an en août, et la zone euro affichait 3,8 % en septembre selon l'estimation rapide. Ces chiffres décident en grande partie de la suite des taux."
-        },
-        {
-          "titre": "Banques centrales : Fed et BCE fin octobre",
-          "texte": "La Fed se réunit les 27 et 28 octobre, la BCE le 29, avec un taux de dépôt actuellement à 2,50 %. Les marchés cherchent à savoir si l'inflation durablement élevée poussera encore à des hausses de taux, ce qui pèse sur les actions les plus chères."
-        },
-        {
-          "titre": "Pétrole et Iran",
-          "texte": "Le Brent a reculé d'environ 0,7 % vendredi autour de 103,5 dollars après que Donald Trump a affirmé ne pas attaquer l'Iran avant les élections de mi-mandat du 3 novembre. Téhéran étudie une proposition américaine sur la réouverture du détroit d'Ormuz, et tout signe de blocage peut relancer les prix."
-        },
-        {
-          "titre": "France : dette et budget",
-          "texte": "L'écart entre les taux français et allemands à 10 ans est revenu à environ 137 points de base, après plus de 150 la semaine précédente. Le plan d'économies d'environ 43 milliards d'euros présenté par un gouvernement minoritaire reste une source d'incertitude pour les banques et les valeurs sensibles aux taux."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 391.3,
-        "pv": -7.9,
-        "texte": "Ton portefeuille vaut 391,3 € pour 399,2 € investis, soit une moins-value latente de 7,9 € après la séance de vendredi. Le recul léger des ETF Nasdaq-100 a été compensé en partie par STMicroelectronics, resté stable, et par le rebond de DCAM."
-      },
-      "valeurs": [
-        {
-          "nom": "Thales",
-          "texte": "Le titre a gagné 1,2 % vendredi à 218,30 euros, soutenu par les tensions au Moyen-Orient ; les commandes du troisième trimestre sont attendues le 21 octobre."
-        },
-        {
-          "nom": "Amundi",
-          "texte": "L'action a progressé de 1,7 % à 88,25 euros dans un marché européen plus favorable, avant ses résultats trimestriels du 29 octobre."
-        },
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le groupe a publié le bilan de ses rachats d'actions (310 000 titres entre le 28 septembre et le 2 octobre) et donne rendez-vous le 29 octobre pour ses résultats du troisième trimestre."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Exail Technologies",
-          "isin": "FR0000062671",
-          "risque": "Très élevé",
-          "prix": "≈ 125 € la part",
-          "texte": "Exail fabrique des drones sous-marins et de surface, de la navigation inertielle et des composants photoniques et quantiques, avec environ 56 % de son activité dans la défense. Le sujet du jour est la tension autour de l'Iran et du détroit d'Ormuz, qui entretient la demande en équipements militaires, et le titre a déjà pris plus de 50 % depuis janvier. Le groupe a annoncé un premier semestre en forte hausse (275 millions d'euros de chiffre d'affaires, +27 %). Le principal risque : la publication complète des comptes a été reportée deux fois pour des discussions comptables liées au rapprochement évoqué avec Thales, et le cours peut bouger fortement sur la moindre nouvelle."
-        },
-        {
-          "nom": "Lhyfe",
-          "isin": "FR0014009YQ1",
-          "risque": "Très élevé",
-          "prix": "≈ 1,72 € la part",
-          "texte": "Lhyfe produit de l'hydrogène vert à partir d'électricité renouvelable. Avec un pétrole à plus de 100 dollars, les alternatives aux énergies fossiles reviennent dans le débat, et la part à moins de 2 euros reste accessible à un très petit budget. La société est cotée sur Euronext Growth et capitalise environ 83 millions d'euros, soit très peu. Le principal risque est une société encore jeune, aux pertes importantes et au cours en baisse sur l'année ; vérifie aussi que la ligne est bien disponible dans ton PEA chez Trade Republic avant d'y penser."
-        },
-        {
-          "nom": "Capgemini",
-          "isin": "FR0000125338",
-          "risque": "Élevé",
-          "prix": "≈ 115 € la part",
-          "texte": "Capgemini, société de services numériques, a rebondi de 3,8 % vendredi et de plus de 6 % sur la semaine, après des résultats solides chez son concurrent Accenture. Le marché se demande si l'intelligence artificielle va aider ou menacer ces entreprises, ce qui explique un titre encore en baisse d'environ 21 % depuis le début de l'année. Les analystes visent en moyenne un cours autour de 143 euros, mais c'est un objectif, pas une promesse. Le principal risque est que l'IA réduise les besoins en prestations de conseil et de développement."
-        }
-      ],
-      "idee": {
-        "nom": "Exail Technologies",
-        "isin": "FR0000062671",
-        "risque": "Très élevé",
-        "prix": "≈ 125 € la part",
-        "texte": "Exail fabrique des drones sous-marins et de surface, de la navigation inertielle et des composants photoniques et quantiques, avec environ 56 % de son activité dans la défense. Le sujet du jour est la tension autour de l'Iran et du détroit d'Ormuz, qui entretient la demande en équipements militaires, et le titre a déjà pris plus de 50 % depuis janvier. Le groupe a annoncé un premier semestre en forte hausse (275 millions d'euros de chiffre d'affaires, +27 %). Le principal risque : la publication complète des comptes a été reportée deux fois pour des discussions comptables liées au rapprochement évoqué avec Thales, et le cours peut bouger fortement sur la moindre nouvelle."
-      },
-      "concept": {
-        "terme": "Indice des prix à la consommation (IPC)",
-        "texte": "L'indice des prix à la consommation mesure chaque mois l'évolution du prix d'un panier de biens et de services représentatif de ce que consomment les ménages. En France, c'est l'Insee qui le calcule, et la variation de cet indice sur un an donne le taux d'inflation. Une version harmonisée (IPCH), comparable entre pays, sert de référence à la BCE, qui vise 2 % à moyen terme. Pour un investisseur, c'est un indicateur clé : une inflation plus forte que prévu pousse les banques centrales à garder des taux élevés, ce qui pèse souvent sur les actions et les obligations. C'est pourquoi la publication américaine de mercredi est très suivie.",
-        "references": [
-          {
-            "titre": "Banque de France : Inflation et déflation ⚠️",
-            "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/inflation-et-deflation"
-          },
-          {
-            "titre": "Insee : Élaboration de l'IPC et de l'IPCH ⚠️",
-            "url": "https://www.insee.fr/fr/metadonnees/source/serie/s1007"
-          },
-          {
-            "titre": "La finance pour tous : Comprendre l'inflation ⚠️",
-            "url": "https://www.lafinancepourtous.com/decryptages/politiques-economiques/theories-economiques/inflation/"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-14",
-          "titre": "États-Unis : inflation de septembre (14h30, heure de Paris)"
-        },
-        {
-          "date": "2026-10-15",
-          "titre": "États-Unis : prix à la production et ventes au détail"
-        },
-        {
-          "date": "2026-10-16",
-          "titre": "Zone euro : inflation définitive de septembre"
-        },
-        {
-          "date": "2026-10-21",
-          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "CNBC : le pétrole recule après les propos de Trump sur l'Iran",
-          "url": "https://www.cnbc.com/2026/10/09/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns.html"
-        },
-        {
-          "titre": "Boursorama : l'Europe finit en hausse, le CAC 40 pénalisé par l'incertitude budgétaire",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-le-cac-40-penalise-par-l-incertitude-budgetaire-e90e2ed2b6c4d28320356ddd8de3f220"
-        },
-        {
-          "titre": "Easybourse : Wall Street termine la semaine en hausse",
-          "url": "https://www.easybourse.com/marches/point-tendance/68149/wall-street-termine-semaine-en-hausse.html"
-        },
-        {
-          "titre": "Zonebourse : Thales",
-          "url": "https://www.zonebourse.com/cours/action/THALES-4715/"
         }
       ]
     }

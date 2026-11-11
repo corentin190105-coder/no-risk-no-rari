@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-10T21:30:00+01:00",
+  "maj": "2026-11-11T21:30:00+01:00",
   "verdict": {
-    "titre": "Stellantis se rapproche de 3,75 € : on garde, mais la sortie n'est plus qu'à 2 % du cours",
-    "texte": "Ton portefeuille vaut 769,51 €, soit -29,77 €, en hausse d'environ 1,55 € sur la journée. La ligne à surveiller est Stellantis : -3,45 % à 3,83 €, au plus bas du jour. Une clôture sous 3,75 € déclencherait la vente prévue, sans exception. Aucun achat court terme ce soir : l'inflation américaine plus forte que prévu rend le marché plus fragile pour la tech."
+    "titre": "Stellantis clôture sous 3,75 € : on applique la règle et on vend demain",
+    "texte": "Ton portefeuille vaut 781,68 €, soit -17,60 €, en hausse d'environ 12 € sur la journée grâce à la tech. Stellantis a clôturé à 3,71 €, sous le niveau de sortie fixé à l'avance : la vente prévue s'applique, sans déplacer le seuil. Aucun achat court terme prêt ce soir ; Soitec reste une idée spéculative à une seule action, sur repli à 105 €."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -11,7 +11,7 @@
       "isin": "FR001400U5Q4",
       "symbole": "DCAM.PA",
       "action": "Garder",
-      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il finit à 6,25 € (+0,2 %), toujours un peu sous sa moyenne 20 jours (6,31 €), une variation normale pour ce type de placement.",
+      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il gagne 1,8 % à 6,36 €, au-dessus de ses moyennes 20 et 50 jours (6,31 € et 6,27 €), aidé par la hausse du dollar.",
       "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
       "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
     },
@@ -20,7 +20,7 @@
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "L'ETF finit quasi stable à 6,53 € alors que le Nasdaq reculait d'environ 1,3 % : la hausse du dollar a amorti la baisse, c'est le risque de change qui joue ici en ta faveur. Il reste sous ses moyennes 20 et 50 jours (6,82 € et 6,89 €), dans une baisse de marché concentrée sur la tech américaine.",
+      "pourquoi": "L'ETF gagne 3,2 % à 6,74 €, porté par le rebond de la tech américaine et par la hausse du dollar. Il reste juste sous ses moyennes 20 et 50 jours (6,79 € et 6,89 €) : la baisse de la tech n'est pas encore effacée.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -29,7 +29,7 @@
       "isin": "FR0013380607",
       "symbole": "CACC.PA",
       "action": "Garder",
-      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle gagne 0,5 % à 42,15 €, au-dessus de ses moyennes 20 et 50 jours (40,62 € et 40,79 €), et reste en gain.",
+      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle gagne 0,6 % à 42,39 €, au-dessus de ses moyennes 20 et 50 jours (40,73 € et 40,79 €), et reste en gain.",
       "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
       "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
     },
@@ -39,7 +39,7 @@
       "symbole": "AI.PA",
       "action": "Garder",
       "sortie": 171.03,
-      "pourquoi": "Tu es en gain d'environ 8 € et la tendance reste haussière : 190,34 € ce soir, son plus haut cours de clôture depuis au moins six mois, au-dessus de ses moyennes 20 et 50 jours (178,78 € et 172,59 €). Avec une seule action, il n'y a rien à alléger.",
+      "pourquoi": "Tu es en gain d'environ 10 € et la tendance reste haussière : 192,16 € ce soir, nouveau plus haut de clôture sur six mois, bien au-dessus de ses moyennes 20 et 50 jours (179,87 € et 172,98 €). Avec une seule action, il n'y a rien à alléger.",
       "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
       "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
     },
@@ -47,11 +47,11 @@
       "nom": "Stellantis",
       "isin": "NL00150001Q9",
       "symbole": "STLAP.PA",
-      "action": "Garder",
+      "action": "Vendre",
       "sortie": 3.75,
-      "pourquoi": "C'est ta ligne la plus risquée. Le titre recule de 3,45 % à 3,83 € et finit au plus bas du jour, sans nouvelle propre au groupe trouvée, avec un secteur auto en repli. Il repasse sous sa moyenne 20 jours (3,95 €) et n'est plus qu'à 2,2 % du niveau de sortie. Je ne bouge pas ce niveau.",
-      "vendreSi": "clôture sous 3,75 €, sans exception. Sur 13 actions, la perte totale serait d'environ 3,77 € plus 2 € de frais d'achat et de vente, soit 0,75 % du portefeuille.",
-      "renforcerSi": "non, tant que le cours n'a pas repassé durablement sa moyenne 50 jours (4,14 €) sur un fait nouveau."
+      "pourquoi": "Le titre a clôturé à 3,71 € (environ -3 %), sous le niveau de sortie de 3,75 € fixé à l'avance, sans nouvelle propre au groupe, sous ses moyennes 20 et 50 jours (3,94 € et 4,11 €). La règle s'applique : on ne déplace pas le seuil pour éviter la vente, et la moins-value n'est pas une raison de garder.",
+      "vendreSi": "c'est le cas : vends les 13 actions à la séance de jeudi, de préférence avec un ordre à cours limité proche du cours (par exemple 3,68 €) pour éviter une exécution à un mauvais prix. Vers 3,71 €, la perte totale serait d'environ 13 × 0,33 € = 4,29 € plus 2 € de frais d'achat et de vente, soit environ 6,30 €, moins de 1 % du portefeuille.",
+      "renforcerSi": "non. Un rachat ne serait à étudier qu'après un fait nouveau et une clôture au-dessus de sa moyenne 50 jours (4,11 €)."
     },
     {
       "nom": "STMicroelectronics",
@@ -59,7 +59,7 @@
       "symbole": "STMPA.PA",
       "action": "Garder",
       "sortie": 38.61,
-      "pourquoi": "Le titre a profité des résultats d'Infineon jusqu'à 41,08 €, puis a rendu l'essentiel après l'inflation américaine pour finir à 40,11 € (+1,2 %). Il reste au-dessus de 38,61 €, mais sous ses moyennes 20 et 50 jours (41,24 € et 43,91 €) : la tendance reste baissière. Le niveau de sortie ne bouge pas.",
+      "pourquoi": "Le titre bondit de 5,2 % à 42,18 €, meilleure hausse du CAC 40, et repasse au-dessus de sa moyenne 20 jours (41,17 €). Il s'éloigne de ton niveau de sortie de 38,61 €, mais reste sous sa moyenne 50 jours (43,86 €) : la tendance de fond n'est pas encore redevenue haussière. Le niveau de sortie ne bouge pas.",
       "vendreSi": "clôture sous 38,61 €, sans exception. Sur 2 actions, la vente rapporterait alors environ 76 € après 1 € de frais.",
       "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de sa moyenne 50 jours, vers 44 €, sur un fait nouveau."
     }
@@ -87,12 +87,49 @@
       "contre": "Les marchés peuvent baisser plusieurs années de suite. Cet achat n'a de sens que si tu peux laisser l'argent investi au moins 5 ans."
     },
     {
+      "nom": "Soitec (spéculatif)",
+      "statut": "Attendre",
+      "plan": [
+        [
+          "Déclencheur",
+          "Repli jusqu'à 105,00 €, ordre à cours limité"
+        ],
+        [
+          "Sortie",
+          "94,50 €"
+        ],
+        [
+          "Objectif",
+          "122,00 €"
+        ],
+        [
+          "Exemple",
+          "1 action, environ 105 €"
+        ],
+        [
+          "Perte max",
+          "environ 12,50 €, frais compris, hors trou de cours"
+        ],
+        [
+          "Gain visé",
+          "environ 15 €, frais compris"
+        ],
+        [
+          "Échéance",
+          "20 novembre"
+        ]
+      ],
+      "quand": "Seulement sur repli à 105 € avant les résultats du 18 novembre au soir. Pas au-dessus : ce serait courir après la hausse du jour.",
+      "pourquoi": "Résultats semestriels datés au 18 novembre, après une croissance du chiffre d'affaires de 23 % au 1er trimestre et un objectif de plus de 30 % au 2e trimestre.",
+      "contre": "Idée spéculative : invalidation à 10 % sous l'entrée, résultats binaires avant l'échéance, tendance baissière sous les moyennes 20 et 50 jours. Probabilité d'échec estimée à 55 à 60 %."
+    },
+    {
       "nom": "Infineon Technologies",
       "statut": "Attendre",
       "plan": [
         [
           "Déclencheur",
-          "Clôture au-dessus de 50,50 €"
+          "Repli vers 50,50 € qui tient en clôture"
         ],
         [
           "Entrée",
@@ -108,53 +145,20 @@
         ],
         [
           "Exemple",
-          "3 actions, environ 152 €"
+          "7 actions, environ 354 €"
         ],
         [
           "Perte max",
-          "environ 11 €, frais compris"
+          "environ 23,70 €, frais compris"
         ],
         [
           "Gain visé",
-          "environ 17 €, frais compris"
+          "environ 42 €, frais compris"
         ]
       ],
-      "quand": "Seulement si le titre reprend la main en clôture au-dessus de 50,50 €. Pas avant : le marché a refusé de garder la hausse des résultats.",
-      "pourquoi": "Les résultats annuels rassurent : 16,35 milliards d'euros de chiffre d'affaires (+12 %) et environ 20 milliards visés en 2027, porté par les centres de données d'IA.",
-      "contre": "Le titre a touché 52,06 € puis fini à 49,05 € : les vendeurs dominent encore, sous les moyennes 20 et 50 jours. Des taux américains à 5 % pèsent sur la tech."
-    },
-    {
-      "nom": "Edenred",
-      "statut": "Attendre",
-      "plan": [
-        [
-          "Déclencheur",
-          "Repli vers 25,00 € qui tient en clôture"
-        ],
-        [
-          "Sortie",
-          "23,90 €"
-        ],
-        [
-          "Objectif",
-          "27,60 €"
-        ],
-        [
-          "Exemple",
-          "8 actions, environ 200 €"
-        ],
-        [
-          "Perte max",
-          "environ 11 €, frais compris"
-        ],
-        [
-          "Gain visé",
-          "environ 19 €, frais compris"
-        ]
-      ],
-      "quand": "Sur un repli qui tient, une fois l'ATR disponible dans le fichier de cours (ajout ce soir à la liste suivie).",
-      "pourquoi": "La justice brésilienne a suspendu une partie de la réforme des titres-restaurant, le 10 novembre : un fait nouveau sur son premier marché.",
-      "contre": "Le titre a déjà pris 6,37 % en une séance, et la décision peut être annulée en appel."
+      "quand": "Sur un repli vers 50,50 € qui tient, après vérification des dirigeants, des positions courtes et du consensus. Pas à 52 € : le risque dépasserait 8 %.",
+      "pourquoi": "Le seuil de 50,50 € a été franchi en clôture (52,12 €) après des résultats annuels solides et un objectif d'environ 20 milliards d'euros en 2027.",
+      "contre": "Le titre reste sous sa moyenne 50 jours (55,19 €), et le rebond s'est fait dans des volumes réduits par le jour férié."
     }
   ],
   "decouvertes": [
@@ -199,14 +203,14 @@
       "faux": "Déception sur un médicament clé, ou résultats simplement inférieurs à des attentes devenues élevées."
     },
     {
-      "nom": "Pluxee",
-      "isin": "NL0015001W49",
-      "symbole": "PLX.PA",
-      "theme": "Les avantages salariés, un métier peu connu",
-      "risque": "Élevé",
-      "pourquoi": "Ancienne filiale de Sodexo, Pluxee émet des titres-restaurant et des cartes d'avantages salariés. Elle a gagné 4,88 % le 10 novembre après la suspension partielle de la réforme brésilienne, et une part coûte environ 12 € : un dossier plus petit et moins suivi qu'Edenred, sur le même thème.",
-      "aBorder": "À étudier, pas à acheter dans l'urgence : attends de voir si la décision brésilienne tient en appel.",
-      "faux": "Une annulation de la décision au Brésil, ou une baisse des taux d'intérêt, qui réduit les revenus tirés des fonds placés en attendant le remboursement des titres."
+      "nom": "GTT (Gaztransport & Technigaz)",
+      "isin": "FR0011726835",
+      "symbole": "GTT.PA",
+      "theme": "Le transport du gaz naturel liquéfié, un savoir-faire de niche",
+      "risque": "Modéré",
+      "pourquoi": "GTT conçoit les cuves à membrane qui équipent la plupart des méthaniers, ces navires qui transportent le gaz liquéfié, et touche des redevances sur chaque construction. Le 11 novembre, Morgan Stanley a relevé sa recommandation de « sous-pondérer » à « pondération en ligne », avec un objectif de 184 €, et le titre a gagné 1,08 %. Les tensions sur le gaz qatari rappellent l'importance du transport de GNL. C'est un secteur absent de ton portefeuille.",
+      "aBorder": "À étudier pour le long terme, en petite ligne, après avoir regardé son prix par part et son dividende. Pas d'urgence.",
+      "faux": "Un ralentissement des commandes de méthaniers, la concurrence de technologies chinoises, ou une baisse durable de la demande de gaz."
     }
   ]
 }

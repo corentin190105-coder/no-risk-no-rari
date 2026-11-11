@@ -22,7 +22,8 @@
     "AIR.PA",
     "STLAP.PA",
     "SAF.PA",
-    "EDEN.PA"
+    "EDEN.PA",
+    "ENR.DE"
   ],
   "indices": [
     "^FCHI",
