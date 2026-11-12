@@ -1,6 +1,11 @@
 {
   "alertes": [
     {
+      "date": "2026-11-12T09:20:00+01:00",
+      "titre": "Ouverture : le CAC 40 ouvre en hausse de 0,4 %, mais l'affaire Nvidia pèse sur les semi-conducteurs et Stellantis reste sous 3,75 €",
+      "texte": "Le CAC 40 ouvre en hausse d'environ 0,4 % vers 8 366 points, dans le sillage de Wall Street qui a fini mercredi en nette hausse (S&P 500 +1,3 %, Nasdaq +1,6 %). Le changement de la nuit vient de Nvidia : l'action a chuté d'environ 8,6 % après la clôture américaine, son conseil d'administration se penchant sur la situation de son patron, ce qui a fait reculer l'Asie (Nikkei -0,7 %, Hang Seng -1,2 %, Shanghai -0,6 %) et pèse ce matin sur STMicroelectronics (environ -1,8 %) et Soitec (environ -2,5 %, objectif modéré par JP Morgan). Stellantis ouvre vers 3,73 € à 9h12, toujours sous ton niveau de sortie de 3,75 €, sans nouvelle propre trouvée : la vente prévue reste d'actualité. Au programme : inscriptions au chômage américaines à 14h30 et ventes de logements anciens à 16h00 ; aucune nouvelle idée ne passe les critères, et l'entrée de 105 € sur Soitec pourrait être touchée dès aujourd'hui, dans un contexte plus fragile pour les puces. Le fichier de cours automatique date d'hier 18h59, les cours du matin viennent de la presse et d'ABC Bourse."
+    },
+    {
       "date": "2026-11-11T17:16:00+01:00",
       "titre": "Avant clôture : Stellantis passe sous ton niveau de sortie de 3,75 €, le CAC 40 garde environ +0,4 %",
       "texte": "Le changement de l'après-midi vient de Stellantis : le titre a décroché vers 3,71 € à 17h14 (environ -3,2 % sur la séance, plus bas du jour à 3,707 €), donc sous ton niveau de sortie de 3,75 €, sans nouvelle propre trouvée et dans des volumes très faibles un jour férié en France. Le reste du marché tient : le CAC 40 gagne environ 0,4 % vers 8 315 points, porté par les semi-conducteurs, et Wall Street a ouvert en hausse derrière le Nasdaq. STMicroelectronics reste solide vers 41,90 € (environ +4,4 %), loin de 38,61 €, et Air Liquide garde son plus haut de six mois vers 191,70 €. Infineon a franchi les 50,50 € attendus hier soir, mais après +5 % le point d'entrée est trop loin de l'invalidation pour garder un ratio gain/risque de 2 : aucune nouvelle idée ce soir. Le fichier de cours automatique date de 15h33, le cours de Stellantis vient d'ABC Bourse, une seule source."
