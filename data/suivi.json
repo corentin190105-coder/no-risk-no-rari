@@ -23,7 +23,8 @@
     "STLAP.PA",
     "SAF.PA",
     "EDEN.PA",
-    "ENR.DE"
+    "ENR.DE",
+    "VIRI.PA"
   ],
   "indices": [
     "^FCHI",

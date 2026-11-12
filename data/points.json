@@ -1,6 +1,309 @@
 {
   "points": [
     {
+      "date": "2026-11-12",
+      "titre": "Nvidia perd son patron, le CAC 40 tient bon et Stellantis s'enfonce à 3,55 €",
+      "resume": "Le CAC 40 gagne 0,34 % à 8 361,36 points, sa quatrième hausse d'affilée, malgré la démission de Jensen Huang à la tête de Nvidia, dont l'action a chuté jusqu'à 14 % à l'ouverture. Les investisseurs ont tourné le dos aux puces pour l'énergie, la santé et les services informatiques, pendant que le Brent bondissait vers 96 dollars après les propos de Donald Trump sur l'Iran. Stellantis signe la plus forte baisse du CAC 40 (-4,4 %) après un avertissement de son patron sur les coûts.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 361,36 pts",
+          "variation": 0.34
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 398,98 pts",
+          "variation": 0.09
+        },
+        {
+          "nom": "S&P 500 (provisoire, vers 21h)",
+          "valeur": "≈ 7 596 pts",
+          "variation": -0.31
+        },
+        {
+          "nom": "Nasdaq (provisoire, vers 21h)",
+          "valeur": "≈ 25 339 pts",
+          "variation": -0.5
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "60 819,36 pts",
+          "variation": -0.7
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "24 008,55 pts",
+          "variation": -1.26
+        },
+        {
+          "nom": "Brent (provisoire)",
+          "valeur": "≈ 96,0 $",
+          "variation": 3.53
+        },
+        {
+          "nom": "Or (provisoire)",
+          "valeur": "≈ 3 889 $",
+          "variation": -2.8
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "1,1058 $",
+          "variation": -0.33
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Nvidia : Jensen Huang démissionne",
+          "texte": "Le cofondateur de Nvidia a quitté la direction après une enquête de son conseil d'administration sur sa vie privée, selon l'AP ; la directrice financière Colette Kress assure l'intérim. L'action a plongé jusqu'à 14 % à l'ouverture avant de limiter sa baisse vers 5 %, Broadcom et AMD profitant au contraire d'achats de report. Nvidia publiera ses résultats trimestriels la semaine prochaine, un test immédiat pour la nouvelle équipe."
+        },
+        {
+          "titre": "Pétrole : Donald Trump relance le Brent",
+          "texte": "Donald Trump a déclaré ne pas avoir « besoin d'un accord avec l'Iran », ce qui a fait passer le Brent d'environ 92 à plus de 94 dollars selon l'AP, puis vers 96 dollars en fin de journée. Les valeurs pétrolières en ont profité, mais un pétrole cher entretient l'inflation et éloigne toute baisse des taux."
+        },
+        {
+          "titre": "Taux : le 10 ans américain repasse au-dessus de 5 %",
+          "texte": "Au retour du jour férié, le rendement du Trésor américain à dix ans est monté à 5,08 % contre 4,98 % mardi, selon l'AP, nourri par la hausse du pétrole et l'inflation d'octobre. En Europe, l'OAT française à dix ans grimpe à 4,85 % contre 4,78 % la veille (Boursorama). La Fed tranchera le 9 décembre, la BCE le 17."
+        },
+        {
+          "titre": "Asie : Tokyo et Hong Kong reculent",
+          "texte": "Le Nikkei a cédé 0,7 % et le Hang Seng 1,3 %, avant même l'annonce de la démission de Jensen Huang, dans un contexte de prudence sur la tech et la Fed. L'or recule nettement, vers 3 890 dollars l'once, sous l'effet d'un dollar et de taux réels plus élevés."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 782.58,
+        "pv": -16.7,
+        "texte": "Ton portefeuille vaut 782,58 € pour 799,28 € investis, soit -16,70 €, en hausse d'environ 0,90 € sur la journée : les ETF Monde, Nasdaq-100 et CAC 40 gagnent tous environ 0,4 %, et STMicroelectronics finit en léger gain à 42,34 € après être tombé à 41,04 €. Stellantis efface à elle seule une bonne partie de ces gains (-4,4 % à 3,55 €) et reste sous ton niveau de sortie de 3,75 €."
+      },
+      "valeurs": [
+        {
+          "nom": "Stellantis",
+          "texte": "Plus forte baisse du CAC 40 (-4,4 % à 3,55 €, plus bas de six mois à 3,50 € en séance) avec un volume bien supérieur à la moyenne. Le directeur général Antonio Filosa a prévenu d'une forte inflation des matières premières et des puces en 2027 et probablement 2028, mesurée en milliards d'euros, selon Reuters. La ligne est sous ton niveau de sortie depuis mercredi : voir le plan d'action."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "L'ETF finit à 6,77 € (+0,4 %) malgré la démission du patron de Nvidia, sa première ligne : la baisse de Nvidia a été compensée par la hausse de Broadcom et d'AMD, et la baisse de l'euro face au dollar soutient la valeur en euros."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Après un passage à 41,04 € dans le sillage de Nvidia, le titre se reprend en fin de séance et clôture à 42,34 € (+0,4 %), toujours au-dessus de sa moyenne 20 jours et à bonne distance de ton niveau de sortie de 38,61 €."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "Valeur suivie : -2,3 % à 105,85 €. Le titre a touché 101,85 € en séance, sous l'entrée de 105 € de l'idée spéculative, qui reste ouverte jusqu'aux résultats du 18 novembre."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Capgemini",
+          "isin": "FR0000125338",
+          "risque": "Modéré",
+          "prix": "≈ 127 € la part",
+          "texte": "Capgemini, l'un des grands du conseil et des services informatiques en Europe, signe la meilleure hausse du CAC 40 (+2,1 % à 126,55 €). Pendant que Nvidia vacille, les investisseurs se tournent vers ceux qui installent l'IA chez les entreprises plutôt que vers ceux qui fabriquent les puces : c'est la rotation sectorielle relevée par Moneyvox. Le titre reste un pari sur l'adoption de l'IA générative dans les grands groupes. Le principal risque : l'IA peut aussi remplacer une partie du travail facturé par les sociétés de services, et les clients réduisent leurs budgets quand l'économie ralentit."
+        },
+        {
+          "nom": "Viridien",
+          "isin": "FR001400PVN6",
+          "risque": "Très élevé",
+          "prix": "≈ 94 € la part",
+          "texte": "Viridien (ex-CGG) vend des capteurs sismiques et des données géologiques aux pétroliers ; il gagne 2,2 % à 94,15 € sur une commande de Sinopec rapportée par la presse, alors que le Brent remonte vers 96 dollars. Un pétrole cher pousse les compagnies à explorer davantage, ce qui profite à ce type d'équipementier. La commande reste à confirmer par la société. Le principal risque : une volatilité extrême, le titre ayant oscillé entre 85 € et 106 € le seul jour de ses résultats, le 4 novembre."
+        },
+        {
+          "nom": "Engie",
+          "isin": "FR0010208488",
+          "risque": "Modéré",
+          "prix": "≈ 25 € la part",
+          "texte": "Engie, producteur et fournisseur d'électricité et de gaz, gagne 1,5 % à 25,14 €, plus haut des cinq dernières séances, porté par la hausse de l'énergie et la recherche de valeurs défensives. Le groupe profite aussi de la demande d'électricité des centres de données, sans être exposé aux soubresauts des fabricants de puces. Avec une part autour de 25 €, c'est une idée accessible à un petit budget. Le principal risque : les services aux collectivités sont très endettés, et la montée des taux longs (10 ans français à 4,85 %) renchérit leur financement."
+        }
+      ],
+      "idee": {
+        "nom": "Capgemini",
+        "isin": "FR0000125338",
+        "risque": "Modéré",
+        "prix": "≈ 127 € la part",
+        "texte": "Capgemini, l'un des grands du conseil et des services informatiques en Europe, signe la meilleure hausse du CAC 40 (+2,1 % à 126,55 €). Pendant que Nvidia vacille, les investisseurs se tournent vers ceux qui installent l'IA chez les entreprises plutôt que vers ceux qui fabriquent les puces : c'est la rotation sectorielle relevée par Moneyvox. Le titre reste un pari sur l'adoption de l'IA générative dans les grands groupes. Le principal risque : l'IA peut aussi remplacer une partie du travail facturé par les sociétés de services, et les clients réduisent leurs budgets quand l'économie ralentit."
+      },
+      "concept": {
+        "terme": "Le risque homme-clé (key person risk)",
+        "texte": "Le risque homme-clé désigne la dépendance d'une entreprise à une seule personne, souvent son fondateur ou son dirigeant, dont le départ brutal peut désorganiser la stratégie, les relations avec les clients ou la confiance des investisseurs. En Bourse, ce risque se traduit par une prime : le marché valorise en partie la personne, et il la retire d'un coup si elle s'en va sans successeur préparé. Jeudi, Jensen Huang, cofondateur et patron de Nvidia depuis 33 ans, a démissionné après une enquête de son conseil d'administration, et la directrice financière Colette Kress assure l'intérim : l'action a chuté jusqu'à 14 % à l'ouverture avant de limiter sa baisse vers 5 %. Pour s'en protéger, les entreprises préparent des plans de succession et certaines souscrivent une assurance « homme-clé » ; pour l'investisseur, la meilleure parade reste la diversification, puisqu'un ETF dilue le poids d'une seule société. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
+        "references": [
+          {
+            "titre": "Investopedia : Key Person Insurance ⚠️",
+            "url": "https://www.investopedia.com/terms/k/keypersoninsurance.asp"
+          },
+          {
+            "titre": "InsurerBrain : définition du « key person risk » ⚠️",
+            "url": "https://www.insurerbrain.com/wiki/Definition:Key_person_risk"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché reste porteur à Paris (+0,34 %, quatrième hausse d'affilée) grâce à une rotation vers l'énergie, la santé et les services informatiques, mais le climat se tend : démission de Jensen Huang chez Nvidia, taux américain à dix ans revenu au-dessus de 5 % et Brent relancé vers 96 dollars après les propos de Donald Trump sur l'Iran, confirmés par l'AP. Aucune idée ne passe tous les critères Favorable ce soir : les mouvements du jour n'ont pas de catalyseur daté à venir, et je n'ajoute pas d'idée spéculative. Le journal compte une seule idée ouverte (Soitec, entrée à 105 € touchée jeudi à 101,85 €, clôture 105,85 €, invalidation 94,50 € intacte) et aucune idée close : l'échantillon est trop petit pour juger la méthode. Sur tes lignes, Stellantis s'enfonce à 3,55 €, sous ton niveau de sortie : la vente reste la décision ; STMicroelectronics (42,34 €) et Air Liquide (192,84 €) restent loin de leurs niveaux de sortie.",
+        "opportunites": [
+          {
+            "nom": "TotalEnergies",
+            "isin": "FR0000120271",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Brent en hausse d'environ 3,5 % vers 96 dollars après la déclaration de Donald Trump (« pas besoin d'un accord avec l'Iran »), confirmée par l'AP",
+            "cours": "≈ 80,60 €",
+            "entree": "81,80 €, après une clôture au-dessus de 81,60 €",
+            "invalidation": "79,70 €",
+            "objectif": "86,00 €",
+            "ratio": "2,0",
+            "frais": "4 actions : environ 327 €, perte maximale d'environ 10,40 € frais compris, gain visé d'environ 14,80 € net de 2 € de frais",
+            "these": "TotalEnergies produit et raffine du pétrole et du gaz, et développe l'électricité. Jeudi, Donald Trump a affirmé ne plus avoir besoin d'un accord avec l'Iran, et le Brent est passé d'environ 92 à plus de 94 dollars dans la foulée selon l'AP, puis vers 96 dollars en fin de journée selon Yahoo Finance. Le titre gagne environ 1,6 % (Zonebourse), une des meilleures hausses du CAC 40, soit un mouvement d'environ 0,6 ATR seulement, sous le seuil d'un ATR fixé par la méthode pour une idée liée à Trump. Il bute pourtant sur sa moyenne 20 jours (81,56 €), juste au-dessus de sa moyenne 50 jours (79,58 €), et son plus haut de six mois à 85,94 € limite l'objectif. Les résultats du 3e trimestre sont déjà publiés : aucun catalyseur daté n'arrive avant l'échéance, et un message présidentiel peut être démenti dès le lendemain. Je n'ai vérifié ni les dirigeants, ni les positions courtes, ni le consensus ce soir. L'idée passerait en Favorable avec une clôture au-dessus de 81,60 € et un fait nouveau daté sur l'offre de pétrole, par exemple une réunion de l'OPEP+ ou des sanctions officielles.",
+            "risque": "Le pétrole oscille entre 70 et 150 dollars depuis le début de la guerre avec l'Iran selon l'AP : un simple espoir de détente peut effacer la hausse en une séance."
+          },
+          {
+            "nom": "Viridien",
+            "isin": "FR001400PVN6",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Commande de 80 000 capteurs sismiques par Sinopec selon Moneyvox, à confirmer par un communiqué de la société",
+            "cours": "94,15 €",
+            "entree": "98,00 €, après une clôture au-dessus de 97,70 €",
+            "invalidation": "92,30 €",
+            "objectif": "107,00 €",
+            "ratio": "1,6",
+            "frais": "4 actions : environ 392 €, perte maximale d'environ 24,80 € frais compris, gain visé d'environ 34 € net de 2 € de frais",
+            "these": "Viridien (ex-CGG) vend des équipements de mesure sismique via Sercel et des services de géosciences aux compagnies pétrolières. Le titre gagne 2,17 % à 94,15 € sur une commande de 80 000 capteurs de Sinopec rapportée par Moneyvox et Zonebourse, avec un objectif d'AlphaValue à 107 € ; je n'ai pas trouvé le communiqué officiel, et mes recherches font surtout ressortir une commande Sinopec de 65 000 capteurs datée d'août 2025. Un pétrole qui remonte vers 96 dollars soutient les budgets d'exploration, donc le secteur. Techniquement, le titre est juste au-dessus de sa moyenne 20 jours (environ 93,25 €) mais sous la résistance de 97,65 € du 10 novembre, avec une forte volatilité : ATR d'environ 5,70 € que j'ai calculé sur Yahoo Finance, et une séance de résultats du 4 novembre entre 85,10 € et 105,90 €. La valeur n'est pas encore dans le fichier de cours automatique : je l'ajoute au suivi pour disposer de son ATR officiel dès demain. Même confirmée, l'idée resterait au mieux Spéculatif, avec un ratio de 1,6 inférieur au 2 exigé, et seulement après une clôture au-dessus de 97,70 €.",
+            "risque": "Valeur très volatile : une variation de 5 à 10 % en une séance est courante, d'où un nombre d'actions limité par la perte maximale de 25 €."
+          },
+          {
+            "nom": "Air France-KLM",
+            "isin": "FR001400J770",
+            "compte": "PEA",
+            "avis": "Éviter",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Aucun nouveau : le titre prolonge une hausse de plus de 13 % depuis le 5 novembre",
+            "cours": "14,30 €",
+            "entree": "aucune à ce prix",
+            "invalidation": "13,30 €",
+            "objectif": "aucun",
+            "ratio": "non calculé",
+            "frais": "Pas de plan : acheter après une telle hausse revient à courir après le cours",
+            "these": "Air France-KLM est le premier groupe aérien européen, sensible au prix du kérosène. Le titre recule de 1,75 % à 14,30 € après avoir touché 14,72 € : la hausse du pétrole de jeudi pèse directement sur ses coûts. Il évolue très au-dessus de ses moyennes 20 et 50 jours (environ 11,12 € et 11,30 € selon le radar d'hier soir), avec un RSI vers 84, un niveau de surachat. Aucun catalyseur daté n'arrive à court terme. Il redeviendrait à étudier sur un repli qui tient vers 13,30 à 13,50 €, le plus bas du 9 novembre.",
+            "risque": "Un Brent durablement au-dessus de 95 dollars et un repli technique après +36 % en vingt séances peuvent effacer rapidement 1 à 2 € par action."
+          }
+        ],
+        "retro": "Bilan intermédiaire à 5 jours des idées du 5 novembre. Air France-KLM (Attendre, entrée à 12,90 €, invalidation 12,10 €, objectif 14,50 €) : l'entrée a été franchie le 6 novembre, l'invalidation jamais touchée, et l'objectif atteint le 11 novembre (plus haut à 14,69 €) ; le plan aurait rapporté environ +11,4 % net, soit près de 23 € sur 200 €. STMicroelectronics (Éviter, à 37,09 €) : le titre a depuis rebondi de plus de 14 % à 42,34 €, l'avis a donc fait manquer une hausse, même s'il n'y avait pas de catalyseur identifié pour la justifier. Deux bilans de suite valident les entrées sur cassure d'Air France-KLM, mais cela reste un seul titre : pas de conclusion générale."
+      },
+      "lecon": {
+        "titre": "Psychologie de l'investisseur : l'aversion à la perte et le piège de « attendre de revenir à l'équilibre »",
+        "niveau": "Intermédiaire",
+        "texte": "Après la macroéconomie, on ouvre le chapitre de la psychologie de l'investisseur, souvent plus décisif que l'analyse elle-même. Les travaux de Kahneman et Tversky ont montré que perdre 100 € fait environ deux fois plus mal que gagner 100 € ne fait plaisir : c'est l'aversion à la perte. Elle produit un biais très concret, l'effet de disposition : on vend trop vite les lignes gagnantes pour « sécuriser », et on garde trop longtemps les perdantes pour ne pas « matérialiser » la perte. S'y ajoute le biais d'ancrage : le prix d'achat devient une référence mentale, alors que le marché l'ignore totalement. La seule question utile est : si je n'avais pas cette action aujourd'hui, l'achèterais-je à ce prix ? C'est pour cela qu'on fixe un niveau de sortie avant d'acheter, à froid, et qu'on l'applique sans le déplacer. L'AMF recense ces biais, dont l'aversion à la perte et le biais de statu quo, parmi ceux qui éloignent les épargnants de leurs objectifs.",
+        "exemple": "Ta ligne Stellantis en est l'illustration : 13 actions achetées 4,04 €, niveau de sortie fixé à 3,75 €, franchi mercredi soir à 3,71 €. Jeudi, le titre a encore perdu 4,4 % à 3,55 € après l'avertissement du directeur général sur les coûts. Attendre un jour de plus a coûté 13 × 0,16 € ≈ 2,10 €, et la perte totale atteint environ 8,40 € frais de vente compris, soit à peu près 1 % du portefeuille. La perte est faible en euros ; la vraie leçon est que la règle protège justement des jours où l'on hésite.",
+        "references": [
+          {
+            "titre": "AMF : Mieux connaître ses réactions pour mieux investir, comprendre les biais comportementaux",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/actualites-mises-en-garde/mieux-connaitre-ses-reactions-pour-mieux-investir-comprendre-les-biais-comportementaux"
+          },
+          {
+            "titre": "AMF : guide PDF sur les biais comportementaux ⚠️",
+            "url": "https://www.amf-france.org/sites/institutionnel/files/pdf/69505/fr/Mieux_connaitre_ses_reactions_pour_mieux_investir__comprendre_les_biais_comportementaux.pdf"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Un investisseur garde une action en baisse de 15 % « en attendant qu'elle revienne à son prix d'achat », mais vend vite ses actions en hausse. Comment s'appelle ce comportement ?",
+          "choix": [
+            "La diversification",
+            "L'effet de disposition",
+            "Le rééquilibrage",
+            "L'effet de levier"
+          ],
+          "bonne": 1,
+          "explication": "L'effet de disposition, nourri par l'aversion à la perte, pousse à garder les perdantes et vendre les gagnantes. Le prix d'achat n'a aucune importance pour le marché."
+        },
+        {
+          "question": "Pourquoi l'action Nvidia a-t-elle chuté jusqu'à 14 % jeudi alors que ses usines et ses clients n'avaient pas changé ?",
+          "choix": [
+            "Parce que ses résultats trimestriels étaient mauvais",
+            "Parce que la Fed a relevé ses taux",
+            "Parce que la BCE a vendu ses actions",
+            "Parce que le marché a retiré la prime liée à son dirigeant historique, qui a démissionné"
+          ],
+          "bonne": 3,
+          "explication": "C'est le risque homme-clé : une partie de la valeur reposait sur Jensen Huang. Sans successeur préparé, l'incertitude fait baisser le cours."
+        },
+        {
+          "question": "Révision : un cours passe sous sa moyenne mobile 50 jours et y reste. Que signale généralement cette situation ?",
+          "choix": [
+            "Une tendance de fond qui se dégrade",
+            "Une hausse certaine dans les jours qui viennent",
+            "Un dividende imminent",
+            "Une action forcément sous-évaluée"
+          ],
+          "bonne": 0,
+          "explication": "Rester sous la moyenne 50 jours indique une tendance moyen terme baissière, comme Stellantis (3,55 € contre environ 4,09 €). Ce n'est jamais une certitude, juste un repère."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-13",
+          "titre": "Zone euro : PIB du 3e trimestre (11h00) ; États-Unis : prix à la production d'octobre (14h30) ; Richemont : résultats semestriels"
+        },
+        {
+          "date": "2026-11-17",
+          "titre": "États-Unis : ventes au détail d'octobre (date à confirmer) ; Nvidia : résultats trimestriels annoncés pour mardi soir"
+        },
+        {
+          "date": "2026-11-18",
+          "titre": "Soitec : résultats semestriels après la clôture ; Anthropic : prix de l'introduction en Bourse ; Fed : compte rendu de la réunion d'octobre (20h00)"
+        },
+        {
+          "date": "2026-11-19",
+          "titre": "Anthropic : premier jour de cotation au Nasdaq (prévu)"
+        },
+        {
+          "date": "2026-11-20",
+          "titre": "Soitec : échéance de l'idée spéculative"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursorama (AFP) : la Bourse de Paris termine en légère hausse (12 novembre)",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-08096cdb7e970fb74a3579f52b3cd868"
+        },
+        {
+          "titre": "BFM Bourse : le CAC 40 termine en hausse malgré le départ de Jensen Huang et les propos de Trump sur l'Iran",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-le-seisme-du-depart-de-jensen-huang-chez-nvidia-et-trump-qui-affirme-ne-pas-avoir-besoin-d-un-accord-avec-l-iran-le-cac-40-termine-encore-en-hausse-1173691.html"
+        },
+        {
+          "titre": "Zonebourse : la Bourse de Paris a progressé, résultats et Nvidia ont animé la séance",
+          "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-a-progresse-les-resultats-d-entreprises-et-nvidia-ont-anime-la-seance-ce785ed8d18cf22d"
+        },
+        {
+          "titre": "Moneyvox : le journal de la Bourse du jeudi 12 novembre 2026",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111221/cac-40-a-8-361-points-nvidia-rotation-sectorielle-le-journal-de-la-bourse-du-jeudi-12-novembre-2026"
+        },
+        {
+          "titre": "AP via BNN Bloomberg : Wall Street efface sa baisse malgré Nvidia et le pétrole",
+          "url": "https://www.bnnbloomberg.ca/markets/2026/11/12/nvidia-shares-plunge-13-at-open-after-ceo-jensen-huang-resigns/"
+        },
+        {
+          "titre": "SF Standard : l'action Nvidia chute après le départ de Jensen Huang",
+          "url": "https://sfstandard.com/2026/11/12/nvidia-shares-tumble-as-wall-street-reacts-huang-s-exit/"
+        },
+        {
+          "titre": "Reuters via Yahoo Finance : les contrats sur le Nasdaq reculent avec Nvidia",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html"
+        },
+        {
+          "titre": "Reuters via Euronext : le patron de Stellantis prévient d'une hausse des coûts",
+          "url": "https://live.euronext.com/en/financial-news/stellantis-ceo-warns-rising-costs-confirms-leapmotor-cooperation-e-cars-italy"
+        },
+        {
+          "titre": "Yahoo Finance : historique des cours (clôtures du 12 novembre, Euro Stoxx 50, S&P 500, Brent, or, euro/dollar)",
+          "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history/"
+        }
+      ]
+    },
+    {
       "date": "2026-11-11",
       "titre": "L'IA relance les semi-conducteurs, le CAC 40 gagne 0,66 % mais Stellantis passe sous ton niveau de sortie",
       "resume": "Le CAC 40 signe sa troisième hausse d'affilée (+0,66 % à 8 332,87 points) dans des volumes très faibles, la Bourse de Paris restant ouverte un jour férié. Les résultats de CoreWeave et la future entrée en Bourse d'Anthropic ont relancé les valeurs de l'IA : STMicroelectronics prend 5,2 %, Soitec près de 12 % et Siemens Energy environ 11 % après un exercice record. Wall Street suit, Nasdaq en tête, malgré la perspective d'une hausse des taux de la Fed qui pousse le dollar à son plus haut depuis mai 2025.",
@@ -5632,166 +5935,6 @@
         {
           "titre": "TheStreet : Stock Market Today, 13 octobre 2026",
           "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "titre": "Le CAC 40 gagne 0,38 % à 7 833 points, mais les semi-conducteurs chutent et le Brent grimpe vers 107 dollars",
-      "resume": "Paris a terminé en hausse de 0,38 %, portée par le luxe et les banques, avant une semaine chargée en inflation et en résultats d'entreprises. À Wall Street, les indices sont restés hésitants : le Nasdaq a reculé en séance, entraîné par les valeurs de semi-conducteurs (indice SOX en baisse d'environ 2,5 %), tandis que l'énergie progressait avec un Brent en hausse d'environ 2,3 %. Les marchés américains étaient encore ouverts au moment de la rédaction, les niveaux américains sont donc ceux de fin de séance disponibles.",
-      "humeur": "stable",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 833 pts",
-          "variation": 0.38
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "niveau non relevé",
-          "variation": 0
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "≈ 7 810 pts (en séance, stable)",
-          "variation": 0
-        },
-        {
-          "nom": "Nasdaq 100",
-          "valeur": "≈ 30 650 pts (en séance)",
-          "variation": -0.77
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 107 $ le baril",
-          "variation": 2.3
-        },
-        {
-          "nom": "Or",
-          "valeur": "≈ 4 179 $ l'once",
-          "variation": -0.4
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "≈ 1,118 $",
-          "variation": 0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Inflation : Allemagne mardi, États-Unis mercredi",
-          "texte": "Les investisseurs attendent l'inflation allemande de septembre mardi, puis l'inflation américaine de mercredi (3,4 % sur un an en août). Ces chiffres orientent les décisions de taux de la Fed et de la BCE à la fin du mois."
-        },
-        {
-          "titre": "Banques centrales",
-          "texte": "La Fed décide le 28 octobre et la BCE le 29, avec un taux de dépôt à 2,50 %. Le marché obligataire américain était fermé pour le Columbus Day, ce qui a limité les mouvements sur les taux longs."
-        },
-        {
-          "titre": "Pétrole et Iran",
-          "texte": "Le Brent a gagné environ 2,3 % vers 107 dollars faute d'accord sur la réouverture du détroit d'Ormuz. L'agence britannique UKMTO recense une dizaine d'attaques de navires en octobre, et les attaques houthies visent aussi l'Arabie saoudite."
-        },
-        {
-          "titre": "Intelligence artificielle : prise de bénéfices",
-          "texte": "Les valeurs d'infrastructure IA ont été vendues, avec Nvidia en baisse d'environ 1,7 % et l'indice SOX qui cède environ 7 % depuis son sommet récent. Les investisseurs s'interrogent sur le niveau des dépenses des géants de l'IA et sur la hausse des taux."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 389.33,
-        "pv": -9.87,
-        "texte": "Ton portefeuille vaut 389,33 € pour 399,20 € investis, soit une moins-value latente de 9,87 €, Elle vient surtout de STMicroelectronics (-2,1 %) ; les deux ETF gardent leur dernier cours connu du 9 octobre, faute de clôture fiable ce soir,"
-      },
-      "valeurs": [
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre recule de 2,1 % à environ 45,57 € avec le repli des semi-conducteurs ; résultats attendus le 29 octobre."
-        },
-        {
-          "nom": "Soitec",
-          "texte": "L'action perd environ 3,8 % à 153,85 €, sans annonce de la société, dans le sillage du secteur."
-        },
-        {
-          "nom": "Thales",
-          "texte": "Pas de cours de clôture fiable trouvé ce soir ; les commandes du troisième trimestre sont attendues le 21 octobre."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Technip Energies",
-          "isin": "NL0014559478",
-          "risque": "Modéré",
-          "prix": "≈ 33 € la part (cours non daté, à vérifier)",
-          "texte": "Technip Energies conçoit et construit des usines de gaz naturel liquéfié et des installations d'énergie, et profite quand les États investissent pour sécuriser leur approvisionnement. Avec un Brent autour de 107 dollars et le blocage du détroit d'Ormuz, la question de l'énergie est au centre de l'actualité du jour. La part à environ 33 euros reste plus abordable qu'un grand nombre de valeurs industrielles, et la société est néerlandaise donc éligible au PEA. Le principal risque est que les projets soient longs et que les marges dépendent de quelques gros contrats ; si les prix du pétrole retombent, les décisions d'investissement peuvent aussi être repoussées."
-        },
-        {
-          "nom": "Dassault Aviation",
-          "isin": "FR0014004L86",
-          "risque": "Élevé",
-          "prix": "≈ 280 € la part (dernier cours trouvé, début septembre)",
-          "texte": "Dassault construit le Rafale et les Falcon, avec un carnet de commandes de plus de 45 milliards d'euros au 30 juin. Les tensions au Moyen-Orient entretiennent la demande en équipements militaires, et des contrats peuvent encore venir d'Inde (114 avions en discussion), d'Égypte ou d'Ukraine. Le principal risque est que ces contrats tardent ou ne se concrétisent pas : le titre dépend beaucoup de décisions politiques, et son cours est une donnée non vérifiée ce soir."
-        },
-        {
-          "nom": "ASML",
-          "isin": "NL0010273215",
-          "risque": "Élevé",
-          "prix": "≈ 1 470 € la part (dernier cours trouvé, fin juillet)",
-          "texte": "ASML fabrique les machines de lithographie sans lesquelles les puces avancées ne peuvent pas être gravées, ce qui la place au coeur de la vague IA. Les semi-conducteurs ont reculé aujourd'hui (SOX en baisse d'environ 2,5 % à Wall Street), ce qui rouvre la question de la valorisation. Le principal risque : un PER déjà très élevé, autour de 60, et une demande liée aux investissements des géants de l'IA. La part dépasse 1 000 euros, ce qui est peu adapté à un petit budget sans fractions d'actions."
-        }
-      ],
-      "idee": {
-        "nom": "Technip Energies",
-        "isin": "NL0014559478",
-        "risque": "Modéré",
-        "prix": "≈ 33 € la part (cours non daté, à vérifier)",
-        "texte": "Technip Energies conçoit et construit des usines de gaz naturel liquéfié et des installations d'énergie, et profite quand les États investissent pour sécuriser leur approvisionnement. Avec un Brent autour de 107 dollars et le blocage du détroit d'Ormuz, la question de l'énergie est au centre de l'actualité du jour. La part à environ 33 euros reste plus abordable qu'un grand nombre de valeurs industrielles, et la société est néerlandaise donc éligible au PEA. Le principal risque est que les projets soient longs et que les marges dépendent de quelques gros contrats ; si les prix du pétrole retombent, les décisions d'investissement peuvent aussi être repoussées."
-      },
-      "concept": {
-        "terme": "Le Brent",
-        "texte": "Le Brent est un pétrole brut de la mer du Nord qui sert de référence mondiale pour fixer le prix du baril, exprimé en dollars et coté sur le marché ICE de Londres. Quand on dit que le pétrole vaut 107 dollars, on parle le plus souvent du prix du Brent. Son prix dépend de l'offre (décisions de l'OPEP, tensions géopolitiques comme le détroit d'Ormuz) et de la demande mondiale. Un Brent élevé fait monter le coût de l'énergie et l'inflation, ce qui peut pousser les banques centrales à garder des taux hauts, tandis qu'il profite en général aux groupes pétroliers. Le WTI est son équivalent américain.",
-        "references": [
-          {
-            "titre": "Investopedia : Brent Blend ⚠️",
-            "url": "https://www.investopedia.com/terms/b/brentblend.asp"
-          },
-          {
-            "titre": "Le pétrole brut Brent : définition, origine et rôle de référence mondiale ⚠️",
-            "url": "https://prix-carburant.eu/article/petrole-brut-brent-definition-origine-reference-mondiale"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-13",
-          "titre": "Allemagne : inflation de septembre"
-        },
-        {
-          "date": "2026-10-14",
-          "titre": "États-Unis : inflation de septembre"
-        },
-        {
-          "date": "2026-10-21",
-          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux, résultats STMicroelectronics et Amundi"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "Boursorama : La Bourse de Paris termine en hausse avant une semaine chargée en publications",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-avant-une-semaine-chargee-en-publications-1063fa96f3b95ae0f35af49b4b3fd7c3"
-        },
-        {
-          "titre": "Benzinga : Nasdaq 100 falls as AI trade falters",
-          "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
-        },
-        {
-          "titre": "Prix du baril : le pétrole avance faute d'accord au Moyen-Orient",
-          "url": "https://prixdubaril.com/news-petrole/74857-le-petrole-avance-pousse-par-l-absence-d-accord-au-moyen-orient.html"
         }
       ]
     }

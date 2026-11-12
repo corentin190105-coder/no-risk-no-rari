@@ -386,3 +386,15 @@ Le carnet de commandes est le montant total des commandes fermes qu'une entrepri
 - [Investopedia : Backlog ⚠️](https://www.investopedia.com/terms/b/backlog.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le risque homme-clé (key person risk) ?
+
+_2026-11-12 21:10 CET_
+
+Le risque homme-clé désigne la dépendance d'une entreprise à une seule personne, souvent son fondateur ou son dirigeant, dont le départ brutal peut désorganiser la stratégie, les relations avec les clients ou la confiance des investisseurs. En Bourse, ce risque se traduit par une prime : le marché valorise en partie la personne, et il la retire d'un coup si elle s'en va sans successeur préparé. Jeudi, Jensen Huang, cofondateur et patron de Nvidia depuis 33 ans, a démissionné après une enquête de son conseil d'administration, et la directrice financière Colette Kress assure l'intérim : l'action a chuté jusqu'à 14 % à l'ouverture avant de limiter sa baisse vers 5 %. Pour s'en protéger, les entreprises préparent des plans de succession et certaines souscrivent une assurance « homme-clé » ; pour l'investisseur, la meilleure parade reste la diversification, puisqu'un ETF dilue le poids d'une seule société. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.
+
+**Références**
+- [Investopedia : Key Person Insurance ⚠️](https://www.investopedia.com/terms/k/keypersoninsurance.asp)
+- [InsurerBrain : définition du « key person risk » ⚠️](https://www.insurerbrain.com/wiki/Definition:Key_person_risk)
+
+⚠️ Lien non vérifiable au moment de la rédaction
