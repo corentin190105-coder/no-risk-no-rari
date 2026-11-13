@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-12T21:30:00+01:00",
-    "resume": "Jeudi 12 novembre 2026 : le CAC 40 gagne 0,34 % à 8 361,36 points, sa quatrième hausse d'affilée, malgré la démission de Jensen Huang chez Nvidia et un pétrole relancé par Donald Trump. Ton portefeuille vaut 782,58 € pour 799,28 € investis, soit -16,70 €. Stellantis plonge de 4,4 % à 3,55 € après un avertissement sur les coûts : la vente prévue reste à faire."
+    "date": "2026-11-13T21:40:00+01:00",
+    "resume": "Vendredi 13 novembre 2026 : le CAC 40 finit quasi stable (+0,09 % à 8 368,91 points) et signe +2,8 % sur la semaine, pendant que la tech américaine recule encore avec le scandale Nvidia. Ton portefeuille vaut 777,84 € pour 799,28 € investis, soit -21,44 €. Stellantis (3,51 €) reste sous ton niveau de sortie de 3,75 € : la vente prévue reste à faire."
   },
   "actifs": [
     {
@@ -58,15 +58,24 @@
         {
           "d": "2026-11-12",
           "p": 6.45
+        },
+        {
+          "d": "2026-11-13",
+          "p": 6.31
         }
       ],
-      "prix": 6.45,
-      "prixDate": "2026-11-12",
-      "variationJour": -1.07
+      "prix": 6.31,
+      "prixDate": "2026-11-13",
+      "variationJour": -2.17
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
       "actus": [
+        {
+          "date": "2026-11-13",
+          "titre": "Air Liquide touche un nouveau plus haut à 194,60 € avant de finir à 193,32 €",
+          "url": "https://finance.yahoo.com/quote/AI.PA/"
+        },
         {
           "date": "2026-11-11",
           "titre": "Air Liquide gagne près de 1 % à 192,16 €, nouveau plus haut de clôture sur six mois, sans annonce propre",
@@ -134,11 +143,15 @@
         {
           "d": "2026-11-12",
           "p": 192.84
+        },
+        {
+          "d": "2026-11-13",
+          "p": 193.32
         }
       ],
-      "prix": 192.84,
-      "prixDate": "2026-11-12",
-      "variationJour": 0.35
+      "prix": 193.32,
+      "prixDate": "2026-11-13",
+      "variationJour": 0.25
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
@@ -229,11 +242,15 @@
         {
           "d": "2026-11-12",
           "p": 227.4
+        },
+        {
+          "d": "2026-11-13",
+          "p": 227.1
         }
       ],
-      "prix": 227.4,
-      "prixDate": "2026-11-12",
-      "variationJour": -1.3
+      "prix": 227.1,
+      "prixDate": "2026-11-13",
+      "variationJour": -0.13
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -294,15 +311,24 @@
         {
           "d": "2026-11-12",
           "p": 97.35
+        },
+        {
+          "d": "2026-11-13",
+          "p": 96.65
         }
       ],
-      "prix": 97.35,
-      "prixDate": "2026-11-12",
-      "variationJour": -0.26
+      "prix": 96.65,
+      "prixDate": "2026-11-13",
+      "variationJour": -0.72
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
+        {
+          "date": "2026-11-13",
+          "titre": "Scandale Nvidia : Washington s'interroge sur des puces revendues en Chine via Megaspeed, les semi-conducteurs américains chutent",
+          "url": "https://www.afp.com/en/stocks-fail-turn-page-nvidia-scandal"
+        },
         {
           "date": "2026-11-12",
           "titre": "Jensen Huang démissionne de la direction de Nvidia, première pondération de l'indice ; l'action a chuté jusqu'à 14 % à l'ouverture avant de réduire sa baisse (AP)",
@@ -327,11 +353,6 @@
           "date": "2026-11-06",
           "titre": "Le Nasdaq-100 finit en hausse d'environ 1,4 % vendredi (ETF QQQ), mais la semaine reste nettement négative pour la tech américaine",
           "url": "https://www.xtb.com/fr/analyses-marches/resume-quotidien-wall-street-rebondit-apres-la-vague-de-ventes-le-dollar-americain-se-raffermit-grace-a-des-chiffres-solides-de-l-emploi-non-agricole-nfp-tandis-que-les-cours-du-petrole-reculent"
-        },
-        {
-          "date": "2026-11-06",
-          "titre": "Le Nasdaq rebondit d'environ 1,5 % après sa chute de 5,5 % de jeudi, porté par AMD, malgré un emploi américain qui relance les paris sur une hausse des taux",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-americain-solides-et-un-sursaut-du-nasdaq-le-cac-40-recule-1173355.html"
         }
       ],
       "isin": "FR0011871110",
@@ -390,11 +411,15 @@
         {
           "d": "2026-11-12",
           "p": 103.18
+        },
+        {
+          "d": "2026-11-13",
+          "p": 101.0
         }
       ],
-      "prix": 103.18,
-      "prixDate": "2026-11-12",
-      "variationJour": 0.37
+      "prix": 101.0,
+      "prixDate": "2026-11-13",
+      "variationJour": -2.11
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
@@ -522,11 +547,15 @@
         {
           "d": "2026-11-12",
           "p": 105.85
+        },
+        {
+          "d": "2026-11-13",
+          "p": 102.8
         }
       ],
-      "prix": 105.85,
-      "prixDate": "2026-11-12",
-      "variationJour": -2.31
+      "prix": 102.8,
+      "prixDate": "2026-11-13",
+      "variationJour": -2.88
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -569,11 +598,15 @@
         {
           "d": "2026-11-12",
           "p": 11.864
+        },
+        {
+          "d": "2026-11-13",
+          "p": 10.997
         }
       ],
-      "prix": 11.864,
-      "prixDate": "2026-11-12",
-      "variationJour": -2.1
+      "prix": 10.997,
+      "prixDate": "2026-11-13",
+      "variationJour": -7.31
     },
     {
       "activite": "Un seul produit qui achète environ 1 400 grandes entreprises de 23 pays développés, pondérées selon leur taille. Les États-Unis pèsent environ 70 % et la tech environ 25 %.",
@@ -633,15 +666,24 @@
         {
           "d": "2026-11-12",
           "p": 6.385
+        },
+        {
+          "d": "2026-11-13",
+          "p": 6.332
         }
       ],
-      "prix": 6.385,
-      "prixDate": "2026-11-12",
-      "variationJour": 0.46
+      "prix": 6.332,
+      "prixDate": "2026-11-13",
+      "variationJour": -0.83
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
+        {
+          "date": "2026-11-13",
+          "titre": "Scandale Nvidia : Washington s'interroge sur des puces revendues en Chine via Megaspeed, les semi-conducteurs américains chutent",
+          "url": "https://www.afp.com/en/stocks-fail-turn-page-nvidia-scandal"
+        },
         {
           "date": "2026-11-12",
           "titre": "Jensen Huang démissionne de la direction de Nvidia, première pondération de l'indice ; l'action a chuté jusqu'à 14 % à l'ouverture avant de réduire sa baisse (AP)",
@@ -666,11 +708,6 @@
           "date": "2026-11-06",
           "titre": "Le Nasdaq-100 finit en hausse d'environ 1,4 % vendredi (ETF QQQ), mais la semaine reste nettement négative pour la tech américaine",
           "url": "https://www.xtb.com/fr/analyses-marches/resume-quotidien-wall-street-rebondit-apres-la-vague-de-ventes-le-dollar-americain-se-raffermit-grace-a-des-chiffres-solides-de-l-emploi-non-agricole-nfp-tandis-que-les-cours-du-petrole-reculent"
-        },
-        {
-          "date": "2026-11-06",
-          "titre": "Le Nasdaq rebondit d'environ 1,5 % après sa chute de 5,5 % de jeudi, porté par AMD, malgré un emploi américain qui relance les paris sur une hausse des taux",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-americain-solides-et-un-sursaut-du-nasdaq-le-cac-40-recule-1173355.html"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -733,11 +770,15 @@
         {
           "d": "2026-11-12",
           "p": 6.767
+        },
+        {
+          "d": "2026-11-13",
+          "p": 6.632
         }
       ],
-      "prix": 6.767,
-      "prixDate": "2026-11-12",
-      "variationJour": 0.4
+      "prix": 6.632,
+      "prixDate": "2026-11-13",
+      "variationJour": -1.99
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -781,11 +822,15 @@
         {
           "d": "2026-11-12",
           "p": 7.207
+        },
+        {
+          "d": "2026-11-13",
+          "p": 7.151
         }
       ],
-      "prix": 7.207,
-      "prixDate": "2026-11-12",
-      "variationJour": 0.43
+      "prix": 7.151,
+      "prixDate": "2026-11-13",
+      "variationJour": -0.78
     },
     {
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
@@ -908,11 +953,15 @@
         {
           "d": "2026-11-12",
           "p": 42.34
+        },
+        {
+          "d": "2026-11-13",
+          "p": 41.945
         }
       ],
-      "prix": 42.34,
-      "prixDate": "2026-11-12",
-      "variationJour": 0.39
+      "prix": 41.945,
+      "prixDate": "2026-11-13",
+      "variationJour": -0.93
     },
     {
       "isin": "NL00150001Q9",
@@ -928,6 +977,16 @@
       "risques": "Le titre reste en tendance baissière et très loin de sa moyenne 200 jours. Un nouveau recul des ventes, des dépréciations ou des droits de douane pèseraient encore. Un cours bas ne suffit jamais à faire une bonne affaire.",
       "rendezvous": [],
       "actus": [
+        {
+          "date": "2026-11-13",
+          "titre": "Le Canada menace de poursuivre Stellantis après le transfert de la production de l'usine de Brampton vers les États-Unis",
+          "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html"
+        },
+        {
+          "date": "2026-11-13",
+          "titre": "Antonio Filosa confirme la coopération avec Leapmotor sur les voitures électriques en Italie et prévient d'une forte hausse des coûts",
+          "url": "https://www.autonews.com/stellantis/ane-stellantis-costs-leapmotor-jv-e-cars-1113/"
+        },
         {
           "date": "2026-11-12",
           "titre": "Le directeur général Antonio Filosa prévient d'une forte hausse du coût des matières premières et des puces en 2027 et probablement 2028, chiffrée en milliards d'euros (Reuters)",
@@ -947,21 +1006,11 @@
           "date": "2026-11-10",
           "titre": "Stellantis recule de 3,45 % à 3,83 €, parmi les plus fortes baisses du SBF 120, sans nouvelle propre au groupe trouvée ; Forvia perd aussi 2,9 %",
           "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-freine-par-l-inflation-americaine-le-cac-40-echoue-aux-portes-des-8300-points-1173544.html"
-        },
-        {
-          "date": "2026-11-10",
-          "titre": "Stellantis confirme la vente de son usine canadienne de Brampton au groupe Roshel, finalisation attendue fin 2026, sans montant publié",
-          "url": "https://www.stocktitan.net/sec-filings/STLA/6-k-stellantis-n-v-current-report-foreign-issuer-621980e3f65e.html"
-        },
-        {
-          "date": "2026-11-06",
-          "titre": "Stellantis regagne 1,39 % à 4,02 €, juste sous ton prix d'achat de 4,04 € ; le groupe a nommé un nouveau patron pour l'Amérique du Nord",
-          "url": "https://www.abcbourse.com/cotation/STLAPp"
         }
       ],
-      "prix": 3.551,
-      "prixDate": "2026-11-12",
-      "variationJour": -4.36,
+      "prix": 3.5125,
+      "prixDate": "2026-11-13",
+      "variationJour": -1.08,
       "historique": [
         {
           "d": "2026-11-04",
@@ -990,6 +1039,10 @@
         {
           "d": "2026-11-12",
           "p": 3.551
+        },
+        {
+          "d": "2026-11-13",
+          "p": 3.5125
         }
       ]
     },
@@ -1006,10 +1059,16 @@
       "potentiel": "Il suit l'évolution des grandes entreprises françaises, dont beaucoup réalisent leurs ventes à l'international. Il complète un ETF Monde sans s'y substituer.",
       "risques": "Il dépend d'un seul pays et de quelques secteurs, avec un poids important du luxe. Il recoupe en partie l'ETF Monde pour ce qui concerne les grandes valeurs françaises.",
       "rendezvous": [],
-      "actus": [],
-      "prix": 42.58,
-      "prixDate": "2026-11-12",
-      "variationJour": 0.45,
+      "actus": [
+        {
+          "date": "2026-11-13",
+          "titre": "Le CAC 40 finit à 8 368,91 points (+0,09 %), +2,82 % sur la semaine, au plus haut depuis fin août",
+          "url": "https://www.zonebourse.com/actualite-bourse/cinq-sur-cinq-pour-le-cac-40-sur-la-semaine-ce785ed9d08df327"
+        }
+      ],
+      "prix": 42.59,
+      "prixDate": "2026-11-13",
+      "variationJour": 0.02,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1038,6 +1097,10 @@
         {
           "d": "2026-11-12",
           "p": 42.58
+        },
+        {
+          "d": "2026-11-13",
+          "p": 42.59
         }
       ]
     }
@@ -1089,19 +1152,19 @@
       "id": "us-ppi-2026-10",
       "date": "2026-11-13",
       "titre": "États-Unis : prix à la production d'octobre",
-      "detail": "Publication vendredi à 14h30 heure de Paris, confirmée par les agendas de l'AFP et de Zonebourse. Second chiffre d'inflation de la semaine après le CPI"
+      "detail": "Publié : +0,3 % sur un mois contre 0,4 % attendu, mais +6,5 % sur un an, le plus haut depuis novembre 2022 (Zonebourse, AFP). Septembre a été révisé en hausse : la Fed reste attendue en hausse de taux en décembre."
     },
     {
       "id": "ez-gdp-q3-2026",
       "date": "2026-11-13",
       "titre": "Zone euro : PIB du 3e trimestre (2e estimation)",
-      "detail": "Publication à 11h00 selon l'agenda de l'AFP, le même jour que les prix à la production américains"
+      "detail": "Publié : croissance conforme à la première estimation selon Zonebourse. Pas de surprise pour la BCE."
     },
     {
       "id": "us-retail-2026-10",
       "date": "2026-11-17",
       "titre": "États-Unis : ventes au détail d'octobre",
-      "detail": "Date indicative d'un calendrier privé, à confirmer"
+      "detail": "Publication mardi, confirmée par Moneyvox, le même jour que les résultats de Nvidia."
     },
     {
       "id": "nvda-q3-2027",
@@ -1126,6 +1189,18 @@
       "date": "2026-11-18",
       "titre": "Anthropic : fixation du prix de son introduction en Bourse",
       "detail": "Prix attendu entre 70 et 78 dollars par action, cotation au Nasdaq prévue le lendemain sous le symbole ANT. Un test de l'appétit des investisseurs pour l'IA, qui pèse sur ton ETF Nasdaq-100."
+    },
+    {
+      "id": "ez-hicp-final-2026-10",
+      "date": "2026-11-18",
+      "titre": "Zone euro : inflation d'octobre (estimation finale)",
+      "detail": "Annoncée mercredi par Moneyvox, avant le compte rendu de la Fed. L'estimation rapide était de 4,0 %."
+    },
+    {
+      "id": "us-thanksgiving-2026",
+      "date": "2026-11-26",
+      "titre": "États-Unis : Thanksgiving, Wall Street fermée",
+      "detail": "Quatrième jeudi de novembre : pas de séance à New York, volumes faibles en Europe."
     },
     {
       "id": "ez-flash-hicp-2026-11",
@@ -1332,6 +1407,11 @@
     {
       "d": "2026-11-12",
       "valeur": 782.58,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-13",
+      "valeur": 777.84,
       "investi": 799.28
     }
   ]

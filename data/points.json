@@ -1,6 +1,293 @@
 {
   "points": [
     {
+      "date": "2026-11-13",
+      "titre": "Paris finit la semaine à plat mais signe +2,8 %, la tech américaine plie encore sous le scandale Nvidia",
+      "resume": "Le CAC 40 termine quasi stable (+0,09 % à 8 368,91 points) mais gagne 2,82 % sur la semaine, sa meilleure depuis avril, porté vendredi par TotalEnergies (+1,9 %) et freiné par le luxe après les résultats de Richemont. Les prix à la production américains ont un peu moins progressé que prévu sur un mois, mais restent à 6,5 % sur un an, ce qui maintient l'idée d'une hausse des taux de la Fed en décembre. À Wall Street, les semi-conducteurs reculent nettement avec l'extension du scandale Nvidia.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 368,91 pts",
+          "variation": 0.09
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 386,86 pts",
+          "variation": -0.19
+        },
+        {
+          "nom": "S&P 500 (provisoire, vers 21h)",
+          "valeur": "≈ 7 558 pts",
+          "variation": -0.45
+        },
+        {
+          "nom": "Nasdaq (provisoire, vers 21h)",
+          "valeur": "≈ 25 150 pts",
+          "variation": -0.85
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "61 142,35 pts",
+          "variation": 0.5
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "23 637,60 pts",
+          "variation": -1.6
+        },
+        {
+          "nom": "Brent (provisoire)",
+          "valeur": "≈ 96 $",
+          "variation": 0.1
+        },
+        {
+          "nom": "Or (provisoire)",
+          "valeur": "≈ 3 878 $",
+          "variation": -0.18
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "1,1033 $",
+          "variation": -0.21
+        }
+      ],
+      "macro": [
+        {
+          "titre": "États-Unis : l'inflation à la production reste au plus haut depuis 2022",
+          "texte": "Les prix à la production ont augmenté de 0,3 % en octobre, un peu moins que les 0,4 % attendus, mais de 6,5 % sur un an, leur plus forte hausse depuis novembre 2022, et septembre a été révisé en hausse (Zonebourse, AFP). Les paris sur une hausse d'un demi-point des taux de la Fed ont reculé, mais une hausse d'au moins un quart de point le 9 décembre reste attendue. Des taux plus élevés pèsent d'abord sur les valeurs technologiques chères."
+        },
+        {
+          "titre": "Pétrole : l'AIE annonce un marché excédentaire, le Brent tient vers 96 dollars",
+          "texte": "Pour la première fois depuis le début de la guerre avec l'Iran fin février, l'Agence internationale de l'énergie prévoit une offre supérieure à la demande au 4e trimestre, grâce à davantage de pétroliers passant par le détroit d'Ormuz. Le Brent est pourtant resté vers 96 dollars, soutenu par l'annonce, non confirmée, d'une frappe iranienne contre un radar américain à Bahreïn (Zonebourse)."
+        },
+        {
+          "titre": "Nvidia : le scandale gagne Washington",
+          "texte": "Le secrétaire au Trésor Scott Bessent a reproché au ministère du Commerce de ne pas avoir bloqué Megaspeed, une société de Singapour soupçonnée d'avoir revendu des puces Nvidia en Chine (AFP). Le marché craint un durcissement des contrôles à l'exportation : l'indice des semi-conducteurs de Philadelphie perdait près de 6 % à la mi-séance. Nvidia publie ses résultats mardi soir."
+        },
+        {
+          "titre": "Europe : croissance conforme, taux en hausse, Microsoft en panne",
+          "texte": "Le PIB de la zone euro du 3e trimestre est sorti conforme à la première estimation, et les rendements obligataires ont continué de monter. Une panne mondiale d'Outlook, Teams et Copilot chez Microsoft a gêné banques et salles de marché, y compris Euronext, selon Moneyvox. La BCE décidera de ses taux le 17 décembre."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 777.84,
+        "pv": -21.44,
+        "texte": "Ton portefeuille vaut 777,84 € pour 799,28 € investis, soit -21,44 €, en baisse d'environ 4,70 € sur la journée : l'ETF Nasdaq-100 (-2,0 %) et l'ETF Monde (-0,8 %) subissent le repli de la tech américaine, que seuls Air Liquide (+0,25 %, nouveau record en séance) et l'ETF CAC 40 (stable) compensent un peu. Stellantis perd encore 1,1 % à 3,51 € et reste sous ton niveau de sortie de 3,75 €."
+      },
+      "valeurs": [
+        {
+          "nom": "Stellantis",
+          "texte": "-1,1 % à 3,51 €, nouveau plus bas de six mois à 3,50 € en séance. Le Canada menace de poursuivre le groupe pour récupérer des aides publiques après le transfert de la production de l'usine de Brampton vers les États-Unis (CNBC), tandis que le directeur général confirme la coopération avec le chinois Leapmotor en Italie. Ligne sous ton niveau de sortie : voir le plan d'action."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "-2,0 % à 6,632 €, sous ses moyennes 20 et 50 jours : le scandale Nvidia s'étend à Washington et la baisse du Nasdaq se poursuivait vendredi soir. Les résultats de Nvidia mardi soir seront le prochain test."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "-0,9 % à 41,95 € après un passage à 41,41 €, dans une journée noire pour les semi-conducteurs américains. Ton niveau de sortie de 38,61 € reste à environ 3,30 €."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "+0,25 % à 193,32 € après un nouveau record à 194,60 € en séance : ta seule action en gain net, environ +11 €."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "Valeur suivie : -2,9 % à 102,80 €, sous l'entrée de 105 € de l'idée spéculative mais à plus de 8 € de l'invalidation à 94,50 €, avant les résultats semestriels de mercredi soir."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "OVHcloud",
+          "isin": "FR0014005HJ9",
+          "risque": "Élevé",
+          "prix": "≈ 14,90 € la part",
+          "texte": "OVHcloud, hébergeur et fournisseur de cloud basé à Roubaix, n'a pas de maison mère américaine et échappe donc au Cloud Act. La panne mondiale d'Outlook, Teams et Copilot chez Microsoft, qui a gêné banques et salles de marché dans des dizaines de pays selon Moneyvox, remet en lumière la dépendance de l'Europe à quelques géants américains, l'argument central du cloud souverain. Le titre gagne 1,2 % à 14,92 € (Yahoo Finance), sans emballement : la panne n'est pas encore un catalyseur visible. Le principal risque : une dette très lourde au regard de ses fonds propres, une rentabilité nette encore faible et des concurrents américains bien plus puissants."
+        },
+        {
+          "nom": "AXA",
+          "isin": "FR0000120628",
+          "risque": "Modéré",
+          "prix": "≈ 47 € la part",
+          "texte": "AXA, premier assureur français, gagne 1,1 % vers 47,10 € (Zonebourse) dans une séance où les taux longs remontent. Un assureur place les primes de ses clients surtout en obligations : des taux plus élevés améliorent, avec le temps, le rendement de ces placements. L'italien Generali a publié vendredi un bénéfice ajusté en hausse de 12 %, 3 % au-dessus du consensus, même si son action a reculé de 1,1 % (Zonebourse) : le secteur reste solide, mais les bonnes nouvelles ne suffisent pas toujours. Le principal risque : une hausse brutale des taux fait baisser la valeur des obligations déjà détenues, et une grande catastrophe naturelle peut peser sur un trimestre."
+        },
+        {
+          "nom": "Poujoulat",
+          "isin": "FR0000066441",
+          "risque": "Très élevé",
+          "prix": "≈ 6,30 € la part",
+          "texte": "Poujoulat fabrique des conduits de cheminée et produit du bois de chauffage ; l'action bondit de 8,6 % à 6,30 € après un chiffre d'affaires semestriel en hausse de 6,4 % à 164,6 millions d'euros, tiré par le bois énergie (+16,9 %), selon Moneyvox. La cherté du gaz, du fioul et de l'électricité, entretenue par un Brent proche de 96 dollars, pousse les ménages vers le chauffage au bois. Avec une part autour de 6 €, c'est une idée accessible à un petit budget, éligible au PEA. Le principal risque : une capitalisation d'environ 50 millions d'euros avec très peu d'échanges (moins de 10 000 titres vendredi), donc des écarts de prix importants, et une activité historique pénalisée par l'immobilier."
+        }
+      ],
+      "idee": {
+        "nom": "OVHcloud",
+        "isin": "FR0014005HJ9",
+        "risque": "Élevé",
+        "prix": "≈ 14,90 € la part",
+        "texte": "OVHcloud, hébergeur et fournisseur de cloud basé à Roubaix, n'a pas de maison mère américaine et échappe donc au Cloud Act. La panne mondiale d'Outlook, Teams et Copilot chez Microsoft, qui a gêné banques et salles de marché dans des dizaines de pays selon Moneyvox, remet en lumière la dépendance de l'Europe à quelques géants américains, l'argument central du cloud souverain. Le titre gagne 1,2 % à 14,92 € (Yahoo Finance), sans emballement : la panne n'est pas encore un catalyseur visible. Le principal risque : une dette très lourde au regard de ses fonds propres, une rentabilité nette encore faible et des concurrents américains bien plus puissants."
+      },
+      "concept": {
+        "terme": "Le droit préférentiel de souscription (DPS)",
+        "texte": "Lors d'une augmentation de capital, une entreprise crée de nouvelles actions pour lever de l'argent ; le droit préférentiel de souscription (DPS) donne aux actionnaires existants la priorité pour les acheter, en proportion des actions qu'ils détiennent déjà. Il sert à les protéger de la dilution, c'est-à-dire de la baisse de leur part dans l'entreprise. Le DPS se négocie en Bourse pendant une période limitée : on peut l'exercer, le vendre pour compenser une partie de la perte de valeur, ou ne rien faire, auquel cas il devient caduc et perd toute valeur à la clôture de la souscription, rappelle l'AMF. Vendredi, Eramet a fixé son augmentation de capital d'environ 500 millions d'euros à 6 actions nouvelles pour 5 anciennes, au prix de 14,49 €, soit 62 % sous le cours de référence du 11 novembre, et l'action a chuté de 10,6 % à 32,92 € (Moneyvox, Zonebourse). Une forte décote n'est donc pas un cadeau : elle se paie par la baisse mécanique du cours, compensée seulement pour ceux qui exercent ou vendent leurs droits. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "AMF : Bien comprendre les droits préférentiels de souscription (DPS)",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/bien-comprendre-les-droits-preferentiels-de-souscription"
+          },
+          {
+            "titre": "AMF : Augmentations de capital, l'essentiel à savoir",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-augmentation-de-capital"
+          },
+          {
+            "titre": "AMF : lexique, droit préférentiel de souscription",
+            "url": "https://www.amf-france.org/fr/lexique/droit-preferentiel-de-souscription-ou-dps-actions"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché parisien reste porteur sur la semaine (+2,8 %, plus haut depuis fin août selon Zonebourse), mais la séance de vendredi a été plate (+0,09 %) et le décor se durcit : prix à la production américains à 6,5 % sur un an, Fed attendue en hausse de taux en décembre, semi-conducteurs américains en forte baisse et résultats de Nvidia mardi soir. C'est un marché sélectif pour le court terme : l'énergie profite du pétrole, la tech est sous pression. Aucune idée ne passe tous les critères Favorable ce soir et je n'ajoute pas d'idée Spéculatif. Le journal compte une seule idée, toujours ouverte (Soitec : entrée de 105 € touchée le 12 novembre, clôture à 102,80 €, invalidation à 94,50 € intacte, résultats mercredi soir) et aucune idée close : l'échantillon est beaucoup trop petit pour juger la méthode. Sur tes lignes, Stellantis (3,51 €) reste sous ton niveau de sortie de 3,75 € pour la troisième séance : la vente reste la décision du plan ; STMicroelectronics (41,95 €) est à environ 1,4 ATR de son niveau de sortie de 38,61 € à l'approche des résultats de Nvidia.",
+        "opportunites": [
+          {
+            "nom": "TotalEnergies",
+            "isin": "FR0000120271",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Brent vers 96 dollars depuis la déclaration de Donald Trump du 12 novembre sur l'Iran (AP) et l'annonce, non confirmée, d'une frappe iranienne à Bahreïn ; aucun rendez-vous daté avant l'échéance",
+            "cours": "82,17 €",
+            "entree": "80,90 €, sur repli seulement",
+            "invalidation": "78,80 €",
+            "objectif": "85,90 €",
+            "ratio": "2,4",
+            "frais": "4 actions : environ 323,60 € (plafond de 400 €), perte maximale d'environ 10,40 € frais compris, gain visé d'environ 18 € net de 2 € de frais",
+            "these": "TotalEnergies produit et raffine du pétrole et du gaz, et développe l'électricité. Le titre a gagné 1,9 % à 82,17 € vendredi, meilleure hausse du CAC 40 (Zonebourse), porté par un Brent proche de 96 dollars après la déclaration de Donald Trump jeudi et la revendication iranienne d'une frappe à Bahreïn, que ni Washington ni Bahreïn n'ont confirmée. La condition posée jeudi, une clôture au-dessus de 81,60 €, est remplie. Les résultats du 3e trimestre sont publiés depuis le 29 octobre et le titre se paie environ 8 fois les bénéfices attendus selon Yahoo Finance, une valorisation modeste. Il est au-dessus de ses moyennes 20 et 50 jours (81,62 € et 79,70 € selon le fichier de cours), mais avec un volume inférieur à sa moyenne de trois mois (environ 3,0 millions de titres contre 3,8 millions, Yahoo Finance). Le consensus de 22 analystes vise environ 91 € selon Yahoo Finance, un chiffre que je n'ai pas recoupé ce soir. Ce qui contredit l'idée : le titre a déjà monté d'environ 2,80 €, soit 1,4 ATR, depuis la déclaration de Donald Trump, au-delà du seuil de 1 ATR de la méthode, l'AIE prévoit une offre de pétrole supérieure à la demande au 4e trimestre, et aucun catalyseur daté n'arrive. D'où un achat seulement sur repli vers 80,90 €, près de la moyenne 20 jours.",
+            "risque": "Un espoir de détente avec l'Iran peut faire reculer le Brent et le titre de 2 à 3 € en une séance ; le plus haut de six mois à 85,94 € limite l'objectif."
+          }
+        ],
+        "retro": "Bilan intermédiaire à 5 jours des idées du 6 novembre. Air France-KLM (Attendre, entrée sur repli à 13,00 €, invalidation 12,20 €, objectif 15,00 €) : le repli n'est jamais venu, le plus bas étant resté vers 13,30 € le 9 novembre, et le titre finit à 14,35 €, environ +6 % depuis le 6 novembre ; l'exigence d'un repli a fait manquer la hausse, sans perte. STMicroelectronics (Éviter à 37,64 €) finit à 41,95 €, environ +11 % : l'avis a fait rater un rebond, qui n'avait pas de catalyseur identifié à l'époque. Bilan du vendredi sur les 3 idées du 30 octobre, 10 séances plus tard : Sanofi passe de 79,74 € à 87,60 € (+9,9 %) et Orange d'environ 14 € à 15,62 € (environ +11,6 %, cours de départ arrondi), quand le CAC 40 progresse d'environ 5,0 % (7 969 à 8 369 points) : les deux battent nettement le marché. L'ETF défense de BNP Paribas n'est pas mesuré, faute de cours fiable relevé ce soir. Deux valeurs défensives gagnantes pendant une rotation hors de la tech ne prouvent pas que la méthode fonctionne."
+      },
+      "lecon": {
+        "titre": "ETF et allocation : réplication physique ou synthétique, et comment un ETF Monde entre dans un PEA",
+        "niveau": "Intermédiaire",
+        "texte": "On ouvre le dernier chapitre du parcours, les ETF et l'allocation, en commençant par la mécanique. Un ETF cherche à reproduire un indice, et il peut le faire de deux façons. En réplication physique, il achète réellement les actions de l'indice ; en réplication synthétique, il détient un autre panier de titres et passe avec une banque un contrat d'échange, le swap, qui lui verse la performance de l'indice, explique l'AMF. Ce montage explique pourquoi on trouve dans un PEA des ETF MSCI World ou Nasdaq-100 : le fonds détient surtout des actions européennes, éligibles, et reçoit la performance mondiale grâce au swap. Le risque propre au synthétique est le risque de contrepartie, si la banque fait défaut ; la réglementation européenne des fonds UCITS limite cette exposition à 10 % de l'actif et impose des garanties. Les autres critères de choix sont les frais annuels, l'écart de suivi avec l'indice et la taille du fonds. Pour un petit portefeuille, le mode de réplication compte beaucoup moins que l'allocation : la part d'actions mondiales, européennes ou technologiques que l'on détient.",
+        "exemple": "Tes ETF Monde et Nasdaq-100 du PEA sont forcément synthétiques : un fonds qui détiendrait vraiment des actions américaines ne serait pas éligible. Vendredi, l'ETF Nasdaq-100 a perdu 2,0 % à 6,632 € pendant que l'ETF Monde ne cédait que 0,8 % à 6,332 € (Yahoo Finance). Tes 20 parts Nasdaq-100 valent 132,64 € et tes 24 parts Monde 151,97 € : l'écart de mouvement vient de l'indice suivi, très concentré sur la tech, pas du swap. C'est l'allocation qui fait la différence.",
+        "references": [
+          {
+            "titre": "AMF : Ce qu'il faut savoir sur les ETF avant d'investir",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/placements-collectifs/trackers-etf"
+          },
+          {
+            "titre": "AMF : Les ETF, caractéristiques, état des lieux et analyse des risques (PDF)",
+            "url": "https://www.amf-france.org/sites/institutionnel/files/contenu_simple/lettre_ou_cahier/risques_tendances/Les%20ETF%20%20caracteristiques%2C%20etat%20des%20lieux%20et%20analyse%20des%20risques%20-%20Le%20cas%20du%20marche%20francais.pdf"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Comment un ETF MSCI World éligible au PEA obtient-il la performance des grandes actions américaines ?",
+          "choix": [
+            "Il achète directement les actions américaines de l'indice",
+            "Il passe un contrat d'échange (swap) avec une banque qui lui verse la performance de l'indice",
+            "Il investit dans des obligations d'État américaines",
+            "Il ne suit que les entreprises européennes de l'indice"
+          ],
+          "bonne": 1,
+          "explication": "C'est la réplication synthétique : le fonds détient des actions éligibles et reçoit, via le swap, la performance de l'indice mondial."
+        },
+        {
+          "question": "Un actionnaire d'Eramet ne fait rien de ses DPS pendant toute la période de souscription. Que se passe-t-il ?",
+          "choix": [
+            "Ils sont automatiquement convertis en actions nouvelles",
+            "Ils lui sont remboursés à leur valeur théorique",
+            "Ils deviennent caducs et perdent toute valeur, et sa part du capital est diluée",
+            "Ils restent valables jusqu'à l'assemblée générale suivante"
+          ],
+          "bonne": 2,
+          "explication": "Selon l'AMF, un DPS ni exercé ni vendu disparaît à la clôture de la souscription : l'actionnaire perd sa valeur et voit sa part diminuer."
+        },
+        {
+          "question": "TotalEnergies clôture à 82,17 € avec une moyenne 20 jours vers 81,6 € et une moyenne 50 jours vers 79,7 €. Que dit cette configuration ?",
+          "choix": [
+            "Le cours est au-dessus de ses deux moyennes : la tendance de court terme est plutôt haussière",
+            "La tendance est baissière confirmée",
+            "Le titre est forcément suracheté et va baisser",
+            "Les moyennes mobiles annoncent le cours de lundi"
+          ],
+          "bonne": 0,
+          "explication": "Un cours au-dessus de moyennes elles-mêmes orientées à la hausse décrit une tendance haussière ; cela ne prédit pas la séance suivante."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-17",
+          "titre": "Nvidia : résultats trimestriels mardi soir (heure américaine) ; États-Unis : ventes au détail d'octobre"
+        },
+        {
+          "date": "2026-11-18",
+          "titre": "Soitec : résultats semestriels après la clôture ; zone euro : inflation d'octobre (estimation finale) ; Fed : compte rendu de la réunion d'octobre (20h00) ; Anthropic : prix de l'introduction en Bourse"
+        },
+        {
+          "date": "2026-11-19",
+          "titre": "Walmart et Alibaba : résultats ; Anthropic : premier jour de cotation prévu au Nasdaq"
+        },
+        {
+          "date": "2026-11-20",
+          "titre": "Soitec : échéance de l'idée spéculative"
+        },
+        {
+          "date": "2026-11-26",
+          "titre": "États-Unis : Thanksgiving, Wall Street fermée"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Zonebourse : Cinq sur cinq pour le CAC 40 sur la semaine",
+          "url": "https://www.zonebourse.com/actualite-bourse/cinq-sur-cinq-pour-le-cac-40-sur-la-semaine-ce785ed9d08df327"
+        },
+        {
+          "titre": "Moneyvox : le journal de la Bourse du vendredi 13 novembre 2026",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111240/le-cac-40-totalenergies-en-forme-le-journal-de-la-bourse-du-vendredi-13-novembre-2026"
+        },
+        {
+          "titre": "AFP : Stocks fail to turn page on Nvidia scandal",
+          "url": "https://www.afp.com/en/stocks-fail-turn-page-nvidia-scandal"
+        },
+        {
+          "titre": "CNBC : Canada threatens Stellantis",
+          "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html"
+        },
+        {
+          "titre": "Automotive News : Stellantis warns on rising costs, confirms Leapmotor cooperation",
+          "url": "https://www.autonews.com/stellantis/ane-stellantis-costs-leapmotor-jv-e-cars-1113/"
+        },
+        {
+          "titre": "Yahoo Finance : TotalEnergies (TTE.PA)",
+          "url": "https://finance.yahoo.com/quote/TTE.PA/"
+        },
+        {
+          "titre": "Yahoo Finance : OVHcloud (OVH.PA)",
+          "url": "https://finance.yahoo.com/quote/OVH.PA/"
+        },
+        {
+          "titre": "Yahoo Finance : Poujoulat (ALPJT.PA)",
+          "url": "https://finance.yahoo.com/quote/ALPJT.PA/"
+        },
+        {
+          "titre": "Yahoo Finance : Amundi PEA Nasdaq-100 (PNAS.PA)",
+          "url": "https://finance.yahoo.com/quote/PNAS.PA/"
+        },
+        {
+          "titre": "AMF : droits préférentiels de souscription",
+          "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/bien-comprendre-les-droits-preferentiels-de-souscription"
+        },
+        {
+          "titre": "AMF : ETF",
+          "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/placements-collectifs/trackers-etf"
+        }
+      ]
+    },
+    {
       "date": "2026-11-12",
       "titre": "Nvidia perd son patron, le CAC 40 tient bon et Stellantis s'enfonce à 3,55 €",
       "resume": "Le CAC 40 gagne 0,34 % à 8 361,36 points, sa quatrième hausse d'affilée, malgré la démission de Jensen Huang à la tête de Nvidia, dont l'action a chuté jusqu'à 14 % à l'ouverture. Les investisseurs ont tourné le dos aux puces pour l'énergie, la santé et les services informatiques, pendant que le Brent bondissait vers 96 dollars après les propos de Donald Trump sur l'Iran. Stellantis signe la plus forte baisse du CAC 40 (-4,4 %) après un avertissement de son patron sur les coûts.",
@@ -5771,170 +6058,6 @@
         {
           "titre": "Finanzen.net : Euro STOXX 50 à la clôture",
           "url": "https://www.finanzen.net/nachricht/aktien/gewinne-in-europa-euro-stoxx-50-bewegt-sich-zum-handelsende-im-plus-15985109"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "titre": "Le CAC 40 recule de 0,07 % à 7 828 points : les puces chutent encore, Publicis résiste et Eramet s'effondre",
-      "resume": "Paris a terminé quasi stable, freinée par les semi-conducteurs (STMicroelectronics -2,9 %, Soitec -3,7 %) et par le luxe après des ventes de LVMH sous les attentes. Publicis a progressé grâce à un revenu net supérieur aux prévisions, et Eramet a perdu 14 % après l'annonce d'une augmentation de capital. À Wall Street, le Nasdaq a reculé avec les puces pendant que les grandes banques publiaient des résultats contrastés, à la veille de l'inflation américaine.",
-      "humeur": "stable",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 828 pts",
-          "variation": -0.07
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "niveau non relevé",
-          "variation": 0
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "≈ 7 800 pts (en séance)",
-          "variation": -0.12
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "≈ 27 208 pts (en séance)",
-          "variation": -0.14
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 107 $ le baril (clôture de lundi 106,65 $)",
-          "variation": 0
-        },
-        {
-          "nom": "Or",
-          "valeur": "niveau non relevé",
-          "variation": 0
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "niveau non relevé",
-          "variation": 0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Inflation : l'attente des chiffres américains",
-          "texte": "Les investisseurs attendent mercredi l'inflation américaine de septembre, après 3,4 % sur un an en août. Un chiffre élevé renforcerait l'idée que la Fed gardera des taux hauts."
-        },
-        {
-          "titre": "Banques centrales",
-          "texte": "La Fed décide le 28 octobre et la BCE le 29, avec un taux de dépôt à 2,50 %. L'inflation de la zone euro est à 3,8 %, ce qui limite la marge de manoeuvre."
-        },
-        {
-          "titre": "Pétrole et géopolitique",
-          "texte": "Le Brent reste autour de 107 dollars, sans accord sur la réouverture du détroit d'Ormuz. Une trêve énergétique annoncée entre la Russie et l'Ukraine a été contestée dès le lendemain."
-        },
-        {
-          "titre": "Semi-conducteurs : nouvelle vague de ventes",
-          "texte": "L'indice américain des puces a baissé pour la cinquième séance de suite, et SK Hynix et Samsung ont fortement chuté en Corée. Des informations sur les progrès du chinois CXMT dans la mémoire ravivent les craintes de concurrence."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 386.68,
-        "pv": -12.52,
-        "texte": "Ton portefeuille vaut 386,68 € pour 399,20 € investis, soit une moins-value latente de 12,52 €. Elle vient surtout de STMicroelectronics (-2,9 %) ; les deux ETF gardent leur dernier cours connu du 9 octobre, faute de clôture fiable."
-      },
-      "valeurs": [
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre recule d'environ 2,9 % (≈ 44,24 € estimé à partir de la variation de séance) dans la chute des puces ; résultats attendus le 29 octobre."
-        },
-        {
-          "nom": "Soitec",
-          "texte": "L'action perd environ 3,7 % (≈ 148,16 € estimé), dans le sillage du secteur et sans annonce de la société."
-        },
-        {
-          "nom": "Eramet",
-          "texte": "Le titre chute d'environ 14 % après l'annonce d'une augmentation de capital."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Publicis Groupe",
-          "isin": "FR0000130577",
-          "risque": "Modéré",
-          "prix": "≈ 88 € la part (cours non daté, à vérifier)",
-          "texte": "Publicis est un grand groupe de publicité et de conseil en marketing, qui s'appuie de plus en plus sur la donnée et l'IA pour ses clients. Il a été l'une des rares bonnes surprises du CAC 40 ce mardi, avec un revenu net du troisième trimestre au-dessus des attentes des analystes. Dans une séance dominée par la chute des puces et du luxe, c'est un exemple de valeur plus défensive. Le principal risque est que la publicité dépend des budgets des annonceurs, qui se réduisent vite si l'économie ralentit ou si l'IA bouscule le métier."
-        },
-        {
-          "nom": "Eramet",
-          "isin": "FR0000131757",
-          "risque": "Très élevé",
-          "prix": "cours en forte baisse ce jour (-14 %), à vérifier",
-          "texte": "Eramet produit du nickel, du manganèse et prépare du lithium, des métaux utiles à la transition énergétique et aux batteries. Le titre a chuté d'environ 14 % mardi après l'annonce d'une augmentation de capital, ce qui illustre bien la notion de dilution. Pour un investisseur, c'est un pari sur le redressement du groupe et sur les prix des métaux. Le principal risque est que l'entreprise est fragile financièrement et très dépendante de cours de matières premières volatils. Ce profil est à réserver à une toute petite part d'un portefeuille."
-        },
-        {
-          "nom": "Orange",
-          "isin": "FR0000133308",
-          "risque": "Modéré",
-          "prix": "≈ 16,6 € la part (dernier cours trouvé, début août)",
-          "texte": "Orange est l'opérateur télécoms historique français, avec des revenus réguliers et un dividende habituellement versé chaque année. Quand les valeurs technologiques et les puces reculent comme aujourd'hui, une valeur de ce type est souvent moins secouée. La part à environ 16 euros est accessible avec un petit budget, sans fractions d'actions. Le principal risque est une croissance faible dans un secteur très concurrentiel et des investissements lourds dans les réseaux, qui limitent la hausse du cours."
-        }
-      ],
-      "idee": {
-        "nom": "Publicis Groupe",
-        "isin": "FR0000130577",
-        "risque": "Modéré",
-        "prix": "≈ 88 € la part (cours non daté, à vérifier)",
-        "texte": "Publicis est un grand groupe de publicité et de conseil en marketing, qui s'appuie de plus en plus sur la donnée et l'IA pour ses clients. Il a été l'une des rares bonnes surprises du CAC 40 ce mardi, avec un revenu net du troisième trimestre au-dessus des attentes des analystes. Dans une séance dominée par la chute des puces et du luxe, c'est un exemple de valeur plus défensive. Le principal risque est que la publicité dépend des budgets des annonceurs, qui se réduisent vite si l'économie ralentit ou si l'IA bouscule le métier."
-      },
-      "concept": {
-        "terme": "L'augmentation de capital",
-        "texte": "Une augmentation de capital consiste pour une entreprise à émettre de nouvelles actions pour lever de l'argent frais, par exemple pour réduire sa dette ou financer des projets. Les actionnaires existants voient alors leur part du capital diminuer : c'est la dilution. Pour limiter cet effet, la société propose souvent un droit préférentiel de souscription (DPS), qui permet aux anciens actionnaires de souscrire en priorité ou de vendre ce droit en bourse. Le cours baisse souvent à l'annonce, car il y a plus d'actions pour la même entreprise, comme Eramet qui a perdu 14 % ce mardi.",
-        "references": [
-          {
-            "titre": "AMF : Bien comprendre les droits préférentiels de souscription ⚠️",
-            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/bien-comprendre-les-droits-preferentiels-de-souscription"
-          },
-          {
-            "titre": "La finance pour tous : Augmentation de capital ⚠️",
-            "url": "https://www.lafinancepourtous.com/decryptages/entreprise/bourse-et-actionnaires/actionnaires-et-assemblees-generales/les-age-assemblees-generales-extraordinaires/resolutions-pour-modification-de-capital/"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-14",
-          "titre": "États-Unis : inflation de septembre"
-        },
-        {
-          "date": "2026-10-15",
-          "titre": "États-Unis : prix à la production et ventes au détail"
-        },
-        {
-          "date": "2026-10-16",
-          "titre": "Zone euro : inflation définitive de septembre"
-        },
-        {
-          "date": "2026-10-21",
-          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux, résultats STMicroelectronics et Amundi"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "Boursorama : L'Europe finit en baisse une séance volatile",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-baisse-une-seance-volatile-3d3853678fe314cb087a25917416463f"
-        },
-        {
-          "titre": "Boursorama : La Bourse de Paris freinée par le luxe et les semi-conducteurs",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-freinee-par-le-luxe-et-les-semi-conducteurs-12fe58641a5a75e9d08c081892f71c80"
-        },
-        {
-          "titre": "TheStreet : Stock Market Today, 13 octobre 2026",
-          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
         }
       ]
     }

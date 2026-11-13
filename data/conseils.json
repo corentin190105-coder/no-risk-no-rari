@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-12T21:30:00+01:00",
+  "maj": "2026-11-13T21:40:00+01:00",
   "verdict": {
-    "titre": "Stellantis plonge à 3,55 € : la vente prévue n'a que trop attendu",
-    "texte": "Ton portefeuille vaut 782,58 €, soit -16,70 €, presque stable sur la journée. Stellantis a perdu 4,4 % de plus après un avertissement de son patron sur les coûts : la règle de sortie s'applique toujours, sans attendre un rebond. Aucun achat court terme prêt ce soir ; Soitec reste une idée spéculative à une seule action."
+    "titre": "Stellantis toujours sous 3,75 € : la vente reste la priorité",
+    "texte": "Ton portefeuille vaut 777,84 €, soit -21,44 €, en baisse d'environ 4,70 € sur la journée à cause du repli de la tech américaine. Stellantis a clôturé une troisième séance sous ton niveau de sortie (3,51 €) : la règle s'applique toujours, sans attendre un rebond. Aucun achat court terme prêt ce soir ; la semaine prochaine se joue sur les résultats de Nvidia mardi et de Soitec mercredi."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -11,7 +11,7 @@
       "isin": "FR001400U5Q4",
       "symbole": "DCAM.PA",
       "action": "Garder",
-      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il gagne 0,5 % à 6,385 €, au-dessus de ses moyennes 20 et 50 jours (6,31 € et 6,28 €).",
+      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il recule de 0,8 % à 6,332 €, toujours au-dessus de ses moyennes 20 et 50 jours (6,31 € et 6,28 €).",
       "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
       "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
     },
@@ -20,7 +20,7 @@
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "L'ETF gagne 0,4 % à 6,77 € malgré la démission du patron de Nvidia, sa première ligne. Il reste sous ses moyennes 20 et 50 jours (6,78 € et 6,89 €) : la tech américaine n'a pas retrouvé sa tendance, et les résultats de Nvidia la semaine prochaine seront un test.",
+      "pourquoi": "L'ETF perd 2,0 % à 6,632 €, sous ses moyennes 20 et 50 jours (6,76 € et 6,89 €) : le scandale Nvidia, sa première ligne, s'étend à Washington. Les résultats de Nvidia mardi soir seront le vrai test ; une baisse de plus n'est pas une raison de vendre un placement de long terme.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -29,7 +29,7 @@
       "isin": "FR0013380607",
       "symbole": "CACC.PA",
       "action": "Garder",
-      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle gagne 0,45 % à 42,58 €, au-dessus de ses moyennes 20 et 50 jours (environ 40,84 € et 40,80 €), et reste en gain.",
+      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle finit stable à 42,59 €, au-dessus de ses moyennes 20 et 50 jours (environ 40,95 € et 40,82 €), après une semaine à +2,8 % pour le CAC 40, et reste en gain.",
       "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
       "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
     },
@@ -39,7 +39,7 @@
       "symbole": "AI.PA",
       "action": "Garder",
       "sortie": 171.03,
-      "pourquoi": "Tu es en gain d'environ 11 € et la tendance reste haussière : 192,84 € ce soir après un nouveau plus haut en séance à 194,32 €, bien au-dessus de ses moyennes 20 et 50 jours (environ 180,9 € et 173,4 €). Avec une seule action, il n'y a rien à alléger.",
+      "pourquoi": "Tu es en gain d'environ 11 € et la tendance reste haussière : 193,32 € ce soir après un nouveau record en séance à 194,60 €, bien au-dessus de ses moyennes 20 et 50 jours (environ 181,9 € et 173,9 €). Avec une seule action, il n'y a rien à alléger.",
       "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
       "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
     },
@@ -49,8 +49,8 @@
       "symbole": "STLAP.PA",
       "action": "Vendre",
       "sortie": 3.75,
-      "pourquoi": "Le titre a clôturé mercredi sous le niveau de sortie de 3,75 € fixé à l'avance, puis a encore perdu 4,4 % jeudi à 3,55 €, plus bas de six mois, après l'avertissement du directeur général sur une forte hausse des coûts des matières premières et des puces en 2027 et 2028. Il est nettement sous ses moyennes 20 et 50 jours (3,92 € et 4,09 €). On ne déplace pas le seuil et on n'attend pas de « revenir à l'équilibre » : c'est exactement le piège décrit dans la leçon du jour.",
-      "vendreSi": "c'est le cas : vends les 13 actions vendredi, avec un ordre à cours limité proche du cours d'ouverture (par exemple 3,50 € si l'ouverture se fait vers 3,55 €) pour éviter une exécution à un mauvais prix. Vers 3,55 €, la perte totale serait d'environ 8,40 €, frais d'achat et de vente compris, soit à peu près 1 % du portefeuille.",
+      "pourquoi": "Le titre a clôturé mercredi sous le niveau de sortie de 3,75 € fixé à l'avance et y est resté jeudi et vendredi (3,51 €, plus bas de six mois à 3,50 € en séance). Aux coûts annoncés par le directeur général s'ajoute la menace du Canada de poursuivre le groupe après le transfert de la production de son usine de Brampton (CNBC). Il est nettement sous ses moyennes 20 et 50 jours (3,90 € et 4,06 €). On ne déplace pas le seuil.",
+      "vendreSi": "c'est le cas : vends les 13 actions lundi avec un ordre à cours limité proche du cours d'ouverture (par exemple 3,48 € si l'ouverture se fait vers 3,51 €). Vers 3,51 €, la perte totale serait d'environ 8,90 €, frais d'achat et de vente compris, soit à peu près 1 % du portefeuille.",
       "renforcerSi": "non. Un rachat ne serait à étudier qu'après un fait nouveau et une clôture au-dessus de sa moyenne 50 jours (4,11 €)."
     },
     {
@@ -59,7 +59,7 @@
       "symbole": "STMPA.PA",
       "action": "Garder",
       "sortie": 38.61,
-      "pourquoi": "Le titre est tombé à 41,04 € dans le sillage de Nvidia avant de finir en léger gain à 42,34 € (+0,4 %), au-dessus de sa moyenne 20 jours (41,19 €) mais toujours sous sa moyenne 50 jours (43,82 €). Ton niveau de sortie de 38,61 € est loin et ne bouge pas.",
+      "pourquoi": "Le titre recule de 0,9 % à 41,95 € dans une journée noire pour les semi-conducteurs américains, au-dessus de sa moyenne 20 jours (41,25 €) mais sous sa moyenne 50 jours (43,77 €). Ton niveau de sortie de 38,61 € est à environ 1,4 ATR et ne bouge pas ; les résultats de Nvidia mardi soir peuvent faire bouger tout le secteur.",
       "vendreSi": "clôture sous 38,61 €, sans exception. Sur 2 actions, la vente rapporterait alors environ 76 € après 1 € de frais.",
       "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de sa moyenne 50 jours, vers 44 €, sur un fait nouveau."
     }
@@ -119,7 +119,7 @@
           "20 novembre"
         ]
       ],
-      "quand": "L'entrée de 105 € a été touchée jeudi (plus bas à 101,85 €, clôture à 105,85 €). Si tu n'as pas acheté, un ordre à cours limité à 105 € reste valable jusqu'au 17 novembre au soir ; ne pas acheter au-dessus, ni la veille des résultats si le titre s'est envolé.",
+      "quand": "L'entrée de 105 € a été touchée jeudi (plus bas à 101,85 €). Le titre finit vendredi à 102,80 €. Si tu n'as pas acheté, un ordre à cours limité à 105 € reste valable jusqu'au 17 novembre au soir ; ne pas acheter au-dessus, ni la veille des résultats si le titre s'est envolé.",
       "pourquoi": "Résultats semestriels datés au 18 novembre, après une croissance du chiffre d'affaires de 23 % au 1er trimestre et un objectif de plus de 30 % au 2e trimestre.",
       "contre": "Idée spéculative : invalidation à 10 % sous l'entrée, résultats binaires avant l'échéance, tendance baissière sous les moyennes 20 et 50 jours. Probabilité d'échec estimée à 55 à 60 %."
     },
@@ -156,7 +156,7 @@
           "environ 42 €, frais compris"
         ]
       ],
-      "quand": "Sur un repli vers 50,50 € qui tient en clôture, après vérification des dirigeants, des positions courtes et du consensus. Jeudi, le titre est passé sous 50 € en séance avant de se reprendre vers 51,40 € en fin d'après-midi : le signal n'est pas encore validé.",
+      "quand": "Sur un repli vers 50,50 € qui tient en clôture. Vendredi, le titre est retombé vers 50,10 € en séance (-3,9 %) avec la chute des semi-conducteurs : le seuil ne tient pas, le signal n'est pas validé.",
       "pourquoi": "Le seuil de 50,50 € a été franchi en clôture (52,12 €) après des résultats annuels solides et un objectif d'environ 20 milliards d'euros en 2027.",
       "contre": "Le titre reste sous sa moyenne 50 jours (55,19 €), et le rebond s'est fait dans des volumes réduits par le jour férié."
     },
@@ -166,23 +166,23 @@
       "plan": [
         [
           "Déclencheur",
-          "Clôture au-dessus de 81,60 €, sa moyenne 20 jours"
+          "Repli vers 80,90 €, près de la moyenne 20 jours"
         ],
         [
           "Entrée",
-          "81,80 €"
+          "80,90 €"
         ],
         [
           "Sortie",
-          "79,70 €"
+          "78,80 €"
         ],
         [
           "Objectif",
-          "86,00 €"
+          "85,90 €"
         ],
         [
           "Exemple",
-          "4 actions, environ 327 €"
+          "4 actions, environ 324 €"
         ],
         [
           "Perte max",
@@ -190,12 +190,12 @@
         ],
         [
           "Gain visé",
-          "environ 14,80 €, frais compris"
+          "environ 18 €, frais compris"
         ]
       ],
-      "quand": "Seulement après une clôture au-dessus de 81,60 € et un fait nouveau daté sur l'offre de pétrole (OPEP+, sanctions officielles).",
-      "pourquoi": "Le Brent a bondi vers 96 dollars après la déclaration de Donald Trump sur l'Iran, confirmée par l'AP, et le titre a gagné environ 1,6 %.",
-      "contre": "Un message présidentiel n'est pas une décision : une détente avec l'Iran ferait rechuter le pétrole. Le plus haut de six mois à 85,94 € limite le potentiel."
+      "quand": "Seulement sur repli : le titre a déjà monté d'environ 1,4 ATR depuis la déclaration de Donald Trump du 12 novembre, au-delà du seuil de la méthode.",
+      "pourquoi": "La clôture au-dessus de 81,60 € est faite (82,17 €, +1,9 %), avec un Brent proche de 96 dollars et une valorisation d'environ 8 fois les bénéfices attendus selon Yahoo Finance.",
+      "contre": "L'AIE prévoit une offre de pétrole supérieure à la demande au 4e trimestre, et aucun catalyseur daté n'arrive : une détente avec l'Iran ferait rechuter le titre."
     }
   ],
   "decouvertes": [
@@ -208,16 +208,6 @@
       "pourquoi": "Tu es exposé aux États-Unis, à l'Europe et à la France, mais presque pas à l'Inde, à la Chine ou à Taïwan. Cet ETF ajoute une vraie diversification géographique.",
       "aBorder": "Pour le long terme, par achats réguliers et en petite part du portefeuille. La baisse récente d'environ 9 % en 20 séances n'est pas en soi une raison d'acheter.",
       "faux": "La tech asiatique pèse lourd dedans : ce n'est pas une protection totale si les puces continuent de baisser. Le risque de change existe aussi."
-    },
-    {
-      "nom": "Getlink",
-      "isin": "FR0010533075",
-      "symbole": "GET.PA",
-      "theme": "Une infrastructure qui encaisse des péages",
-      "risque": "Modéré",
-      "pourquoi": "Getlink exploite le tunnel sous la Manche et encaisse un péage à chaque passage de camion, de voiture ou de train : un revenu régulier, très différent de tes valeurs technologiques. Le titre est en tendance haussière, à 20,22 € le 6 novembre selon le radar, avec +7,9 % en 20 séances, et la baisse du pétrole réduit le coût de l'énergie pour ce type d'activité.",
-      "aBorder": "Pour le long terme et en petite ligne. Pas dans l'urgence : le RSI est à 78, le mouvement récent est déjà fort.",
-      "faux": "Un trafic transmanche qui recule, une hausse des coûts de l'énergie, ou des taux élevés qui pèsent sur les valeurs d'infrastructure endettées."
     },
     {
       "nom": "Bureau Veritas",
@@ -248,6 +238,16 @@
       "pourquoi": "Tu n'as aucune petite valeur ni aucun commerçant. Vente-unique.com vend des meubles en ligne dans une dizaine de pays européens et a publié jeudi un exercice 2025-2026 record : chiffre d'affaires de 243,1 millions d'euros (+21 %), selon Moneyvox. Le titre a bondi d'environ 8,3 % à 17 €, et TP ICAP Midcap vise 22,30 €. Une part autour de 17 € reste accessible.",
       "aBorder": "À étudier pour le long terme, en petite ligne, après avoir lu le communiqué de résultats et vérifié la marge. Pas le lendemain d'un bond de 8 % : un repli est fréquent sur les petites valeurs.",
       "faux": "Un ralentissement de la consommation en Europe, une guerre des prix avec les géants du commerce en ligne, et une liquidité faible qui peut faire bouger le cours de plusieurs pour cent sur peu d'échanges."
+    },
+    {
+      "nom": "Bastide Le Confort Médical",
+      "isin": "FR0000035370",
+      "symbole": "BLC.PA",
+      "theme": "La santé à domicile, un besoin qui grandit avec le vieillissement",
+      "risque": "Élevé",
+      "pourquoi": "Tu n'as aucune valeur de santé. Bastide loue et livre du matériel médical et des soins à domicile pour les personnes âgées, malades ou handicapées. Vendredi, le groupe a publié un chiffre d'affaires du 1er trimestre de 124,3 millions d'euros, en hausse de 7,1 % en organique, et confirme viser au moins 500 millions d'euros sur l'exercice (Zonebourse). Un métier porté par la démographie, peu lié à la tech ou au pétrole.",
+      "aBorder": "À étudier pour le long terme, en petite ligne, après avoir regardé son endettement et son prix par part. Le titre a fini en légère baisse (-0,5 %) malgré ces chiffres : pas d'urgence.",
+      "faux": "Des baisses de tarifs décidées par l'Assurance maladie, une dette élevée liée aux acquisitions, et une liquidité réduite de petite valeur."
     }
   ]
 }

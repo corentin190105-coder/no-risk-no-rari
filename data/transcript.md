@@ -398,3 +398,14 @@ Le risque homme-clé désigne la dépendance d'une entreprise à une seule perso
 - [InsurerBrain : définition du « key person risk » ⚠️](https://www.insurerbrain.com/wiki/Definition:Key_person_risk)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le droit préférentiel de souscription (DPS) ?
+
+_2026-11-13 21:04 CET_
+
+Lors d'une augmentation de capital, une entreprise crée de nouvelles actions pour lever de l'argent ; le droit préférentiel de souscription (DPS) donne aux actionnaires existants la priorité pour les acheter, en proportion des actions qu'ils détiennent déjà. Il sert à les protéger de la dilution, c'est-à-dire de la baisse de leur part dans l'entreprise. Le DPS se négocie en Bourse pendant une période limitée : on peut l'exercer, le vendre pour compenser une partie de la perte de valeur, ou ne rien faire, auquel cas il devient caduc et perd toute valeur à la clôture de la souscription, rappelle l'AMF. Vendredi, Eramet a fixé son augmentation de capital d'environ 500 millions d'euros à 6 actions nouvelles pour 5 anciennes, au prix de 14,49 €, soit 62 % sous le cours de référence du 11 novembre, et l'action a chuté de 10,6 % à 32,92 € (Moneyvox, Zonebourse). Une forte décote n'est donc pas un cadeau : elle se paie par la baisse mécanique du cours, compensée seulement pour ceux qui exercent ou vendent leurs droits. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [AMF : Bien comprendre les droits préférentiels de souscription (DPS)](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/bien-comprendre-les-droits-preferentiels-de-souscription)
+- [AMF : Augmentations de capital, l'essentiel à savoir](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-augmentation-de-capital)
+- [AMF : lexique, droit préférentiel de souscription](https://www.amf-france.org/fr/lexique/droit-preferentiel-de-souscription-ou-dps-actions)
