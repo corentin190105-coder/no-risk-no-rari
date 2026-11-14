@@ -409,3 +409,13 @@ Lors d'une augmentation de capital, une entreprise crée de nouvelles actions po
 - [AMF : Bien comprendre les droits préférentiels de souscription (DPS)](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/bien-comprendre-les-droits-preferentiels-de-souscription)
 - [AMF : Augmentations de capital, l'essentiel à savoir](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-augmentation-de-capital)
 - [AMF : lexique, droit préférentiel de souscription](https://www.amf-france.org/fr/lexique/droit-preferentiel-de-souscription-ou-dps-actions)
+
+## Q: Qu'est-ce que l'introduction en Bourse (IPO) ?
+
+_2026-11-14 21:02 CET_
+
+Une introduction en Bourse, ou IPO, est l'opération par laquelle une entreprise met pour la première fois ses actions en vente sur un marché, pour lever de l'argent ou permettre à ses actionnaires historiques de vendre une partie de leurs titres, explique l'AMF. Avant la cotation, l'entreprise publie un prospectus et annonce une fourchette de prix ; les banques recueillent les ordres des investisseurs, puis le prix définitif est fixé selon la demande, souvent la veille du premier jour de cotation. Anthropic, qui développe l'IA Claude, propose 825 millions d'actions entre 70 et 78 dollars, avec une fixation du prix prévue mercredi 18 novembre et une cotation jeudi au Nasdaq sous le symbole ANT, selon CNBC. Le premier cours peut s'écarter fortement du prix d'introduction, dans un sens comme dans l'autre, et l'AMF recommande de lire le prospectus, notamment les facteurs de risque, avant de participer. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [AMF : Comment participer à une introduction en bourse ?](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-introduction-en-bourse/comment-participer-une-introduction-en-bourse)
+- [AMF : Participer à une introduction en bourse, quelles précautions prendre ?](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-introduction-en-bourse/participer-une-introduction-en-bourse-quelles-precautions-prendre)

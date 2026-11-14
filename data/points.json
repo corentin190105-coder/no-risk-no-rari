@@ -1,6 +1,313 @@
 {
   "points": [
     {
+      "date": "2026-11-14",
+      "titre": "Samedi sans cotation : Trump pourrait suspendre ses frappes contre l'Iran, la tech attend Nvidia et Anthropic",
+      "resume": "Les marchés sont fermés et ce point reprend les cours de clôture de vendredi : le CAC 40 a gagné 2,8 % sur la semaine, et Wall Street a aussi fini la semaine en hausse malgré le repli de vendredi (S&P 500 -0,4 %, Nasdaq -0,9 %) lié à Nvidia. Samedi, Reuters rapporte que Donald Trump pourrait renoncer à de nouvelles frappes contre l'Iran sans nouvelle provocation, alors que le détroit d'Ormuz reste perturbé. La semaine prochaine se jouera sur les résultats de Nvidia mardi et l'introduction en Bourse d'Anthropic.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40 (vendredi)",
+          "valeur": "8 368,91 pts",
+          "variation": 0.09
+        },
+        {
+          "nom": "Euro Stoxx 50 (vendredi)",
+          "valeur": "6 386,86 pts",
+          "variation": -0.19
+        },
+        {
+          "nom": "S&P 500 (clôture de vendredi)",
+          "valeur": "7 561,67 pts",
+          "variation": -0.4
+        },
+        {
+          "nom": "Nasdaq (clôture de vendredi)",
+          "valeur": "25 136,27 pts",
+          "variation": -0.91
+        },
+        {
+          "nom": "Nikkei 225 (vendredi)",
+          "valeur": "61 142,35 pts",
+          "variation": 0.53
+        },
+        {
+          "nom": "Hang Seng (vendredi)",
+          "valeur": "23 637,60 pts",
+          "variation": -1.55
+        },
+        {
+          "nom": "Brent (vendredi)",
+          "valeur": "95,84 $",
+          "variation": 0.02
+        },
+        {
+          "nom": "Or (vendredi)",
+          "valeur": "≈ 3 883 $",
+          "variation": 0.18
+        },
+        {
+          "nom": "Euro/dollar (vendredi soir)",
+          "valeur": "≈ 1,103 $",
+          "variation": -0.21
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Iran : Trump pourrait suspendre les frappes, Ormuz reste sous tension",
+          "texte": "Selon trois sources citées par Reuters samedi, Donald Trump a dit à ses conseillers qu'il pourrait renoncer à attaquer de nouveau l'Iran si Téhéran et les Houthis ne commettent pas de nouvelle provocation. Le blocus américain reste en place et les frappes contre des pétroliers dans le détroit d'Ormuz continuent. Le Brent a fini vendredi à 95,84 dollars, en baisse pour la deuxième semaine de suite."
+        },
+        {
+          "titre": "Taux américains : le 10 ans à 5,15 %, la Fed attendue en hausse",
+          "texte": "Le rendement de l'emprunt d'État américain à 10 ans est monté à 5,15 % vendredi, contre 5,10 % la veille (AP). Malgré des prix à la production un peu moins forts que prévu, le marché attend toujours une hausse des taux de la Fed le 9 décembre, voire une autre en janvier. Des taux plus élevés pèsent d'abord sur les valeurs de croissance chères."
+        },
+        {
+          "titre": "Nvidia : pire semaine depuis avril 2025 avant ses résultats",
+          "texte": "Nvidia a fini vendredi à 162,85 dollars (-2 %) et perd 13 % sur la semaine après la démission de Jensen Huang, sa pire semaine depuis avril 2025 (Bloomberg). HSBC a abaissé sa recommandation à conserver en attendant un successeur permanent (CNBC). Les résultats de mardi soir seront le test de la semaine pour toute la tech, et pour ton ETF Nasdaq-100."
+        },
+        {
+          "titre": "Anthropic : l'introduction en Bourse de la semaine",
+          "texte": "Anthropic propose 825 millions d'actions entre 70 et 78 dollars, avec un prix fixé mercredi et une cotation prévue jeudi 19 novembre au Nasdaq, selon CNBC. Ce sera un test de l'appétit des investisseurs pour l'IA, après les doutes nés de l'affaire Nvidia. Le concept du jour explique comment fonctionne une introduction en Bourse."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 777.84,
+        "pv": -21.44,
+        "texte": "Marchés fermés : ton portefeuille vaut toujours 777,84 € pour 799,28 € investis, soit -21,44 €, aux cours de clôture de vendredi. Mardi sera décisif pour tes ETF exposés à la tech (résultats de Nvidia), et lundi pour Stellantis, dont la vente reste prévue."
+      },
+      "valeurs": [
+        {
+          "nom": "Stellantis",
+          "texte": "Le groupe prévoit de vendre son usine canadienne de Brampton au fabricant de blindés Roshel ; la ministre canadienne de l'Industrie se dit prête à verser de nouvelles aides si le site reste ouvert (CTV News), et Mark Carney lie tout accord commercial avec Washington à l'avenir de l'automobile canadienne. Rien qui change ton plan : la ligne (3,51 €) reste sous ton niveau de sortie de 3,75 €."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "Nvidia, première ligne de l'indice, a signé sa pire semaine depuis avril 2025 (-13 %). Les résultats de mardi soir et l'introduction d'Anthropic diront si la tech repart ou continue de corriger."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Dassault Systèmes",
+          "isin": "FR0014003TT8",
+          "risque": "Élevé",
+          "prix": "≈ 26 € la part",
+          "texte": "Dassault Systèmes vend des logiciels de conception et de simulation 3D à l'industrie, et met de plus en plus d'IA dans ses outils. La semaine prochaine, l'introduction en Bourse d'Anthropic (prix fixé mercredi) et les résultats de Nvidia (mardi) vont tester l'appétit pour l'IA : une valeur européenne de logiciel peut en profiter sans dépendre des puces. Le titre a fini vendredi à 25,98 € (+1,1 %), en hausse d'environ 12 % en 20 séances et au-dessus de ses moyennes 20 et 50 jours (Yahoo Finance), après avoir relevé ses objectifs avec le rachat d'ArisGlobal (Boursorama). Le principal risque : un rejet de l'IA après les résultats de Nvidia emporterait aussi les valeurs de logiciel, et le mouvement récent est déjà fort."
+        },
+        {
+          "nom": "Rubis",
+          "isin": "FR0013269123",
+          "risque": "Modéré",
+          "prix": "≈ 37 € la part",
+          "texte": "Rubis distribue des carburants et du gaz en Afrique, aux Caraïbes et en Europe, et développe l'électricité solaire. Samedi, Reuters rapporte que Donald Trump pourrait suspendre les frappes contre l'Iran faute de nouvelle provocation, alors que le détroit d'Ormuz reste perturbé : un pétrole cher mais moins volatil convient mieux à un distributeur qu'à un producteur. Au 3e trimestre, ses volumes ont progressé de 7 % et la marge brute de la distribution de 10 % (Ideal Investisseur, 3 novembre) ; le titre finit à 37,00 € (+1,0 %), au-dessus de ses moyennes 20 et 50 jours. Le principal risque : une forte exposition à des pays émergents (change, politique) et une assemblée générale le 9 décembre qui peut réserver des surprises."
+        },
+        {
+          "nom": "Exosens",
+          "isin": "FR001400Q9V2",
+          "risque": "Très élevé",
+          "prix": "≈ 51 € la part",
+          "texte": "Exosens fabrique des tubes intensificateurs pour la vision nocturne et des détecteurs, vendus surtout aux armées européennes. Les frappes contre des pétroliers dans le détroit d'Ormuz se poursuivent et le réarmement européen reste un thème durable, mais le titre a perdu environ 14 % en 20 séances, à 50,90 € vendredi (-2,7 %, Yahoo Finance), malgré des ventes en hausse de 23,5 % au 3e trimestre et des objectifs 2026 confirmés (ABC Bourse, Le Revenu). La baisse vient du recul de la marge brute : c'est une valeur à surveiller pour un rebond, pas encore un signal. Le principal risque : la tendance reste baissière, sous des moyennes 20 et 50 jours vers 55 et 57 €, et une petite capitalisation de défense peut encore baisser fortement."
+        }
+      ],
+      "idee": {
+        "nom": "Dassault Systèmes",
+        "isin": "FR0014003TT8",
+        "risque": "Élevé",
+        "prix": "≈ 26 € la part",
+        "texte": "Dassault Systèmes vend des logiciels de conception et de simulation 3D à l'industrie, et met de plus en plus d'IA dans ses outils. La semaine prochaine, l'introduction en Bourse d'Anthropic (prix fixé mercredi) et les résultats de Nvidia (mardi) vont tester l'appétit pour l'IA : une valeur européenne de logiciel peut en profiter sans dépendre des puces. Le titre a fini vendredi à 25,98 € (+1,1 %), en hausse d'environ 12 % en 20 séances et au-dessus de ses moyennes 20 et 50 jours (Yahoo Finance), après avoir relevé ses objectifs avec le rachat d'ArisGlobal (Boursorama). Le principal risque : un rejet de l'IA après les résultats de Nvidia emporterait aussi les valeurs de logiciel, et le mouvement récent est déjà fort."
+      },
+      "concept": {
+        "terme": "L'introduction en Bourse (IPO)",
+        "texte": "Une introduction en Bourse, ou IPO, est l'opération par laquelle une entreprise met pour la première fois ses actions en vente sur un marché, pour lever de l'argent ou permettre à ses actionnaires historiques de vendre une partie de leurs titres, explique l'AMF. Avant la cotation, l'entreprise publie un prospectus et annonce une fourchette de prix ; les banques recueillent les ordres des investisseurs, puis le prix définitif est fixé selon la demande, souvent la veille du premier jour de cotation. Anthropic, qui développe l'IA Claude, propose 825 millions d'actions entre 70 et 78 dollars, avec une fixation du prix prévue mercredi 18 novembre et une cotation jeudi au Nasdaq sous le symbole ANT, selon CNBC. Le premier cours peut s'écarter fortement du prix d'introduction, dans un sens comme dans l'autre, et l'AMF recommande de lire le prospectus, notamment les facteurs de risque, avant de participer. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "AMF : Comment participer à une introduction en bourse ?",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-introduction-en-bourse/comment-participer-une-introduction-en-bourse"
+          },
+          {
+            "titre": "AMF : Participer à une introduction en bourse, quelles précautions prendre ?",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-introduction-en-bourse/participer-une-introduction-en-bourse-quelles-precautions-prendre"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Les marchés sont fermés ce week-end et rien ne presse pour lundi matin : la semaine s'ouvre sur des rendez-vous à risque, les résultats de Nvidia mardi soir, ceux de Soitec mercredi soir et la fixation du prix de l'introduction en Bourse d'Anthropic mercredi, avec un taux américain à 10 ans à 5,15 % (AP) et une Fed attendue en hausse de taux le 9 décembre. Dans ce décor, acheter avant les publications serait un pari sur un chiffre : aucune idée ne passe les critères Favorable ce soir et je n'ajoute pas d'idée Spéculatif. Le journal compte une seule idée, toujours ouverte (Soitec, entrée de 105 € touchée le 12 novembre, clôture à 102,80 €, invalidation à 94,50 € intacte) et aucune idée close : l'échantillon est beaucoup trop petit pour juger la méthode. Sur tes lignes, rien n'a changé depuis vendredi soir : Stellantis (3,51 €) reste sous ton niveau de sortie de 3,75 €, la vente est prévue lundi ; STMicroelectronics (41,95 €) reste à environ 1,4 ATR de son niveau de sortie de 38,61 €, et les résultats de Nvidia mardi soir peuvent faire bouger tout le secteur.",
+        "opportunites": [
+          {
+            "nom": "Alstom",
+            "isin": "FR0010220475",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Résultats semestriels détaillés et plan de désendettement le mardi 17 novembre",
+            "cours": "10,16 €",
+            "entree": "10,90 €, seulement après les résultats et une clôture au-dessus de 10,80 €",
+            "invalidation": "10,10 €",
+            "objectif": "12,50 €",
+            "ratio": "2,0",
+            "frais": "28 actions : environ 305 €, perte maximale d'environ 24,40 € frais compris, gain visé d'environ 42,80 € net de 2 € de frais (environ +14,7 %)",
+            "these": "Alstom construit des trains, des métros et des systèmes de signalisation. Le 2 novembre, le groupe a lancé un sévère avertissement : il ne vise plus qu'une marge d'exploitation ajustée d'environ 1 % contre 6,5 % auparavant, à cause de dérapages de coûts sur certains programmes, et annonce un plan de désendettement d'environ 2 milliards d'euros (ABC Bourse). L'action a perdu 26 % ce jour-là et environ 37 % en 20 séances, pour finir vendredi à 10,16 €, près de son plus bas de deux ans à 10,21 € en séance (Ideal Investisseur). Les résultats détaillés de mardi sont le catalyseur daté : si le plan de désendettement rassure, un rebond technique vers 12 à 12,50 € est possible, car le titre est très survendu (RSI vers 2 à 15 selon les sources). JPMorgan a abaissé sa recommandation à neutre le 3 novembre, avec un objectif de 15,60 € (ABC Bourse). Ce qui contredit l'idée : la tendance est franchement baissière, très loin des moyennes 20 et 50 jours (13,39 € et 14,69 €), aucune valeur n'a encore arrêté la chute, et une augmentation de capital ne peut pas être exclue tant que la dette n'est pas clarifiée. Valeur absente de ton fichier de suivi : l'ATR de 0,74 € vient du radar. D'où un achat seulement après les résultats et une clôture au-dessus de 10,80 €.",
+            "risque": "Des comptes plus mauvais que prévu ou l'annonce d'une augmentation de capital feraient rechuter le titre sous 10 € ; même un bon chiffre peut ne déclencher qu'un rebond d'une séance."
+          },
+          {
+            "nom": "Vallourec",
+            "isin": "FR0013506730",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Résultats du 3e trimestre le vendredi 20 novembre",
+            "cours": "19,27 €",
+            "entree": "19,80 €, seulement après les résultats et une clôture au-dessus de 19,70 €",
+            "invalidation": "19,05 €",
+            "objectif": "21,30 €",
+            "ratio": "2,0",
+            "frais": "20 actions : environ 396 € (plafond de 400 €), perte maximale d'environ 17 € frais compris, gain visé d'environ 28 € net de 2 € de frais",
+            "these": "Vallourec fabrique des tubes en acier sans soudure, surtout pour les puits de pétrole et de gaz. Ses résultats du 3e trimestre sont attendus vendredi 20 novembre (Le Revenu) : avec un Brent resté vers 96 dollars depuis la guerre avec l'Iran (AP), les compagnies pétrolières ont des raisons de maintenir leurs forages, ce qui soutient les commandes de tubes. Le titre finit à 19,27 € (-0,7 %), au-dessus de ses moyennes 20 et 50 jours (18,84 € et 18,69 €), avec un RSI vers 60, mais sur des volumes faibles (environ 0,76 fois la moyenne de 20 jours). Je n'ai pas vérifié ce soir le consensus des analystes ni les transactions des dirigeants. Ce qui contredit l'idée : un apaisement avec l'Iran ferait baisser le pétrole, la tendance n'est que neutre selon le radar, et la publication tombe en fin de semaine, ce qui laisse peu de temps avant l'échéance. D'où une entrée seulement si les résultats confirment, au-dessus de 19,70 €.",
+            "risque": "Une baisse du pétrole ou des prix des tubes aux États-Unis peut décevoir ; un trou de cours le jour des résultats peut dépasser l'invalidation."
+          }
+        ],
+        "retro": ""
+      },
+      "lecon": {
+        "titre": "ETF et allocation : la méthode cœur-satellite pour organiser son portefeuille",
+        "niveau": "Intermédiaire",
+        "texte": "Après la mécanique des ETF, voyons comment les ranger dans un portefeuille. La méthode cœur-satellite sépare deux poches : un cœur large et peu coûteux, fait d'ETF très diversifiés comme un MSCI World, qui porte l'essentiel du capital et vise le long terme ; et des satellites, plus petits, faits d'actions ou d'ETF thématiques, qui cherchent à faire mieux mais acceptent plus de risque. L'intérêt est de limiter les dégâts d'une erreur : si un satellite chute de 30 %, le cœur amortit le choc. Beaucoup d'investisseurs gardent 70 à 90 % dans le cœur, mais il n'existe pas de bon chiffre universel : tout dépend de l'horizon et de la tolérance aux pertes. L'AMF rappelle que diversifier, c'est répartir son argent sur des placements qui n'évoluent pas toujours dans le même sens. Un piège fréquent : croire qu'on est diversifié parce qu'on a plusieurs lignes, alors qu'elles dépendent du même moteur, par exemple la tech américaine. Enfin, la répartition dérive avec les cours : on la rééquilibre de temps en temps, de préférence avec les nouveaux apports pour limiter les frais.",
+        "exemple": "À la clôture de vendredi, ton portefeuille vaut 777,84 €. Le cœur, l'ETF Monde (151,97 €) et l'ETF CAC 40 (170,36 €), pèse 322,33 €, soit environ 41 % ; avec l'ETF Nasdaq-100 (132,64 €), les ETF montent à environ 58 %. Les actions, Air Liquide (193,32 €), STMicroelectronics (83,89 €) et Stellantis (45,66 €), pèsent 322,87 €, environ 42 %, et ce sont elles qui expliquent l'essentiel de tes écarts. Avec 100 € d'apport sur l'ETF Monde, le cœur passerait à environ 48 % sans aucun ordre de vente.",
+        "references": [
+          {
+            "titre": "AMF : Comment bien diversifier un investissement ?",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/conseils-pratiques/diversifier-ses-placements"
+          },
+          {
+            "titre": "Investopedia : Core-Satellite Investing Strategy ⚠️",
+            "url": "https://www.investopedia.com/articles/financial-theory/08/core-satellite-investing.asp"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Dans une approche cœur-satellite, quel est le rôle principal du cœur ?",
+          "choix": [
+            "Chercher les plus fortes hausses à court terme",
+            "Porter l'essentiel du capital avec des placements larges, diversifiés et peu coûteux",
+            "Regrouper uniquement des actions françaises",
+            "Servir de réserve de liquidités pour acheter sur repli"
+          ],
+          "bonne": 1,
+          "explication": "Le cœur, souvent fait d'ETF très diversifiés, vise le long terme et amortit les erreurs des satellites, plus petits et plus risqués."
+        },
+        {
+          "question": "Anthropic annonce une fourchette de 70 à 78 dollars pour son introduction en Bourse. Que représente cette fourchette ?",
+          "choix": [
+            "Le prix garanti du premier cours en Bourse",
+            "Une indication de prix ; le prix définitif est fixé selon la demande des investisseurs, souvent la veille de la cotation",
+            "Le prix que les salariés ont payé leurs actions",
+            "Les plus haut et plus bas autorisés le premier jour"
+          ],
+          "bonne": 1,
+          "explication": "Le prix final dépend des ordres recueillis par les banques ; ensuite, le premier cours peut s'écarter fortement du prix d'introduction."
+        },
+        {
+          "question": "Révision (bilan) : une entreprise possède 500 millions d'euros d'actifs et doit 350 millions d'euros. Que valent ses capitaux propres ?",
+          "choix": [
+            "850 millions d'euros",
+            "350 millions d'euros",
+            "150 millions d'euros",
+            "500 millions d'euros"
+          ],
+          "bonne": 2,
+          "explication": "Les capitaux propres sont ce qui reste aux actionnaires : ce que l'entreprise possède moins ce qu'elle doit, soit 500 - 350 = 150 millions."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-17",
+          "titre": "Nvidia : résultats trimestriels mardi soir (heure américaine) ; Alstom : résultats semestriels ; États-Unis : ventes au détail d'octobre"
+        },
+        {
+          "date": "2026-11-18",
+          "titre": "Soitec : résultats semestriels après la clôture ; zone euro : inflation d'octobre (estimation finale) ; Fed : compte rendu de la réunion d'octobre (20h00) ; Anthropic : fixation du prix d'introduction"
+        },
+        {
+          "date": "2026-11-19",
+          "titre": "Anthropic : premier jour de cotation prévu au Nasdaq ; Ubisoft et Elior : résultats"
+        },
+        {
+          "date": "2026-11-20",
+          "titre": "Vallourec : résultats du 3e trimestre ; Soitec : échéance de l'idée spéculative"
+        },
+        {
+          "date": "2026-11-26",
+          "titre": "États-Unis : Thanksgiving, Wall Street fermée"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "AP (The Canadian Press) : Stocks fall but Wall Street notches a winning week",
+          "url": "https://www.thecanadianpressnews.ca/business/stocks-fall-but-wall-street-notches-a-winning-week-after-several-turbulent-days/article_404c20e6-5d3d-5daf-870f-bbf050a60ce2.html"
+        },
+        {
+          "titre": "Reuters : Trump may hold off on Iran attacks barring new provocations",
+          "url": "https://www.reuters.com/world/middle-east/trump-tells-advisers-he-may-hold-off-iran-attacks-barring-new-provocations-2026-11-14/"
+        },
+        {
+          "titre": "Bloomberg : Nvidia has worst week since Trump tariff selloff",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits"
+        },
+        {
+          "titre": "CNBC : marchés du 13 novembre 2026 et dégradation de Nvidia par HSBC",
+          "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
+        },
+        {
+          "titre": "CNBC : Anthropic sets IPO price range of $70 to $78",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        },
+        {
+          "titre": "Eurasia Business News : or et pétrole du 13 novembre",
+          "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"
+        },
+        {
+          "titre": "CTV News : Stellantis et l'usine de Brampton",
+          "url": "https://www.ctvnews.ca/canada/article/joly-says-stellantis-could-get-more-government-money-if-it-promised-to-keep-brampton-plant-open/"
+        },
+        {
+          "titre": "Le Revenu : les actions à suivre du 16 au 20 novembre",
+          "url": "https://www.lerevenu.com/reussir-bourse/points-marches/valeurs-a-suivre-bourse-semaine-16-20-novembre-era/"
+        },
+        {
+          "titre": "ABC Bourse : Alstom chute après des résultats semestriels très décevants",
+          "url": "https://www.abcbourse.com/marches/alstom-chute-de-26-en-bourse-apres-des-resultats-semestriels-tres-decevants_705388"
+        },
+        {
+          "titre": "Ideal Investisseur : Alstom enfonce son plancher de 2 ans",
+          "url": "https://www.ideal-investisseur.fr/actions-b/laction-alstom-enfonce-son-plancher-de-2-ans-a-1021-rsi-a-15/29319.html"
+        },
+        {
+          "titre": "Ideal Investisseur : Rubis, volumes en hausse de 7 % au 3e trimestre",
+          "url": "https://www.ideal-investisseur.fr/actions-b/rubis-volumes-en-hausse-de-7-au-troisieme-trimestre-marge-brute-retail-marketing-en-hausse-de-10/28473.html"
+        },
+        {
+          "titre": "ABC Bourse : Exosens perd 6,5 % malgré des ventes en hausse de 23,5 %",
+          "url": "https://www.abcbourse.com/marches/exosens-perd-6-5-en-bourse-malgre-des-ventes-en-hausse-de-23-5-_704958"
+        },
+        {
+          "titre": "Boursorama : Dassault Systèmes (DSY)",
+          "url": "https://www.boursorama.com/cours/1rPDSY/"
+        },
+        {
+          "titre": "Yahoo Finance : cours de clôture du 13 novembre (fichiers cours et radar du site)",
+          "url": "https://finance.yahoo.com/quote/DSY.PA/"
+        },
+        {
+          "titre": "AMF : introduction en bourse",
+          "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-introduction-en-bourse/comment-participer-une-introduction-en-bourse"
+        },
+        {
+          "titre": "AMF : diversifier ses placements",
+          "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/conseils-pratiques/diversifier-ses-placements"
+        }
+      ]
+    },
+    {
       "date": "2026-11-13",
       "titre": "Paris finit la semaine à plat mais signe +2,8 %, la tech américaine plie encore sous le scandale Nvidia",
       "resume": "Le CAC 40 termine quasi stable (+0,09 % à 8 368,91 points) mais gagne 2,82 % sur la semaine, sa meilleure depuis avril, porté vendredi par TotalEnergies (+1,9 %) et freiné par le luxe après les résultats de Richemont. Les prix à la production américains ont un peu moins progressé que prévu sur un mois, mais restent à 6,5 % sur un an, ce qui maintient l'idée d'une hausse des taux de la Fed en décembre. À Wall Street, les semi-conducteurs reculent nettement avec l'extension du scandale Nvidia.",
@@ -5886,178 +6193,6 @@
         {
           "titre": "TheStreet : Stock Market Today, 15 octobre 2026",
           "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "titre": "Le CAC 40 gagne 0,58 % à 7 873 points : ASML rassure les puces, malgré une inflation américaine à 3,7 %",
-      "resume": "Paris a progressé grâce aux semi-conducteurs, portés par les résultats d'ASML dont la demande dépasse les capacités de production en 2027 et 2028. L'inflation américaine de septembre est ressortie à 3,7 % sur un an, au-dessus des attentes, ce qui a fait reculer Wall Street en cours de séance. STMicroelectronics et Soitec ont rebondi après deux séances de baisse.",
-      "humeur": "hausse",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 873 pts",
-          "variation": 0.58
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "6 195 pts",
-          "variation": 0.46
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "≈ 7 732 pts (en séance)",
-          "variation": -0.94
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "≈ 26 834 pts (en séance)",
-          "variation": -1.36
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 106 $ le baril",
-          "variation": 0.6
-        },
-        {
-          "nom": "Or",
-          "valeur": "≈ 3 670 € l'once",
-          "variation": -0.96
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "≈ 1,113",
-          "variation": -0.65
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Inflation américaine : 3,7 % en septembre",
-          "texte": "Les prix à la consommation ont progressé de 0,6 % sur un mois et de 3,7 % sur un an (3,4 % en août), au-dessus des attentes. L'énergie en est le moteur, avec l'essence en forte hausse, tandis que l'inflation sous-jacente est à 2,6 %."
-        },
-        {
-          "titre": "Banques centrales",
-          "texte": "Ces chiffres renforcent l'idée d'une nouvelle hausse de taux de la Fed, dont la décision tombe le 28 octobre. La BCE se réunit le 29 avec un taux de dépôt à 2,50 % et une inflation de 3,8 % dans la zone euro."
-        },
-        {
-          "titre": "Pétrole et géopolitique",
-          "texte": "Le Brent se maintient autour de 106 dollars, entre inquiétudes sur l'approvisionnement et attaques signalées de pétroliers près du détroit d'Ormuz. L'OPEP a de nouveau abaissé sa prévision de demande pour 2026."
-        },
-        {
-          "titre": "Semi-conducteurs : ASML relève ses objectifs",
-          "texte": "ASML vise 44 à 45 milliards d'euros de ventes en 2026 et prévient qu'il ne pourra pas servir toute la demande en 2027 et 2028. Le secteur a rebondi après plusieurs séances de ventes liées aux craintes sur le chinois CXMT. Les taux à 10 ans français ont fini à 4,87 %."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 388.28,
-        "pv": -10.92,
-        "texte": "Ton portefeuille vaut 388,28 € pour 399,20 € investis, soit une moins-value latente de 10,92 €. STMicroelectronics a rebondi de 2,75 % ; les deux ETF gardent leur dernier cours connu du 9 octobre, faute de clôture fiable."
-      },
-      "valeurs": [
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre rebondit d'environ 2,75 % à 45,04 € dans le sillage d'ASML ; résultats attendus le 29 octobre."
-        },
-        {
-          "nom": "Soitec",
-          "texte": "L'action gagne environ 4,6 % (≈ 155 € estimé) après deux séances de baisse, portée par le secteur et sans annonce de la société."
-        },
-        {
-          "nom": "Airbus",
-          "texte": "Le titre progresse de près de 2 % à 190,22 € après avoir confirmé être en bonne voie pour son objectif de livraisons 2026."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Airbus",
-          "isin": "NL0000235190",
-          "risque": "Modéré",
-          "prix": "≈ 190 € la part",
-          "texte": "Airbus est le grand constructeur européen d'avions, éligible au PEA et coté en euros à Paris. Mercredi, le titre a gagné près de 2 % après que le groupe s'est dit en bonne voie pour son objectif d'environ 870 livraisons en 2026, un record. C'est une valeur de l'industrie lourde plutôt à l'écart de la vague des puces. Le principal risque est la pression sur les livraisons : il reste un rythme jamais atteint à tenir d'ici la fin de l'année, et les moteurs restent un point de blocage. Prochain rendez-vous : les résultats à neuf mois le 28 octobre."
-        },
-        {
-          "nom": "Soitec",
-          "isin": "FR0013227113",
-          "risque": "Très élevé",
-          "prix": "≈ 155 € la part (estimé depuis la variation de séance)",
-          "texte": "Soitec fabrique des plaques de silicium spéciales utilisées dans les puces, un maillon de la chaîne des semi-conducteurs. Le secteur a rebondi mercredi après les résultats d'ASML, qui dit ne pas pouvoir servir toute la demande des clients en 2027 et 2028, et Soitec a gagné environ 4,6 %. Le thème est porteur, mais le titre est très volatil : il avait chuté de près de 4 % la veille sans annonce de la société. Le principal risque est cette volatilité et la dépendance à quelques grands clients, d'où un classement en risque très élevé. Prochains résultats semestriels attendus vers le 18 novembre."
-        },
-        {
-          "nom": "Lumibird",
-          "isin": "FR0000038242",
-          "risque": "Élevé",
-          "prix": "≈ 22,75 € la part",
-          "texte": "Lumibird conçoit des lasers et des composants de photonique, utilisés notamment dans la défense, le spatial et l'industrie. Le titre a gagné environ 1,3 % mercredi à 22,75 € environ, une part abordable pour un petit budget, mais il perd environ 12 % sur un mois. Le groupe a publié un semestre en hausse de 7,4 % de son chiffre d'affaires, avec une photonique en bonne dynamique, et prépare la vente de sa filiale médicale. Le principal risque tient à cette opération et à la petite taille de l'entreprise (environ 500 millions d'euros de capitalisation), qui rend le cours très sensible aux annonces. Assemblée générale le 20 octobre."
-        }
-      ],
-      "idee": {
-        "nom": "Airbus",
-        "isin": "NL0000235190",
-        "risque": "Modéré",
-        "prix": "≈ 190 € la part",
-        "texte": "Airbus est le grand constructeur européen d'avions, éligible au PEA et coté en euros à Paris. Mercredi, le titre a gagné près de 2 % après que le groupe s'est dit en bonne voie pour son objectif d'environ 870 livraisons en 2026, un record. C'est une valeur de l'industrie lourde plutôt à l'écart de la vague des puces. Le principal risque est la pression sur les livraisons : il reste un rythme jamais atteint à tenir d'ici la fin de l'année, et les moteurs restent un point de blocage. Prochain rendez-vous : les résultats à neuf mois le 28 octobre."
-      },
-      "concept": {
-        "terme": "L'inflation sous-jacente",
-        "texte": "L'inflation sous-jacente est l'inflation calculée en écartant les prix les plus volatils, comme l'énergie et l'alimentation, pour mieux voir la tendance de fond. L'Insee en publie une version qui exclut aussi les prix réglementés et corrige les effets des changements de taxes. Elle sert aux banques centrales, car un pétrole qui s'envole fait grimper l'inflation globale sans forcément signaler une hausse généralisée des prix. Cette semaine aux États-Unis, l'inflation globale a atteint 3,7 % sur un an, tirée par l'énergie, alors que l'inflation sous-jacente est à 2,6 %. L'écart montre que la hausse vient surtout du pétrole, ce que la Fed surveille avant de décider de relever ou non ses taux.",
-        "references": [
-          {
-            "titre": "Insee : Inflation sous-jacente ⚠️",
-            "url": "https://www.insee.fr/fr/metadonnees/definition/c1481"
-          },
-          {
-            "titre": "Investopedia : Core Inflation ⚠️",
-            "url": "https://www.investopedia.com/terms/c/coreinflation.asp"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-15",
-          "titre": "États-Unis : prix à la production et ventes au détail de septembre"
-        },
-        {
-          "date": "2026-10-16",
-          "titre": "Zone euro : inflation définitive de septembre"
-        },
-        {
-          "date": "2026-10-20",
-          "titre": "Lumibird : assemblée générale"
-        },
-        {
-          "date": "2026-10-21",
-          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux"
-        },
-        {
-          "date": "2026-10-28",
-          "titre": "Airbus : résultats à neuf mois"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "Boursorama : La Bourse de Paris finit en hausse malgré une inflation américaine plus forte que prévu",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-finit-en-hausse-malgre-une-inflation-americaine-plus-forte-que-prevu-3eed8c03a74a03b53c8d70b9bddf8c44"
-        },
-        {
-          "titre": "Boursorama : L'Europe finit dans le vert avec ASML, Wall Street dans le rouge",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-avec-asml-wall-street-dans-le-rouge-apres-l-inflation-americaine-1208405b9f1064b632681fc0cf26819d"
-        },
-        {
-          "titre": "CNBC : CPI inflation report September 2026",
-          "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
-        },
-        {
-          "titre": "ASML : résultats du troisième trimestre 2026",
-          "url": "https://www.globenewswire.com/news-release/2026/10/14/3380319/0/en/asml-reports-11-7-billion-total-net-sales-and-5-0-billion-net-income-in-q3-2026.html"
-        },
-        {
-          "titre": "Finanzen.net : Euro STOXX 50 à la clôture",
-          "url": "https://www.finanzen.net/nachricht/aktien/gewinne-in-europa-euro-stoxx-50-bewegt-sich-zum-handelsende-im-plus-15985109"
         }
       ]
     }

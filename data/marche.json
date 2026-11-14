@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-13T21:40:00+01:00",
-    "resume": "Vendredi 13 novembre 2026 : le CAC 40 finit quasi stable (+0,09 % à 8 368,91 points) et signe +2,8 % sur la semaine, pendant que la tech américaine recule encore avec le scandale Nvidia. Ton portefeuille vaut 777,84 € pour 799,28 € investis, soit -21,44 €. Stellantis (3,51 €) reste sous ton niveau de sortie de 3,75 € : la vente prévue reste à faire."
+    "date": "2026-11-14T21:40:00+01:00",
+    "resume": "Samedi 14 novembre 2026, marchés fermés : les cours sont ceux de la clôture de vendredi. Ton portefeuille vaut 777,84 € pour 799,28 € investis, soit -21,44 €. La semaine qui vient est chargée : Nvidia et Alstom mardi, Soitec et le prix de l'introduction en Bourse d'Anthropic mercredi. Stellantis reste sous ton niveau de sortie de 3,75 € : la vente prévue lundi reste à faire."
   },
   "actifs": [
     {
@@ -326,6 +326,11 @@
       "actus": [
         {
           "date": "2026-11-13",
+          "titre": "Nvidia, première ligne de l'indice, finit à 162,85 dollars (-2 %) et signe sa pire semaine depuis avril 2025 (-13 %) après le départ de Jensen Huang ; HSBC abaisse sa recommandation",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits"
+        },
+        {
+          "date": "2026-11-13",
           "titre": "Scandale Nvidia : Washington s'interroge sur des puces revendues en Chine via Megaspeed, les semi-conducteurs américains chutent",
           "url": "https://www.afp.com/en/stocks-fail-turn-page-nvidia-scandal"
         },
@@ -348,11 +353,6 @@
           "date": "2026-11-09",
           "titre": "Nvidia recule d'environ 6 % après l'enquête interne visant son PDG, mais le Nasdaq rebondit avec AMD",
           "url": "https://cnn.com/2026/11/09/investing/nvidia-stock-huang-investigation"
-        },
-        {
-          "date": "2026-11-06",
-          "titre": "Le Nasdaq-100 finit en hausse d'environ 1,4 % vendredi (ETF QQQ), mais la semaine reste nettement négative pour la tech américaine",
-          "url": "https://www.xtb.com/fr/analyses-marches/resume-quotidien-wall-street-rebondit-apres-la-vague-de-ventes-le-dollar-americain-se-raffermit-grace-a-des-chiffres-solides-de-l-emploi-non-agricole-nfp-tandis-que-les-cours-du-petrole-reculent"
         }
       ],
       "isin": "FR0011871110",
@@ -681,6 +681,11 @@
       "actus": [
         {
           "date": "2026-11-13",
+          "titre": "Nvidia, première ligne de l'indice, finit à 162,85 dollars (-2 %) et signe sa pire semaine depuis avril 2025 (-13 %) après le départ de Jensen Huang ; HSBC abaisse sa recommandation",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits"
+        },
+        {
+          "date": "2026-11-13",
           "titre": "Scandale Nvidia : Washington s'interroge sur des puces revendues en Chine via Megaspeed, les semi-conducteurs américains chutent",
           "url": "https://www.afp.com/en/stocks-fail-turn-page-nvidia-scandal"
         },
@@ -703,11 +708,6 @@
           "date": "2026-11-09",
           "titre": "Nvidia recule d'environ 6 % après l'enquête interne visant son PDG, mais le Nasdaq rebondit avec AMD",
           "url": "https://cnn.com/2026/11/09/investing/nvidia-stock-huang-investigation"
-        },
-        {
-          "date": "2026-11-06",
-          "titre": "Le Nasdaq-100 finit en hausse d'environ 1,4 % vendredi (ETF QQQ), mais la semaine reste nettement négative pour la tech américaine",
-          "url": "https://www.xtb.com/fr/analyses-marches/resume-quotidien-wall-street-rebondit-apres-la-vague-de-ventes-le-dollar-americain-se-raffermit-grace-a-des-chiffres-solides-de-l-emploi-non-agricole-nfp-tandis-que-les-cours-du-petrole-reculent"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -978,6 +978,11 @@
       "rendezvous": [],
       "actus": [
         {
+          "date": "2026-11-14",
+          "titre": "Stellantis prévoit de vendre son usine canadienne de Brampton au fabricant de blindés Roshel ; Ottawa se dit prêt à verser de nouvelles aides si le site reste ouvert",
+          "url": "https://www.ctvnews.ca/canada/article/joly-says-stellantis-could-get-more-government-money-if-it-promised-to-keep-brampton-plant-open/"
+        },
+        {
           "date": "2026-11-13",
           "titre": "Le Canada menace de poursuivre Stellantis après le transfert de la production de l'usine de Brampton vers les États-Unis",
           "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html"
@@ -1001,11 +1006,6 @@
           "date": "2026-11-11",
           "titre": "Le titre recule d'environ 3 % à 3,71 €, plus forte baisse du CAC 40, et clôture sous 3,75 € sans nouvelle propre au groupe",
           "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c"
-        },
-        {
-          "date": "2026-11-10",
-          "titre": "Stellantis recule de 3,45 % à 3,83 €, parmi les plus fortes baisses du SBF 120, sans nouvelle propre au groupe trouvée ; Forvia perd aussi 2,9 %",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-freine-par-l-inflation-americaine-le-cac-40-echoue-aux-portes-des-8300-points-1173544.html"
         }
       ],
       "prix": 3.5125,
@@ -1107,12 +1107,6 @@
   ],
   "agenda": [
     {
-      "id": "us-jobs-2026-10",
-      "date": "2026-11-06",
-      "titre": "États-Unis : rapport sur l'emploi d'octobre",
-      "detail": "Publié : +165 000 postes contre environ 60 000 attendus, chômage à 4,1 %. Le chiffre renforce les paris sur une hausse des taux de la Fed en décembre"
-    },
-    {
       "id": "eurogroupe-bce-2026-11",
       "date": "2026-11-09",
       "titre": "Eurogroupe : examen des candidatures à la présidence de la BCE",
@@ -1173,6 +1167,12 @@
       "detail": "Annoncés pour mardi soir (heure américaine) par la presse, cinq jours après la démission de Jensen Huang. Nvidia est la première ligne du Nasdaq-100 : un repère direct pour ton ETF."
     },
     {
+      "id": "alstom-s1-2026",
+      "date": "2026-11-17",
+      "titre": "Alstom : résultats semestriels détaillés",
+      "detail": "Après l'avertissement du 2 novembre (marge d'exploitation ajustée visée ramenée à environ 1 %), le groupe détaille ses comptes et son plan de désendettement d'environ 2 milliards d'euros (ABC Bourse, Le Revenu)."
+    },
+    {
       "id": "soitec-s1-2026",
       "date": "2026-11-18",
       "titre": "Soitec : résultats du 1er semestre (après la clôture)",
@@ -1188,13 +1188,19 @@
       "id": "anthropic-ipo-2026",
       "date": "2026-11-18",
       "titre": "Anthropic : fixation du prix de son introduction en Bourse",
-      "detail": "Prix attendu entre 70 et 78 dollars par action, cotation au Nasdaq prévue le lendemain sous le symbole ANT. Un test de l'appétit des investisseurs pour l'IA, qui pèse sur ton ETF Nasdaq-100."
+      "detail": "825 millions d'actions proposées entre 70 et 78 dollars, prix fixé mercredi soir et cotation prévue jeudi 19 novembre au Nasdaq sous le symbole ANT (CNBC). Un test de l'appétit des investisseurs pour l'IA, qui pèse sur ton ETF Nasdaq-100."
     },
     {
       "id": "ez-hicp-final-2026-10",
       "date": "2026-11-18",
       "titre": "Zone euro : inflation d'octobre (estimation finale)",
       "detail": "Annoncée mercredi par Moneyvox, avant le compte rendu de la Fed. L'estimation rapide était de 4,0 %."
+    },
+    {
+      "id": "vallourec-q3-2026",
+      "date": "2026-11-20",
+      "titre": "Vallourec : résultats du 3e trimestre",
+      "detail": "Annoncés pour vendredi par Le Revenu. Un repère pour les valeurs parapétrolières avec un Brent proche de 96 dollars."
     },
     {
       "id": "us-thanksgiving-2026",
@@ -1411,6 +1417,11 @@
     },
     {
       "d": "2026-11-13",
+      "valeur": 777.84,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-14",
       "valeur": 777.84,
       "investi": 799.28
     }

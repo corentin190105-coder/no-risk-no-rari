@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-13T21:40:00+01:00",
+  "maj": "2026-11-14T21:40:00+01:00",
   "verdict": {
-    "titre": "Stellantis toujours sous 3,75 € : la vente reste la priorité",
-    "texte": "Ton portefeuille vaut 777,84 €, soit -21,44 €, en baisse d'environ 4,70 € sur la journée à cause du repli de la tech américaine. Stellantis a clôturé une troisième séance sous ton niveau de sortie (3,51 €) : la règle s'applique toujours, sans attendre un rebond. Aucun achat court terme prêt ce soir ; la semaine prochaine se joue sur les résultats de Nvidia mardi et de Soitec mercredi."
+    "titre": "Week-end : la vente de Stellantis reste le seul ordre prévu lundi",
+    "texte": "Marchés fermés : ton portefeuille vaut toujours 777,84 €, soit -21,44 €, aux cours de clôture de vendredi. Stellantis a clôturé trois séances sous ton niveau de sortie de 3,75 € : la règle s'applique lundi, sans attendre un rebond. Aucun achat court terme prêt ; la semaine se joue sur Nvidia et Alstom mardi, Soitec et Anthropic mercredi."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -20,7 +20,7 @@
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "L'ETF perd 2,0 % à 6,632 €, sous ses moyennes 20 et 50 jours (6,76 € et 6,89 €) : le scandale Nvidia, sa première ligne, s'étend à Washington. Les résultats de Nvidia mardi soir seront le vrai test ; une baisse de plus n'est pas une raison de vendre un placement de long terme.",
+      "pourquoi": "L'ETF a fini vendredi à 6,632 € (-2,0 %), sous ses moyennes 20 et 50 jours (6,76 € et 6,89 €) : Nvidia, sa première ligne, a signé sa pire semaine depuis avril 2025 (-13 %). Ses résultats mardi soir et l'introduction en Bourse d'Anthropic seront les tests de la semaine ; une baisse de plus n'est pas une raison de vendre un placement de long terme.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -49,7 +49,7 @@
       "symbole": "STLAP.PA",
       "action": "Vendre",
       "sortie": 3.75,
-      "pourquoi": "Le titre a clôturé mercredi sous le niveau de sortie de 3,75 € fixé à l'avance et y est resté jeudi et vendredi (3,51 €, plus bas de six mois à 3,50 € en séance). Aux coûts annoncés par le directeur général s'ajoute la menace du Canada de poursuivre le groupe après le transfert de la production de son usine de Brampton (CNBC). Il est nettement sous ses moyennes 20 et 50 jours (3,90 € et 4,06 €). On ne déplace pas le seuil.",
+      "pourquoi": "Le titre a clôturé mercredi sous le niveau de sortie de 3,75 € fixé à l'avance et y est resté jeudi et vendredi (3,51 €, plus bas de six mois à 3,50 € en séance). Samedi, la presse canadienne confirme que le groupe veut vendre son usine de Brampton au fabricant de blindés Roshel, sous la menace de poursuites d'Ottawa (CTV News, CNBC) : un dossier politique de plus, sans effet sur ta règle. Il est nettement sous ses moyennes 20 et 50 jours (3,90 € et 4,06 €). On ne déplace pas le seuil.",
       "vendreSi": "c'est le cas : vends les 13 actions lundi avec un ordre à cours limité proche du cours d'ouverture (par exemple 3,48 € si l'ouverture se fait vers 3,51 €). Vers 3,51 €, la perte totale serait d'environ 8,90 €, frais d'achat et de vente compris, soit à peu près 1 % du portefeuille.",
       "renforcerSi": "non. Un rachat ne serait à étudier qu'après un fait nouveau et une clôture au-dessus de sa moyenne 50 jours (4,11 €)."
     },
@@ -196,6 +196,43 @@
       "quand": "Seulement sur repli : le titre a déjà monté d'environ 1,4 ATR depuis la déclaration de Donald Trump du 12 novembre, au-delà du seuil de la méthode.",
       "pourquoi": "La clôture au-dessus de 81,60 € est faite (82,17 €, +1,9 %), avec un Brent proche de 96 dollars et une valorisation d'environ 8 fois les bénéfices attendus selon Yahoo Finance.",
       "contre": "L'AIE prévoit une offre de pétrole supérieure à la demande au 4e trimestre, et aucun catalyseur daté n'arrive : une détente avec l'Iran ferait rechuter le titre."
+    },
+    {
+      "nom": "Alstom (rebond après résultats)",
+      "statut": "Attendre",
+      "plan": [
+        [
+          "Déclencheur",
+          "Résultats du 17 novembre puis clôture au-dessus de 10,80 €"
+        ],
+        [
+          "Entrée",
+          "10,90 €"
+        ],
+        [
+          "Sortie",
+          "10,10 €"
+        ],
+        [
+          "Objectif",
+          "12,50 €"
+        ],
+        [
+          "Exemple",
+          "28 actions, environ 305 €"
+        ],
+        [
+          "Perte max",
+          "environ 24,40 €, frais compris"
+        ],
+        [
+          "Gain visé",
+          "environ 42,80 €, frais compris"
+        ]
+      ],
+      "quand": "Seulement après la publication de mardi, si le titre clôture au-dessus de 10,80 €. Ne pas acheter avant les résultats.",
+      "pourquoi": "Le titre a perdu environ 37 % en 20 séances après l'avertissement du 2 novembre et finit à 10,16 €, près de son plus bas de deux ans : des comptes et un plan de désendettement rassurants peuvent déclencher un rebond technique.",
+      "contre": "Tendance très baissière, loin des moyennes 20 et 50 jours (13,39 € et 14,69 €), risque d'augmentation de capital, et la perte maximale touche presque la limite de 25 €."
     }
   ],
   "decouvertes": [
@@ -230,16 +267,6 @@
       "faux": "Un ralentissement des commandes de méthaniers, la concurrence de technologies chinoises, ou une baisse durable de la demande de gaz."
     },
     {
-      "nom": "Vente-unique.com",
-      "isin": "FR0010766667",
-      "symbole": "ALVU.PA",
-      "theme": "Une petite valeur du commerce en ligne, rentable",
-      "risque": "Élevé",
-      "pourquoi": "Tu n'as aucune petite valeur ni aucun commerçant. Vente-unique.com vend des meubles en ligne dans une dizaine de pays européens et a publié jeudi un exercice 2025-2026 record : chiffre d'affaires de 243,1 millions d'euros (+21 %), selon Moneyvox. Le titre a bondi d'environ 8,3 % à 17 €, et TP ICAP Midcap vise 22,30 €. Une part autour de 17 € reste accessible.",
-      "aBorder": "À étudier pour le long terme, en petite ligne, après avoir lu le communiqué de résultats et vérifié la marge. Pas le lendemain d'un bond de 8 % : un repli est fréquent sur les petites valeurs.",
-      "faux": "Un ralentissement de la consommation en Europe, une guerre des prix avec les géants du commerce en ligne, et une liquidité faible qui peut faire bouger le cours de plusieurs pour cent sur peu d'échanges."
-    },
-    {
       "nom": "Bastide Le Confort Médical",
       "isin": "FR0000035370",
       "symbole": "BLC.PA",
@@ -248,6 +275,16 @@
       "pourquoi": "Tu n'as aucune valeur de santé. Bastide loue et livre du matériel médical et des soins à domicile pour les personnes âgées, malades ou handicapées. Vendredi, le groupe a publié un chiffre d'affaires du 1er trimestre de 124,3 millions d'euros, en hausse de 7,1 % en organique, et confirme viser au moins 500 millions d'euros sur l'exercice (Zonebourse). Un métier porté par la démographie, peu lié à la tech ou au pétrole.",
       "aBorder": "À étudier pour le long terme, en petite ligne, après avoir regardé son endettement et son prix par part. Le titre a fini en légère baisse (-0,5 %) malgré ces chiffres : pas d'urgence.",
       "faux": "Des baisses de tarifs décidées par l'Assurance maladie, une dette élevée liée aux acquisitions, et une liquidité réduite de petite valeur."
+    },
+    {
+      "nom": "SCOR",
+      "isin": "FR0010411983",
+      "symbole": "SCR.PA",
+      "theme": "La réassurance, l'assureur des assureurs",
+      "risque": "Modéré",
+      "pourquoi": "Tu n'as aucune valeur financière. SCOR assure les compagnies d'assurance contre les gros sinistres et les risques vie, et place une grande partie de ses réserves en obligations : avec un taux américain à 10 ans monté à 5,15 % vendredi (AP), ces placements rapportent davantage avec le temps. Le titre finit à 35,80 € le 13 novembre, en hausse d'environ 6 % en 20 séances et au-dessus de ses moyennes 20 et 50 jours selon le radar.",
+      "aBorder": "À étudier pour le long terme, en petite ligne, après avoir lu ses derniers résultats et sa politique de dividende. Pas dans l'urgence : le RSI est vers 74, le mouvement récent est déjà fort.",
+      "faux": "Une année de grandes catastrophes naturelles, une mauvaise surprise sur ses provisions vie, ou une hausse brutale des taux qui fait baisser la valeur des obligations déjà détenues."
     }
   ]
 }
