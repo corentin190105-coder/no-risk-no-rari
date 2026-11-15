@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-14T21:40:00+01:00",
-    "resume": "Samedi 14 novembre 2026, marchés fermés : les cours sont ceux de la clôture de vendredi. Ton portefeuille vaut 777,84 € pour 799,28 € investis, soit -21,44 €. La semaine qui vient est chargée : Nvidia et Alstom mardi, Soitec et le prix de l'introduction en Bourse d'Anthropic mercredi. Stellantis reste sous ton niveau de sortie de 3,75 € : la vente prévue lundi reste à faire."
+    "date": "2026-11-15T21:15:00+01:00",
+    "resume": "Dimanche 15 novembre 2026, marchés fermés : les cours restent ceux de la clôture de vendredi. Ton portefeuille vaut 777,84 € pour 799,28 € investis, soit -21,44 €. Ce week-end, l'Iran a frappé une base américaine à Bahreïn et le sommet Trump, Xi, Poutine est confirmé pour jeudi à Shenzhen. Lundi, la vente de Stellantis reste prévue ; mardi, Nvidia et Alstom publient."
   },
   "actifs": [
     {
@@ -325,6 +325,11 @@
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
         {
+          "date": "2026-11-15",
+          "titre": "Nvidia publie mardi soir ses premiers résultats sans Jensen Huang : le consensus attend environ 108,8 milliards de dollars de chiffre d'affaires (+91 %)",
+          "url": "https://www.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-nvidia-home-depot-200691576"
+        },
+        {
           "date": "2026-11-13",
           "titre": "Nvidia, première ligne de l'indice, finit à 162,85 dollars (-2 %) et signe sa pire semaine depuis avril 2025 (-13 %) après le départ de Jensen Huang ; HSBC abaisse sa recommandation",
           "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits"
@@ -348,11 +353,6 @@
           "date": "2026-11-10",
           "titre": "Inflation américaine plus forte que prévu : le Nasdaq recule d'environ 1,3 % à la clôture européenne, mais la hausse du dollar amortit la baisse de l'ETF en euros",
           "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-tumulte-a-wall-street-apres-l-inflation-91fe46dc5a4dc37def19f7796cd825f2"
-        },
-        {
-          "date": "2026-11-09",
-          "titre": "Nvidia recule d'environ 6 % après l'enquête interne visant son PDG, mais le Nasdaq rebondit avec AMD",
-          "url": "https://cnn.com/2026/11/09/investing/nvidia-stock-huang-investigation"
         }
       ],
       "isin": "FR0011871110",
@@ -425,6 +425,11 @@
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
         {
+          "date": "2026-11-15",
+          "titre": "Résultats semestriels mercredi soir : les perspectives du secteur des semi-conducteurs au premier plan selon Le Revenu",
+          "url": "https://www.lerevenu.com/reussir-bourse/points-marches/valeurs-a-suivre-bourse-semaine-16-20-novembre-era/"
+        },
+        {
           "date": "2026-11-12",
           "titre": "Soitec recule de 2,3 % à 105,85 € après avoir touché 101,85 € en séance, dans le sillage de la baisse de Nvidia",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-08096cdb7e970fb74a3579f52b3cd868"
@@ -448,11 +453,6 @@
           "date": "2026-11-06",
           "titre": "Soitec rebondit d'environ 3 % vers 94 € après une chute de plus de 26 % en deux séances",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque-65c78769cd39da733b365d299b55d622"
-        },
-        {
-          "date": "2026-11-05",
-          "titre": "Soitec chute de 16,73 % à 91,64 € sur la crainte d'une réglementation plus stricte des centres de données américains",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-ae5fec63ab8cc4466762250a0232725a"
         }
       ],
       "isin": "FR0013227113",
@@ -680,6 +680,11 @@
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
         {
+          "date": "2026-11-15",
+          "titre": "Nvidia publie mardi soir ses premiers résultats sans Jensen Huang : le consensus attend environ 108,8 milliards de dollars de chiffre d'affaires (+91 %)",
+          "url": "https://www.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-nvidia-home-depot-200691576"
+        },
+        {
           "date": "2026-11-13",
           "titre": "Nvidia, première ligne de l'indice, finit à 162,85 dollars (-2 %) et signe sa pire semaine depuis avril 2025 (-13 %) après le départ de Jensen Huang ; HSBC abaisse sa recommandation",
           "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits"
@@ -703,11 +708,6 @@
           "date": "2026-11-10",
           "titre": "Inflation américaine plus forte que prévu : le Nasdaq recule d'environ 1,3 % à la clôture européenne, mais la hausse du dollar amortit la baisse de l'ETF en euros",
           "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-tumulte-a-wall-street-apres-l-inflation-91fe46dc5a4dc37def19f7796cd825f2"
-        },
-        {
-          "date": "2026-11-09",
-          "titre": "Nvidia recule d'environ 6 % après l'enquête interne visant son PDG, mais le Nasdaq rebondit avec AMD",
-          "url": "https://cnn.com/2026/11/09/investing/nvidia-stock-huang-investigation"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -978,6 +978,16 @@
       "rendezvous": [],
       "actus": [
         {
+          "date": "2026-11-15",
+          "titre": "Mirafiori : cinquième semaine sans production de Fiat 500 hybride à partir du 16 novembre, faute de commandes et d'une puce de moteur selon les syndicats",
+          "url": "https://www.autonext.co/news/fiat-500-hybrid-mirafiori-half-target"
+        },
+        {
+          "date": "2026-11-14",
+          "titre": "Antonio Filosa met en garde contre la hausse des coûts et confie à Tim Kuniskis les ventes et le réseau aux États-Unis",
+          "url": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-stellantis-kuniskis-us-sales-john-bergstrom-1113/"
+        },
+        {
           "date": "2026-11-14",
           "titre": "Stellantis prévoit de vendre son usine canadienne de Brampton au fabricant de blindés Roshel ; Ottawa se dit prêt à verser de nouvelles aides si le site reste ouvert",
           "url": "https://www.ctvnews.ca/canada/article/joly-says-stellantis-could-get-more-government-money-if-it-promised-to-keep-brampton-plant-open/"
@@ -996,16 +1006,6 @@
           "date": "2026-11-12",
           "titre": "Le directeur général Antonio Filosa prévient d'une forte hausse du coût des matières premières et des puces en 2027 et probablement 2028, chiffrée en milliards d'euros (Reuters)",
           "url": "https://live.euronext.com/en/financial-news/stellantis-ceo-warns-rising-costs-confirms-leapmotor-cooperation-e-cars-italy"
-        },
-        {
-          "date": "2026-11-12",
-          "titre": "Le titre chute d'environ 4,4 % à 3,55 €, plus forte baisse du CAC 40, et touche un plus bas de six mois à 3,50 € en séance",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-le-seisme-du-depart-de-jensen-huang-chez-nvidia-et-trump-qui-affirme-ne-pas-avoir-besoin-d-un-accord-avec-l-iran-le-cac-40-termine-encore-en-hausse-1173691.html"
-        },
-        {
-          "date": "2026-11-11",
-          "titre": "Le titre recule d'environ 3 % à 3,71 €, plus forte baisse du CAC 40, et clôture sous 3,75 € sans nouvelle propre au groupe",
-          "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c"
         }
       ],
       "prix": 3.5125,
@@ -1155,6 +1155,12 @@
       "detail": "Publié : croissance conforme à la première estimation selon Zonebourse. Pas de surprise pour la BCE."
     },
     {
+      "id": "eramet-dps-2026-11",
+      "date": "2026-11-16",
+      "titre": "Eramet : détachement et début de cotation des droits préférentiels",
+      "detail": "Négociation des droits du 16 au 25 novembre, souscription du 18 au 27 novembre, 6 actions nouvelles pour 5 anciennes à 14,49 € (communiqué d'Eramet du 13 novembre). Le cours baissera mécaniquement lundi : ce n'est pas une chute liée à l'activité."
+    },
+    {
       "id": "us-retail-2026-10",
       "date": "2026-11-17",
       "titre": "États-Unis : ventes au détail d'octobre",
@@ -1195,6 +1201,12 @@
       "date": "2026-11-18",
       "titre": "Zone euro : inflation d'octobre (estimation finale)",
       "detail": "Annoncée mercredi par Moneyvox, avant le compte rendu de la Fed. L'estimation rapide était de 4,0 %."
+    },
+    {
+      "id": "apec-trilaterale-2026-11-19",
+      "date": "2026-11-19",
+      "titre": "Sommet Trump, Xi, Poutine à Shenzhen (APEC)",
+      "detail": "Première rencontre à trois entre les dirigeants américain, chinois et russe, confirmée par la Maison-Blanche et le Kremlin (Le Monde, Japan Times). Au menu : contrôle des armes nucléaires et guerre en Iran. Un repère pour le pétrole, la défense et les valeurs exposées à la Chine."
     },
     {
       "id": "vallourec-q3-2026",
@@ -1422,6 +1434,11 @@
     },
     {
       "d": "2026-11-14",
+      "valeur": 777.84,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-15",
       "valeur": 777.84,
       "investi": 799.28
     }

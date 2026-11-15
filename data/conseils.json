@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-14T21:40:00+01:00",
+  "maj": "2026-11-15T21:15:00+01:00",
   "verdict": {
-    "titre": "Week-end : la vente de Stellantis reste le seul ordre prévu lundi",
-    "texte": "Marchés fermés : ton portefeuille vaut toujours 777,84 €, soit -21,44 €, aux cours de clôture de vendredi. Stellantis a clôturé trois séances sous ton niveau de sortie de 3,75 € : la règle s'applique lundi, sans attendre un rebond. Aucun achat court terme prêt ; la semaine se joue sur Nvidia et Alstom mardi, Soitec et Anthropic mercredi."
+    "titre": "Dimanche : la vente de Stellantis reste l'ordre de lundi, le reste attend Nvidia",
+    "texte": "Marchés fermés : ton portefeuille vaut toujours 777,84 €, soit -21,44 €, aux cours de vendredi. Stellantis a clôturé trois séances sous ton niveau de sortie de 3,75 € : la règle s'applique lundi, sans attendre un rebond, et les nouvelles du week-end (coûts en hausse, usine de Mirafiori à l'arrêt) ne la remettent pas en cause. Aucun achat court terme prêt : les frappes iraniennes du week-end peuvent agiter le pétrole lundi, mais la semaine se joue sur Nvidia mardi et le sommet de Shenzhen jeudi."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -49,7 +49,7 @@
       "symbole": "STLAP.PA",
       "action": "Vendre",
       "sortie": 3.75,
-      "pourquoi": "Le titre a clôturé mercredi sous le niveau de sortie de 3,75 € fixé à l'avance et y est resté jeudi et vendredi (3,51 €, plus bas de six mois à 3,50 € en séance). Samedi, la presse canadienne confirme que le groupe veut vendre son usine de Brampton au fabricant de blindés Roshel, sous la menace de poursuites d'Ottawa (CTV News, CNBC) : un dossier politique de plus, sans effet sur ta règle. Il est nettement sous ses moyennes 20 et 50 jours (3,90 € et 4,06 €). On ne déplace pas le seuil.",
+      "pourquoi": "Le titre a clôturé mercredi sous le niveau de sortie de 3,75 € fixé à l'avance et y est resté jeudi et vendredi (3,51 €, plus bas de six mois à 3,50 € en séance). Ce week-end, le directeur général a mis en garde contre la hausse des coûts et l'usine de Mirafiori entame une cinquième semaine sans produire la Fiat 500 hybride (Automotive News, Autonext). Rien ne justifie de déplacer le niveau : la vente se fait lundi, au marché ou à cours limité proche du cours.",
       "vendreSi": "c'est le cas : vends les 13 actions lundi avec un ordre à cours limité proche du cours d'ouverture (par exemple 3,48 € si l'ouverture se fait vers 3,51 €). Vers 3,51 €, la perte totale serait d'environ 8,90 €, frais d'achat et de vente compris, soit à peu près 1 % du portefeuille.",
       "renforcerSi": "non. Un rachat ne serait à étudier qu'après un fait nouveau et une clôture au-dessus de sa moyenne 50 jours (4,11 €)."
     },
@@ -193,7 +193,7 @@
           "environ 18 €, frais compris"
         ]
       ],
-      "quand": "Seulement sur repli : le titre a déjà monté d'environ 1,4 ATR depuis la déclaration de Donald Trump du 12 novembre, au-delà du seuil de la méthode.",
+      "quand": "Seulement sur repli vers 80,90 € : le titre a déjà monté d'environ 1,4 ATR depuis le 12 novembre, et les frappes iraniennes du week-end peuvent provoquer un écart d'ouverture lundi. Ne pas acheter sur cet écart.",
       "pourquoi": "La clôture au-dessus de 81,60 € est faite (82,17 €, +1,9 %), avec un Brent proche de 96 dollars et une valorisation d'environ 8 fois les bénéfices attendus selon Yahoo Finance.",
       "contre": "L'AIE prévoit une offre de pétrole supérieure à la demande au 4e trimestre, et aucun catalyseur daté n'arrive : une détente avec l'Iran ferait rechuter le titre."
     },
@@ -267,16 +267,6 @@
       "faux": "Un ralentissement des commandes de méthaniers, la concurrence de technologies chinoises, ou une baisse durable de la demande de gaz."
     },
     {
-      "nom": "Bastide Le Confort Médical",
-      "isin": "FR0000035370",
-      "symbole": "BLC.PA",
-      "theme": "La santé à domicile, un besoin qui grandit avec le vieillissement",
-      "risque": "Élevé",
-      "pourquoi": "Tu n'as aucune valeur de santé. Bastide loue et livre du matériel médical et des soins à domicile pour les personnes âgées, malades ou handicapées. Vendredi, le groupe a publié un chiffre d'affaires du 1er trimestre de 124,3 millions d'euros, en hausse de 7,1 % en organique, et confirme viser au moins 500 millions d'euros sur l'exercice (Zonebourse). Un métier porté par la démographie, peu lié à la tech ou au pétrole.",
-      "aBorder": "À étudier pour le long terme, en petite ligne, après avoir regardé son endettement et son prix par part. Le titre a fini en légère baisse (-0,5 %) malgré ces chiffres : pas d'urgence.",
-      "faux": "Des baisses de tarifs décidées par l'Assurance maladie, une dette élevée liée aux acquisitions, et une liquidité réduite de petite valeur."
-    },
-    {
       "nom": "SCOR",
       "isin": "FR0010411983",
       "symbole": "SCR.PA",
@@ -285,6 +275,16 @@
       "pourquoi": "Tu n'as aucune valeur financière. SCOR assure les compagnies d'assurance contre les gros sinistres et les risques vie, et place une grande partie de ses réserves en obligations : avec un taux américain à 10 ans monté à 5,15 % vendredi (AP), ces placements rapportent davantage avec le temps. Le titre finit à 35,80 € le 13 novembre, en hausse d'environ 6 % en 20 séances et au-dessus de ses moyennes 20 et 50 jours selon le radar.",
       "aBorder": "À étudier pour le long terme, en petite ligne, après avoir lu ses derniers résultats et sa politique de dividende. Pas dans l'urgence : le RSI est vers 74, le mouvement récent est déjà fort.",
       "faux": "Une année de grandes catastrophes naturelles, une mauvaise surprise sur ses provisions vie, ou une hausse brutale des taux qui fait baisser la valeur des obligations déjà détenues."
+    },
+    {
+      "nom": "Legrand",
+      "isin": "FR0010307819",
+      "symbole": "LR.PA",
+      "theme": "L'électricité des centres de données, l'IA sans les puces",
+      "risque": "Modéré",
+      "pourquoi": "Legrand tire environ un tiers de ses ventes des centres de données, une activité en hausse organique de près de 40 % sur les neuf premiers mois de 2026, et a relevé ses objectifs 2026 pour la deuxième fois le 5 novembre (AFP, France Transactions). C'est une façon de profiter de l'IA sans dépendre d'un fabricant de puces.",
+      "aBorder": "Comme une piste de long terme ou après la publication de Nvidia de mardi, pas avant. À 136,40 € vendredi, une part pèse lourd dans ton budget.",
+      "faux": "Le thème est très suivi et déjà bien valorisé, et la dette nette est passée d'environ 3,1 à 5,4 milliards d'euros en un an avec les acquisitions. Une pause des investissements dans l'IA toucherait directement le titre."
     }
   ]
 }

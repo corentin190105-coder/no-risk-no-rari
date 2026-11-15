@@ -419,3 +419,15 @@ Une introduction en Bourse, ou IPO, est l'opération par laquelle une entreprise
 **Références**
 - [AMF : Comment participer à une introduction en bourse ?](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-introduction-en-bourse/comment-participer-une-introduction-en-bourse)
 - [AMF : Participer à une introduction en bourse, quelles précautions prendre ?](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-introduction-en-bourse/participer-une-introduction-en-bourse-quelles-precautions-prendre)
+
+## Q: Qu'est-ce que le PER prévisionnel (forward P/E) ?
+
+_2026-11-15 21:09 CET_
+
+Le PER rapporte le cours d'une action au bénéfice par action ; le PER prévisionnel utilise non pas le bénéfice déjà publié, mais celui que les analystes attendent sur les douze prochains mois. Il dit combien d'années de bénéfices futurs l'investisseur paie aujourd'hui, et permet de comparer des sociétés en forte croissance, dont le bénéfice passé sous-estime le potentiel. Nvidia, qui a fini vendredi à 162,85 dollars, ne vaut plus qu'environ 11,5 fois ses bénéfices attendus selon Yardeni, ce qui suppose un bénéfice d'environ 14 dollars par action sur un an (162,85 ÷ 11,5). Ce chiffre repose sur des prévisions : si les bénéfices déçoivent, un PER prévisionnel bas peut se révéler trompeur. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [La finance pour tous : Price earning ratio (PER)](https://www.lafinancepourtous.com/outils/dictionnaire/per/)
+- [Investopedia : Forward Price-to-Earnings (Forward P/E) ⚠️](https://www.investopedia.com/terms/f/forwardpe.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

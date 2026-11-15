@@ -1,6 +1,368 @@
 {
   "points": [
     {
+      "date": "2026-11-15",
+      "titre": "Dimanche sans cotation : l'Iran frappe Bahreïn, et Trump, Xi et Poutine se retrouveront jeudi à Shenzhen",
+      "resume": "Les marchés sont fermés et ce point reprend les cours de clôture de vendredi. Ce week-end, l'Iran a lancé des drones contre une base américaine à Bahreïn et les forces soutenues par l'Arabie saoudite ont reculé face aux Houthis près du détroit de Bab el-Mandeb, deux faits qui peuvent remettre une prime de risque sur le pétrole lundi. La semaine sera dense : Nvidia mardi, Anthropic mercredi et jeudi, et un sommet inédit Trump, Xi, Poutine jeudi.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40 (vendredi)",
+          "valeur": "8 368,91 pts",
+          "variation": 0.09
+        },
+        {
+          "nom": "Euro Stoxx 50 (vendredi)",
+          "valeur": "6 386,86 pts",
+          "variation": -0.19
+        },
+        {
+          "nom": "S&P 500 (clôture de vendredi)",
+          "valeur": "7 561,67 pts",
+          "variation": -0.4
+        },
+        {
+          "nom": "Nasdaq (clôture de vendredi)",
+          "valeur": "25 136,27 pts",
+          "variation": -0.91
+        },
+        {
+          "nom": "Nikkei 225 (vendredi)",
+          "valeur": "61 142,35 pts",
+          "variation": 0.53
+        },
+        {
+          "nom": "Hang Seng (vendredi)",
+          "valeur": "23 637,60 pts",
+          "variation": -1.55
+        },
+        {
+          "nom": "Brent (vendredi)",
+          "valeur": "95,84 $",
+          "variation": 0.02
+        },
+        {
+          "nom": "Or (vendredi)",
+          "valeur": "≈ 3 883 $",
+          "variation": 0.18
+        },
+        {
+          "nom": "Euro/dollar (vendredi soir)",
+          "valeur": "≈ 1,103 $",
+          "variation": -0.21
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Iran : drones sur Bahreïn, recul face aux Houthis en mer Rouge",
+          "texte": "Selon CNBC dimanche, l'Iran a visé par des drones Bahreïn, qui abrite la Ve flotte américaine, et Bahreïn dit en avoir intercepté plusieurs. Au Yémen, les forces gouvernementales se sont retirées de la zone du détroit de Bab el-Mandeb, passage clé du pétrole vers l'Europe, après six semaines de contre-offensive. C'est l'inverse de l'apaisement évoqué samedi : le Brent, qui a fini vendredi à 95,84 dollars, pourrait rouvrir en hausse."
+        },
+        {
+          "titre": "Jeudi à Shenzhen : première rencontre à trois Trump, Xi, Poutine",
+          "texte": "La Maison-Blanche et le Kremlin ont confirmé une réunion le 19 novembre en marge du sommet de l'APEC, centrée sur les armes nucléaires et la guerre en Iran (Japan Times, Le Monde). Benzinga souligne que l'offre mondiale de pétrole reste abondante (105,4 millions de barils par jour selon l'AIE) : un signe de détente ferait vite retomber le rebond du brut. Pour l'Europe, l'enjeu touche le pétrole, la défense et les valeurs exposées à la Chine."
+        },
+        {
+          "titre": "Nvidia et Anthropic face à un taux à 10 ans de 5,15 %",
+          "texte": "Nvidia publie mardi soir : le consensus attend environ 108,8 milliards de dollars de chiffre d'affaires (+91 %) et 2,47 dollars de bénéfice par action (Investing.com), pour une action qui ne vaut plus qu'environ 11,5 fois les bénéfices attendus (Yardeni). L'introduction d'Anthropic serait déjà sursouscrite plusieurs fois (Bloomberg, via investingLive), avec un prix fixé mercredi soir. Ces deux tests se jouent avec un taux américain à 10 ans à 5,15 %, qui pèse sur les valeurs de croissance."
+        },
+        {
+          "titre": "Eramet : le cours va baisser mécaniquement lundi",
+          "texte": "Les droits préférentiels de l'augmentation de capital d'Eramet se détachent lundi et se négocient jusqu'au 25 novembre (6 actions nouvelles pour 5 anciennes à 14,49 €, communiqué du 13 novembre). Sur la base du cours de vendredi (32,92 €), le cours théorique après détachement tourne autour de 22,90 € : une baisse d'environ 30 % à l'affichage qui n'est pas une chute liée à l'activité, car l'actionnaire reçoit un droit d'environ 10 €."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 777.84,
+        "pv": -21.44,
+        "texte": "Marchés fermés : ton portefeuille vaut toujours 777,84 € pour 799,28 € investis, soit -21,44 €, aux cours de clôture de vendredi. Lundi, la règle de sortie de Stellantis s'applique ; mardi soir, Nvidia décidera de l'humeur de tes deux ETF Nasdaq-100 et de STMicroelectronics."
+      },
+      "valeurs": [
+        {
+          "nom": "Stellantis",
+          "texte": "Ce qui a changé depuis samedi : le directeur général Antonio Filosa met en garde contre la hausse des coûts et confie les ventes américaines à Tim Kuniskis (Automotive News), et l'usine italienne de Mirafiori entame lundi une cinquième semaine sans produire de Fiat 500 hybride, faute de commandes et d'une puce selon les syndicats (Autonext). Rien qui plaide pour revenir sur la vente prévue lundi, sous ton niveau de sortie de 3,75 €."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "Nvidia, première ligne de l'indice, publie mardi soir avec un consensus de chiffre d'affaires en hausse d'environ 91 % : un bon chiffre ne suffira pas si les prévisions ou la succession de Jensen Huang inquiètent."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Legrand",
+          "isin": "FR0010307819",
+          "risque": "Modéré",
+          "prix": "≈ 136 € la part",
+          "texte": "Legrand fabrique du matériel électrique et des équipements pour les centres de données, qui pèsent environ un tiers de ses ventes. La semaine de Nvidia et de l'introduction d'Anthropic va tester la demande d'infrastructures pour l'IA, et Legrand en profite sans dépendre des puces : son activité dans les centres de données progresse de près de 40 % en organique sur neuf mois et le groupe a relevé ses objectifs 2026 pour la deuxième fois le 5 novembre (AFP, France Transactions). Le titre a fini vendredi à 136,40 € (-1,3 %), juste au-dessus de sa moyenne 50 jours (135,81 €). Le principal risque : une déception sur Nvidia ferait baisser tout le thème, et la dette nette a fortement augmenté avec les acquisitions."
+        },
+        {
+          "nom": "Pernod Ricard",
+          "isin": "FR0000120693",
+          "risque": "Élevé",
+          "prix": "≈ 73 € la part",
+          "texte": "Pernod Ricard vend des spiritueux (Martell, Absolut, Jameson) et dépend beaucoup de la Chine et des États-Unis. Le sommet de Shenzhen de jeudi, avec la première rencontre à trois entre Trump, Xi et Poutine (Le Monde, Japan Times), peut relancer l'espoir d'une détente commerciale, un thème clé pour le cognac. Le titre a fini vendredi à 72,78 € (+1,7 %), en hausse d'environ 7 % en 20 séances et au-dessus de ses moyennes 20 et 50 jours (Yahoo Finance). Le principal risque : le bénéfice annuel a chuté de 26 % à cause de la Chine, des États-Unis et des droits de douane (Terre de Vins), et un sommet sans annonce concrète décevrait vite."
+        },
+        {
+          "nom": "Ubisoft",
+          "isin": "FR0000054470",
+          "risque": "Très élevé",
+          "prix": "≈ 4,30 € la part",
+          "texte": "Ubisoft édite des jeux vidéo comme Assassin's Creed et reste en plein redressement. Ses résultats semestriels tombent jeudi 19 novembre après la clôture de Paris (Platero, Le Revenu), un rendez-vous qui peut faire bouger le titre de plus de 10 % dans un sens ou dans l'autre. À 4,33 € vendredi (-3,9 %), l'action est abordable pour un petit budget, mais elle perd environ 14 % en 20 séances et reste sous sa moyenne 50 jours (4,87 €). Le principal risque : un pari sur une publication, avec une société qui a souvent déçu ; à ne regarder qu'après les chiffres."
+        }
+      ],
+      "idee": {
+        "nom": "Legrand",
+        "isin": "FR0010307819",
+        "risque": "Modéré",
+        "prix": "≈ 136 € la part",
+        "texte": "Legrand fabrique du matériel électrique et des équipements pour les centres de données, qui pèsent environ un tiers de ses ventes. La semaine de Nvidia et de l'introduction d'Anthropic va tester la demande d'infrastructures pour l'IA, et Legrand en profite sans dépendre des puces : son activité dans les centres de données progresse de près de 40 % en organique sur neuf mois et le groupe a relevé ses objectifs 2026 pour la deuxième fois le 5 novembre (AFP, France Transactions). Le titre a fini vendredi à 136,40 € (-1,3 %), juste au-dessus de sa moyenne 50 jours (135,81 €). Le principal risque : une déception sur Nvidia ferait baisser tout le thème, et la dette nette a fortement augmenté avec les acquisitions."
+      },
+      "concept": {
+        "terme": "Le PER prévisionnel (forward P/E)",
+        "texte": "Le PER rapporte le cours d'une action au bénéfice par action ; le PER prévisionnel utilise non pas le bénéfice déjà publié, mais celui que les analystes attendent sur les douze prochains mois. Il dit combien d'années de bénéfices futurs l'investisseur paie aujourd'hui, et permet de comparer des sociétés en forte croissance, dont le bénéfice passé sous-estime le potentiel. Nvidia, qui a fini vendredi à 162,85 dollars, ne vaut plus qu'environ 11,5 fois ses bénéfices attendus selon Yardeni, ce qui suppose un bénéfice d'environ 14 dollars par action sur un an (162,85 ÷ 11,5). Ce chiffre repose sur des prévisions : si les bénéfices déçoivent, un PER prévisionnel bas peut se révéler trompeur. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "La finance pour tous : Price earning ratio (PER)",
+            "url": "https://www.lafinancepourtous.com/outils/dictionnaire/per/"
+          },
+          {
+            "titre": "Investopedia : Forward Price-to-Earnings (Forward P/E) ⚠️",
+            "url": "https://www.investopedia.com/terms/f/forwardpe.asp"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Les marchés sont fermés, mais le week-end a ajouté du risque : frappes iraniennes sur Bahreïn et recul face aux Houthis près de Bab el-Mandeb (CNBC), puis un sommet Trump, Xi, Poutine jeudi qui peut aussi bien faire baisser la prime de risque. Avec Nvidia mardi, Soitec et Anthropic mercredi, Ubisoft jeudi, acheter lundi matin serait un pari sur des chiffres et sur l'ouverture : aucune idée ne passe les critères Favorable ce soir et je n'ajoute pas d'idée Spéculatif. Le journal compte une seule idée, toujours ouverte (Soitec, entrée de 105 € touchée le 12 novembre, 102,80 € vendredi, invalidation à 94,50 € intacte, résultats mercredi soir avant l'échéance du 20 novembre) et aucune idée close : l'échantillon est beaucoup trop petit pour juger la méthode. Sur tes lignes : la vente de Stellantis (3,51 €, sous ton niveau de 3,75 €) reste à faire lundi, et STMicroelectronics (41,95 €) reste à environ 1,4 ATR de son niveau de sortie de 38,61 € avant les résultats de Nvidia.",
+        "opportunites": [
+          {
+            "nom": "TotalEnergies",
+            "isin": "FR0000120271",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Tensions du week-end sur Bahreïn et Bab el-Mandeb, puis sommet de Shenzhen le jeudi 19 novembre",
+            "cours": "82,17 €",
+            "entree": "80,90 €, seulement sur repli",
+            "invalidation": "78,80 €",
+            "objectif": "85,90 €",
+            "ratio": "2,4",
+            "frais": "4 actions : environ 324 €, perte maximale d'environ 10,40 € frais compris, gain visé d'environ 18 € net de 2 € de frais (le plafond de 400 € limite la taille)",
+            "these": "TotalEnergies produit et raffine du pétrole et du gaz, et développe l'électricité. Le catalyseur est géopolitique : dimanche, l'Iran a visé Bahreïn et les forces anti-Houthis ont reculé près de Bab el-Mandeb (CNBC), ce qui peut faire monter le Brent à l'ouverture, alors qu'il a fini vendredi à 95,84 dollars. Le titre a déjà profité du thème : 82,17 € vendredi (+1,9 %), meilleure performance du CAC 40 ce jour-là selon Le Revenu, soit environ 1,4 ATR au-dessus de son niveau du 12 novembre. La tendance reste haussière, au-dessus des moyennes 20 et 50 jours (81,64 € et 79,71 €), avec un ATR de 2,07 € (Yahoo Finance, fichier cours du site). Ce qui contredit l'idée : l'offre mondiale reste abondante (105,4 millions de barils par jour selon l'AIE, cité par Benzinga) et le sommet de jeudi peut faire retomber la prime de risque ; le volume de vendredi était aussi inférieur à la moyenne (0,72 fois). D'où un achat seulement sur repli vers 80,90 €, près de la moyenne 20 jours, jamais sur un écart d'ouverture lundi.",
+            "risque": "Un signe de détente à Shenzhen ou un accord sur l'Iran ferait baisser le pétrole et le titre sous 78,80 € ; à l'inverse, l'entrée sur repli peut ne jamais être atteinte."
+          },
+          {
+            "nom": "Alstom",
+            "isin": "FR0010220475",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Résultats semestriels détaillés et plan de désendettement le mardi 17 novembre",
+            "cours": "10,16 €",
+            "entree": "10,90 €, seulement après les résultats et une clôture au-dessus de 10,80 €",
+            "invalidation": "10,10 €",
+            "objectif": "12,50 €",
+            "ratio": "2,0",
+            "frais": "28 actions : environ 305 €, perte maximale d'environ 24,40 € frais compris, gain visé d'environ 42,80 € net de 2 € de frais (environ +14,7 %)",
+            "these": "Alstom construit des trains, des métros et des systèmes de signalisation. Rien n'a changé depuis samedi : le plan reste un rebond éventuel après les résultats de mardi, qui doivent détailler le plan de désendettement d'environ 2 milliards d'euros annoncé avec l'avertissement du 2 novembre (ABC Bourse). Le titre a perdu environ 37 % en 20 séances, à 10,16 € vendredi, très loin de ses moyennes 20 et 50 jours (13,39 € et 14,69 €), avec un RSI vers 2,5 (radar du site). Ce qui contredit l'idée : la tendance reste franchement baissière et une augmentation de capital ne peut pas être exclue ; le cas d'Eramet cette semaine montre ce qu'une levée de fonds à prix cassé fait au cours. Valeur absente du fichier de suivi : l'ATR de 0,74 € vient du radar.",
+            "risque": "Des comptes plus mauvais que prévu ou l'annonce d'une augmentation de capital feraient rechuter le titre sous 10 €."
+          },
+          {
+            "nom": "Ubisoft",
+            "isin": "FR0000054470",
+            "compte": "PEA",
+            "avis": "Éviter",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Résultats semestriels le jeudi 19 novembre après la clôture",
+            "cours": "4,33 €",
+            "entree": "Aucune avant les résultats ; à revoir si le titre clôture au-dessus de 4,90 € après la publication",
+            "invalidation": "Sans objet",
+            "objectif": "Sans objet",
+            "ratio": "Sans objet",
+            "frais": "Pas de plan : 2 € de frais pèsent environ 1 % sur 200 €",
+            "these": "Ubisoft édite des jeux vidéo et poursuit un redressement difficile. Le catalyseur est daté, jeudi soir (Platero, Le Revenu), mais c'est un pari pur sur un chiffre : je ne connais ni le consensus vérifié ni la tendance des estimations. La tendance est mauvaise : 4,33 € vendredi (-3,9 %), environ -14 % en 20 séances, sous les moyennes 20 et 50 jours (4,43 € et 4,87 €), avec un volume très faible (0,38 fois la moyenne, radar du site). Le critère 9 de la méthode (pas de résultats avant l'échéance) échoue, et aucun signal ne compense ce risque. Une clôture au-dessus de 4,90 € après les chiffres, au-dessus de la moyenne 50 jours, ferait revoir le dossier.",
+            "risque": "Un titre qui peut perdre 15 à 20 % en une séance de résultats : la petite taille de la part ne réduit pas le risque en pourcentage."
+          },
+          {
+            "nom": "Eramet",
+            "isin": "FR0000131757",
+            "compte": "PEA",
+            "avis": "Éviter",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Détachement des droits préférentiels le lundi 16 novembre, souscription jusqu'au 27 novembre",
+            "cours": "32,92 € (avant détachement)",
+            "entree": "Aucune",
+            "invalidation": "Sans objet",
+            "objectif": "Sans objet",
+            "ratio": "Sans objet",
+            "frais": "Pas de plan",
+            "these": "Eramet extrait et transforme des métaux (manganèse, nickel, lithium). Il lève environ 500 millions d'euros à 14,49 € par action nouvelle, à raison de 6 nouvelles pour 5 anciennes, et les droits se détachent lundi (communiqué du 13 novembre). Le cours affiché va donc baisser d'environ 30 % lundi, vers un cours théorique d'environ 22,90 € calculé sur la clôture de vendredi : ce n'est ni une affaire ni une chute, juste l'effet du détachement. L'État soutient l'opération et rachète les droits de la famille Duval (Zonebourse, Boursorama), ce qui sécurise la levée mais pas le cours. Pendant une telle opération, l'offre de titres nouveaux pèse souvent sur le cours, et les droits eux-mêmes sont très volatils. Rien à faire à court terme.",
+            "risque": "Ne pas confondre la baisse mécanique de lundi avec un signal d'achat : la dilution est réelle et la tendance était déjà baissière (sous les moyennes 20 et 50 jours)."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "Lire le tableau des flux de trésorerie : suivre l'argent réel",
+        "niveau": "Intermédiaire",
+        "texte": "Après le bilan et le compte de résultat, le troisième document clé est le tableau des flux de trésorerie. Le compte de résultat enregistre les ventes et les charges au moment où elles sont faites, même si l'argent n'est pas encore encaissé ; le tableau des flux, lui, ne retient que l'argent réellement entré et sorti. Il se lit en trois blocs : les flux liés à l'activité (l'argent produit par le métier), les flux d'investissement (achats d'usines, de machines ou d'entreprises) et les flux de financement (emprunts, remboursements, augmentations de capital, dividendes). Le chiffre le plus suivi est le cash-flow libre : l'argent de l'activité moins les investissements courants, c'est-à-dire ce qui reste vraiment pour rembourser la dette, racheter des concurrents ou payer des dividendes. Une entreprise peut afficher un bénéfice et pourtant manquer de trésorerie, par exemple si ses clients paient tard ou si ses contrats coûtent plus que prévu. Un signal d'alerte classique : un cash-flow libre durablement négatif compensé par des emprunts ou des levées de fonds, comme celle d'Eramet cette semaine. À l'inverse, un cash-flow libre proche du bénéfice net montre que les profits se transforment bien en argent.",
+        "exemple": "Sur les neuf premiers mois de 2026, Legrand affiche un bénéfice net de 1 067 millions d'euros et un cash-flow libre de 1 009,5 millions, soit environ 95 % du bénéfice transformé en argent disponible (France Transactions, d'après le communiqué du 5 novembre). Dans le même temps, sa dette financière nette est passée de 3 122 à 5 373 millions d'euros, alors que le groupe a multiplié les acquisitions : le cash-flow est solide, mais il ne couvre pas à lui seul toute la croissance externe. Mardi, regarde le même point dans les résultats d'Alstom : c'est son cash-flow libre qui dira si le plan de désendettement est crédible.",
+        "references": [
+          {
+            "titre": "La finance pour tous : le tableau des flux de trésorerie",
+            "url": "https://www.lafinancepourtous.com/decryptages/entreprise/gestion-et-comptabilite/comptes-de-l-entreprise/comprendre-le-bilan-le-compte-de-resultat-et-l-annexe/le-tableau-des-flux-de-tresorerie/"
+          },
+          {
+            "titre": "BCEAO : Qu'est-ce que le tableau des flux de trésorerie ?",
+            "url": "https://www.bceao.int/fr/documents/quest-ce-que-le-tableau-des-flux-de-tresorerie"
+          },
+          {
+            "titre": "Investopedia : Free Cash Flow (FCF) ⚠️",
+            "url": "https://www.investopedia.com/terms/f/freecashflow.asp"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Une entreprise affiche un bénéfice net de 100 millions d'euros mais un cash-flow libre de -40 millions. Quelle explication est la plus plausible ?",
+          "choix": [
+            "Elle a forcément commis une fraude comptable",
+            "Elle a versé un dividende trop élevé",
+            "Ses clients paient tard ou elle investit beaucoup : le bénéfice ne s'est pas encore transformé en argent",
+            "Le cash-flow libre ne tient jamais compte des investissements"
+          ],
+          "bonne": 2,
+          "explication": "Le bénéfice est comptable ; le cash-flow libre mesure l'argent réellement disponible après les investissements. Un écart durable doit être expliqué."
+        },
+        {
+          "question": "Nvidia cote 162,85 dollars et vaut environ 11,5 fois ses bénéfices attendus. Que mesure ce chiffre ?",
+          "choix": [
+            "Le cours rapporté au bénéfice par action attendu sur les douze prochains mois",
+            "Le cours rapporté au bénéfice publié l'an dernier",
+            "La croissance attendue du chiffre d'affaires en pourcentage",
+            "Le nombre d'années avant que l'action double"
+          ],
+          "bonne": 0,
+          "explication": "C'est le PER prévisionnel : il repose sur des prévisions d'analystes, qui peuvent se révéler fausses."
+        },
+        {
+          "question": "Révision (moyennes mobiles) : un cours passe sous sa moyenne mobile 50 jours alors que celle-ci baisse. Que signale-t-il le plus souvent ?",
+          "choix": [
+            "Un signal d'achat garanti",
+            "Que l'action a versé un dividende",
+            "Rien, les moyennes mobiles ne concernent que les ETF",
+            "Une tendance de moyen terme qui se dégrade"
+          ],
+          "bonne": 3,
+          "explication": "La moyenne 50 jours résume la tendance de moyen terme ; un cours en dessous d'une moyenne qui baisse indique une tendance baissière, sans rien garantir."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-16",
+          "titre": "Eramet : détachement des droits préférentiels ; Stellantis : vente prévue selon ton niveau de sortie"
+        },
+        {
+          "date": "2026-11-17",
+          "titre": "Nvidia : résultats mardi soir (heure américaine) ; Alstom : résultats semestriels ; États-Unis : ventes au détail d'octobre"
+        },
+        {
+          "date": "2026-11-18",
+          "titre": "Soitec : résultats semestriels après la clôture ; zone euro : inflation d'octobre (estimation finale) ; Fed : compte rendu de la réunion d'octobre (20h00) ; Anthropic : fixation du prix"
+        },
+        {
+          "date": "2026-11-19",
+          "titre": "Sommet Trump, Xi, Poutine à Shenzhen ; Anthropic : premier jour de cotation prévu ; Ubisoft et Elior : résultats après la clôture"
+        },
+        {
+          "date": "2026-11-20",
+          "titre": "Vallourec : résultats du 3e trimestre ; Soitec : échéance de l'idée spéculative"
+        },
+        {
+          "date": "2026-11-25",
+          "titre": "Eramet : fin de la négociation des droits préférentiels"
+        },
+        {
+          "date": "2026-11-26",
+          "titre": "États-Unis : Thanksgiving, Wall Street fermée"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "CNBC : Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
+          "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
+        },
+        {
+          "titre": "Le Monde : Moscow confirms Trump, Xi and Putin to meet in China",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/15/moscow-confirms-trump-xi-and-putin-to-meet-in-china_6781216_4.html"
+        },
+        {
+          "titre": "Japan Times : Trump to raise nuclear-arms cuts with Putin and Xi at trilateral summit",
+          "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/trump-xi-putin-trilateral-apec/"
+        },
+        {
+          "titre": "Benzinga : crude oil rebound faces a test ahead of Trump, Xi and Putin meeting",
+          "url": "https://www.benzinga.com/markets/commodities/26/11/63277379/crude-oil-rebound-faces-a-test-as-surplus-fears-build-ahead-of-trump-xi-and-putin-meeting"
+        },
+        {
+          "titre": "Investing.com : la semaine de Nvidia, consensus des résultats",
+          "url": "https://www.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-nvidia-home-depot-200691576"
+        },
+        {
+          "titre": "Yardeni QuickTakes : Economic week ahead, November 16-20",
+          "url": "https://www.yardeniquicktakes.com/economic-week-ahead-november-16-20/"
+        },
+        {
+          "titre": "investingLive (Bloomberg) : Anthropic IPO oversubscribed several times",
+          "url": "https://investinglive.com/stocks/anthropic-ipo-oversubscribed-several-times-ahead-of-record-90-billion-listing/"
+        },
+        {
+          "titre": "Eramet : lancement de l'augmentation de capital (communiqué du 13 novembre)",
+          "url": "https://www.eramet.com/wp-content/uploads/2026/11/2026-11-13-Eramet-CP-Lancement-de-laugmentation-de-capital-FR.pdf"
+        },
+        {
+          "titre": "Boursorama (Zonebourse) : Eramet plonge après sa levée de fonds",
+          "url": "https://www.boursorama.com/bourse/actualites/eramet-plonge-apres-sa-levee-de-fonds-de-500-millions-d-euros-4cdffc8ab0eac9e4280c610e7089e488"
+        },
+        {
+          "titre": "Le Revenu : les actions à suivre du 16 au 20 novembre",
+          "url": "https://www.lerevenu.com/reussir-bourse/points-marches/valeurs-a-suivre-bourse-semaine-16-20-novembre-era/"
+        },
+        {
+          "titre": "Platero : agenda Bourse du 16 au 20 novembre 2026",
+          "url": "https://platero.fr/agenda-bourse-16-20-novembre-2026-nvidia-alstom-lagarde-pea/"
+        },
+        {
+          "titre": "Autonext : Fiat 500 Hybrid et l'usine de Mirafiori",
+          "url": "https://www.autonext.co/news/fiat-500-hybrid-mirafiori-half-target"
+        },
+        {
+          "titre": "Automotive News : Stellantis confie les ventes américaines à Kuniskis",
+          "url": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-stellantis-kuniskis-us-sales-john-bergstrom-1113/"
+        },
+        {
+          "titre": "France Transactions : résultats de Legrand sur neuf mois 2026",
+          "url": "https://www.francetransactions.com/actus/news-bourse/marches/resultats-legrand-sept-2026.html"
+        },
+        {
+          "titre": "Capital (AFP) : Legrand rehausse une nouvelle fois ses prévisions 2026",
+          "url": "https://www.capital.fr/entreprises-marches/legrand-rehausse-une-nouvelle-fois-ses-previsions-annuelles-2026-grace-aux-centres-de-donnees-1531584"
+        },
+        {
+          "titre": "Terre de Vins : Pernod Ricard, bénéfice annuel en chute de 26 %",
+          "url": "https://www.terredevins.com/tag/vin-et-export"
+        },
+        {
+          "titre": "Yahoo Finance : cours de clôture du 13 novembre (fichiers cours et radar du site)",
+          "url": "https://finance.yahoo.com/quote/TTE.PA/"
+        },
+        {
+          "titre": "La finance pour tous : le tableau des flux de trésorerie",
+          "url": "https://www.lafinancepourtous.com/decryptages/entreprise/gestion-et-comptabilite/comptes-de-l-entreprise/comprendre-le-bilan-le-compte-de-resultat-et-l-annexe/le-tableau-des-flux-de-tresorerie/"
+        },
+        {
+          "titre": "La finance pour tous : Price earning ratio (PER)",
+          "url": "https://www.lafinancepourtous.com/outils/dictionnaire/per/"
+        }
+      ]
+    },
+    {
       "date": "2026-11-14",
       "titre": "Samedi sans cotation : Trump pourrait suspendre ses frappes contre l'Iran, la tech attend Nvidia et Anthropic",
       "resume": "Les marchés sont fermés et ce point reprend les cours de clôture de vendredi : le CAC 40 a gagné 2,8 % sur la semaine, et Wall Street a aussi fini la semaine en hausse malgré le repli de vendredi (S&P 500 -0,4 %, Nasdaq -0,9 %) lié à Nvidia. Samedi, Reuters rapporte que Donald Trump pourrait renoncer à de nouvelles frappes contre l'Iran sans nouvelle provocation, alors que le détroit d'Ormuz reste perturbé. La semaine prochaine se jouera sur les résultats de Nvidia mardi et l'introduction en Bourse d'Anthropic.",
@@ -6017,182 +6379,6 @@
         {
           "titre": "BFM Bourse : le CAC 40 gagne près de 2 % sur la semaine",
           "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-kevin-warsh-entretient-le-flou-sur-les-taux-de-la-fed-le-cac-40-grimpe-ce-vendredi-gagnant-pres-de-2-sur-la-semaine-1171927.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "titre": "Le CAC 40 gagne 0,78 % à 7 935 points grâce au luxe, alors que les valeurs liées à l'IA plongent",
-      "resume": "Paris a fini en hausse, soutenue par Hermès et L'Oréal (environ +3 %) et par la baisse des rendements obligataires. Les semi-conducteurs ont été balayés par les craintes sur le financement de l'IA et par la chute des valeurs asiatiques, avec Samsung et SK Hynix en net recul. STMicroelectronics a cédé environ 4 % et Soitec près de 8 %.",
-      "humeur": "hausse",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 935 pts",
-          "variation": 0.78
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "6 171 pts",
-          "variation": -0.3
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "≈ 7 690 pts (en séance)",
-          "variation": -0.4
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "≈ 26 400 pts (en séance)",
-          "variation": -1.1
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 105,5 $ le baril",
-          "variation": -0.5
-        },
-        {
-          "nom": "Or",
-          "valeur": "≈ 4 155 $ l'once",
-          "variation": 1.0
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "≈ 1,11 (dollar en repli, cours non confirmé)",
-          "variation": 0.0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Inflation et prix à la production aux États-Unis",
-          "texte": "Après l'inflation de septembre à 3,7 %, l'indice des prix à la production de base a progressé au plus fort rythme depuis quatre ans. Les ventes au détail sont aussi ressorties solides, ce qui entretient l'idée d'une économie qui ne ralentit pas assez pour calmer les prix."
-        },
-        {
-          "titre": "Banques centrales",
-          "texte": "Les marchés craignent une nouvelle hausse de taux de la Fed, dont la décision tombe le 28 octobre, et le rendement du bon du Trésor à 10 ans tourne autour de 5 %. En Europe, la baisse des rendements a aidé les indices, avant la réunion de la BCE du 29 octobre."
-        },
-        {
-          "titre": "Pétrole et géopolitique",
-          "texte": "Le Brent reste autour de 105 dollars, avec des tensions près du détroit d'Ormuz. Des mesures américaines possibles pour assouplir les sanctions sur certains pétroliers russes ont toutefois freiné la hausse."
-        },
-        {
-          "titre": "Semi-conducteurs et IA",
-          "texte": "Le secteur des puces a perdu environ 4 % à Wall Street en séance, pour une quatrième baisse d'affilée du Nasdaq et du S&P 500. En Corée, Samsung et SK Hynix ont fini en recul de 9 % et 11 %, sur les inquiétudes liées au financement des investissements dans l'IA."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 380.84,
-        "pv": -18.36,
-        "texte": "Ton portefeuille vaut 380,84 € pour 399,20 € investis, soit une moins-value latente de 18,36 €. STMicroelectronics a reculé d'environ 4 %, tandis que les deux ETF gardent leur dernier cours connu du 9 octobre, faute de clôture fiable."
-      },
-      "valeurs": [
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre perd environ 4 % à 41,32 €, après avoir lâché plus de 7 % en cours de journée ; résultats attendus le 29 octobre."
-        },
-        {
-          "nom": "Soitec",
-          "texte": "L'action cède environ 7,7 % à 129,85 €, entraînée par la chute des puces asiatiques, sans annonce de la société."
-        },
-        {
-          "nom": "Thales",
-          "texte": "Le titre résiste en séance, autour de +1,5 % selon les relevés intermédiaires ; le chiffre d'affaires du troisième trimestre est publié le 21 octobre."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Safran",
-          "isin": "FR0000073272",
-          "risque": "Modéré",
-          "prix": "≈ 335 € la part (fin septembre)",
-          "texte": "Safran fabrique des moteurs d'avions, des équipements et de l'électronique de défense, et se négocie à Paris en euros, éligible au PEA. Le titre résiste mieux que les puces quand la tech vacille, car il dépend de l'aviation civile et des budgets militaires plutôt que de l'IA. Il publiera son chiffre d'affaires du troisième trimestre le 23 octobre, avec un objectif de croissance à deux chiffres pour 2026. Le principal risque est la valorisation déjà élevée : la part est chère pour un petit budget et un trimestre décevant serait sanctionné."
-        },
-        {
-          "nom": "Nexans",
-          "isin": "FR0000044448",
-          "risque": "Élevé",
-          "prix": "≈ 132 € la part",
-          "texte": "Nexans fabrique des câbles pour les réseaux électriques et les centres de données, un lien indirect mais concret avec la vague de l'IA. Son titre a perdu plus de 20 % depuis son sommet du printemps (≈ 169 €), alors que le groupe a relevé sa prévision d'EBITDA annuel. Le chiffre d'affaires du troisième trimestre tombe le 22 octobre. Le principal risque est que la méfiance envers le financement de l'IA continue de peser sur toutes les valeurs qui en dépendent, y compris les fournisseurs d'équipements."
-        },
-        {
-          "nom": "Eutelsat",
-          "isin": "FR0010221234",
-          "risque": "Très élevé",
-          "prix": "≈ 1,55 € la part",
-          "texte": "Eutelsat exploite la constellation de satellites OneWeb et incarne l'enjeu de souveraineté spatiale européenne, un thème porté par la défense. Cotée à Paris en euros et éligible au PEA, elle permet d'acheter plusieurs parts avec un petit budget. Le groupe a commandé 229 satellites supplémentaires à Airbus en septembre et publie son chiffre d'affaires le 29 octobre. Le principal risque est financier : les investissements sont lourds, la rentabilité reste fragile et la concurrence de SpaceX est très forte."
-        }
-      ],
-      "idee": {
-        "nom": "Safran",
-        "isin": "FR0000073272",
-        "risque": "Modéré",
-        "prix": "≈ 335 € la part (fin septembre)",
-        "texte": "Safran fabrique des moteurs d'avions, des équipements et de l'électronique de défense, et se négocie à Paris en euros, éligible au PEA. Le titre résiste mieux que les puces quand la tech vacille, car il dépend de l'aviation civile et des budgets militaires plutôt que de l'IA. Il publiera son chiffre d'affaires du troisième trimestre le 23 octobre, avec un objectif de croissance à deux chiffres pour 2026. Le principal risque est la valorisation déjà élevée : la part est chère pour un petit budget et un trimestre décevant serait sanctionné."
-      },
-      "concept": {
-        "terme": "L'indice des prix à la production (IPP)",
-        "texte": "L'indice des prix à la production mesure l'évolution des prix auxquels les producteurs vendent leurs biens, avant qu'ils n'arrivent chez le consommateur. Il se situe donc en amont de l'inflation des prix à la consommation : quand les entreprises paient plus cher leurs matières premières et leur énergie, elles peuvent répercuter la hausse plus tard sur les prix en magasin. Cette semaine aux États-Unis, l'indice de base de septembre, qui écarte l'alimentation et l'énergie, a progressé au plus fort rythme depuis quatre ans. Ce signal a ravivé la crainte de nouvelles hausses de taux de la Fed et a pesé sur les valeurs technologiques, très sensibles au coût de l'argent.",
-        "references": [
-          {
-            "titre": "Insee : Indice de prix à la production ⚠️",
-            "url": "https://www.insee.fr/fr/metadonnees/definition/c1462"
-          },
-          {
-            "titre": "Investopedia : Producer Price Index (PPI) ⚠️",
-            "url": "https://www.investopedia.com/terms/p/ppi.asp"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-16",
-          "titre": "Zone euro : inflation définitive de septembre"
-        },
-        {
-          "date": "2026-10-20",
-          "titre": "Lumibird : assemblée générale"
-        },
-        {
-          "date": "2026-10-21",
-          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-22",
-          "titre": "Nexans : chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-23",
-          "titre": "Safran : chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux ; Airbus : résultats à neuf mois"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux ; résultats STMicroelectronics, Amundi, Eutelsat"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "BFM Bourse : le CAC 40 gagne près de 0,8 %",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-le-repli-des-valeurs-liees-a-l-ia-l-oreal-et-hermes-soutiennent-le-cac-40-qui-gagne-pres-de-08-1171850.html"
-        },
-        {
-          "titre": "Zonebourse : STMicroelectronics et Soitec chutent",
-          "url": "https://www.zonebourse.com/actualite-bourse/sbf-120-stmicroelectronics-et-soitec-perdent-plus-de-6-dans-le-sillage-de-la-chute-des-valeurs-as-ce785dd3d880f324"
-        },
-        {
-          "titre": "Boursorama : l'Europe finit dans le vert",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-la-baisse-des-rendements-compense-la-debacle-de-la-tech-1222bd3d8c0e762256eadff0fb89e6c0"
-        },
-        {
-          "titre": "Boursorama : les inquiétudes liées à l'IA font plonger le Nasdaq",
-          "url": "https://www.boursorama.com/bourse/actualites/quand-les-choses-se-gatent-les-inquietudes-liees-a-l-ia-font-plonger-le-nasdaq-et-le-s-p-500-d9e52dfb7da9ebf83e1a177e0959e833"
-        },
-        {
-          "titre": "TheStreet : Stock Market Today, 15 octobre 2026",
-          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
         }
       ]
     }
