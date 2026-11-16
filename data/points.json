@@ -1,6 +1,321 @@
 {
   "points": [
     {
+      "date": "2026-11-16",
+      "titre": "La tech mondiale recule avant Nvidia, Paris cède 0,2 % et Stellantis touche un plus bas de cinq ans",
+      "resume": "Le CAC 40 a fini au plus bas du jour, en baisse de 0,20 % à 8 352 points, après cinq séances de hausse, tandis que Wall Street perdait plus de 1 % sur de nouvelles règles américaines limitant l'export de puces d'IA. Les valeurs défensives, le luxe et l'aéronautique ont limité le recul à Paris, mais les semi-conducteurs et Stellantis ont nettement baissé. Le pétrole a reculé d'environ 2,5 % malgré les tensions du week-end avec l'Iran.",
+      "humeur": "baisse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 352 pts",
+          "variation": -0.2
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 348 pts",
+          "variation": -0.6
+        },
+        {
+          "nom": "S&P 500 (provisoire, vers 19h)",
+          "valeur": "7 470 pts",
+          "variation": -1.21
+        },
+        {
+          "nom": "Nasdaq (provisoire, vers 19h)",
+          "valeur": "24 716 pts",
+          "variation": -1.67
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "59 662 pts",
+          "variation": -2.42
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "23 754 pts",
+          "variation": 0.49
+        },
+        {
+          "nom": "Brent",
+          "valeur": "93,43 $",
+          "variation": -2.5
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 3 849 $",
+          "variation": -0.8
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,101 $",
+          "variation": -0.2
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Puces d'IA : Washington durcit l'export",
+          "texte": "Les États-Unis ont publié de nouvelles règles provisoires pour empêcher des pays tiers de faire passer des puces d'IA avancées vers la Chine, une réaction aux révélations qui ont coûté son poste au patron de Nvidia (Reuters). L'indice américain des semi-conducteurs perdait environ 3,7 % en séance, avec Intel et Micron vers -6 %. En Europe, Soitec et STMicroelectronics ont suivi le mouvement."
+        },
+        {
+          "titre": "Fed : une hausse en décembre est tenue pour acquise",
+          "texte": "Kevin Warsh, président de la Fed, a surtout parlé lundi des gains de productivité possibles de l'IA, sans revenir sur le risque d'inflation (BNN Bloomberg). Le marché considère une hausse des taux en décembre comme acquise et débat de son ampleur, ce qui a porté le dollar : l'euro est tombé vers 1,10 dollar, son plus bas depuis avril 2025, et l'or a reculé à un plus bas de plus d'un an (Reuters)."
+        },
+        {
+          "titre": "Pétrole : la prime de risque iranienne ne tient pas",
+          "texte": "Malgré les drones iraniens sur Bahreïn ce week-end, le Brent a perdu environ 2,5 % à 93,43 dollars (BFM Bourse). Le marché mise sur l'abondance de l'offre et attend le sommet Trump, Xi, Poutine de jeudi à Shenzhen, où l'Iran est au menu. Une bonne nouvelle pour les compagnies aériennes, moins pour les pétrolières."
+        },
+        {
+          "titre": "Asie : Tokyo chute sur les puces et un PIB en recul",
+          "texte": "Le Nikkei a perdu 2,42 % à 59 662 points (Reuters), pénalisé par la contraction du PIB japonais et la chute des valeurs de puces, tandis que Hong Kong a gagné environ 0,5 %. La faiblesse de la tech asiatique a pesé dès l'ouverture sur les semi-conducteurs européens."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 772.3,
+        "pv": -26.98,
+        "texte": "Ton portefeuille vaut 772,30 € pour 799,28 € investis, soit -26,98 €, en recul d'environ 5,50 € sur la journée, surtout à cause de STMicroelectronics (-2,1 %), Stellantis (-3,7 %) et de l'ETF Nasdaq-100 (-0,8 %). Air Liquide et le CAC 40 ont tenu, et Stellantis reste sous ton niveau de sortie de 3,75 € sans qu'une vente soit enregistrée dans ton journal."
+      },
+      "valeurs": [
+        {
+          "nom": "Stellantis",
+          "texte": "Ce qui a changé : le titre a cassé son plus bas de vendredi (3,50 €), touché 3,36 € et fini à 3,38 € (-3,7 %), son plus bas depuis cinq ans, sans annonce nouvelle (Ideal Investisseur). La règle de sortie fixée à 3,75 € s'applique toujours ; aucune vente n'est encore saisie dans ton journal d'opérations."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Recul de 2,1 % à 41,07 € avec les puces américaines (AFP). Le titre reste au-dessus de ton niveau de sortie de 38,61 €, à environ 1 ATR, avant les résultats de Nvidia mardi soir."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "Baisse de 3,3 % à 99,40 € (AFP), plus bas en séance à 97,30 €, toujours au-dessus de l'invalidation de 94,50 € de l'idée spéculative avant les résultats semestriels de mercredi soir."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Stable à 193,24 € (-0,04 %), après avoir touché un nouveau record à 194,70 € en séance (Yahoo Finance)."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Thales",
+          "isin": "FR0000121329",
+          "risque": "Modéré",
+          "prix": "≈ 230 € la part",
+          "texte": "Thales fabrique de l'électronique de défense, des radars, des satellites et des systèmes de cybersécurité. Dans une séance où la tech a été vendue partout, le titre a gagné 1,1 % à 229,50 € (BFM Bourse), soutenu par les frappes iraniennes du week-end sur Bahreïn et par le sommet Trump, Xi, Poutine de jeudi consacré aux armes nucléaires et à l'Iran. Il reste environ 16 % sous son plus haut de six mois (274,20 €) et colle à ses moyennes 20 et 50 jours (vers 230 € et 229 €), donc sans tendance nette. Le principal risque : un signe de détente à Shenzhen ferait retomber tout le secteur de la défense, et une part pèse lourd pour un petit budget."
+        },
+        {
+          "nom": "Lectra",
+          "isin": "FR0000065484",
+          "risque": "Élevé",
+          "prix": "≈ 21 € la part",
+          "texte": "Lectra vend des machines de découpe et des logiciels, de plus en plus en abonnement, aux industriels de la mode, de l'automobile et de l'ameublement. Le titre a gagné 4,1 % lundi (BFM Bourse), dans la foulée d'une note de Berenberg qui conseille l'achat avec un objectif de 26 € (Investir, 12 novembre), et la société rachète ses propres actions (déclaration du 16 novembre). C'est une petite valeur industrielle peu liée aux puces américaines, à une part abordable autour de 20 €. Le principal risque : le titre perd encore environ 22 % depuis janvier et la demande de ses clients du textile et de l'automobile reste faible."
+        },
+        {
+          "nom": "Air France-KLM",
+          "isin": "FR001400J770",
+          "risque": "Très élevé",
+          "prix": "≈ 14,6 € la part",
+          "texte": "Air France-KLM transporte des passagers et du fret, et le kérosène est l'un de ses premiers coûts. Le Brent a perdu environ 2,5 % lundi, à 93,43 dollars (BFM Bourse), et le titre a gagné 1,6 % (Boursier.com), prolongeant une hausse d'environ 36 % en 20 séances selon le radar du site. C'est une façon de jouer une détente sur le pétrole, avec une part très abordable. Le principal risque : après une telle hausse, le titre est en net surachat (RSI vers 90 vendredi), et une nouvelle flambée du pétrole liée à l'Iran le ferait vite rechuter."
+        }
+      ],
+      "idee": {
+        "nom": "Thales",
+        "isin": "FR0000121329",
+        "risque": "Modéré",
+        "prix": "≈ 230 € la part",
+        "texte": "Thales fabrique de l'électronique de défense, des radars, des satellites et des systèmes de cybersécurité. Dans une séance où la tech a été vendue partout, le titre a gagné 1,1 % à 229,50 € (BFM Bourse), soutenu par les frappes iraniennes du week-end sur Bahreïn et par le sommet Trump, Xi, Poutine de jeudi consacré aux armes nucléaires et à l'Iran. Il reste environ 16 % sous son plus haut de six mois (274,20 €) et colle à ses moyennes 20 et 50 jours (vers 230 € et 229 €), donc sans tendance nette. Le principal risque : un signe de détente à Shenzhen ferait retomber tout le secteur de la défense, et une part pèse lourd pour un petit budget."
+      },
+      "concept": {
+        "terme": "Le contrôle des exportations",
+        "texte": "Le contrôle des exportations est le droit qu'a un État d'interdire ou de soumettre à autorisation la vente à l'étranger de certains produits jugés sensibles, comme les armes ou les biens à double usage, utilisables à la fois dans le civil et le militaire. Les puces d'intelligence artificielle les plus puissantes en font partie : lundi, les États-Unis ont publié de nouvelles règles provisoires pour empêcher des pays tiers de servir de relais vers la Chine, et l'indice américain des semi-conducteurs a perdu environ 3,7 % en séance (Reuters). Pour une entreprise, ces règles peuvent fermer d'un coup une partie de ses débouchés, et le marché anticipe cette perte de chiffre d'affaires avant même qu'elle soit chiffrée. En Europe, le même principe existe : un règlement européen encadre l'export des biens à double usage, et la douane en contrôle l'application en France. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "Direction générale des Entreprises : le règlement européen sur les biens à double usage",
+            "url": "https://www.entreprises.gouv.fr/espace-entreprises/s-informer-sur-la-reglementation/le-reglement-europeen-sur-les-biens-double"
+          },
+          {
+            "titre": "Douane : biens et technologies à double usage (civil ou militaire)",
+            "url": "https://www.douane.gouv.fr/fiche/biens-et-technologies-double-usage-civil-ou-militaire"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché n'est pas porteur pour agir à court terme : le CAC 40 finit au plus bas du jour (-0,20 %), Wall Street perd plus de 1 % avec les nouvelles règles américaines sur l'export de puces, et Nvidia publie mardi soir, un résultat binaire pour toute la tech. Aucune idée ne passe tous les critères Favorable ce soir ; je propose une seule idée Spéculatif, Vusion, sur un catalyseur daté qui ne dépend pas des puces, avec une entrée sur repli. Le journal compte deux idées ouvertes (Soitec et désormais Vusion) et aucune idée close : l'échantillon est beaucoup trop petit pour juger la méthode. Sur tes lignes : Stellantis (3,38 €) est toujours sous ton niveau de sortie de 3,75 € et la vente n'apparaît pas encore dans ton journal d'opérations ; STMicroelectronics (41,07 €) reste à environ 1 ATR de son niveau de sortie de 38,61 € avant Nvidia.",
+        "retro": "Bilan intermédiaire à 5 séances des avis du 9 novembre. Infineon était en Attendre avec une entrée à 48,60 € seulement après la publication : le titre est monté jusqu'à 52,06 € le 10 novembre sans revenir à l'entrée, puis l'a touchée lundi (plus bas à 48,60 €) et finit à 49,24 €, soit environ +1,3 % brut et +0,3 % net de 2 € de frais sur 200 € ; ni l'objectif de 54,60 € ni l'invalidation de 45,60 € n'ont été touchés. Attendre n'a donc ni fait rater de gain ni évité de perte nette. STMicroelectronics, en Attendre sans achat car déjà détenue, est passée de 39,63 € à 41,07 € (+3,6 %), au profit de ta ligne existante.",
+        "opportunites": [
+          {
+            "nom": "Vusion",
+            "isin": "FR0010282822",
+            "compte": "PEA",
+            "avis": "Spéculatif",
+            "horizon": "2 à 7 jours",
+            "catalyseur": "Journée investisseurs (Capital Markets Day) le mercredi 18 novembre, après le relèvement d'objectif d'Oddo BHF lundi",
+            "cours": "158,10 €",
+            "entree": "154,00 €, seulement sur repli (ordre à cours limité)",
+            "invalidation": "147,00 €",
+            "objectif": "168,00 €",
+            "ratio": "2,0",
+            "frais": "2 actions : environ 308 €, perte maximale d'environ 16 € frais compris, gain visé d'environ 26 € net de 2 € de frais (le plafond de 400 € limite la taille)",
+            "these": "Vusion fabrique des étiquettes électroniques de gondole et des logiciels pour les supermarchés, de plus en plus vendus en abonnement. Lundi, Oddo BHF a relevé son objectif de 190 € à 215 € avant la journée investisseurs du mercredi 18 novembre, où la direction peut présenter de nouveaux objectifs : c'est le catalyseur daté (ABC Bourse). Oddo anticipe environ un milliard d'euros de commandes au second semestre 2026 (+21 % sur un an), avec des revenus récurrents annualisés de 154 millions d'euros à fin septembre (+82 %), et Citi a commencé à suivre le titre à l'achat avec un objectif de 250 € le 2 novembre (ABC Bourse). Le titre finit à 158,10 € (+5,4 %), au-dessus de son plus haut de 150 séances vers 150 € et bien au-dessus de ses moyennes 20 et 50 jours (vers 135 € et 128 € vendredi, radar du site). Ce qui manque pour être Favorable : la valeur n'était pas dans le fichier de suivi (ATR d'environ 6,60 € tiré du radar de vendredi, ajoutée ce soir), le RSI était déjà vers 75 et je n'ai pas vérifié les volumes de lundi. Ce qui contredit l'idée : une journée investisseurs déclenche souvent des prises de bénéfices quand le titre a déjà monté avant. J'estime la probabilité d'échec à environ 55 % ; l'entrée sur repli peut aussi ne jamais être atteinte.",
+            "risque": "Un discours jugé décevant mercredi ou une nouvelle vague de ventes sur les valeurs de croissance ferait passer le titre sous 147 €, l'ancienne zone de résistance. Un trou de cours à l'ouverture peut aggraver la perte."
+          },
+          {
+            "nom": "TotalEnergies",
+            "isin": "FR0000120271",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Sommet de Shenzhen du jeudi 19 novembre sur l'Iran",
+            "cours": "81,96 €",
+            "entree": "80,90 €, seulement sur repli",
+            "invalidation": "78,80 €",
+            "objectif": "85,90 €",
+            "ratio": "2,4",
+            "frais": "4 actions : environ 324 €, perte maximale d'environ 10,40 € frais compris, gain visé d'environ 18 € net de 2 € de frais",
+            "these": "TotalEnergies produit et raffine du pétrole et du gaz. Ce qui a changé depuis dimanche : malgré les frappes iraniennes du week-end, le Brent a reculé d'environ 2,5 % lundi à 93,43 dollars (BFM Bourse), et le titre a peu bougé (81,96 €, -0,3 %, plus bas à 81,91 €), sans toucher l'entrée de 80,90 €. Il reste au-dessus de ses moyennes 20 et 50 jours (81,71 € et 79,80 €), avec un ATR de 2,03 €. Ce qui contredit l'idée : le marché du pétrole ne réagit plus aux tensions et l'offre mondiale reste abondante. Le plan ne change pas.",
+            "risque": "Une détente à Shenzhen ferait baisser le pétrole et le titre sous 78,80 €."
+          },
+          {
+            "nom": "Vallourec",
+            "isin": "FR0013506730",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Résultats du 3e trimestre le vendredi 20 novembre",
+            "cours": "18,87 €",
+            "entree": "Aucune avant les résultats ; à revoir si le titre clôture au-dessus de 19,50 € après la publication",
+            "invalidation": "Sans objet",
+            "objectif": "Sans objet",
+            "ratio": "Sans objet",
+            "frais": "Pas de plan avant vendredi",
+            "these": "Vallourec fabrique des tubes en acier pour les puits de pétrole et de gaz. Le titre perd 2,1 % à 18,87 € avec la baisse du Brent, au niveau de ses moyennes 20 et 50 jours (18,84 € et 18,69 €), avec un ATR de 0,54 € et un volume inférieur à la moyenne (0,8 fois). Le catalyseur est daté, mais acheter avant des résultats est un pari sur un chiffre dont je n'ai pas vérifié le consensus. Ce qui contredit l'idée : un pétrole en repli pèse sur les commandes de forage.",
+            "risque": "Des résultats ou des commandes décevants vendredi feraient casser le plus bas de six mois (17,21 €)."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "Supports et résistances : les zones où le cours hésite",
+        "niveau": "Intermédiaire",
+        "texte": "Après les moyennes mobiles, deuxième outil de base de l'analyse technique : les supports et les résistances. Un support est une zone de prix où la baisse s'est déjà arrêtée plusieurs fois, parce que des acheteurs y reviennent ; une résistance est une zone où la hausse a déjà calé, parce que des vendeurs y prennent leurs gains. Ce sont des zones, pas des prix exacts au centime, et elles comptent d'autant plus qu'elles ont été touchées souvent et avec de gros volumes. Quand un support est cassé en clôture, il devient souvent une résistance : les acheteurs piégés vendent dès que le cours y revient pour sortir sans perte. Les anciens plus hauts, les plus bas, les chiffres ronds et les moyennes mobiles servent fréquemment de repères. C'est ce qui permet de placer un niveau de sortie juste sous un support, et une entrée sur repli près d'un ancien sommet cassé. Attention : ces niveaux sont des habitudes de marché, pas des lois, et une mauvaise nouvelle les traverse sans prévenir.",
+        "exemple": "Stellantis a longtemps tenu autour de 3,50 € (plus bas du 13 novembre) ; lundi, le titre a cassé cette zone, touché 3,36 € et fini à 3,38 € (-3,7 %), son plus bas depuis cinq ans (Ideal Investisseur). L'ancien support de 3,50 € devient la première résistance à franchir. À l'inverse, Vusion a dépassé lundi son plus haut de 150 séances vers 150 € et finit à 158,10 € (ABC Bourse) : si le cours revient vers 150 à 154 €, cette ancienne résistance peut servir de support, et c'est sous cette zone que se place l'invalidation de l'idée du soir.",
+        "references": [
+          {
+            "titre": "Finary : Support et résistance, les piliers de l'analyse technique",
+            "url": "https://finary.com/fr/glossaire/support-resistance"
+          },
+          {
+            "titre": "Investopedia : Support and Resistance Basics ⚠️",
+            "url": "https://www.investopedia.com/trading/support-and-resistance-basics/"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Une action rebondit trois fois sur 50 € en deux mois, puis clôture à 47 € après une mauvaise nouvelle. Que devient le plus souvent la zone des 50 € ?",
+          "choix": [
+            "Un support encore plus solide",
+            "Une résistance, car des acheteurs piégés voudront vendre en y revenant",
+            "Un niveau sans importance une fois cassé",
+            "Un objectif de cours garanti à court terme"
+          ],
+          "bonne": 1,
+          "explication": "Un support cassé en clôture se transforme souvent en résistance : ceux qui ont acheté vers 50 € cherchent à sortir sans perte quand le cours y revient."
+        },
+        {
+          "question": "Les États-Unis restreignent l'export de puces d'IA vers certains pays. Pourquoi les actions de fabricants de puces peuvent-elles baisser le jour même ?",
+          "choix": [
+            "Parce que leurs usines doivent fermer immédiatement",
+            "Parce que le marché anticipe une perte de débouchés et de chiffre d'affaires futurs",
+            "Parce que les règles d'export augmentent automatiquement leurs impôts",
+            "Parce que les dividendes sont suspendus par la loi"
+          ],
+          "bonne": 1,
+          "explication": "Le cours reflète les profits attendus : une règle qui ferme des marchés réduit les ventes futures, et les investisseurs l'intègrent avant même qu'elle soit chiffrée."
+        },
+        {
+          "question": "Révision : une entreprise affiche un cash-flow libre durablement négatif, compensé chaque année par de nouveaux emprunts. Que faut-il en conclure ?",
+          "choix": [
+            "C'est le signe d'une entreprise très rentable",
+            "C'est sans importance si le bénéfice comptable est positif",
+            "C'est un signal d'alerte : l'activité ne finance pas ses investissements",
+            "Cela garantit une hausse du dividende"
+          ],
+          "bonne": 2,
+          "explication": "Le cash-flow libre mesure l'argent réellement disponible ; s'il reste négatif et dépend de la dette, la situation financière se fragilise."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-17",
+          "titre": "Nvidia : résultats mardi soir (heure américaine) ; Alstom : résultats semestriels ; États-Unis : ventes au détail d'octobre"
+        },
+        {
+          "date": "2026-11-18",
+          "titre": "Soitec : résultats semestriels après la clôture ; Vusion : journée investisseurs ; zone euro : inflation d'octobre (finale) ; Fed : compte rendu d'octobre (20h00) ; Anthropic : fixation du prix"
+        },
+        {
+          "date": "2026-11-19",
+          "titre": "Sommet Trump, Xi, Poutine à Shenzhen ; Anthropic : première cotation prévue ; Ubisoft : résultats après la clôture"
+        },
+        {
+          "date": "2026-11-20",
+          "titre": "Vallourec : résultats du 3e trimestre ; Soitec : échéance de l'idée spéculative"
+        },
+        {
+          "date": "2026-11-25",
+          "titre": "Eramet : fin de la négociation des droits ; Vusion : échéance de l'idée spéculative"
+        },
+        {
+          "date": "2026-11-26",
+          "titre": "États-Unis : Thanksgiving, Wall Street fermée"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "BFM Bourse : le CAC 40 joue la prudence avant deux rendez-vous cruciaux pour l'IA",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-avant-deux-rendez-vous-cruciaux-pour-l-intelligence-artificielle-le-cac-40-joue-la-prudence-1173850.html"
+        },
+        {
+          "titre": "AFP via TradingView : la Bourse de Paris emportée par l'aversion pour le risque",
+          "url": "https://fr.tradingview.com/news/afp:5169a5572e7d8:0/"
+        },
+        {
+          "titre": "Reuters : Nasdaq et S&P 500 perdent plus de 1 % avant Nvidia et Anthropic",
+          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slide-nvidia-earnings-anthropic-debut-loom-2026-11-16/"
+        },
+        {
+          "titre": "Reuters : le Nikkei finit en baisse de 2,42 % (via Investir)",
+          "url": "https://investir.lesechos.fr/marches-indices/les-points-bourse/le-nikkei-finit-en-baisse-de-242-2262729"
+        },
+        {
+          "titre": "Reuters : l'or au plus bas depuis plus d'un an",
+          "url": "https://www.reuters.com/world/india/gold-edges-higher-investors-await-warsh-remarks-rate-signals-2026-11-16/"
+        },
+        {
+          "titre": "BNN Bloomberg : Warsh et l'impact économique de l'IA",
+          "url": "https://www.bnnbloomberg.ca/business/international/2026/11/16/us-fed-chairman-warsh-grapples-with-ais-potential-economic-impact-steers-clear-of-its-inflation-risk/"
+        },
+        {
+          "titre": "Ideal Investisseur : Stellantis au plus bas de cinq ans",
+          "url": "https://www.ideal-investisseur.fr/actions-b/laction-stellantis-signe-un-plus-bas-de-cinq-ans-et-ferme-la-marche-du-cac-40/29421.html"
+        },
+        {
+          "titre": "ABC Bourse : Vusion, Oddo BHF relève son objectif à 215 €",
+          "url": "https://www.abcbourse.com/marches/vusion-grimpe-de-8-en-bourse-oddo-bhf-releve-son-objectif-a-215-euros_706138"
+        },
+        {
+          "titre": "Investir : la note de Berenberg sur Lectra",
+          "url": "https://investir.lesechos.fr/conseils-boursiers/recommandations-des-analystes/lectra-serait-il-en-train-de-filer-un-meilleur-coton-boursier-2262329"
+        },
+        {
+          "titre": "Boursier.com : Air France-KLM prend 1,57 %",
+          "url": "https://www.boursier.com/actions/actualites/news/air-france-klm-prend-1-57-898717.html"
+        },
+        {
+          "titre": "Yahoo Finance via le fichier de cours du site (cours de clôture, moyennes, ATR)",
+          "url": "https://fr.finance.yahoo.com/"
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "titre": "Dimanche sans cotation : l'Iran frappe Bahreïn, et Trump, Xi et Poutine se retrouveront jeudi à Shenzhen",
       "resume": "Les marchés sont fermés et ce point reprend les cours de clôture de vendredi. Ce week-end, l'Iran a lancé des drones contre une base américaine à Bahreïn et les forces soutenues par l'Arabie saoudite ont reculé face aux Houthis près du détroit de Bab el-Mandeb, deux faits qui peuvent remettre une prime de risque sur le pétrole lundi. La semaine sera dense : Nvidia mardi, Anthropic mercredi et jeudi, et un sommet inédit Trump, Xi, Poutine jeudi.",
@@ -6215,170 +6530,6 @@
         {
           "titre": "AMF : L'effet de levier",
           "url": "https://www.amf-france.org/fr/effet-de-levier"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "titre": "Le CAC 40 gagne 0,28 % à 7 956,70 points et près de 2 % sur la semaine, mais Wall Street décroche sur l'IA",
-      "resume": "Paris a fini en légère hausse, rassurée par l'absence de signal de hausse de taux dans les propos du président de la Fed, Kevin Warsh. Wall Street, elle, plonge en séance (Nasdaq autour de -2 %) sur les craintes liées à l'endettement des acteurs de l'IA et à la remontée du pétrole. Les puces européennes se stabilisent sans vrai rebond.",
-      "humeur": "stable",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 956,70 pts",
-          "variation": 0.28
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "≈ 6 206 pts (estimé)",
-          "variation": 0.57
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "≈ 7 650 pts (en séance)",
-          "variation": -1.2
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "≈ 26 130 pts (en séance)",
-          "variation": -2.2
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 106 à 109 $ le baril (sources divergentes)",
-          "variation": 3.0
-        },
-        {
-          "nom": "Or",
-          "valeur": "≈ 4 164 $ l'once",
-          "variation": 0.2
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "≈ 1,125",
-          "variation": 0.29
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Fed : Warsh reste flou",
-          "texte": "Kevin Warsh a réaffirmé que la Fed veillerait à la stabilité des prix sans commenter ses futurs taux. Les marchés donnent environ 85 % de chances à un statu quo à la réunion du 28 octobre."
-        },
-        {
-          "titre": "Inflation en zone euro",
-          "texte": "Eurostat devait confirmer vendredi l'inflation de septembre, estimée à 3,8 %, son plus haut niveau depuis 2023, sous l'effet de l'énergie. Je n'ai pas trouvé le chiffre définitif, il reste à vérifier. La BCE se réunit le 29 octobre."
-        },
-        {
-          "titre": "Pétrole et géopolitique",
-          "texte": "Le Brent reste au-dessus de 100 dollars, avec des tensions au Moyen-Orient sur l'approvisionnement. Les sources donnent entre 106 et 109 dollars selon l'heure, et le pétrole a accéléré en fin de séance."
-        },
-        {
-          "titre": "IA et financement",
-          "texte": "Wall Street recule fortement en séance sur les craintes liées à la dette des entreprises d'infrastructures d'IA, alors qu'Anthropic préparerait une introduction en bourse. Le Nasdaq se dirige vers sa pire semaine depuis juin."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 380.84,
-        "pv": -18.36,
-        "texte": "Ton portefeuille vaut 380,84 € pour 399,20 € investis, soit une moins-value latente de 18,36 €. Faute de clôture fiable du jour, les cours enregistrés restent inchangés : STMicroelectronics s'est stabilisé autour de 41,3 € en séance."
-      },
-      "valeurs": [
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre se stabilise autour de 41,3 € en séance après deux fortes baisses, mais perd plus de 11 % sur la semaine ; résultats attendus le 29 octobre."
-        },
-        {
-          "nom": "Soitec",
-          "texte": "L'action cède environ 0,4 % à 129,30 € en début de séance, sans rebond franc après la chute des puces."
-        },
-        {
-          "nom": "EssilorLuxottica",
-          "texte": "Le titre gagne environ 3,8 % à 154,40 € et figure parmi les plus fortes hausses du CAC 40, après des informations sur l'actionnariat de Delfin."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Legrand",
-          "isin": "FR0010307819",
-          "risque": "Modéré",
-          "prix": "≈ 134 € la part",
-          "texte": "Legrand fabrique des équipements électriques pour les bâtiments, avec une part croissante dans les centres de données. Le titre a reculé d'environ 10 % depuis son plus haut du 6 octobre (148,40 €) dans la tempête sur l'IA, ce qui peut intéresser un investisseur de long terme qui croit à la hausse des besoins en électricité. Il est coté à Paris en euros et éligible au PEA. Le principal risque est un ralentissement des investissements dans l'IA, dont une partie de sa croissance dépend. Résultats des neuf mois le 5 novembre."
-        },
-        {
-          "nom": "Engie",
-          "isin": "FR0010208488",
-          "risque": "Modéré",
-          "prix": "≈ 23 € la part",
-          "texte": "Engie produit et distribue de l'électricité et du gaz, avec beaucoup d'énergies renouvelables. Avec une part à environ 23 €, elle reste accessible à un petit budget, et sa demande en électricité peut profiter des besoins des centres de données. Le titre est plus défensif que les valeurs technologiques, et le groupe a relevé ses objectifs 2026. Le principal risque vient des prix de l'énergie et des taux, car l'entreprise est endettée. Elle est cotée en euros et éligible au PEA."
-        },
-        {
-          "nom": "EssilorLuxottica",
-          "isin": "FR0000121667",
-          "risque": "Élevé",
-          "prix": "≈ 154 € la part",
-          "texte": "Le groupe fabrique des verres et des montures, et développe avec Meta des lunettes connectées à intelligence artificielle. Il figurait parmi les plus fortes hausses du CAC 40 vendredi, avec environ +3,8 % à 154,40 €, après des informations sur l'avenir de son principal actionnaire Delfin. Le titre reste sensible à ces rumeurs d'actionnariat et à la baisse d'objectif de cours de Morgan Stanley (de 225 à 180 €). Il est coté en euros et éligible au PEA."
-        }
-      ],
-      "idee": {
-        "nom": "Legrand",
-        "isin": "FR0010307819",
-        "risque": "Modéré",
-        "prix": "≈ 134 € la part",
-        "texte": "Legrand fabrique des équipements électriques pour les bâtiments, avec une part croissante dans les centres de données. Le titre a reculé d'environ 10 % depuis son plus haut du 6 octobre (148,40 €) dans la tempête sur l'IA, ce qui peut intéresser un investisseur de long terme qui croit à la hausse des besoins en électricité. Il est coté à Paris en euros et éligible au PEA. Le principal risque est un ralentissement des investissements dans l'IA, dont une partie de sa croissance dépend. Résultats des neuf mois le 5 novembre."
-      },
-      "concept": {
-        "terme": "La forward guidance (orientation prospective)",
-        "texte": "La forward guidance, ou orientation prospective, est la communication d'une banque centrale sur ses intentions futures de politique monétaire. En indiquant à l'avance dans quelles conditions elle comptait modifier ses taux, elle aide les marchés, les entreprises et les ménages à anticiper. Elle n'est pas un engagement ferme : la banque centrale peut changer de cap si l'inflation ou l'économie évoluent. Vendredi, le président de la Fed Kevin Warsh a évité toute indication sur les taux, ce flou a calmé la crainte d'une hausse immédiate et soutenu les Bourses européennes.",
-        "references": [
-          {
-            "titre": "BCE : Qu'est-ce que la forward guidance ? ⚠️",
-            "url": "https://www.ecb.europa.eu/ecb/educational/explainers/tell-me/html/what-is-forward_guidance.fr.html"
-          },
-          {
-            "titre": "Investopedia : Forward Guidance ⚠️",
-            "url": "https://www.investopedia.com/terms/f/forwardguidance.asp"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-21",
-          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-22",
-          "titre": "Nexans : chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-23",
-          "titre": "Safran : chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux ; résultats de STMicroelectronics, Air Liquide et Amundi"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "Boursorama : récap de la semaine du 12 au 16 octobre",
-          "url": "https://www.boursorama.com/bourse/actualites/une-semaine-sur-les-marches-le-recap-du-12-du-16-octobre-095a3f706f2f727c4fd573555a01b9cb"
-        },
-        {
-          "titre": "Boursorama : l'Europe finit dans le vert",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-la-tech-penalise-a-nouveau-le-nasdaq-1ad356e24700da974d7bc6483d201702"
-        },
-        {
-          "titre": "Boursorama : Wall Street sous le poids des inquiétudes sur l'IA",
-          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-effondre-sous-le-poids-des-inquietudes-liees-au-commerce-de-l-ia-et-a-la-hausse-des-prix-du-petrole-de0cd518dcab147a9aafdc1e2dd54455"
-        },
-        {
-          "titre": "BFM Bourse : le CAC 40 gagne près de 2 % sur la semaine",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-kevin-warsh-entretient-le-flou-sur-les-taux-de-la-fed-le-cac-40-grimpe-ce-vendredi-gagnant-pres-de-2-sur-la-semaine-1171927.html"
         }
       ]
     }

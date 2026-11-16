@@ -431,3 +431,13 @@ Le PER rapporte le cours d'une action au bénéfice par action ; le PER prévisi
 - [Investopedia : Forward Price-to-Earnings (Forward P/E) ⚠️](https://www.investopedia.com/terms/f/forwardpe.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le contrôle des exportations ?
+
+_2026-11-16 21:03 CET_
+
+Le contrôle des exportations est le droit qu'a un État d'interdire ou de soumettre à autorisation la vente à l'étranger de certains produits jugés sensibles, comme les armes ou les biens à double usage, utilisables à la fois dans le civil et le militaire. Les puces d'intelligence artificielle les plus puissantes en font partie : lundi, les États-Unis ont publié de nouvelles règles provisoires pour empêcher des pays tiers de servir de relais vers la Chine, et l'indice américain des semi-conducteurs a perdu environ 3,7 % en séance (Reuters). Pour une entreprise, ces règles peuvent fermer d'un coup une partie de ses débouchés, et le marché anticipe cette perte de chiffre d'affaires avant même qu'elle soit chiffrée. En Europe, le même principe existe : un règlement européen encadre l'export des biens à double usage, et la douane en contrôle l'application en France. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [Direction générale des Entreprises : le règlement européen sur les biens à double usage](https://www.entreprises.gouv.fr/espace-entreprises/s-informer-sur-la-reglementation/le-reglement-europeen-sur-les-biens-double)
+- [Douane : biens et technologies à double usage (civil ou militaire)](https://www.douane.gouv.fr/fiche/biens-et-technologies-double-usage-civil-ou-militaire)

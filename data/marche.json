@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-15T21:15:00+01:00",
-    "resume": "Dimanche 15 novembre 2026, marchés fermés : les cours restent ceux de la clôture de vendredi. Ton portefeuille vaut 777,84 € pour 799,28 € investis, soit -21,44 €. Ce week-end, l'Iran a frappé une base américaine à Bahreïn et le sommet Trump, Xi, Poutine est confirmé pour jeudi à Shenzhen. Lundi, la vente de Stellantis reste prévue ; mardi, Nvidia et Alstom publient."
+    "date": "2026-11-16T21:10:00+01:00",
+    "resume": "Lundi 16 novembre 2026 : le CAC 40 recule de 0,20 % à 8 352 points et Wall Street baisse de plus de 1 % sur les puces, avant les résultats de Nvidia mardi soir. Ton portefeuille vaut 772,30 € pour 799,28 € investis, soit -26,98 €. Stellantis touche un plus bas de cinq ans à 3,38 € et reste sous ton niveau de sortie de 3,75 € : aucune vente n'est encore enregistrée."
   },
   "actifs": [
     {
@@ -62,11 +62,15 @@
         {
           "d": "2026-11-13",
           "p": 6.31
+        },
+        {
+          "d": "2026-11-16",
+          "p": 6.0
         }
       ],
-      "prix": 6.31,
-      "prixDate": "2026-11-13",
-      "variationJour": -2.17
+      "prix": 6.0,
+      "prixDate": "2026-11-16",
+      "variationJour": -4.91
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
@@ -147,15 +151,24 @@
         {
           "d": "2026-11-13",
           "p": 193.32
+        },
+        {
+          "d": "2026-11-16",
+          "p": 193.24
         }
       ],
-      "prix": 193.32,
-      "prixDate": "2026-11-13",
-      "variationJour": 0.25
+      "prix": 193.24,
+      "prixDate": "2026-11-16",
+      "variationJour": -0.04
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
       "actus": [
+        {
+          "date": "2026-11-16",
+          "titre": "Thales gagne 1,1 % à 229,50 €, la défense résiste dans un marché prudent avant le sommet de Shenzhen",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-avant-deux-rendez-vous-cruciaux-pour-l-intelligence-artificielle-le-cac-40-joue-la-prudence-1173850.html"
+        },
         {
           "date": "2026-11-12",
           "titre": "Thales cède 1,3 % à 227,40 €, parmi les plus fortes baisses du CAC 40, le secteur de la défense restant sous pression après CSG",
@@ -180,11 +193,6 @@
           "date": "2026-11-04",
           "titre": "Thales casse le support des 228 € alors que la défense recule après le scrutin américain",
           "url": "https://www.abcbourse.com/marches/thales-cassure-du-support-des-228-euros-le-titre-glisse-vers-la-zone-des-223_705577"
-        },
-        {
-          "date": "2026-10-21",
-          "titre": "La DGA commande quatre sections supplémentaires du système sol-air SAMP/T NG à Eurosam (Thales et MBDA), ce qui porte à douze les sections prévues pour l'armée de l'Air et de l'Espace",
-          "url": "https://www.boursorama.com/bourse/actualites/thales-gagne-1-apres-une-commande-de-la-dga-b74ef595a880deeadebb225e1794d280"
         }
       ],
       "isin": "FR0000121329",
@@ -246,11 +254,15 @@
         {
           "d": "2026-11-13",
           "p": 227.1
+        },
+        {
+          "d": "2026-11-16",
+          "p": 229.5
         }
       ],
-      "prix": 227.1,
-      "prixDate": "2026-11-13",
-      "variationJour": -0.13
+      "prix": 229.5,
+      "prixDate": "2026-11-16",
+      "variationJour": 1.06
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -315,15 +327,24 @@
         {
           "d": "2026-11-13",
           "p": 96.65
+        },
+        {
+          "d": "2026-11-16",
+          "p": 95.85
         }
       ],
-      "prix": 96.65,
-      "prixDate": "2026-11-13",
-      "variationJour": -0.72
+      "prix": 95.85,
+      "prixDate": "2026-11-16",
+      "variationJour": -0.83
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
+        {
+          "date": "2026-11-16",
+          "titre": "Le Nasdaq perd environ 1,7 % en séance : nouvelles règles américaines sur l'export de puces d'IA et prudence avant Nvidia (Reuters)",
+          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slide-nvidia-earnings-anthropic-debut-loom-2026-11-16/"
+        },
         {
           "date": "2026-11-15",
           "titre": "Nvidia publie mardi soir ses premiers résultats sans Jensen Huang : le consensus attend environ 108,8 milliards de dollars de chiffre d'affaires (+91 %)",
@@ -348,11 +369,6 @@
           "date": "2026-11-11",
           "titre": "Le Nasdaq rebondit derrière les valeurs de l'IA et l'euro tombe à 1,1095 dollar, au plus bas depuis la mi-mai 2025",
           "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
-        },
-        {
-          "date": "2026-11-10",
-          "titre": "Inflation américaine plus forte que prévu : le Nasdaq recule d'environ 1,3 % à la clôture européenne, mais la hausse du dollar amortit la baisse de l'ETF en euros",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-tumulte-a-wall-street-apres-l-inflation-91fe46dc5a4dc37def19f7796cd825f2"
         }
       ],
       "isin": "FR0011871110",
@@ -415,15 +431,24 @@
         {
           "d": "2026-11-13",
           "p": 101.0
+        },
+        {
+          "d": "2026-11-16",
+          "p": 100.28
         }
       ],
-      "prix": 101.0,
-      "prixDate": "2026-11-13",
-      "variationJour": -2.11
+      "prix": 100.28,
+      "prixDate": "2026-11-16",
+      "variationJour": -0.71
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
+        {
+          "date": "2026-11-16",
+          "titre": "Soitec recule de 3,3 % à 99,40 € avec le secteur, deux jours avant ses résultats semestriels",
+          "url": "https://fr.tradingview.com/news/afp:5169a5572e7d8:0/"
+        },
         {
           "date": "2026-11-15",
           "titre": "Résultats semestriels mercredi soir : les perspectives du secteur des semi-conducteurs au premier plan selon Le Revenu",
@@ -448,11 +473,6 @@
           "date": "2026-11-09",
           "titre": "Soitec rebondit de 5,9 % à 99,88 € avec les semi-conducteurs, après une semaine de fortes ventes",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-avec-la-baisse-des-prix-du-brut-23611a6b7793fc822f18e2d6449e06c3"
-        },
-        {
-          "date": "2026-11-06",
-          "titre": "Soitec rebondit d'environ 3 % vers 94 € après une chute de plus de 26 % en deux séances",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque-65c78769cd39da733b365d299b55d622"
         }
       ],
       "isin": "FR0013227113",
@@ -551,11 +571,15 @@
         {
           "d": "2026-11-13",
           "p": 102.8
+        },
+        {
+          "d": "2026-11-16",
+          "p": 99.4
         }
       ],
-      "prix": 102.8,
-      "prixDate": "2026-11-13",
-      "variationJour": -2.88
+      "prix": 99.4,
+      "prixDate": "2026-11-16",
+      "variationJour": -3.31
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -670,15 +694,24 @@
         {
           "d": "2026-11-13",
           "p": 6.332
+        },
+        {
+          "d": "2026-11-16",
+          "p": 6.306
         }
       ],
-      "prix": 6.332,
-      "prixDate": "2026-11-13",
-      "variationJour": -0.83
+      "prix": 6.306,
+      "prixDate": "2026-11-16",
+      "variationJour": -0.41
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
+        {
+          "date": "2026-11-16",
+          "titre": "Le Nasdaq perd environ 1,7 % en séance : nouvelles règles américaines sur l'export de puces d'IA et prudence avant Nvidia (Reuters)",
+          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slide-nvidia-earnings-anthropic-debut-loom-2026-11-16/"
+        },
         {
           "date": "2026-11-15",
           "titre": "Nvidia publie mardi soir ses premiers résultats sans Jensen Huang : le consensus attend environ 108,8 milliards de dollars de chiffre d'affaires (+91 %)",
@@ -703,11 +736,6 @@
           "date": "2026-11-11",
           "titre": "Le Nasdaq rebondit derrière les valeurs de l'IA et l'euro tombe à 1,1095 dollar, au plus bas depuis la mi-mai 2025",
           "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
-        },
-        {
-          "date": "2026-11-10",
-          "titre": "Inflation américaine plus forte que prévu : le Nasdaq recule d'environ 1,3 % à la clôture européenne, mais la hausse du dollar amortit la baisse de l'ETF en euros",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-tumulte-a-wall-street-apres-l-inflation-91fe46dc5a4dc37def19f7796cd825f2"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -774,11 +802,15 @@
         {
           "d": "2026-11-13",
           "p": 6.632
+        },
+        {
+          "d": "2026-11-16",
+          "p": 6.577
         }
       ],
-      "prix": 6.632,
-      "prixDate": "2026-11-13",
-      "variationJour": -1.99
+      "prix": 6.577,
+      "prixDate": "2026-11-16",
+      "variationJour": -0.83
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -836,6 +868,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-11-16",
+          "titre": "STMicroelectronics cède 2,1 % à 41,07 € dans le sillage des ventes sur les puces américaines, avant les résultats de Nvidia",
+          "url": "https://fr.tradingview.com/news/afp:5169a5572e7d8:0/"
+        },
+        {
           "date": "2026-11-11",
           "titre": "Le titre bondit de 5,2 % à 42,18 €, meilleure hausse du CAC 40, porté par le regain d'intérêt pour l'IA après les résultats de CoreWeave",
           "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
@@ -859,11 +896,6 @@
           "date": "2026-11-06",
           "titre": "Lam Research annonce un rachat d'actions de 25 milliards de dollars et gagne environ 8 % : les équipementiers et fabricants de puces rebondissent après la chute de jeudi",
           "url": "https://www.xtb.com/fr/analyses-marches/resume-quotidien-wall-street-rebondit-apres-la-vague-de-ventes-le-dollar-americain-se-raffermit-grace-a-des-chiffres-solides-de-l-emploi-non-agricole-nfp-tandis-que-les-cours-du-petrole-reculent"
-        },
-        {
-          "date": "2026-11-06",
-          "titre": "STMicroelectronics reprend 1,54 % à 37,64 € avec le rebond des puces, mais reste sous son niveau de sortie de 38,61 €",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque-65c78769cd39da733b365d299b55d622"
         }
       ],
       "isin": "NL0000226223",
@@ -957,11 +989,15 @@
         {
           "d": "2026-11-13",
           "p": 41.945
+        },
+        {
+          "d": "2026-11-16",
+          "p": 41.07
         }
       ],
-      "prix": 41.945,
-      "prixDate": "2026-11-13",
-      "variationJour": -0.93
+      "prix": 41.07,
+      "prixDate": "2026-11-16",
+      "variationJour": -2.09
     },
     {
       "isin": "NL00150001Q9",
@@ -977,6 +1013,11 @@
       "risques": "Le titre reste en tendance baissière et très loin de sa moyenne 200 jours. Un nouveau recul des ventes, des dépréciations ou des droits de douane pèseraient encore. Un cours bas ne suffit jamais à faire une bonne affaire.",
       "rendezvous": [],
       "actus": [
+        {
+          "date": "2026-11-16",
+          "titre": "Stellantis touche 3,36 € en séance, plus bas depuis cinq ans, et finit à 3,38 € (-3,7 %), lanterne rouge du CAC 40 sans annonce nouvelle",
+          "url": "https://www.ideal-investisseur.fr/actions-b/laction-stellantis-signe-un-plus-bas-de-cinq-ans-et-ferme-la-marche-du-cac-40/29421.html"
+        },
         {
           "date": "2026-11-15",
           "titre": "Mirafiori : cinquième semaine sans production de Fiat 500 hybride à partir du 16 novembre, faute de commandes et d'une puce de moteur selon les syndicats",
@@ -1001,16 +1042,11 @@
           "date": "2026-11-13",
           "titre": "Antonio Filosa confirme la coopération avec Leapmotor sur les voitures électriques en Italie et prévient d'une forte hausse des coûts",
           "url": "https://www.autonews.com/stellantis/ane-stellantis-costs-leapmotor-jv-e-cars-1113/"
-        },
-        {
-          "date": "2026-11-12",
-          "titre": "Le directeur général Antonio Filosa prévient d'une forte hausse du coût des matières premières et des puces en 2027 et probablement 2028, chiffrée en milliards d'euros (Reuters)",
-          "url": "https://live.euronext.com/en/financial-news/stellantis-ceo-warns-rising-costs-confirms-leapmotor-cooperation-e-cars-italy"
         }
       ],
-      "prix": 3.5125,
-      "prixDate": "2026-11-13",
-      "variationJour": -1.08,
+      "prix": 3.384,
+      "prixDate": "2026-11-16",
+      "variationJour": -3.66,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1043,6 +1079,10 @@
         {
           "d": "2026-11-13",
           "p": 3.5125
+        },
+        {
+          "d": "2026-11-16",
+          "p": 3.384
         }
       ]
     },
@@ -1066,9 +1106,9 @@
           "url": "https://www.zonebourse.com/actualite-bourse/cinq-sur-cinq-pour-le-cac-40-sur-la-semaine-ce785ed9d08df327"
         }
       ],
-      "prix": 42.59,
-      "prixDate": "2026-11-13",
-      "variationJour": 0.02,
+      "prix": 42.51,
+      "prixDate": "2026-11-16",
+      "variationJour": -0.19,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1101,6 +1141,10 @@
         {
           "d": "2026-11-13",
           "p": 42.59
+        },
+        {
+          "d": "2026-11-16",
+          "p": 42.51
         }
       ]
     }
@@ -1158,7 +1202,7 @@
       "id": "eramet-dps-2026-11",
       "date": "2026-11-16",
       "titre": "Eramet : détachement et début de cotation des droits préférentiels",
-      "detail": "Négociation des droits du 16 au 25 novembre, souscription du 18 au 27 novembre, 6 actions nouvelles pour 5 anciennes à 14,49 € (communiqué d'Eramet du 13 novembre). Le cours baissera mécaniquement lundi : ce n'est pas une chute liée à l'activité."
+      "detail": "Fait : le cours a affiché -43 % lundi (BFM Bourse), une baisse mécanique liée au détachement des droits et non à l'activité. Négociation des droits jusqu'au 25 novembre, souscription du 18 au 27 novembre à 14,49 €."
     },
     {
       "id": "us-retail-2026-10",
@@ -1201,6 +1245,12 @@
       "date": "2026-11-18",
       "titre": "Zone euro : inflation d'octobre (estimation finale)",
       "detail": "Annoncée mercredi par Moneyvox, avant le compte rendu de la Fed. L'estimation rapide était de 4,0 %."
+    },
+    {
+      "id": "vusion-cmd-2026-11",
+      "date": "2026-11-18",
+      "titre": "Vusion : journée investisseurs (Capital Markets Day)",
+      "detail": "Annoncée par ABC Bourse le 16 novembre, alors qu'Oddo BHF relève son objectif à 215 €. Repère pour l'idée spéculative du soir."
     },
     {
       "id": "apec-trilaterale-2026-11-19",
@@ -1440,6 +1490,11 @@
     {
       "d": "2026-11-15",
       "valeur": 777.84,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-16",
+      "valeur": 772.3,
       "investi": 799.28
     }
   ]

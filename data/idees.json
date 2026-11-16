@@ -15,6 +15,22 @@
       "statut": "ouverte",
       "dateCloture": null,
       "perfPct": null
+    },
+    {
+      "id": "vu-2026-11-16",
+      "date": "2026-11-16",
+      "nom": "Vusion",
+      "isin": "FR0010282822",
+      "compte": "PEA",
+      "avis": "Spéculatif",
+      "horizon": "2 à 7 jours",
+      "entree": 154.0,
+      "invalidation": 147.0,
+      "objectif": 168.0,
+      "echeance": "2026-11-25",
+      "statut": "ouverte",
+      "dateCloture": null,
+      "perfPct": null
     }
   ]
 }

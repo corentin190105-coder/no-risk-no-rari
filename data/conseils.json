@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-15T21:15:00+01:00",
+  "maj": "2026-11-16T21:15:00+01:00",
   "verdict": {
-    "titre": "Dimanche : la vente de Stellantis reste l'ordre de lundi, le reste attend Nvidia",
-    "texte": "Marchés fermés : ton portefeuille vaut toujours 777,84 €, soit -21,44 €, aux cours de vendredi. Stellantis a clôturé trois séances sous ton niveau de sortie de 3,75 € : la règle s'applique lundi, sans attendre un rebond, et les nouvelles du week-end (coûts en hausse, usine de Mirafiori à l'arrêt) ne la remettent pas en cause. Aucun achat court terme prêt : les frappes iraniennes du week-end peuvent agiter le pétrole lundi, mais la semaine se joue sur Nvidia mardi et le sommet de Shenzhen jeudi."
+    "titre": "Stellantis toujours à vendre, le reste attend Nvidia mardi soir",
+    "texte": "Ton portefeuille vaut 772,30 €, soit -26,98 €. Stellantis a cassé lundi son plus bas de vendredi et fini à 3,38 €, plus bas depuis cinq ans : la règle de sortie à 3,75 € s'applique toujours, et aucune vente n'apparaît encore dans ton journal d'opérations. Si tu l'as vendue, saisis-la pour que le suivi reste juste. Pas d'achat court terme prêt avant Nvidia ; seule une idée spéculative sur Vusion, avec une entrée sur repli à 154 €."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -11,7 +11,7 @@
       "isin": "FR001400U5Q4",
       "symbole": "DCAM.PA",
       "action": "Garder",
-      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il recule de 0,8 % à 6,332 €, toujours au-dessus de ses moyennes 20 et 50 jours (6,31 € et 6,28 €).",
+      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il recule de 0,4 % à 6,306 €, autour de sa moyenne 20 jours (6,31 €) et au-dessus de sa moyenne 50 jours (6,28 €).",
       "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
       "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
     },
@@ -20,7 +20,7 @@
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "L'ETF a fini vendredi à 6,632 € (-2,0 %), sous ses moyennes 20 et 50 jours (6,76 € et 6,89 €) : Nvidia, sa première ligne, a signé sa pire semaine depuis avril 2025 (-13 %). Ses résultats mardi soir et l'introduction en Bourse d'Anthropic seront les tests de la semaine ; une baisse de plus n'est pas une raison de vendre un placement de long terme.",
+      "pourquoi": "L'ETF finit à 6,577 € (-0,8 %), sous ses moyennes 20 et 50 jours (6,74 € et 6,89 €), avec les nouvelles règles américaines sur l'export de puces et la prudence avant les résultats de Nvidia mardi soir. Une baisse de plus n'est pas une raison de vendre un placement de long terme.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -29,7 +29,7 @@
       "isin": "FR0013380607",
       "symbole": "CACC.PA",
       "action": "Garder",
-      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle finit stable à 42,59 €, au-dessus de ses moyennes 20 et 50 jours (environ 40,95 € et 40,82 €), après une semaine à +2,8 % pour le CAC 40, et reste en gain.",
+      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle finit à 42,51 € (-0,2 %), au-dessus de ses moyennes 20 et 50 jours (41,07 € et 40,83 €), et reste en gain.",
       "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
       "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
     },
@@ -39,7 +39,7 @@
       "symbole": "AI.PA",
       "action": "Garder",
       "sortie": 171.03,
-      "pourquoi": "Tu es en gain d'environ 11 € et la tendance reste haussière : 193,32 € ce soir après un nouveau record en séance à 194,60 €, bien au-dessus de ses moyennes 20 et 50 jours (environ 181,9 € et 173,9 €). Avec une seule action, il n'y a rien à alléger.",
+      "pourquoi": "Tu es en gain d'environ 11 € et la tendance reste haussière : 193,24 € ce soir après un nouveau record en séance à 194,70 €, bien au-dessus de ses moyennes 20 et 50 jours (182,86 € et 174,29 €). Avec une seule action, il n'y a rien à alléger.",
       "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
       "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
     },
@@ -49,9 +49,9 @@
       "symbole": "STLAP.PA",
       "action": "Vendre",
       "sortie": 3.75,
-      "pourquoi": "Le titre a clôturé mercredi sous le niveau de sortie de 3,75 € fixé à l'avance et y est resté jeudi et vendredi (3,51 €, plus bas de six mois à 3,50 € en séance). Ce week-end, le directeur général a mis en garde contre la hausse des coûts et l'usine de Mirafiori entame une cinquième semaine sans produire la Fiat 500 hybride (Automotive News, Autonext). Rien ne justifie de déplacer le niveau : la vente se fait lundi, au marché ou à cours limité proche du cours.",
-      "vendreSi": "c'est le cas : vends les 13 actions lundi avec un ordre à cours limité proche du cours d'ouverture (par exemple 3,48 € si l'ouverture se fait vers 3,51 €). Vers 3,51 €, la perte totale serait d'environ 8,90 €, frais d'achat et de vente compris, soit à peu près 1 % du portefeuille.",
-      "renforcerSi": "non. Un rachat ne serait à étudier qu'après un fait nouveau et une clôture au-dessus de sa moyenne 50 jours (4,11 €)."
+      "pourquoi": "Le titre est sous le niveau de sortie de 3,75 € depuis mercredi, et lundi il a cassé son plus bas de vendredi (3,50 €) pour finir à 3,38 € (-3,7 %), plus bas depuis cinq ans, sans annonce nouvelle (Ideal Investisseur). Rien ne justifie de déplacer le niveau ni d'attendre un rebond.",
+      "vendreSi": "c'est le cas : vends les 13 actions avec un ordre à cours limité proche du cours (par exemple 3,36 € si l'ouverture se fait vers 3,38 €), puis saisis la vente dans ton journal. Vers 3,38 €, la perte totale serait d'environ 10,60 €, frais d'achat et de vente compris.",
+      "renforcerSi": "non. Un rachat ne serait à étudier qu'après un fait nouveau et une clôture au-dessus de sa moyenne 50 jours (4,03 €)."
     },
     {
       "nom": "STMicroelectronics",
@@ -59,7 +59,7 @@
       "symbole": "STMPA.PA",
       "action": "Garder",
       "sortie": 38.61,
-      "pourquoi": "Le titre recule de 0,9 % à 41,95 € dans une journée noire pour les semi-conducteurs américains, au-dessus de sa moyenne 20 jours (41,25 €) mais sous sa moyenne 50 jours (43,77 €). Ton niveau de sortie de 38,61 € est à environ 1,4 ATR et ne bouge pas ; les résultats de Nvidia mardi soir peuvent faire bouger tout le secteur.",
+      "pourquoi": "Le titre recule de 2,1 % à 41,07 € avec les puces américaines, juste sous sa moyenne 20 jours (41,25 €) et sous sa moyenne 50 jours (43,66 €). Ton niveau de sortie de 38,61 € est à environ 1 ATR et ne bouge pas ; les résultats de Nvidia mardi soir peuvent faire bouger tout le secteur.",
       "vendreSi": "clôture sous 38,61 €, sans exception. Sur 2 actions, la vente rapporterait alors environ 76 € après 1 € de frais.",
       "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de sa moyenne 50 jours, vers 44 €, sur un fait nouveau."
     }
@@ -119,9 +119,46 @@
           "20 novembre"
         ]
       ],
-      "quand": "L'entrée de 105 € a été touchée jeudi (plus bas à 101,85 €). Le titre finit vendredi à 102,80 €. Si tu n'as pas acheté, un ordre à cours limité à 105 € reste valable jusqu'au 17 novembre au soir ; ne pas acheter au-dessus, ni la veille des résultats si le titre s'est envolé.",
+      "quand": "L'entrée de 105 € a été touchée le 12 novembre. Le titre finit lundi à 99,40 € (plus bas à 97,30 €), au-dessus de l'invalidation de 94,50 €. Ne pas acheter maintenant : les résultats tombent mercredi soir.",
       "pourquoi": "Résultats semestriels datés au 18 novembre, après une croissance du chiffre d'affaires de 23 % au 1er trimestre et un objectif de plus de 30 % au 2e trimestre.",
       "contre": "Idée spéculative : invalidation à 10 % sous l'entrée, résultats binaires avant l'échéance, tendance baissière sous les moyennes 20 et 50 jours. Probabilité d'échec estimée à 55 à 60 %."
+    },
+    {
+      "nom": "Vusion (spéculatif)",
+      "statut": "Attendre",
+      "plan": [
+        [
+          "Déclencheur",
+          "Repli jusqu'à 154,00 €, ordre à cours limité"
+        ],
+        [
+          "Sortie",
+          "147,00 €"
+        ],
+        [
+          "Objectif",
+          "168,00 €"
+        ],
+        [
+          "Exemple",
+          "2 actions, environ 308 €"
+        ],
+        [
+          "Perte max",
+          "environ 16 €, frais compris, hors trou de cours"
+        ],
+        [
+          "Gain visé",
+          "environ 26 €, frais compris"
+        ],
+        [
+          "Échéance",
+          "25 novembre"
+        ]
+      ],
+      "quand": "Seulement si le titre revient vers 154 € avant ou juste après la journée investisseurs du 18 novembre. Ne pas acheter à 158 € après la hausse de lundi.",
+      "pourquoi": "Catalyseur daté : journée investisseurs le 18 novembre, après le relèvement d'objectif d'Oddo BHF à 215 € et une forte croissance des revenus récurrents (+82 % sur un an à fin septembre, ABC Bourse).",
+      "contre": "Idée spéculative : titre déjà en surachat, ATR tiré du radar de vendredi, et une journée investisseurs déclenche souvent des prises de bénéfices. Probabilité d'échec estimée à environ 55 %."
     },
     {
       "nom": "Infineon Technologies",
@@ -156,7 +193,7 @@
           "environ 42 €, frais compris"
         ]
       ],
-      "quand": "Sur un repli vers 50,50 € qui tient en clôture. Vendredi, le titre est retombé vers 50,10 € en séance (-3,9 %) avec la chute des semi-conducteurs : le seuil ne tient pas, le signal n'est pas validé.",
+      "quand": "Sur un repli vers 50,50 € qui tient en clôture. Le titre finit lundi à 49,24 € (-1,3 %), sous ce seuil : le signal n'est pas validé.",
       "pourquoi": "Le seuil de 50,50 € a été franchi en clôture (52,12 €) après des résultats annuels solides et un objectif d'environ 20 milliards d'euros en 2027.",
       "contre": "Le titre reste sous sa moyenne 50 jours (55,19 €), et le rebond s'est fait dans des volumes réduits par le jour férié."
     },
@@ -193,7 +230,7 @@
           "environ 18 €, frais compris"
         ]
       ],
-      "quand": "Seulement sur repli vers 80,90 € : le titre a déjà monté d'environ 1,4 ATR depuis le 12 novembre, et les frappes iraniennes du week-end peuvent provoquer un écart d'ouverture lundi. Ne pas acheter sur cet écart.",
+      "quand": "Seulement sur repli vers 80,90 €. Lundi, le titre a fini à 81,96 € (plus bas à 81,91 €) malgré un Brent en baisse d'environ 2,5 % : l'entrée n'est pas touchée.",
       "pourquoi": "La clôture au-dessus de 81,60 € est faite (82,17 €, +1,9 %), avec un Brent proche de 96 dollars et une valorisation d'environ 8 fois les bénéfices attendus selon Yahoo Finance.",
       "contre": "L'AIE prévoit une offre de pétrole supérieure à la demande au 4e trimestre, et aucun catalyseur daté n'arrive : une détente avec l'Iran ferait rechuter le titre."
     },
@@ -277,14 +314,14 @@
       "faux": "Une année de grandes catastrophes naturelles, une mauvaise surprise sur ses provisions vie, ou une hausse brutale des taux qui fait baisser la valeur des obligations déjà détenues."
     },
     {
-      "nom": "Legrand",
-      "isin": "FR0010307819",
-      "symbole": "LR.PA",
-      "theme": "L'électricité des centres de données, l'IA sans les puces",
-      "risque": "Modéré",
-      "pourquoi": "Legrand tire environ un tiers de ses ventes des centres de données, une activité en hausse organique de près de 40 % sur les neuf premiers mois de 2026, et a relevé ses objectifs 2026 pour la deuxième fois le 5 novembre (AFP, France Transactions). C'est une façon de profiter de l'IA sans dépendre d'un fabricant de puces.",
-      "aBorder": "Comme une piste de long terme ou après la publication de Nvidia de mardi, pas avant. À 136,40 € vendredi, une part pèse lourd dans ton budget.",
-      "faux": "Le thème est très suivi et déjà bien valorisé, et la dette nette est passée d'environ 3,1 à 5,4 milliards d'euros en un an avec les acquisitions. Une pause des investissements dans l'IA toucherait directement le titre."
+      "nom": "Lectra",
+      "isin": "FR0000065484",
+      "symbole": "LSS.PA",
+      "theme": "Les logiciels industriels de la mode, une petite valeur discrète",
+      "risque": "Élevé",
+      "pourquoi": "Lectra vend des machines de découpe et des logiciels en abonnement aux industriels de la mode, de l'automobile et de l'ameublement : un secteur absent de ton portefeuille. Berenberg conseille l'achat avec un objectif de 26 € (Investir, 12 novembre), le titre a gagné 4,1 % lundi (BFM Bourse) et la société rachète ses actions (déclaration du 16 novembre).",
+      "aBorder": "À étudier comme petite ligne, après avoir lu ses derniers résultats. Une part autour de 20 € reste accessible avec un petit budget.",
+      "faux": "Le titre perd encore environ 22 % depuis janvier, et ses clients du textile et de l'automobile investissent peu en ce moment."
     }
   ]
 }
