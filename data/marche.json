@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-16T21:10:00+01:00",
-    "resume": "Lundi 16 novembre 2026 : le CAC 40 recule de 0,20 % à 8 352 points et Wall Street baisse de plus de 1 % sur les puces, avant les résultats de Nvidia mardi soir. Ton portefeuille vaut 772,30 € pour 799,28 € investis, soit -26,98 €. Stellantis touche un plus bas de cinq ans à 3,38 € et reste sous ton niveau de sortie de 3,75 € : aucune vente n'est encore enregistrée."
+    "date": "2026-11-17T21:20:00+01:00",
+    "resume": "Mardi 17 novembre 2026 : le CAC 40 chute de 1,62 % à 8 217 points et l'Euro Stoxx 50 de 2,15 %, emportés par la tech et le luxe avant les résultats de Nvidia ce soir. Ton portefeuille vaut 757,61 € pour 799,28 € investis, soit -41,67 €. STMicroelectronics finit à 39,81 €, à 1,20 € de ton niveau de sortie de 38,61 €, et Stellantis reste sous le sien (3,75 €) à 3,32 €."
   },
   "actifs": [
     {
@@ -66,15 +66,24 @@
         {
           "d": "2026-11-16",
           "p": 6.0
+        },
+        {
+          "d": "2026-11-17",
+          "p": 5.9
         }
       ],
-      "prix": 6.0,
-      "prixDate": "2026-11-16",
-      "variationJour": -4.91
+      "prix": 5.9,
+      "prixDate": "2026-11-17",
+      "variationJour": -1.67
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
       "actus": [
+        {
+          "date": "2026-11-17",
+          "titre": "Santander abaisse sa recommandation à neutre (objectif 207,50 €) après le record de lundi ; repli de 1,2 % à 190,94 €",
+          "url": "https://www.zonebourse.com/actualite-bourse/avis-d-analystes-du-jour-stellantis-essilorluxottica-et-air-liquide-se-font-degrader-ce785edfd189fe21"
+        },
         {
           "date": "2026-11-13",
           "titre": "Air Liquide touche un nouveau plus haut à 194,60 € avant de finir à 193,32 €",
@@ -155,11 +164,15 @@
         {
           "d": "2026-11-16",
           "p": 193.24
+        },
+        {
+          "d": "2026-11-17",
+          "p": 190.94
         }
       ],
-      "prix": 193.24,
-      "prixDate": "2026-11-16",
-      "variationJour": -0.04
+      "prix": 190.94,
+      "prixDate": "2026-11-17",
+      "variationJour": -1.19
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
@@ -258,11 +271,15 @@
         {
           "d": "2026-11-16",
           "p": 229.5
+        },
+        {
+          "d": "2026-11-17",
+          "p": 226.9
         }
       ],
-      "prix": 229.5,
-      "prixDate": "2026-11-16",
-      "variationJour": 1.06
+      "prix": 226.9,
+      "prixDate": "2026-11-17",
+      "variationJour": -1.13
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -331,15 +348,24 @@
         {
           "d": "2026-11-16",
           "p": 95.85
+        },
+        {
+          "d": "2026-11-17",
+          "p": 95.1
         }
       ],
-      "prix": 95.85,
-      "prixDate": "2026-11-16",
-      "variationJour": -0.83
+      "prix": 95.1,
+      "prixDate": "2026-11-17",
+      "variationJour": -0.78
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
+        {
+          "date": "2026-11-17",
+          "titre": "Avant les résultats de Nvidia, le Nasdaq touche un plus bas de huit mois ; Jensen Huang se dit prêt à revenir, le conseil refuse",
+          "url": "https://www.zonebourse.com/actualite-bourse/l-europe-finit-dans-le-rouge-avant-les-resultats-de-nvidia-ce785edcdd8dff23"
+        },
         {
           "date": "2026-11-16",
           "titre": "Le Nasdaq perd environ 1,7 % en séance : nouvelles règles américaines sur l'export de puces d'IA et prudence avant Nvidia (Reuters)",
@@ -364,11 +390,6 @@
           "date": "2026-11-12",
           "titre": "Jensen Huang démissionne de la direction de Nvidia, première pondération de l'indice ; l'action a chuté jusqu'à 14 % à l'ouverture avant de réduire sa baisse (AP)",
           "url": "https://www.bnnbloomberg.ca/markets/2026/11/12/nvidia-shares-plunge-13-at-open-after-ceo-jensen-huang-resigns/"
-        },
-        {
-          "date": "2026-11-11",
-          "titre": "Le Nasdaq rebondit derrière les valeurs de l'IA et l'euro tombe à 1,1095 dollar, au plus bas depuis la mi-mai 2025",
-          "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
         }
       ],
       "isin": "FR0011871110",
@@ -379,7 +400,11 @@
       "rendezvous": [
         {
           "date": "2026-11-17",
-          "titre": "Nvidia : résultats du 3e trimestre de son exercice, annoncés pour mardi (date relayée par la presse, à confirmer)"
+          "titre": "Nvidia : résultats du 3e trimestre après la clôture de Wall Street (vers 22h20 heure de Paris), premiers sans Jensen Huang"
+        },
+        {
+          "date": "2026-11-19",
+          "titre": "Anthropic : première cotation prévue au Nasdaq"
         }
       ],
       "risque": "Modéré",
@@ -435,15 +460,24 @@
         {
           "d": "2026-11-16",
           "p": 100.28
+        },
+        {
+          "d": "2026-11-17",
+          "p": 97.92
         }
       ],
-      "prix": 100.28,
-      "prixDate": "2026-11-16",
-      "variationJour": -0.71
+      "prix": 97.92,
+      "prixDate": "2026-11-17",
+      "variationJour": -2.35
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
+        {
+          "date": "2026-11-17",
+          "titre": "Recul de 3,5 % à 95,94 €, à la veille des résultats semestriels, avec la chute de la tech européenne",
+          "url": "https://www.zonebourse.com/actualite-bourse/l-europe-finit-dans-le-rouge-avant-les-resultats-de-nvidia-ce785edcdd8dff23"
+        },
         {
           "date": "2026-11-16",
           "titre": "Soitec recule de 3,3 % à 99,40 € avec le secteur, deux jours avant ses résultats semestriels",
@@ -468,11 +502,6 @@
           "date": "2026-11-10",
           "titre": "Soitec monte jusqu'à 106,20 € puis se retourne et finit en baisse de 3,1 % à 96,80 €, parmi les plus fortes baisses du SBF 120",
           "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-freine-par-l-inflation-americaine-le-cac-40-echoue-aux-portes-des-8300-points-1173544.html"
-        },
-        {
-          "date": "2026-11-09",
-          "titre": "Soitec rebondit de 5,9 % à 99,88 € avec les semi-conducteurs, après une semaine de fortes ventes",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-avec-la-baisse-des-prix-du-brut-23611a6b7793fc822f18e2d6449e06c3"
         }
       ],
       "isin": "FR0013227113",
@@ -575,11 +604,15 @@
         {
           "d": "2026-11-16",
           "p": 99.4
+        },
+        {
+          "d": "2026-11-17",
+          "p": 95.94
         }
       ],
-      "prix": 99.4,
-      "prixDate": "2026-11-16",
-      "variationJour": -3.31
+      "prix": 95.94,
+      "prixDate": "2026-11-17",
+      "variationJour": -3.48
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -698,15 +731,24 @@
         {
           "d": "2026-11-16",
           "p": 6.306
+        },
+        {
+          "d": "2026-11-17",
+          "p": 6.172
         }
       ],
-      "prix": 6.306,
-      "prixDate": "2026-11-16",
-      "variationJour": -0.41
+      "prix": 6.172,
+      "prixDate": "2026-11-17",
+      "variationJour": -2.12
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
+        {
+          "date": "2026-11-17",
+          "titre": "Avant les résultats de Nvidia, le Nasdaq touche un plus bas de huit mois ; Jensen Huang se dit prêt à revenir, le conseil refuse",
+          "url": "https://www.zonebourse.com/actualite-bourse/l-europe-finit-dans-le-rouge-avant-les-resultats-de-nvidia-ce785edcdd8dff23"
+        },
         {
           "date": "2026-11-16",
           "titre": "Le Nasdaq perd environ 1,7 % en séance : nouvelles règles américaines sur l'export de puces d'IA et prudence avant Nvidia (Reuters)",
@@ -731,11 +773,6 @@
           "date": "2026-11-12",
           "titre": "Jensen Huang démissionne de la direction de Nvidia, première pondération de l'indice ; l'action a chuté jusqu'à 14 % à l'ouverture avant de réduire sa baisse (AP)",
           "url": "https://www.bnnbloomberg.ca/markets/2026/11/12/nvidia-shares-plunge-13-at-open-after-ceo-jensen-huang-resigns/"
-        },
-        {
-          "date": "2026-11-11",
-          "titre": "Le Nasdaq rebondit derrière les valeurs de l'IA et l'euro tombe à 1,1095 dollar, au plus bas depuis la mi-mai 2025",
-          "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -746,7 +783,11 @@
       "rendezvous": [
         {
           "date": "2026-11-17",
-          "titre": "Nvidia : résultats du 3e trimestre de son exercice, annoncés pour mardi (date relayée par la presse, à confirmer)"
+          "titre": "Nvidia : résultats du 3e trimestre après la clôture de Wall Street (vers 22h20 heure de Paris), premiers sans Jensen Huang"
+        },
+        {
+          "date": "2026-11-19",
+          "titre": "Anthropic : première cotation prévue au Nasdaq"
         }
       ],
       "risque": "Modéré",
@@ -806,11 +847,15 @@
         {
           "d": "2026-11-16",
           "p": 6.577
+        },
+        {
+          "d": "2026-11-17",
+          "p": 6.425
         }
       ],
-      "prix": 6.577,
-      "prixDate": "2026-11-16",
-      "variationJour": -0.83
+      "prix": 6.425,
+      "prixDate": "2026-11-17",
+      "variationJour": -2.31
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -868,6 +913,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-11-17",
+          "titre": "Morgan Stanley reste à l'achat mais réduit son objectif de 65 à 55 € ; le titre perd 3,1 % avec le secteur technologique européen (-3 %)",
+          "url": "https://www.boursorama.com/bourse/actualites/avis-d-analystes-france-deux-degradations-pour-stellantis-c82785498d2ebc72417dd8fc3500c875"
+        },
+        {
           "date": "2026-11-16",
           "titre": "STMicroelectronics cède 2,1 % à 41,07 € dans le sillage des ventes sur les puces américaines, avant les résultats de Nvidia",
           "url": "https://fr.tradingview.com/news/afp:5169a5572e7d8:0/"
@@ -891,11 +941,6 @@
           "date": "2026-11-08",
           "titre": "Infineon publie mardi ses résultats annuels à 8h00, lors du salon electronica de Munich : un test direct pour les puces européennes",
           "url": "https://fr.tradingview.com/news/afp:fc968e06994b0:0/"
-        },
-        {
-          "date": "2026-11-06",
-          "titre": "Lam Research annonce un rachat d'actions de 25 milliards de dollars et gagne environ 8 % : les équipementiers et fabricants de puces rebondissent après la chute de jeudi",
-          "url": "https://www.xtb.com/fr/analyses-marches/resume-quotidien-wall-street-rebondit-apres-la-vague-de-ventes-le-dollar-americain-se-raffermit-grace-a-des-chiffres-solides-de-l-emploi-non-agricole-nfp-tandis-que-les-cours-du-petrole-reculent"
         }
       ],
       "isin": "NL0000226223",
@@ -993,11 +1038,15 @@
         {
           "d": "2026-11-16",
           "p": 41.07
+        },
+        {
+          "d": "2026-11-17",
+          "p": 39.81
         }
       ],
-      "prix": 41.07,
-      "prixDate": "2026-11-16",
-      "variationJour": -2.09
+      "prix": 39.81,
+      "prixDate": "2026-11-17",
+      "variationJour": -3.07
     },
     {
       "isin": "NL00150001Q9",
@@ -1013,6 +1062,11 @@
       "risques": "Le titre reste en tendance baissière et très loin de sa moyenne 200 jours. Un nouveau recul des ventes, des dépréciations ou des droits de douane pèseraient encore. Un cours bas ne suffit jamais à faire une bonne affaire.",
       "rendezvous": [],
       "actus": [
+        {
+          "date": "2026-11-17",
+          "titre": "Deux dégradations : Oddo BHF passe à sous-performance (objectif 3 €) et LBBW à conserver (objectif 3,50 €) ; le titre finit à 3,32 €",
+          "url": "https://www.boursorama.com/bourse/actualites/avis-d-analystes-france-deux-degradations-pour-stellantis-c82785498d2ebc72417dd8fc3500c875"
+        },
         {
           "date": "2026-11-16",
           "titre": "Stellantis touche 3,36 € en séance, plus bas depuis cinq ans, et finit à 3,38 € (-3,7 %), lanterne rouge du CAC 40 sans annonce nouvelle",
@@ -1037,16 +1091,11 @@
           "date": "2026-11-13",
           "titre": "Le Canada menace de poursuivre Stellantis après le transfert de la production de l'usine de Brampton vers les États-Unis",
           "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html"
-        },
-        {
-          "date": "2026-11-13",
-          "titre": "Antonio Filosa confirme la coopération avec Leapmotor sur les voitures électriques en Italie et prévient d'une forte hausse des coûts",
-          "url": "https://www.autonews.com/stellantis/ane-stellantis-costs-leapmotor-jv-e-cars-1113/"
         }
       ],
-      "prix": 3.384,
-      "prixDate": "2026-11-16",
-      "variationJour": -3.66,
+      "prix": 3.32,
+      "prixDate": "2026-11-17",
+      "variationJour": -1.89,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1083,6 +1132,10 @@
         {
           "d": "2026-11-16",
           "p": 3.384
+        },
+        {
+          "d": "2026-11-17",
+          "p": 3.32
         }
       ]
     },
@@ -1106,9 +1159,9 @@
           "url": "https://www.zonebourse.com/actualite-bourse/cinq-sur-cinq-pour-le-cac-40-sur-la-semaine-ce785ed9d08df327"
         }
       ],
-      "prix": 42.51,
-      "prixDate": "2026-11-16",
-      "variationJour": -0.19,
+      "prix": 41.815,
+      "prixDate": "2026-11-17",
+      "variationJour": -1.63,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1145,23 +1198,15 @@
         {
           "d": "2026-11-16",
           "p": 42.51
+        },
+        {
+          "d": "2026-11-17",
+          "p": 41.815
         }
       ]
     }
   ],
   "agenda": [
-    {
-      "id": "eurogroupe-bce-2026-11",
-      "date": "2026-11-09",
-      "titre": "Eurogroupe : examen des candidatures à la présidence de la BCE",
-      "detail": "Fait : les ministres ont examiné les deux candidatures, Klaas Knot (Pays-Bas) et Pablo Hernández de Cos (Espagne), et transmis le dossier aux dirigeants de l'UE, qui visent un accord en décembre. Christine Lagarde partira au plus tard le 7 février 2027."
-    },
-    {
-      "id": "cn-cpi-2026-10",
-      "date": "2026-11-09",
-      "titre": "Chine : inflation d'octobre",
-      "detail": "Publiée dans la nuit de dimanche à lundi. Le commerce extérieur chinois suit mardi : un repère pour le luxe et les industriels européens exposés à la Chine"
-    },
     {
       "id": "ifx-q4-2026",
       "date": "2026-11-10",
@@ -1208,19 +1253,25 @@
       "id": "us-retail-2026-10",
       "date": "2026-11-17",
       "titre": "États-Unis : ventes au détail d'octobre",
-      "detail": "Publication mardi, confirmée par Moneyvox, le même jour que les résultats de Nvidia."
+      "detail": "Publié : +0,2 % sur un mois (0,1 % attendu), +0,5 % hors automobile et essence, après +0,8 % en septembre (Census Bureau via Yahoo Finance). La consommation résiste, un argument de plus pour une hausse des taux de la Fed le 9 décembre."
     },
     {
       "id": "nvda-q3-2027",
       "date": "2026-11-17",
       "titre": "Nvidia : résultats trimestriels",
-      "detail": "Annoncés pour mardi soir (heure américaine) par la presse, cinq jours après la démission de Jensen Huang. Nvidia est la première ligne du Nasdaq-100 : un repère direct pour ton ETF."
+      "detail": "Après la clôture de Wall Street, vers 22h20 heure de Paris. Le consensus vise environ 109,1 milliards de dollars de chiffre d'affaires et 124,8 milliards pour le trimestre suivant (XTB via BFM Bourse). Nvidia est la première ligne du Nasdaq-100."
     },
     {
       "id": "alstom-s1-2026",
       "date": "2026-11-17",
       "titre": "Alstom : résultats semestriels détaillés",
-      "detail": "Après l'avertissement du 2 novembre (marge d'exploitation ajustée visée ramenée à environ 1 %), le groupe détaille ses comptes et son plan de désendettement d'environ 2 milliards d'euros (ABC Bourse, Le Revenu)."
+      "detail": "Publié après la clôture : perte nette de 954 millions d'euros, chiffre d'affaires de 9,3 milliards, marge d'exploitation ajustée visée d'environ 1 % et plan de désendettement d'environ 2 milliards d'ici septembre 2027 (Boursorama). Réaction du titre mercredi."
+    },
+    {
+      "id": "us-indprod-2026-10",
+      "date": "2026-11-17",
+      "titre": "États-Unis : production industrielle d'octobre",
+      "detail": "Publié : -0,4 % sur un mois, contre une hausse en septembre (+0,7 %), selon Reuters. Un signal de faiblesse de l'industrie américaine, sans changer les attentes d'une hausse des taux en décembre."
     },
     {
       "id": "soitec-s1-2026",
@@ -1251,6 +1302,12 @@
       "date": "2026-11-18",
       "titre": "Vusion : journée investisseurs (Capital Markets Day)",
       "detail": "Annoncée par ABC Bourse le 16 novembre, alors qu'Oddo BHF relève son objectif à 215 €. Repère pour l'idée spéculative du soir."
+    },
+    {
+      "id": "us-housing-2026-10",
+      "date": "2026-11-18",
+      "titre": "États-Unis : mises en chantier d'octobre",
+      "detail": "Attendues à 1,245 million d'unités contre 1,221 million en septembre (Reuters via Boursorama). Un repère sur l'immobilier américain, sensible aux taux à 10 ans proches de 5,1 %."
     },
     {
       "id": "apec-trilaterale-2026-11-19",
@@ -1495,6 +1552,11 @@
     {
       "d": "2026-11-16",
       "valeur": 772.3,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-17",
+      "valeur": 757.61,
       "investi": 799.28
     }
   ]

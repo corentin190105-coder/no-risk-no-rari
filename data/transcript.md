@@ -441,3 +441,15 @@ Le contrôle des exportations est le droit qu'a un État d'interdire ou de soume
 **Références**
 - [Direction générale des Entreprises : le règlement européen sur les biens à double usage](https://www.entreprises.gouv.fr/espace-entreprises/s-informer-sur-la-reglementation/le-reglement-europeen-sur-les-biens-double)
 - [Douane : biens et technologies à double usage (civil ou militaire)](https://www.douane.gouv.fr/fiche/biens-et-technologies-double-usage-civil-ou-militaire)
+
+## Q: Qu'est-ce que l'indice de volatilité (VIX) ?
+
+_2026-11-17 21:03 CET_
+
+La volatilité mesure l'ampleur des hausses et des baisses du prix d'un placement, rappelle l'AMF : plus elle est forte, plus le prix peut s'écarter vite de sa valeur de départ, dans un sens comme dans l'autre. Le VIX, souvent appelé « indice de la peur », ne mesure pas la volatilité passée mais celle que les investisseurs anticipent sur le S&P 500 pour les 30 prochains jours, déduite du prix des options ; son équivalent européen sur l'Euro Stoxx 50 est le VSTOXX. Mardi, avant les résultats de Nvidia, le VIX a gagné environ 11 % et l'indice européen environ 17 %, à leur plus haut depuis deux semaines, et les options laissaient attendre une variation d'environ 335 milliards de dollars de la valeur boursière de Nvidia après sa publication (Reuters). Un VIX qui monte signale que les investisseurs paient plus cher pour se protéger : ce n'est pas une prévision de baisse, mais le signe que de forts mouvements sont attendus. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [AMF : Volatilité des placements, ce qu'il faut savoir](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/cadrer-son-projet/volatilite-des-placements-ce-quil-faut-savoir-0)
+- [Investopedia : CBOE Volatility Index (VIX) ⚠️](https://www.investopedia.com/terms/v/vix.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction
