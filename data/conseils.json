@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-17T21:25:00+01:00",
+  "maj": "2026-11-18T21:35:00+01:00",
   "verdict": {
-    "titre": "Stellantis toujours à vendre, STMicroelectronics proche de sa sortie avant Nvidia",
-    "texte": "Ton portefeuille vaut 757,61 €, soit -41,67 €, après une séance où toutes tes lignes ont baissé. Stellantis finit à 3,32 €, toujours sous ton niveau de sortie de 3,75 €, après deux dégradations d'analystes : la règle de vente s'applique, et si tu as déjà vendu, saisis-le dans ton journal. STMicroelectronics n'est plus qu'à 1,20 € de son niveau de sortie de 38,61 € : une clôture dessous déclenche la vente, sans exception. Aucun achat court terme n'est prêt avant les résultats de Nvidia ce soir."
+    "titre": "Stellantis toujours à vendre, STMicroelectronics s'éloigne de sa sortie",
+    "texte": "Ton portefeuille vaut 757,83 €, soit -41,45 €, quasi stable sur la journée. Stellantis finit à 3,28 € après un nouveau plus bas vers 3,18 €, toujours sous ton niveau de sortie de 3,75 € : la règle de vente s'applique, et si tu as déjà vendu, saisis-le dans ton journal. STMicroelectronics remonte à 40,53 €, à 1,92 € au-dessus de sa sortie de 38,61 €, qui ne bouge pas. Aucun achat court terme n'est prêt ce soir : la Fed reste orientée vers des hausses de taux et la réaction aux résultats de Soitec se jouera demain."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -11,7 +11,7 @@
       "isin": "FR001400U5Q4",
       "symbole": "DCAM.PA",
       "action": "Garder",
-      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il recule de 2,1 % à 6,172 € avec la baisse de Wall Street, sous ses moyennes 20 et 50 jours (6,30 € et 6,28 €) : un repli normal pour un placement de long terme.",
+      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il est stable vers 6,176 €, sous ses moyennes 20 et 50 jours (6,29 € et 6,28 €) : un repli normal pour un placement de long terme.",
       "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
       "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
     },
@@ -20,7 +20,7 @@
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "L'ETF finit à 6,425 € (-2,3 %), sous ses moyennes 20 et 50 jours (6,72 € et 6,89 €), avec la vente des valeurs technologiques avant les résultats de Nvidia ce soir. Une baisse de plus n'est pas une raison de vendre un placement de long terme.",
+      "pourquoi": "L'ETF remonte d'environ 1 % vers 6,49 € après les résultats de Nvidia, mais reste sous ses moyennes 20 et 50 jours (6,69 € et 6,88 €). Ni ce rebond ni la baisse des jours précédents ne sont une raison d'agir sur un placement de long terme.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -29,7 +29,7 @@
       "isin": "FR0013380607",
       "symbole": "CACC.PA",
       "action": "Garder",
-      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle finit à 41,82 € (-1,6 %), encore au-dessus de ses moyennes 20 et 50 jours (41,17 € et 40,82 €), et reste en gain.",
+      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle recule vers 41,49 € (-0,8 %) mais reste au-dessus de ses moyennes 20 et 50 jours (41,23 € et 40,82 €), et en léger gain.",
       "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
       "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
     },
@@ -39,7 +39,7 @@
       "symbole": "AI.PA",
       "action": "Garder",
       "sortie": 171.03,
-      "pourquoi": "Tu es en gain d'environ 9 € et la tendance reste haussière : 190,94 € ce soir (-1,2 %) après la dégradation à neutre de Santander (objectif 207,50 €), toujours au-dessus de ses moyennes 20 et 50 jours (183,80 € et 174,65 €). Avec une seule action, il n'y a rien à alléger.",
+      "pourquoi": "Tu es en gain d'environ 8 € et la tendance reste haussière : vers 190,20 € ce soir (-0,4 %), au-dessus de ses moyennes 20 et 50 jours (184,63 € et 175,09 €). Avec une seule action, il n'y a rien à alléger.",
       "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
       "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
     },
@@ -49,8 +49,8 @@
       "symbole": "STLAP.PA",
       "action": "Vendre",
       "sortie": 3.75,
-      "pourquoi": "Le titre est sous le niveau de sortie de 3,75 € depuis mercredi dernier et finit à 3,32 € (-1,9 %), après deux dégradations ce matin : Oddo BHF à sous-performance (objectif 3 €) et LBBW à conserver (objectif 3,50 €), selon Boursorama. Rien ne justifie de déplacer le niveau ni d'attendre un rebond.",
-      "vendreSi": "c'est le cas : vends les 13 actions avec un ordre à cours limité proche du cours (par exemple 3,30 € si l'ouverture se fait vers 3,32 €), puis saisis la vente dans ton journal. Vers 3,32 €, la perte totale serait d'environ 11,40 €, frais d'achat et de vente compris.",
+      "pourquoi": "Le titre est sous le niveau de sortie de 3,75 € depuis le 11 novembre et finit à 3,28 € (-1,2 %), après un nouveau plus bas vers 3,18 € en séance, sa neuvième baisse en dix séances. Les dégradations d'Oddo BHF (objectif 3 €) et de LBBW (3,50 €) de mardi restent d'actualité. Rien ne justifie de déplacer le niveau ni d'attendre un rebond.",
+      "vendreSi": "c'est le cas : vends les 13 actions avec un ordre à cours limité proche du cours (par exemple 3,26 € si l'ouverture se fait vers 3,28 €), puis saisis la vente dans ton journal. Vers 3,28 €, la perte totale serait d'environ 11,90 €, frais d'achat et de vente compris.",
       "renforcerSi": "non. Un rachat ne serait à étudier qu'après un fait nouveau et une clôture au-dessus de sa moyenne 50 jours (4,03 €)."
     },
     {
@@ -59,7 +59,7 @@
       "symbole": "STMPA.PA",
       "action": "Garder",
       "sortie": 38.61,
-      "pourquoi": "Le titre perd 3,1 % à 39,81 €, sous ses moyennes 20 et 50 jours (41,19 € et 43,56 €), et Morgan Stanley réduit son objectif de 65 à 55 € tout en restant à l'achat. Ton niveau de sortie de 38,61 € n'est plus qu'à environ un demi-ATR et ne bouge pas ; les résultats de Nvidia ce soir peuvent faire bouger tout le secteur.",
+      "pourquoi": "Le titre prend la tête du CAC 40 avec +1,8 % à 40,53 € grâce aux résultats de Nvidia (AFP), mais sur un volume inférieur à la moyenne et toujours sous ses moyennes 20 et 50 jours (41,12 € et 43,48 €). Il remonte à 1,92 € au-dessus de ton niveau de sortie de 38,61 €, qui ne bouge pas.",
       "vendreSi": "clôture sous 38,61 €, sans exception. Sur 2 actions, la vente rapporterait alors environ 76 € après 1 € de frais.",
       "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de sa moyenne 50 jours, vers 44 €, sur un fait nouveau."
     }
@@ -119,46 +119,9 @@
           "20 novembre"
         ]
       ],
-      "quand": "L'entrée de 105 € a été touchée le 12 novembre. Le titre finit mardi à 95,94 € après un plus bas vers 94,64 €, à quelques centimes de l'invalidation de 94,50 €. Ne pas acheter maintenant : les résultats tombent mercredi soir.",
-      "pourquoi": "Résultats semestriels datés au 18 novembre, après une croissance du chiffre d'affaires de 23 % au 1er trimestre et un objectif de plus de 30 % au 2e trimestre.",
+      "quand": "L'entrée de 105 € a été touchée le 12 novembre et l'idée reste ouverte jusqu'au 20 novembre. Les résultats sont tombés ce soir et sont bons : pas de nouvel achat avant la réaction de jeudi, et pas d'achat si l'ouverture dépasse 116 € (plus de 2 ATR).",
+      "pourquoi": "Résultats du 18 novembre : chiffre d'affaires semestriel de 317 millions d'euros (+39 % à changes constants) et objectif annuel relevé à environ 40 % de croissance, porté par la photonique (ABC Bourse).",
       "contre": "Idée spéculative : invalidation à 10 % sous l'entrée, résultats binaires avant l'échéance, tendance baissière sous les moyennes 20 et 50 jours. Probabilité d'échec estimée à 55 à 60 %."
-    },
-    {
-      "nom": "Vusion (spéculatif)",
-      "statut": "Attendre",
-      "plan": [
-        [
-          "Déclencheur",
-          "Repli jusqu'à 154,00 €, ordre à cours limité"
-        ],
-        [
-          "Sortie",
-          "147,00 €"
-        ],
-        [
-          "Objectif",
-          "168,00 €"
-        ],
-        [
-          "Exemple",
-          "2 actions, environ 308 €"
-        ],
-        [
-          "Perte max",
-          "environ 16 €, frais compris, hors trou de cours"
-        ],
-        [
-          "Gain visé",
-          "environ 26 €, frais compris"
-        ],
-        [
-          "Échéance",
-          "25 novembre"
-        ]
-      ],
-      "quand": "L'entrée de 154 € a été touchée mardi matin (plus bas vers 148,50 €) après l'annonce d'une offre sur Pricer ; le titre finit à 151,80 €, au-dessus de l'invalidation de 147 €, avant la journée investisseurs de mercredi. Ne pas renforcer.",
-      "pourquoi": "Catalyseur daté : journée investisseurs le 18 novembre, après le relèvement d'objectif d'Oddo BHF à 215 € et une forte croissance des revenus récurrents (+82 % sur un an à fin septembre, ABC Bourse).",
-      "contre": "Idée spéculative : titre déjà en surachat, ATR tiré du radar de vendredi, et une journée investisseurs déclenche souvent des prises de bénéfices. Probabilité d'échec estimée à environ 55 %."
     },
     {
       "nom": "Infineon Technologies",
@@ -314,14 +277,14 @@
       "faux": "Une année de grandes catastrophes naturelles, une mauvaise surprise sur ses provisions vie, ou une hausse brutale des taux qui fait baisser la valeur des obligations déjà détenues."
     },
     {
-      "nom": "Getlink",
-      "isin": "FR0010533075",
-      "symbole": "GET.PA",
-      "theme": "Une infrastructure unique : le tunnel sous la Manche",
+      "nom": "Spie",
+      "isin": "FR0012757854",
+      "symbole": "SPIE.PA",
+      "theme": "L'électricité des centres de données, côté installation",
       "risque": "Modéré",
-      "pourquoi": "Tu n'as aucune valeur d'infrastructure. Getlink exploite le tunnel sous la Manche, ses navettes et une ligne électrique entre la France et le Royaume-Uni : un actif sans concurrent direct, avec des péages qui suivent l'inflation. Le titre finit à 20,68 € le 16 novembre selon le radar du site, en hausse d'environ 8 % en 20 séances et au-dessus de ses moyennes.",
-      "aBorder": "À étudier pour le long terme, en petite ligne, après avoir lu ses derniers résultats et sa dette. Pas dans l'urgence : le RSI était vers 79, le mouvement récent est déjà fort.",
-      "faux": "Une baisse du trafic entre la France et le Royaume-Uni, une hausse des taux qui renchérit sa dette, ou un incident technique majeur dans le tunnel."
+      "pourquoi": "Spie installe et entretient les équipements électriques, de chauffage et de climatisation des bâtiments et des usines en Europe. Sa filiale française a créé en avril 2026 un département dédié aux centres de données, dans un pays où la capacité de stockage doit tripler entre 2024 et 2030 selon la société (BFM Bourse, 9 avril 2026). C'est une façon moins visible que les fabricants de puces de suivre l'électrification liée à l'IA.",
+      "aBorder": "À étudier sur un repli vers sa moyenne 50 jours, avec une part autour de 45 €. Regarde d'abord la part réelle des centres de données dans son activité, que je n'ai pas pu vérifier ce soir.",
+      "faux": "Spie dépend surtout de l'activité générale du bâtiment et de l'industrie en Europe : un ralentissement économique pèserait plus que l'effet IA."
     }
   ]
 }

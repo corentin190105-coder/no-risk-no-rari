@@ -453,3 +453,13 @@ La volatilité mesure l'ampleur des hausses et des baisses du prix d'un placemen
 - [Investopedia : CBOE Volatility Index (VIX) ⚠️](https://www.investopedia.com/terms/v/vix.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le compte rendu (minutes) de la Fed ?
+
+_2026-11-18 21:03 CET_
+
+Le compte rendu, appelé « minutes » en anglais, est le résumé détaillé des débats d'une réunion de politique monétaire, que la Réserve fédérale américaine (Fed) publie trois semaines après chaque décision. Contrairement au communiqué du jour de la décision, il montre comment les responsables ont pesé les risques, combien penchaient pour une hausse ou une baisse des taux, et ce qui les inquiète. Mercredi, celui de la réunion d'octobre a montré que presque tous les participants jugeaient d'autres hausses de taux probablement appropriées, que quelques-uns évoquaient une hausse de plus d'un quart de point en décembre, et que l'IA est vue comme une source de risque d'inflation et d'instabilité financière (CNBC). Les investisseurs lisent ces textes pour ajuster leurs paris sur les prochaines décisions : une hausse d'un quart de point le 9 décembre est désormais presque entièrement anticipée. La BCE publie l'équivalent, le « compte rendu des réunions de politique monétaire », environ quatre semaines après chaque réunion. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [Réserve fédérale : calendrier des réunions du FOMC et comptes rendus](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
+- [BCE : comptes rendus des réunions de politique monétaire](https://www.ecb.europa.eu/press/accounts/html/index.fr.html)

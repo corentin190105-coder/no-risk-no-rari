@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-17T21:20:00+01:00",
-    "resume": "Mardi 17 novembre 2026 : le CAC 40 chute de 1,62 % à 8 217 points et l'Euro Stoxx 50 de 2,15 %, emportés par la tech et le luxe avant les résultats de Nvidia ce soir. Ton portefeuille vaut 757,61 € pour 799,28 € investis, soit -41,67 €. STMicroelectronics finit à 39,81 €, à 1,20 € de ton niveau de sortie de 38,61 €, et Stellantis reste sous le sien (3,75 €) à 3,32 €."
+    "date": "2026-11-18T21:30:00+01:00",
+    "resume": "Mercredi 18 novembre 2026 : le CAC 40 recule de 0,85 % à 8 146,83 points malgré les bons résultats de Nvidia, et le compte rendu de la Fed confirme que presque tous ses responsables envisagent d'autres hausses de taux. Ton portefeuille vaut 757,83 € pour 799,28 € investis, soit -41,45 €. STMicroelectronics remonte à 40,53 €, Stellantis reste sous son niveau de sortie à 3,28 €, et Soitec relève ses objectifs après la clôture."
   },
   "actifs": [
     {
@@ -70,11 +70,15 @@
         {
           "d": "2026-11-17",
           "p": 5.9
+        },
+        {
+          "d": "2026-11-18",
+          "p": 5.97
         }
       ],
-      "prix": 5.9,
-      "prixDate": "2026-11-17",
-      "variationJour": -1.67
+      "prix": 5.97,
+      "prixDate": "2026-11-18",
+      "variationJour": 1.19
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
@@ -168,11 +172,15 @@
         {
           "d": "2026-11-17",
           "p": 190.94
+        },
+        {
+          "d": "2026-11-18",
+          "p": 190.2
         }
       ],
-      "prix": 190.94,
-      "prixDate": "2026-11-17",
-      "variationJour": -1.19
+      "prix": 190.2,
+      "prixDate": "2026-11-18",
+      "variationJour": -0.39
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
@@ -275,11 +283,15 @@
         {
           "d": "2026-11-17",
           "p": 226.9
+        },
+        {
+          "d": "2026-11-18",
+          "p": 226.0
         }
       ],
-      "prix": 226.9,
-      "prixDate": "2026-11-17",
-      "variationJour": -1.13
+      "prix": 226.0,
+      "prixDate": "2026-11-18",
+      "variationJour": -0.4
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -352,15 +364,24 @@
         {
           "d": "2026-11-17",
           "p": 95.1
+        },
+        {
+          "d": "2026-11-18",
+          "p": 95.7
         }
       ],
-      "prix": 95.1,
-      "prixDate": "2026-11-17",
-      "variationJour": -0.78
+      "prix": 95.7,
+      "prixDate": "2026-11-18",
+      "variationJour": 0.63
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
+        {
+          "date": "2026-11-18",
+          "titre": "Nvidia double son chiffre d'affaires mais son titre recule, Wall Street hésite",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63404681/stock-market-today-dow-jones-nvidia-earnings-dollar-19-month-high-november-18"
+        },
         {
           "date": "2026-11-17",
           "titre": "Avant les résultats de Nvidia, le Nasdaq touche un plus bas de huit mois ; Jensen Huang se dit prêt à revenir, le conseil refuse",
@@ -385,11 +406,6 @@
           "date": "2026-11-13",
           "titre": "Scandale Nvidia : Washington s'interroge sur des puces revendues en Chine via Megaspeed, les semi-conducteurs américains chutent",
           "url": "https://www.afp.com/en/stocks-fail-turn-page-nvidia-scandal"
-        },
-        {
-          "date": "2026-11-12",
-          "titre": "Jensen Huang démissionne de la direction de Nvidia, première pondération de l'indice ; l'action a chuté jusqu'à 14 % à l'ouverture avant de réduire sa baisse (AP)",
-          "url": "https://www.bnnbloomberg.ca/markets/2026/11/12/nvidia-shares-plunge-13-at-open-after-ceo-jensen-huang-resigns/"
         }
       ],
       "isin": "FR0011871110",
@@ -399,12 +415,8 @@
       "potentiel": "Croissance des géants technologiques américains sur le long terme.",
       "rendezvous": [
         {
-          "date": "2026-11-17",
-          "titre": "Nvidia : résultats du 3e trimestre après la clôture de Wall Street (vers 22h20 heure de Paris), premiers sans Jensen Huang"
-        },
-        {
           "date": "2026-11-19",
-          "titre": "Anthropic : première cotation prévue au Nasdaq"
+          "titre": "Introduction en Bourse d'Anthropic à New York"
         }
       ],
       "risque": "Modéré",
@@ -464,15 +476,29 @@
         {
           "d": "2026-11-17",
           "p": 97.92
+        },
+        {
+          "d": "2026-11-18",
+          "p": 99.01
         }
       ],
-      "prix": 97.92,
-      "prixDate": "2026-11-17",
-      "variationJour": -2.35
+      "prix": 99.01,
+      "prixDate": "2026-11-18",
+      "variationJour": 1.11
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
+        {
+          "date": "2026-11-18",
+          "titre": "Soitec relève son objectif annuel : environ 40 % de croissance, portée par la photonique pour l'IA",
+          "url": "https://www.abcbourse.com/marches/newsContent/706332"
+        },
+        {
+          "date": "2026-11-18",
+          "titre": "Soitec finit en hausse de 1,7 % avant ses résultats, dans le sillage de Nvidia",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-0692f2cf5b61cac9ed1d93c1f5dd71f0"
+        },
         {
           "date": "2026-11-17",
           "titre": "Recul de 3,5 % à 95,94 €, à la veille des résultats semestriels, avec la chute de la tech européenne",
@@ -492,16 +518,6 @@
           "date": "2026-11-12",
           "titre": "Soitec recule de 2,3 % à 105,85 € après avoir touché 101,85 € en séance, dans le sillage de la baisse de Nvidia",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-08096cdb7e970fb74a3579f52b3cd868"
-        },
-        {
-          "date": "2026-11-11",
-          "titre": "Soitec s'envole de 11,9 % à 108,35 € avec le retour de l'appétit pour l'IA ; résultats semestriels attendus le 18 novembre après la clôture",
-          "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
-        },
-        {
-          "date": "2026-11-10",
-          "titre": "Soitec monte jusqu'à 106,20 € puis se retourne et finit en baisse de 3,1 % à 96,80 €, parmi les plus fortes baisses du SBF 120",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-freine-par-l-inflation-americaine-le-cac-40-echoue-aux-portes-des-8300-points-1173544.html"
         }
       ],
       "isin": "FR0013227113",
@@ -511,8 +527,8 @@
       "potentiel": "Début septembre 2026, Soitec a relevé sa prévision de croissance trimestrielle à environ 50 % et vise des ventes Photonics-SOI multipliées par 2,5 à 3 sur l'exercice, avec des contrats pluriannuels de réservation de capacités.",
       "rendezvous": [
         {
-          "date": "2026-11-18",
-          "titre": "Résultats du premier semestre 2026-2027, après la clôture (date annoncée par Soitec dans son communiqué du 22 juillet)"
+          "date": "2026-11-20",
+          "titre": "Échéance de l'idée spéculative du 11 novembre"
         }
       ],
       "risque": "Très élevé",
@@ -608,11 +624,15 @@
         {
           "d": "2026-11-17",
           "p": 95.94
+        },
+        {
+          "d": "2026-11-18",
+          "p": 97.54
         }
       ],
-      "prix": 95.94,
-      "prixDate": "2026-11-17",
-      "variationJour": -3.48
+      "prix": 97.54,
+      "prixDate": "2026-11-18",
+      "variationJour": 1.67
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -735,15 +755,24 @@
         {
           "d": "2026-11-17",
           "p": 6.172
+        },
+        {
+          "d": "2026-11-18",
+          "p": 6.176
         }
       ],
-      "prix": 6.172,
-      "prixDate": "2026-11-17",
-      "variationJour": -2.12
+      "prix": 6.176,
+      "prixDate": "2026-11-18",
+      "variationJour": 0.06
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
+        {
+          "date": "2026-11-18",
+          "titre": "Nvidia double son chiffre d'affaires mais son titre recule, Wall Street hésite",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63404681/stock-market-today-dow-jones-nvidia-earnings-dollar-19-month-high-november-18"
+        },
         {
           "date": "2026-11-17",
           "titre": "Avant les résultats de Nvidia, le Nasdaq touche un plus bas de huit mois ; Jensen Huang se dit prêt à revenir, le conseil refuse",
@@ -768,11 +797,6 @@
           "date": "2026-11-13",
           "titre": "Scandale Nvidia : Washington s'interroge sur des puces revendues en Chine via Megaspeed, les semi-conducteurs américains chutent",
           "url": "https://www.afp.com/en/stocks-fail-turn-page-nvidia-scandal"
-        },
-        {
-          "date": "2026-11-12",
-          "titre": "Jensen Huang démissionne de la direction de Nvidia, première pondération de l'indice ; l'action a chuté jusqu'à 14 % à l'ouverture avant de réduire sa baisse (AP)",
-          "url": "https://www.bnnbloomberg.ca/markets/2026/11/12/nvidia-shares-plunge-13-at-open-after-ceo-jensen-huang-resigns/"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -782,12 +806,8 @@
       "potentiel": "Capte la croissance des géants de l'IA et du cloud. C'est un satellite de croissance à côté du socle MSCI World.",
       "rendezvous": [
         {
-          "date": "2026-11-17",
-          "titre": "Nvidia : résultats du 3e trimestre après la clôture de Wall Street (vers 22h20 heure de Paris), premiers sans Jensen Huang"
-        },
-        {
           "date": "2026-11-19",
-          "titre": "Anthropic : première cotation prévue au Nasdaq"
+          "titre": "Introduction en Bourse d'Anthropic à New York"
         }
       ],
       "risque": "Modéré",
@@ -851,11 +871,15 @@
         {
           "d": "2026-11-17",
           "p": 6.425
+        },
+        {
+          "d": "2026-11-18",
+          "p": 6.488
         }
       ],
-      "prix": 6.425,
-      "prixDate": "2026-11-17",
-      "variationJour": -2.31
+      "prix": 6.488,
+      "prixDate": "2026-11-18",
+      "variationJour": 0.98
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -913,6 +937,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-11-18",
+          "titre": "STMicroelectronics prend la tête du CAC 40 (+1,8 %) grâce à l'effet Nvidia",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-0692f2cf5b61cac9ed1d93c1f5dd71f0"
+        },
+        {
           "date": "2026-11-17",
           "titre": "Morgan Stanley reste à l'achat mais réduit son objectif de 65 à 55 € ; le titre perd 3,1 % avec le secteur technologique européen (-3 %)",
           "url": "https://www.boursorama.com/bourse/actualites/avis-d-analystes-france-deux-degradations-pour-stellantis-c82785498d2ebc72417dd8fc3500c875"
@@ -936,11 +965,6 @@
           "date": "2026-11-09",
           "titre": "STMicroelectronics mène le CAC 40 avec +5,3 % à 39,63 €, porté par le retour des achats sur les valeurs liées à l'IA",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-avec-la-baisse-des-prix-du-brut-23611a6b7793fc822f18e2d6449e06c3"
-        },
-        {
-          "date": "2026-11-08",
-          "titre": "Infineon publie mardi ses résultats annuels à 8h00, lors du salon electronica de Munich : un test direct pour les puces européennes",
-          "url": "https://fr.tradingview.com/news/afp:fc968e06994b0:0/"
         }
       ],
       "isin": "NL0000226223",
@@ -1042,11 +1066,15 @@
         {
           "d": "2026-11-17",
           "p": 39.81
+        },
+        {
+          "d": "2026-11-18",
+          "p": 40.53
         }
       ],
-      "prix": 39.81,
-      "prixDate": "2026-11-17",
-      "variationJour": -3.07
+      "prix": 40.53,
+      "prixDate": "2026-11-18",
+      "variationJour": 1.8
     },
     {
       "isin": "NL00150001Q9",
@@ -1062,6 +1090,11 @@
       "risques": "Le titre reste en tendance baissière et très loin de sa moyenne 200 jours. Un nouveau recul des ventes, des dépréciations ou des droits de douane pèseraient encore. Un cours bas ne suffit jamais à faire une bonne affaire.",
       "rendezvous": [],
       "actus": [
+        {
+          "date": "2026-11-18",
+          "titre": "Stellantis touche un nouveau plus bas vers 3,18 € en séance, positions vendeuses élevées",
+          "url": "https://finanza.economia-italia.com/azioni-stellantis-18-novembre-2026"
+        },
         {
           "date": "2026-11-17",
           "titre": "Deux dégradations : Oddo BHF passe à sous-performance (objectif 3 €) et LBBW à conserver (objectif 3,50 €) ; le titre finit à 3,32 €",
@@ -1086,16 +1119,11 @@
           "date": "2026-11-14",
           "titre": "Stellantis prévoit de vendre son usine canadienne de Brampton au fabricant de blindés Roshel ; Ottawa se dit prêt à verser de nouvelles aides si le site reste ouvert",
           "url": "https://www.ctvnews.ca/canada/article/joly-says-stellantis-could-get-more-government-money-if-it-promised-to-keep-brampton-plant-open/"
-        },
-        {
-          "date": "2026-11-13",
-          "titre": "Le Canada menace de poursuivre Stellantis après le transfert de la production de l'usine de Brampton vers les États-Unis",
-          "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html"
         }
       ],
-      "prix": 3.32,
-      "prixDate": "2026-11-17",
-      "variationJour": -1.89,
+      "prix": 3.2805,
+      "prixDate": "2026-11-18",
+      "variationJour": -1.19,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1136,6 +1164,10 @@
         {
           "d": "2026-11-17",
           "p": 3.32
+        },
+        {
+          "d": "2026-11-18",
+          "p": 3.2805
         }
       ]
     },
@@ -1154,14 +1186,19 @@
       "rendezvous": [],
       "actus": [
         {
+          "date": "2026-11-18",
+          "titre": "Le CAC 40 recule de 0,85 % à 8 146,83 points malgré Nvidia",
+          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-0692f2cf5b61cac9ed1d93c1f5dd71f0"
+        },
+        {
           "date": "2026-11-13",
           "titre": "Le CAC 40 finit à 8 368,91 points (+0,09 %), +2,82 % sur la semaine, au plus haut depuis fin août",
           "url": "https://www.zonebourse.com/actualite-bourse/cinq-sur-cinq-pour-le-cac-40-sur-la-semaine-ce785ed9d08df327"
         }
       ],
-      "prix": 41.815,
-      "prixDate": "2026-11-17",
-      "variationJour": -1.63,
+      "prix": 41.485,
+      "prixDate": "2026-11-18",
+      "variationJour": -0.79,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1202,23 +1239,15 @@
         {
           "d": "2026-11-17",
           "p": 41.815
+        },
+        {
+          "d": "2026-11-18",
+          "p": 41.485
         }
       ]
     }
   ],
   "agenda": [
-    {
-      "id": "ifx-q4-2026",
-      "date": "2026-11-10",
-      "titre": "Infineon : résultats du 4e trimestre",
-      "detail": "Publié : chiffre d'affaires annuel de 16,35 milliards d'euros (+12 %), objectif d'environ 20 milliards en 2027 et ventes aux centres de données relevées vers 4 milliards. Le titre a touché 52,06 € avant de finir à 49,05 € (+0,9 %)."
-    },
-    {
-      "id": "us-cpi-2026-10",
-      "date": "2026-11-10",
-      "titre": "États-Unis : inflation d'octobre (CPI)",
-      "detail": "Publié : +0,4 % sur un mois (0,3 % attendu), +0,3 % hors énergie et alimentation (0,2 % attendu). Aucun taux sur un an faute de données d'octobre 2025. Une hausse des taux de la Fed en décembre est désormais quasi certaine."
-    },
     {
       "id": "opec-momr-2026-11",
       "date": "2026-11-11",
@@ -1320,6 +1349,12 @@
       "date": "2026-11-20",
       "titre": "Vallourec : résultats du 3e trimestre",
       "detail": "Annoncés pour vendredi par Le Revenu. Un repère pour les valeurs parapétrolières avec un Brent proche de 96 dollars."
+    },
+    {
+      "id": "airbus-macron-2026-11-23",
+      "date": "2026-11-23",
+      "titre": "Emmanuel Macron chez Airbus à Toulouse, annonces sur le soutien de l'État à la filière",
+      "detail": "Annonce de l'Élysée du 18 novembre (AFP). Peut toucher Airbus, Safran, Thales et les sous-traitants."
     },
     {
       "id": "us-thanksgiving-2026",
@@ -1557,6 +1592,11 @@
     {
       "d": "2026-11-17",
       "valeur": 757.61,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-18",
+      "valeur": 757.83,
       "investi": 799.28
     }
   ]
