@@ -28,9 +28,9 @@
       "invalidation": 147.0,
       "objectif": 168.0,
       "echeance": "2026-11-25",
-      "statut": "ouverte",
-      "dateCloture": null,
-      "perfPct": null
+      "statut": "invalidée",
+      "dateCloture": "2026-11-18",
+      "perfPct": -4.55
     }
   ]
 }
