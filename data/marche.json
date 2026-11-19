@@ -1,18 +1,29 @@
 {
   "meta": {
-    "date": "2026-11-18T21:30:00+01:00",
-    "resume": "Mercredi 18 novembre 2026 : le CAC 40 recule de 0,85 % à 8 146,83 points malgré les bons résultats de Nvidia, et le compte rendu de la Fed confirme que presque tous ses responsables envisagent d'autres hausses de taux. Ton portefeuille vaut 757,83 € pour 799,28 € investis, soit -41,45 €. STMicroelectronics remonte à 40,53 €, Stellantis reste sous son niveau de sortie à 3,28 €, et Soitec relève ses objectifs après la clôture."
+    "date": "2026-11-19T21:20:00+01:00",
+    "resume": "Jeudi 19 novembre 2026 : le CAC 40 recule de 0,81 % à 8 080,74 points et Wall Street se retourne nettement à la baisse après les débuts record d'Anthropic au Nasdaq. Ton portefeuille vaut 757,33 € pour 799,28 € investis, soit -41,95 €. STMicroelectronics finit en tête du CAC 40, Stellantis reste sous son niveau de sortie vers 3,24 €, et Soitec gagne 12 % après ses résultats."
   },
   "actifs": [
     {
       "activite": "PME française (121 salariés), leader mondial des machines d'épitaxie par jets moléculaires : elles déposent des matériaux couche d'atomes par couche d'atomes pour fabriquer des semi-conducteurs avancés (lasers, capteurs, puces radio).",
-      "actus": [],
+      "actus": [
+        {
+          "date": "2026-11-19",
+          "titre": "Riber gagne 8,4 % à 6,43 € après une commande d'un industriel asiatique, livrable fin décembre",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111326/cac-40-euphorie-aura-ete-de-courte-duree-retrouvez-les-infos-bourse-du-19-novembre"
+        }
+      ],
       "isin": "FR0000075954",
       "marche": "Clients laboratoires et industriels, machines de production à plusieurs millions d'euros pièce. Chiffre d'affaires 2025 de 40,3 millions d'euros, réparti entre Europe, Asie et Amérique du Nord. Cotée sur Euronext Growth, éligible PEA et PEA-PME.",
       "nom": "Riber",
       "pea": true,
       "potentiel": "Sa machine Rosie vise la photonique sur silicium (et les matériaux quantiques), avec 2 à 3 livraisons par an prévues dès 2026-2027. Une seule commande pèse 5 à 10 % de l'activité annuelle.",
-      "rendezvous": [],
+      "rendezvous": [
+        {
+          "date": "2026-12-03",
+          "titre": "Échéance de l'idée spéculative du 19 novembre"
+        }
+      ],
       "risque": "Très élevé",
       "risques": "Très petite capitalisation : mouvements violents (+176 % depuis janvier mais -26 % sur un mois à un moment de 2026). Revenus irréguliers selon les commandes, pas d'objectif chiffré pour 2026.",
       "secteur": "Équipements semi-conducteurs",
@@ -74,11 +85,15 @@
         {
           "d": "2026-11-18",
           "p": 5.97
+        },
+        {
+          "d": "2026-11-19",
+          "p": 6.43
         }
       ],
-      "prix": 5.97,
-      "prixDate": "2026-11-18",
-      "variationJour": 1.19
+      "prix": 6.43,
+      "prixDate": "2026-11-19",
+      "variationJour": 8.43
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
@@ -176,15 +191,24 @@
         {
           "d": "2026-11-18",
           "p": 190.2
+        },
+        {
+          "d": "2026-11-19",
+          "p": 189.54
         }
       ],
-      "prix": 190.2,
-      "prixDate": "2026-11-18",
-      "variationJour": -0.39
+      "prix": 189.54,
+      "prixDate": "2026-11-19",
+      "variationJour": -0.11
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
       "actus": [
+        {
+          "date": "2026-11-19",
+          "titre": "Thales parmi les rares hausses du CAC 40 (+0,7 %) dans une séance de repli",
+          "url": "https://www.zonebourse.com/actualite-bourse/paris-recule-eclipsee-par-les-debuts-d-anthropic-ce785ed2dd80f02d"
+        },
         {
           "date": "2026-11-16",
           "titre": "Thales gagne 1,1 % à 229,50 €, la défense résiste dans un marché prudent avant le sommet de Shenzhen",
@@ -209,11 +233,6 @@
           "date": "2026-11-05",
           "titre": "La défense européenne recule : Rheinmetall perd environ 16 % après une nouvelle baisse de son objectif de ventes 2026",
           "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-at-6-219-70-down-1-58-prozent/70466022"
-        },
-        {
-          "date": "2026-11-04",
-          "titre": "Thales casse le support des 228 € alors que la défense recule après le scrutin américain",
-          "url": "https://www.abcbourse.com/marches/thales-cassure-du-support-des-228-euros-le-titre-glisse-vers-la-zone-des-223_705577"
         }
       ],
       "isin": "FR0000121329",
@@ -287,11 +306,15 @@
         {
           "d": "2026-11-18",
           "p": 226.0
+        },
+        {
+          "d": "2026-11-19",
+          "p": 227.49
         }
       ],
-      "prix": 226.0,
-      "prixDate": "2026-11-18",
-      "variationJour": -0.4
+      "prix": 227.49,
+      "prixDate": "2026-11-19",
+      "variationJour": 0.66
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -368,15 +391,24 @@
         {
           "d": "2026-11-18",
           "p": 95.7
+        },
+        {
+          "d": "2026-11-19",
+          "p": 95.1
         }
       ],
-      "prix": 95.7,
-      "prixDate": "2026-11-18",
-      "variationJour": 0.63
+      "prix": 95.1,
+      "prixDate": "2026-11-19",
+      "variationJour": -0.73
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
+        {
+          "date": "2026-11-19",
+          "titre": "Anthropic ouvre à 111,50 $ (+34 %) pour ses débuts au Nasdaq, puis Wall Street se retourne et le Nasdaq perd environ 1,3 %",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+        },
         {
           "date": "2026-11-18",
           "titre": "Nvidia double son chiffre d'affaires mais son titre recule, Wall Street hésite",
@@ -401,11 +433,6 @@
           "date": "2026-11-13",
           "titre": "Nvidia, première ligne de l'indice, finit à 162,85 dollars (-2 %) et signe sa pire semaine depuis avril 2025 (-13 %) après le départ de Jensen Huang ; HSBC abaisse sa recommandation",
           "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits"
-        },
-        {
-          "date": "2026-11-13",
-          "titre": "Scandale Nvidia : Washington s'interroge sur des puces revendues en Chine via Megaspeed, les semi-conducteurs américains chutent",
-          "url": "https://www.afp.com/en/stocks-fail-turn-page-nvidia-scandal"
         }
       ],
       "isin": "FR0011871110",
@@ -413,12 +440,7 @@
       "nom": "Amundi PEA Nasdaq-100",
       "pea": true,
       "potentiel": "Croissance des géants technologiques américains sur le long terme.",
-      "rendezvous": [
-        {
-          "date": "2026-11-19",
-          "titre": "Introduction en Bourse d'Anthropic à New York"
-        }
-      ],
+      "rendezvous": [],
       "risque": "Modéré",
       "risques": "Concentration sur la tech US, sensibilité aux taux d'intérêt, corrections fortes possibles.",
       "secteur": "Tech US",
@@ -480,15 +502,24 @@
         {
           "d": "2026-11-18",
           "p": 99.01
+        },
+        {
+          "d": "2026-11-19",
+          "p": 99.39
         }
       ],
-      "prix": 99.01,
-      "prixDate": "2026-11-18",
-      "variationJour": 1.11
+      "prix": 99.39,
+      "prixDate": "2026-11-19",
+      "variationJour": 0.77
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
+        {
+          "date": "2026-11-19",
+          "titre": "Soitec bondit de 12 % à 109,25 € après ses résultats, après avoir gagné plus de 20 % en séance",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111326/cac-40-euphorie-aura-ete-de-courte-duree-retrouvez-les-infos-bourse-du-19-novembre"
+        },
         {
           "date": "2026-11-18",
           "titre": "Soitec relève son objectif annuel : environ 40 % de croissance, portée par la photonique pour l'IA",
@@ -513,11 +544,6 @@
           "date": "2026-11-15",
           "titre": "Résultats semestriels mercredi soir : les perspectives du secteur des semi-conducteurs au premier plan selon Le Revenu",
           "url": "https://www.lerevenu.com/reussir-bourse/points-marches/valeurs-a-suivre-bourse-semaine-16-20-novembre-era/"
-        },
-        {
-          "date": "2026-11-12",
-          "titre": "Soitec recule de 2,3 % à 105,85 € après avoir touché 101,85 € en séance, dans le sillage de la baisse de Nvidia",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-08096cdb7e970fb74a3579f52b3cd868"
         }
       ],
       "isin": "FR0013227113",
@@ -628,11 +654,15 @@
         {
           "d": "2026-11-18",
           "p": 97.54
+        },
+        {
+          "d": "2026-11-19",
+          "p": 109.25
         }
       ],
-      "prix": 97.54,
-      "prixDate": "2026-11-18",
-      "variationJour": 1.67
+      "prix": 109.25,
+      "prixDate": "2026-11-19",
+      "variationJour": 12.01
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -759,15 +789,24 @@
         {
           "d": "2026-11-18",
           "p": 6.176
+        },
+        {
+          "d": "2026-11-19",
+          "p": 6.149
         }
       ],
-      "prix": 6.176,
-      "prixDate": "2026-11-18",
-      "variationJour": 0.06
+      "prix": 6.149,
+      "prixDate": "2026-11-19",
+      "variationJour": -0.34
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
+        {
+          "date": "2026-11-19",
+          "titre": "Anthropic ouvre à 111,50 $ (+34 %) pour ses débuts au Nasdaq, puis Wall Street se retourne et le Nasdaq perd environ 1,3 %",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+        },
         {
           "date": "2026-11-18",
           "titre": "Nvidia double son chiffre d'affaires mais son titre recule, Wall Street hésite",
@@ -792,11 +831,6 @@
           "date": "2026-11-13",
           "titre": "Nvidia, première ligne de l'indice, finit à 162,85 dollars (-2 %) et signe sa pire semaine depuis avril 2025 (-13 %) après le départ de Jensen Huang ; HSBC abaisse sa recommandation",
           "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits"
-        },
-        {
-          "date": "2026-11-13",
-          "titre": "Scandale Nvidia : Washington s'interroge sur des puces revendues en Chine via Megaspeed, les semi-conducteurs américains chutent",
-          "url": "https://www.afp.com/en/stocks-fail-turn-page-nvidia-scandal"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -804,12 +838,7 @@
       "nom": "Amundi PEA Nasdaq-100 (part à petit prix)",
       "pea": true,
       "potentiel": "Capte la croissance des géants de l'IA et du cloud. C'est un satellite de croissance à côté du socle MSCI World.",
-      "rendezvous": [
-        {
-          "date": "2026-11-19",
-          "titre": "Introduction en Bourse d'Anthropic à New York"
-        }
-      ],
+      "rendezvous": [],
       "risque": "Modéré",
       "risques": "Très sensible aux hausses de taux (le contexte actuel avec la BCE et la Fed) et concentré sur un pays et un secteur. Le Nasdaq-100 a perdu près de 33 % en 2022.",
       "secteur": "Tech US",
@@ -875,11 +904,15 @@
         {
           "d": "2026-11-18",
           "p": 6.488
+        },
+        {
+          "d": "2026-11-19",
+          "p": 6.535
         }
       ],
-      "prix": 6.488,
-      "prixDate": "2026-11-18",
-      "variationJour": 0.98
+      "prix": 6.535,
+      "prixDate": "2026-11-19",
+      "variationJour": 0.72
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -937,6 +970,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-11-19",
+          "titre": "STMicroelectronics finit en tête du CAC 40 (+1,6 % vers 41,17 €) malgré le reflux des semi-conducteurs en fin de séance",
+          "url": "https://www.zonebourse.com/actualite-bourse/paris-recule-eclipsee-par-les-debuts-d-anthropic-ce785ed2dd80f02d"
+        },
+        {
           "date": "2026-11-18",
           "titre": "STMicroelectronics prend la tête du CAC 40 (+1,8 %) grâce à l'effet Nvidia",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-0692f2cf5b61cac9ed1d93c1f5dd71f0"
@@ -960,11 +998,6 @@
           "date": "2026-11-10",
           "titre": "Porté par les résultats d'Infineon, STMicroelectronics touche 41,08 € puis rend l'essentiel de son gain après l'inflation américaine et finit à 40,11 € (+1,2 %)",
           "url": "https://www.boursorama.com/bourse/actualites-amp/une-publication-annuelle-rassurante-galvanise-infineon-4b81c2d9bb307ce5d4b6818305d66dc1"
-        },
-        {
-          "date": "2026-11-09",
-          "titre": "STMicroelectronics mène le CAC 40 avec +5,3 % à 39,63 €, porté par le retour des achats sur les valeurs liées à l'IA",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-avec-la-baisse-des-prix-du-brut-23611a6b7793fc822f18e2d6449e06c3"
         }
       ],
       "isin": "NL0000226223",
@@ -1070,11 +1103,15 @@
         {
           "d": "2026-11-18",
           "p": 40.53
+        },
+        {
+          "d": "2026-11-19",
+          "p": 41.17
         }
       ],
-      "prix": 40.53,
-      "prixDate": "2026-11-18",
-      "variationJour": 1.8
+      "prix": 41.17,
+      "prixDate": "2026-11-19",
+      "variationJour": 1.59
     },
     {
       "isin": "NL00150001Q9",
@@ -1121,9 +1158,9 @@
           "url": "https://www.ctvnews.ca/canada/article/joly-says-stellantis-could-get-more-government-money-if-it-promised-to-keep-brampton-plant-open/"
         }
       ],
-      "prix": 3.2805,
-      "prixDate": "2026-11-18",
-      "variationJour": -1.19,
+      "prix": 3.235,
+      "prixDate": "2026-11-19",
+      "variationJour": -1.39,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1168,6 +1205,10 @@
         {
           "d": "2026-11-18",
           "p": 3.2805
+        },
+        {
+          "d": "2026-11-19",
+          "p": 3.235
         }
       ]
     },
@@ -1186,6 +1227,11 @@
       "rendezvous": [],
       "actus": [
         {
+          "date": "2026-11-19",
+          "titre": "Le CAC 40 recule de 0,81 % à 8 080,74 points, -3,44 % sur la semaine",
+          "url": "https://www.zonebourse.com/actualite-bourse/paris-recule-eclipsee-par-les-debuts-d-anthropic-ce785ed2dd80f02d"
+        },
+        {
           "date": "2026-11-18",
           "titre": "Le CAC 40 recule de 0,85 % à 8 146,83 points malgré Nvidia",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-0692f2cf5b61cac9ed1d93c1f5dd71f0"
@@ -1196,9 +1242,9 @@
           "url": "https://www.zonebourse.com/actualite-bourse/cinq-sur-cinq-pour-le-cac-40-sur-la-semaine-ce785ed9d08df327"
         }
       ],
-      "prix": 41.485,
-      "prixDate": "2026-11-18",
-      "variationJour": -0.79,
+      "prix": 41.28,
+      "prixDate": "2026-11-19",
+      "variationJour": -0.41,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1243,17 +1289,15 @@
         {
           "d": "2026-11-18",
           "p": 41.485
+        },
+        {
+          "d": "2026-11-19",
+          "p": 41.28
         }
       ]
     }
   ],
   "agenda": [
-    {
-      "id": "opec-momr-2026-11",
-      "date": "2026-11-11",
-      "titre": "OPEP : rapport mensuel sur le pétrole",
-      "detail": "Repère pour le Brent après sa plus forte baisse hebdomadaire depuis 2020, sur l'espoir d'un accord entre les États-Unis et l'Iran"
-    },
     {
       "id": "us-claims-2026-11-12",
       "date": "2026-11-12",
@@ -1317,8 +1361,8 @@
     {
       "id": "anthropic-ipo-2026",
       "date": "2026-11-18",
-      "titre": "Anthropic : fixation du prix de son introduction en Bourse",
-      "detail": "825 millions d'actions proposées entre 70 et 78 dollars, prix fixé mercredi soir et cotation prévue jeudi 19 novembre au Nasdaq sous le symbole ANT (CNBC). Un test de l'appétit des investisseurs pour l'IA, qui pèse sur ton ETF Nasdaq-100."
+      "titre": "Anthropic : première cotation au Nasdaq",
+      "detail": "Fait : prix fixé à 83 $, ouverture à 111,50 $ (+34 %) puis repli vers 96 $ en fin d'après-midi, pour une levée record de 81,3 milliards de dollars (Yahoo Finance). Wall Street s'est retournée en baisse après les débuts du titre."
     },
     {
       "id": "ez-hicp-final-2026-10",
@@ -1342,13 +1386,31 @@
       "id": "apec-trilaterale-2026-11-19",
       "date": "2026-11-19",
       "titre": "Sommet Trump, Xi, Poutine à Shenzhen (APEC)",
-      "detail": "Première rencontre à trois entre les dirigeants américain, chinois et russe, confirmée par la Maison-Blanche et le Kremlin (Le Monde, Japan Times). Au menu : contrôle des armes nucléaires et guerre en Iran. Un repère pour le pétrole, la défense et les valeurs exposées à la Chine."
+      "detail": "Fait : déclaration commune sur la stabilité des flux d'énergie et un dialogue sur la réduction des risques nucléaires ; selon Donald Trump, Xi Jinping est d'accord pour garder ouvert le détroit d'Ormuz (Al Jazeera). Rien d'annoncé sur les droits de douane ou les puces."
     },
     {
       "id": "vallourec-q3-2026",
       "date": "2026-11-20",
       "titre": "Vallourec : résultats du 3e trimestre",
       "detail": "Annoncés pour vendredi par Le Revenu. Un repère pour les valeurs parapétrolières avec un Brent proche de 96 dollars."
+    },
+    {
+      "id": "ez-pmi-flash-2026-11",
+      "date": "2026-11-20",
+      "titre": "Zone euro, France, Allemagne : indices PMI flash de novembre",
+      "detail": "Dans la matinée (Moneyvox). Premier baromètre de l'activité de novembre, avec une BCE qui hésite à monter ses taux."
+    },
+    {
+      "id": "lagarde-ebc-2026-11-20",
+      "date": "2026-11-20",
+      "titre": "Christine Lagarde ouvre le Congrès bancaire européen à Francfort",
+      "detail": "Vers 9h30 heure de Paris, texte publié (Admiral Markets). Les marchés monétaires donnent environ 91 % de chances à une hausse de 0,25 point le 17 décembre."
+    },
+    {
+      "id": "us-michigan-2026-11",
+      "date": "2026-11-20",
+      "titre": "États-Unis : confiance des consommateurs de l'Université du Michigan (version finale)",
+      "detail": "16h00 heure de Paris (Moneyvox), avec les anticipations d'inflation des ménages."
     },
     {
       "id": "airbus-macron-2026-11-23",
@@ -1597,6 +1659,11 @@
     {
       "d": "2026-11-18",
       "valeur": 757.83,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-19",
+      "valeur": 757.33,
       "investi": 799.28
     }
   ]

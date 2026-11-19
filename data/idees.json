@@ -31,6 +31,22 @@
       "statut": "invalidée",
       "dateCloture": "2026-11-18",
       "perfPct": -4.55
+    },
+    {
+      "id": "alrib-2026-11-19",
+      "date": "2026-11-19",
+      "nom": "Riber",
+      "isin": "FR0000075954",
+      "compte": "PEA",
+      "avis": "Spéculatif",
+      "horizon": "2 à 10 jours",
+      "entree": 6.3,
+      "invalidation": 5.84,
+      "objectif": 7.3,
+      "echeance": "2026-12-03",
+      "statut": "ouverte",
+      "dateCloture": null,
+      "perfPct": null
     }
   ]
 }

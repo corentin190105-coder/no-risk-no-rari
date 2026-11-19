@@ -463,3 +463,14 @@ Le compte rendu, appelé « minutes » en anglais, est le résumé détaillé de
 **Références**
 - [Réserve fédérale : calendrier des réunions du FOMC et comptes rendus](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
 - [BCE : comptes rendus des réunions de politique monétaire](https://www.ecb.europa.eu/press/accounts/html/index.fr.html)
+
+## Q: Qu'est-ce que la vente à découvert ?
+
+_2026-11-19 21:11 CET_
+
+La vente à découvert consiste à vendre une action que l'on ne possède pas, en l'empruntant, pour la racheter plus tard : le vendeur gagne si le cours baisse, et sa perte n'a pas de limite théorique si le cours monte. Certains fonds dits « activistes » publient leur analyse pour justifier leur pari : jeudi, la révélation d'une position vendeuse du fonds Hunterbrook sur AMD, qui soupçonne que ses puces atteignent un groupe chinois sous sanctions américaines, a fait chuter le titre d'environ 8 à 9 % (Yahoo Finance). En Europe, une position courte nette doit être déclarée au régulateur dès 0,1 % du capital et devient publique dès 0,5 % ; l'AMF publie ces positions et leur historique. Beaucoup de positions courtes traduisent un pessimisme, mais peuvent aussi provoquer des hausses brutales quand les vendeurs doivent racheter en urgence. La vente à découvert n'est pas possible dans un PEA, réservé aux achats. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [AMF : la réglementation sur les ventes à découvert (VAD)](https://www.amf-france.org/sites/institutionnel/files/pdf/61139/fr/La_reglementation_sur_les_ventes_a_decouvert_(VAD).pdf?1655834139)
+- [AMF : data visualisation des ventes à découvert](https://www.amf-france.org/fr/actualites-publications/publications/open-data/data-visualisation-des-ventes-decouvert)
+- [data.gouv.fr : historique des positions courtes nettes rendues publiques](https://www.data.gouv.fr/fr/datasets/62738e33f1be79935d3e5553/)

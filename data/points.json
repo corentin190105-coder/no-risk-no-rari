@@ -1,6 +1,353 @@
 {
   "points": [
     {
+      "date": "2026-11-19",
+      "titre": "Les débuts record d'Anthropic font flancher Wall Street, Paris recule encore",
+      "resume": "Le CAC 40 a perdu 0,81 % à 8 080,74 points, sa troisième baisse d'affilée (-3,44 % depuis lundi), et l'Euro Stoxx 50 environ 0,4 %, l'élan matinal des semi-conducteurs s'étant essoufflé (Zonebourse, Moneyvox). Soitec a bondi de 12 % après ses résultats, mais Sanofi, Accor et Capgemini ont reculé de près de 3 %. À New York, Anthropic a ouvert 34 % au-dessus de son prix d'introduction, puis Wall Street s'est retournée nettement à la baisse.",
+      "humeur": "baisse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 081 pts",
+          "variation": -0.81
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "≈ 6 119 pts",
+          "variation": -0.4
+        },
+        {
+          "nom": "S&P 500 (provisoire, vers 20h35)",
+          "valeur": "≈ 7 231 pts",
+          "variation": -1.27
+        },
+        {
+          "nom": "Nasdaq Composite (provisoire, vers 20h35)",
+          "valeur": "≈ 24 111 pts",
+          "variation": -1.3
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "59 444 pts",
+          "variation": 0.71
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "22 842 pts",
+          "variation": -1.95
+        },
+        {
+          "nom": "Brent (matin)",
+          "valeur": "≈ 91,70 $",
+          "variation": -0.2
+        },
+        {
+          "nom": "Or (vers 20h35)",
+          "valeur": "≈ 3 677 $",
+          "variation": -1.75
+        },
+        {
+          "nom": "Euro/dollar (vers 14h)",
+          "valeur": "≈ 1,099 $",
+          "variation": 0.27
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Anthropic : une introduction record, puis un retournement à Wall Street",
+          "texte": "Anthropic a levé 81,3 milliards de dollars à 83 $ par action, un record, et son titre a ouvert à 111,50 $ (+34 %) avant de revenir vers 96 $ en fin d'après-midi (Yahoo Finance). Les ventes se sont ensuite étendues à tout Wall Street : vers 20h35, le Dow Jones perdait 1,6 %, le S&P 500 1,3 % et l'indice de volatilité VIX bondissait de 13,6 %. AMD a chuté d'environ 8 à 9 % après la révélation d'une position vendeuse du fonds Hunterbrook."
+        },
+        {
+          "titre": "Sommet de Shenzhen : des promesses, pas d'accord commercial",
+          "texte": "Donald Trump, Xi Jinping et Vladimir Poutine ont publié une déclaration commune sur la stabilité des flux d'énergie et un dialogue pour réduire les risques nucléaires (Al Jazeera). Selon Donald Trump, Xi Jinping est d'accord pour garder ouvert le détroit d'Ormuz, mais rien n'a été annoncé sur les droits de douane, les puces ou les terres rares. Un signal plutôt apaisant pour le pétrole, sans effet visible sur les marchés."
+        },
+        {
+          "titre": "Taux : la pression monte avant la BCE et la Fed",
+          "texte": "Le taux français à 10 ans monte à 4,94 % (4,86 % la veille) et le taux allemand à 3,41 % (Zonebourse), tandis que le taux américain reste vers 5,06 % (Yahoo Finance). Les marchés monétaires donnent environ 91 % de chances à une hausse de 0,25 point de la BCE le 17 décembre, avec une inflation de 4 % en octobre (Admiral Markets). Christine Lagarde s'exprime vendredi vers 9h30, le jour des indices PMI de novembre."
+        },
+        {
+          "titre": "Pétrole stable, or en baisse",
+          "texte": "Le Brent se stabilise vers 91,70 $ le matin après sa chute de la veille, freiné par la hausse des stocks de brut américains (+3,4 millions de barils) et la crainte d'un excédent d'offre (HDFC Sky). L'or perd environ 1,75 % vers 3 677 $, pénalisé par un dollar fort et la perspective de taux plus élevés."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 757.33,
+        "pv": -41.95,
+        "texte": "Ton portefeuille vaut 757,33 € pour 799,28 € investis, soit -41,95 €, en léger recul sur la journée (-0,50 €) : la hausse de STMicroelectronics (+1,6 %) et de l'ETF Nasdaq-100 ne compense pas la baisse du Monde (-0,3 %), du Core CAC 40 et de Stellantis (-1,4 %). Les cours retenus pour les ETF datent de 17h15 et ne reflètent pas encore la baisse de Wall Street de fin de journée, qui pèsera sur le Nasdaq-100 et le Monde vendredi."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Ce qui a changé : en tête du CAC 40 pour la deuxième séance, avec +1,6 % vers 41,17 € (Zonebourse), après avoir touché 42,71 € dans la matinée. Le titre repasse au-dessus de sa moyenne 20 jours (41,18 €) mais reste sous la 50 jours (43,43 €), à 2,56 € au-dessus de ton niveau de sortie."
+        },
+        {
+          "nom": "Stellantis",
+          "texte": "Pas de nouvelle publiée trouvée ce soir : le titre recule encore de 1,4 % vers 3,24 € (cours de 17h15, non officiel), loin sous ton niveau de sortie de 3,75 € et sous ses moyennes 20 et 50 jours (3,79 € et 3,96 €)."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "Bond de 12 % à 109,25 € après ses résultats, après un plus haut à 117,40 € (Moneyvox) : l'objectif de 122 € de l'idée spéculative n'a pas été touché, et elle expire vendredi."
+        },
+        {
+          "nom": "Riber",
+          "texte": "+8,4 % à 6,43 € après une commande d'un industriel asiatique, livrable fin décembre, sur un volume 2,5 fois supérieur à la moyenne (Moneyvox)."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "L'ETF finit en hausse à Paris (+0,8 % pour la part classique), mais les valeurs américaines se sont retournées après la clôture européenne : le Nasdaq perdait environ 1,3 % vers 20h35 (Yahoo Finance)."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Groupe ADP",
+          "isin": "FR0010340141",
+          "risque": "Modéré",
+          "prix": "≈ 119,50 € la part",
+          "texte": "Groupe ADP exploite les aéroports de Roissy-Charles-de-Gaulle et d'Orly. Jeudi, l'Autorité de régulation des transports a donné son feu vert, avec cinq réserves, au contrat économique 2027-2034 qui fixe ses redevances, avec un objectif de 130 millions de passagers en 2034 contre environ 110 millions en 2026 ; le titre a gagné 3,9 % à 119,50 € (Moneyvox). Ce contrat prévoit 8,2 milliards d'euros d'investissements régulés et une rémunération moyenne des capitaux de 5,8 % (Boursier.com), ce qui donne de la visibilité sur huit ans. Le principal risque : le trafic reste sensible au conflit au Moyen-Orient et au prix du kérosène, et les cinq réserves du régulateur doivent encore être levées avant la signature."
+        },
+        {
+          "nom": "Riber",
+          "isin": "FR0000075954",
+          "risque": "Très élevé",
+          "prix": "≈ 6,43 € la part",
+          "texte": "Riber fabrique des machines d'épitaxie qui déposent les matériaux atome par atome pour les puces de la photonique et des lasers, au cœur des centres de calcul de l'IA. Jeudi, le titre a gagné 8,4 % à 6,43 € après une commande d'un industriel asiatique, livrable fin décembre, la société visant au moins 40 millions d'euros de chiffre d'affaires en 2026 (Moneyvox). La part à environ 6 € convient à un petit budget et le thème rejoint les bons chiffres de Soitec dans la photonique. Le principal risque : c'est une très petite société, très volatile, dont le montant de la commande n'est pas communiqué et dont le cours reste sous sa moyenne 50 jours (7,47 €)."
+        },
+        {
+          "nom": "Sanofi",
+          "isin": "FR0000120578",
+          "risque": "Élevé",
+          "prix": "≈ 83,80 € la part",
+          "texte": "Sanofi est le premier groupe pharmaceutique français, connu pour son traitement Dupixent. Selon Bloomberg, il étudie le rachat de l'américain Insmed, valorisé environ 26 milliards de dollars, spécialiste des maladies respiratoires ; rien n'est décidé et Sanofi ne commente pas (Reuters via Investing.com). Le titre a perdu 2,85 % à 83,79 € (Zonebourse), le marché craignant le prix à payer, alors que le groupe cherche à remplacer Dupixent avant l'expiration de ses brevets. Le principal risque : une acquisition très chère, financée par la dette, ou l'absence d'accord après des semaines de rumeurs."
+        }
+      ],
+      "idee": {
+        "nom": "Groupe ADP",
+        "isin": "FR0010340141",
+        "risque": "Modéré",
+        "prix": "≈ 119,50 € la part",
+        "texte": "Groupe ADP exploite les aéroports de Roissy-Charles-de-Gaulle et d'Orly. Jeudi, l'Autorité de régulation des transports a donné son feu vert, avec cinq réserves, au contrat économique 2027-2034 qui fixe ses redevances, avec un objectif de 130 millions de passagers en 2034 contre environ 110 millions en 2026 ; le titre a gagné 3,9 % à 119,50 € (Moneyvox). Ce contrat prévoit 8,2 milliards d'euros d'investissements régulés et une rémunération moyenne des capitaux de 5,8 % (Boursier.com), ce qui donne de la visibilité sur huit ans. Le principal risque : le trafic reste sensible au conflit au Moyen-Orient et au prix du kérosène, et les cinq réserves du régulateur doivent encore être levées avant la signature."
+      },
+      "concept": {
+        "terme": "La vente à découvert",
+        "texte": "La vente à découvert consiste à vendre une action que l'on ne possède pas, en l'empruntant, pour la racheter plus tard : le vendeur gagne si le cours baisse, et sa perte n'a pas de limite théorique si le cours monte. Certains fonds dits « activistes » publient leur analyse pour justifier leur pari : jeudi, la révélation d'une position vendeuse du fonds Hunterbrook sur AMD, qui soupçonne que ses puces atteignent un groupe chinois sous sanctions américaines, a fait chuter le titre d'environ 8 à 9 % (Yahoo Finance). En Europe, une position courte nette doit être déclarée au régulateur dès 0,1 % du capital et devient publique dès 0,5 % ; l'AMF publie ces positions et leur historique. Beaucoup de positions courtes traduisent un pessimisme, mais peuvent aussi provoquer des hausses brutales quand les vendeurs doivent racheter en urgence. La vente à découvert n'est pas possible dans un PEA, réservé aux achats. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "AMF : la réglementation sur les ventes à découvert (VAD)",
+            "url": "https://www.amf-france.org/sites/institutionnel/files/pdf/61139/fr/La_reglementation_sur_les_ventes_a_decouvert_(VAD).pdf?1655834139"
+          },
+          {
+            "titre": "AMF : data visualisation des ventes à découvert",
+            "url": "https://www.amf-france.org/fr/actualites-publications/publications/open-data/data-visualisation-des-ventes-decouvert"
+          },
+          {
+            "titre": "data.gouv.fr : historique des positions courtes nettes rendues publiques",
+            "url": "https://www.data.gouv.fr/fr/datasets/62738e33f1be79935d3e5553/"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché n'est pas porteur pour agir à court terme : le CAC 40 perd 0,81 % et 3,44 % depuis lundi, et Wall Street s'est nettement retournée après les débuts d'Anthropic, le S&P 500 perdant environ 1,3 % et l'indice de volatilité VIX bondissant de 13 % vers 27,9 en fin d'après-midi (Yahoo Finance). Aucune idée ne passe tous les critères Favorable ; j'ajoute une seule idée Spéculatif, Riber, avec une entrée sur repli et une taille calculée pour une perte maximale de 25 €. Le journal compte une idée close (Vusion, -4,55 %) et une ouverte (Soitec, échéance demain) : l'échantillon est beaucoup trop petit pour juger la méthode. Sur tes lignes : Stellantis finit vers 3,24 €, toujours sous ton niveau de sortie de 3,75 € ; STMicroelectronics est à 41,17 €, 2,56 € au-dessus du sien (38,61 €) ; Air Liquide reste loin de 171 €.",
+        "retro": "Bilan intermédiaire à 5 séances des avis du 12 novembre. TotalEnergies (Attendre, entrée 81,80 € après une clôture au-dessus de 81,60 €) a bien clôturé vers 81,98 € selon le radar, l'entrée a donc pu être déclenchée, puis l'invalidation de 79,70 € a été cassée jeudi (plus bas 79,15 €) : environ -3,6 % net sur 200 €, une erreur de la méthode. Viridien (Attendre, entrée 98 €) n'a pas clôturé au-dessus de 97,70 € et finit vers 94,85 € : aucune perte. Air France-KLM (Éviter à 14,30 €) finit vers 14,50 € : peu de gain manqué. Bilan définitif à 10 séances des avis du 5 novembre : Air France-KLM était en Attendre avec une entrée à 12,90 € et un objectif de 14,50 €, atteint depuis (plus haut vers 14,58 €), soit environ +11 % net sur 200 € manqués par prudence ; STMicroelectronics était en Éviter à 37,09 € et finit à 41,17 €, un rebond d'environ 11 % que l'avis a fait rater.",
+        "opportunites": [
+          {
+            "nom": "Riber",
+            "isin": "FR0000075954",
+            "compte": "PEA",
+            "avis": "Spéculatif",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Commande d'un industriel asiatique annoncée le 19 novembre, livraison prévue fin décembre",
+            "cours": "6,43 €",
+            "entree": "6,30 €, ordre à cours limité sur repli",
+            "invalidation": "5,84 €",
+            "objectif": "7,30 €",
+            "ratio": "2,2",
+            "frais": "50 actions : environ 315 €, perte maximale d'environ 25 € frais compris (hors écart d'ouverture), gain visé d'environ 48 € net de 2 € de frais",
+            "these": "Riber fabrique des machines d'épitaxie par jets moléculaires, qui déposent les matériaux couche d'atomes par couche d'atomes pour les puces de la photonique, des lasers et des capteurs. Le catalyseur est daté : jeudi, la société a annoncé une commande d'un industriel asiatique, livrable fin décembre, avec un objectif d'au moins 40 millions d'euros de chiffre d'affaires en 2026 après 40,3 millions en 2025 (Moneyvox) ; une seule machine pèse 5 à 10 % de son activité annuelle. Le titre a gagné 8,4 % à 6,43 € sur un volume environ 2,5 fois supérieur à sa moyenne 20 jours, et repasse au-dessus de sa moyenne 20 jours (6,14 €) mais reste sous sa moyenne 50 jours (7,47 €), qui sert d'objectif. Le mouvement depuis l'annonce fait environ 1,1 ATR (0,45 €), mais le plus haut du jour à 6,90 € a été repris : j'attends un repli vers 6,30 €, au niveau du plus bas de la séance, et cette entrée risque de ne pas être atteinte. Ce qui manque pour être Favorable : le montant de la commande n'est pas publié, je n'ai vérifié ni les achats de dirigeants, ni les positions courtes, ni le consensus, la liquidité est faible et le marché est nerveux. Je l'estime à environ 60 % de probabilité d'échec.",
+            "risque": "Une très petite valeur peut perdre 7 % en une séance sans nouvelle, et un repli général de la tech après le retournement de Wall Street pourrait casser 5,84 € dès l'ouverture."
+          },
+          {
+            "nom": "Soitec",
+            "isin": "FR0013227113",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Résultats semestriels du 18 novembre et objectif annuel relevé",
+            "cours": "109,25 €",
+            "entree": "aucune nouvelle entrée ; l'idée spéculative du 11 novembre reste ouverte",
+            "invalidation": "94,50 € (idée ouverte)",
+            "objectif": "122,00 € (idée ouverte)",
+            "ratio": "non applicable",
+            "frais": "pas de nouvel achat : l'idée ouverte est suivie jusqu'à son échéance du 20 novembre",
+            "these": "Ce qui a changé : Soitec a bondi de plus de 20 % en séance jusqu'à 117,40 €, puis a fini à 109,25 € (+12 %), en tête du SBF 120 (Moneyvox, Zonebourse). Le chiffre d'affaires semestriel a progressé de 37 % à 317 millions d'euros, la perte nette s'est réduite à 45 millions, et la photonique doit dépasser 300 millions de dollars sur l'année. Le plus haut a dépassé 2 ATR depuis la publication : la règle interdit d'acheter ce mouvement, et la reprise de 8 € en fin de séance montre que des investisseurs ont vendu la nouvelle. L'objectif de 122 € de l'idée ouverte n'a pas été touché ; elle sera close demain au cours de clôture si ni l'objectif ni l'invalidation ne sont atteints. Le titre reste sous sa moyenne 50 jours (130,51 €).",
+            "risque": "Un repli de la tech mondiale vendredi peut effacer une partie de la hausse ; le titre reste très volatil (ATR d'environ 10 €)."
+          },
+          {
+            "nom": "Airbus",
+            "isin": "NL0000235190",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Visite d'Emmanuel Macron à Toulouse le 23 novembre, avec des annonces de soutien à la filière",
+            "cours": "≈ 198,46 € (17h15, non officiel)",
+            "entree": "200,50 €, seulement après une clôture au-dessus de 199,50 €",
+            "invalidation": "194,50 €",
+            "objectif": "213,00 €",
+            "ratio": "2,1",
+            "frais": "1 action : environ 200,50 €, perte maximale d'environ 8 € frais compris, gain visé d'environ 10,50 € net de 2 € de frais",
+            "these": "Ce qui a changé depuis hier : Airbus a ouvert en hausse et touché 203,15 € en séance, au-dessus de l'entrée, mais a fini vers 198,46 €, sous le seuil de clôture de 199,50 € : le plan n'est pas déclenché, et c'est la deuxième fois que la règle de clôture évite une entrée sur un faux départ. Le catalyseur reste daté au 23 novembre. Le titre oscille autour de sa moyenne 20 jours (199,27 €) et au-dessus de la moyenne 50 jours (195,19 €), avec un volume d'environ 0,4 fois la moyenne. L'invalidation est à environ 1,1 ATR (5,65 €). Ce qui manque pour être Favorable : la clôture de confirmation et un marché plus calme.",
+            "risque": "Si les annonces de lundi visent surtout les sous-traitants, ou si Wall Street continue de baisser, le titre peut revenir sous 194,50 €."
+          },
+          {
+            "nom": "Groupe ADP",
+            "isin": "FR0010340141",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Feu vert du régulateur au contrat économique 2027-2034, annoncé le 19 novembre",
+            "cours": "119,50 €",
+            "entree": "aucune ce soir, faute d'ATR",
+            "invalidation": "à fixer avec l'ATR",
+            "objectif": "à fixer",
+            "ratio": "non calculé",
+            "frais": "pas de plan tant que la valeur n'est pas suivie par le fichier de cours",
+            "these": "Groupe ADP exploite Roissy et Orly. Le régulateur des transports a validé, avec cinq réserves, le contrat 2027-2034 qui fixe ses redevances : 8,2 milliards d'euros d'investissements régulés et une rémunération moyenne des capitaux de 5,8 % (Boursier.com), pour viser 130 millions de passagers en 2034 (Moneyvox). Le titre a gagné 3,9 % à 119,50 €, portant sa hausse à 17 % depuis janvier. C'est un vrai fait nouveau, mais la valeur n'était pas dans le fichier de cours du site : sans ATR, aucun avis Favorable n'est possible. Je l'ajoute au suivi pour un plan chiffré demain.",
+            "risque": "Les cinq réserves doivent être levées avant la signature, et le trafic reste exposé au conflit au Moyen-Orient."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "La dette nette et le levier : une entreprise peut-elle porter sa dette ?",
+        "niveau": "Intermédiaire",
+        "texte": "Après le bilan, le compte de résultat et les flux de trésorerie, il faut savoir juger le poids de la dette. La dette nette se calcule ainsi : dettes financières (emprunts, obligations) moins la trésorerie disponible. Une dette nette négative signifie que l'entreprise a plus de cash que de dettes. Pour savoir si cette dette est lourde, on la compare à l'EBITDA, le résultat avant intérêts, impôts et amortissements, qui donne une idée de l'argent que l'activité génère chaque année. Le ratio dette nette sur EBITDA dit combien d'années de cet argent il faudrait pour rembourser la dette : sous 2, la situation est en général confortable ; au-delà de 3 à 4, l'entreprise devient fragile, surtout quand les taux montent, car ses intérêts coûtent plus cher. Ce seuil dépend du secteur : un gestionnaire d'aéroports aux revenus réguliers supporte plus de dette qu'un fabricant de puces aux ventes cycliques. Les agences de notation et les banques suivent ce ratio de près, et les contrats de prêt imposent souvent un plafond. Regarde-le toujours avant d'acheter une valeur, et revois-le quand une entreprise annonce une grosse acquisition.",
+        "exemple": "Exemple aux chiffres simplifiés, inspiré de la rumeur du jour sur Sanofi et Insmed (valorisée environ 26 milliards de dollars) : une entreprise a 12 milliards d'euros de dettes, 4 milliards de trésorerie et un EBITDA de 4 milliards. Sa dette nette est de 8 milliards, soit un levier de 2 (8 / 4). Si elle emprunte 22 milliards pour racheter une société qui lui apporte 1 milliard d'EBITDA, sa dette nette passe à 30 milliards pour 5 milliards d'EBITDA : un levier de 6, trois fois plus élevé, d'où la méfiance de la Bourse face aux gros rachats payés à crédit.",
+        "references": [
+          {
+            "titre": "Test Achats Invest : rapport dette nette / EBITDA",
+            "url": "https://www.test-achats.be/invest/lexicon/r/rapport-dette-nette-ebitda"
+          },
+          {
+            "titre": "France Épargne : total leverage ratio (ratio de levier)",
+            "url": "https://www.france-epargne.fr/glossaire/total-leverage-ratio"
+          },
+          {
+            "titre": "Boursedescredits : définition de l'endettement net",
+            "url": "https://www.boursedescredits.com/lexique-definition-endettement-net-1840.php"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Une entreprise a 10 milliards d'euros de dettes financières, 2 milliards de trésorerie et un EBITDA de 2 milliards. Quel est son ratio dette nette sur EBITDA ?",
+          "choix": [
+            "5",
+            "6",
+            "4",
+            "2"
+          ],
+          "bonne": 2,
+          "explication": "Dette nette = 10 - 2 = 8 milliards ; 8 / 2 = 4. Un levier de 4 commence à être élevé pour la plupart des secteurs."
+        },
+        {
+          "question": "Un fonds vend à découvert une action à 50 €. Que se passe-t-il pour lui si l'action monte à 60 € ?",
+          "choix": [
+            "Il gagne 10 € par action",
+            "Il ne gagne ni ne perd rien tant qu'il n'a pas acheté",
+            "Il perd 10 € par action s'il rachète à ce prix, et sa perte peut encore grandir",
+            "Sa perte est limitée à sa mise de départ"
+          ],
+          "bonne": 2,
+          "explication": "Le vendeur à découvert doit racheter l'action pour la rendre : il a vendu 50 €, rachète 60 €, soit 10 € de perte, et rien ne limite la hausse possible du cours."
+        },
+        {
+          "question": "Révision : tu veux acheter Riber, mais pas au-dessus de 6,30 €. Quel ordre utiliser ?",
+          "choix": [
+            "Un ordre au marché",
+            "Un ordre à cours limité à 6,30 €",
+            "Un ordre de vente à découvert",
+            "Aucun ordre, il faut appeler la banque"
+          ],
+          "bonne": 1,
+          "explication": "L'ordre à cours limité fixe le prix maximal payé : il n'est exécuté qu'à 6,30 € ou moins, alors qu'un ordre au marché accepte n'importe quel prix."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-20",
+          "titre": "Indices PMI flash de novembre ; discours de Christine Lagarde ; Michigan (16h) ; Vallourec : résultats ; échéance de l'idée Soitec"
+        },
+        {
+          "date": "2026-11-23",
+          "titre": "Emmanuel Macron chez Airbus à Toulouse, annonces sur la filière"
+        },
+        {
+          "date": "2026-11-25",
+          "titre": "Eramet : fin de la négociation des droits préférentiels"
+        },
+        {
+          "date": "2026-11-26",
+          "titre": "États-Unis : Thanksgiving, Wall Street fermée"
+        },
+        {
+          "date": "2026-12-01",
+          "titre": "Zone euro : estimation rapide de l'inflation de novembre"
+        },
+        {
+          "date": "2026-12-03",
+          "titre": "Échéance de l'idée spéculative Riber"
+        },
+        {
+          "date": "2026-12-04",
+          "titre": "États-Unis : rapport sur l'emploi de novembre (Fed le 9 décembre, BCE le 17)"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Zonebourse (AWP) : Paris recule, éclipsée par les débuts d'Anthropic",
+          "url": "https://www.zonebourse.com/actualite-bourse/paris-recule-eclipsee-par-les-debuts-d-anthropic-ce785ed2dd80f02d"
+        },
+        {
+          "titre": "Moneyvox : CAC 40, l'euphorie aura été de courte durée",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111326/cac-40-euphorie-aura-ete-de-courte-duree-retrouvez-les-infos-bourse-du-19-novembre"
+        },
+        {
+          "titre": "Yahoo Finance : Wall Street et les débuts d'Anthropic, en direct",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+        },
+        {
+          "titre": "Ad-hoc News : l'Euro Stoxx 50 finit en baisse",
+          "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-ends-lower-as-risk-aversion-returns/70537701"
+        },
+        {
+          "titre": "247 Wall St : clôture de Hong Kong",
+          "url": "https://247wallst.com/cards/hong-kong-s-1-91-loss-is-seven-times-the-damage-done-in-sha-hsi-market-bell-01m7sd9qdfr9r2d7w2bzn0ggns"
+        },
+        {
+          "titre": "HDFC Sky : pétrole du 19 novembre",
+          "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-19-2026-brent-slips-0-2percent-to-91-7-wti-falls-to-82-7-as-surplus-looms"
+        },
+        {
+          "titre": "Al Jazeera : les points clés du sommet de Shenzhen",
+          "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"
+        },
+        {
+          "titre": "Admiral Markets : Lagarde, la BCE et l'euro",
+          "url": "https://admiralmarkets.com/analytics/traders-blog/lagarde-speech-ecb-december-2026"
+        },
+        {
+          "titre": "Reuters via Investing.com : Sanofi étudie le rachat d'Insmed",
+          "url": "https://www.investing.com/news/stock-market-news/sanofi-weighs-takeover-of-us-drugmaker-insmed-bloomberg-news-reports-5039450"
+        },
+        {
+          "titre": "Boursier.com via Bourse Direct : contrat de régulation 2027-2034 de Groupe ADP",
+          "url": "https://www.boursedirect.fr/fr/actualites/categorie/divers/groupe-adp-s-accorde-avec-l-etat-sur-un-projet-de-contrat-de-regulation-economique-2027-2034-boursier-70257ebcc2dee3be8d3cb51c087e067763175de1"
+        },
+        {
+          "titre": "Fichier de cours du site (Yahoo Finance, non officiel), cours de 17h15",
+          "url": "https://corentin190105-coder.github.io/no-risk-no-rari/data/cours.json"
+        }
+      ]
+    },
+    {
       "date": "2026-11-18",
       "titre": "Paris recule encore malgré Nvidia, la Fed garde les hausses de taux en vue",
       "resume": "Le CAC 40 a perdu 0,85 % à 8 146,83 points et l'Euro Stoxx 50 environ 0,9 %, l'élan des résultats de Nvidia s'étant limité aux semi-conducteurs, avec Soitec et STMicroelectronics en tête du CAC 40 (AFP). Pétrole, or et matières premières ont reculé, et Alstom a encore chuté de 7 % après sa perte semestrielle. Le soir, le compte rendu de la Fed a confirmé que presque tous ses responsables envisagent d'autres hausses de taux.",
@@ -6692,166 +7039,6 @@
         {
           "titre": "Boursorama : la Bourse de Paris recule, dette française",
           "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-recule-les-inquietudes-sur-la-dette-francaise-persistent-69c20327fcf942b8a7e0dd0e9445c0af"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-19",
-      "titre": "Paris chute de 1,1 % après le week-end de violences en France, pendant que l'IA rebondit à Wall Street",
-      "resume": "Le CAC 40 a perdu 1,11 % à 7 868,05 points, les banques françaises étant les plus touchées (Société Générale -3,4 %, BNP Paribas -2,5 %) alors que l'écart de taux avec l'Allemagne s'élargissait. À Wall Street, les valeurs de l'IA rebondissaient en séance après une semaine difficile. Le Brent reculait vers 108 dollars.",
-      "humeur": "baisse",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 868,05 pts",
-          "variation": -1.11
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "≈ 6 143 pts",
-          "variation": -1.0
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "en hausse en séance (dernière clôture confirmée : 7 659,44 pts)",
-          "variation": 0.6
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "en hausse en séance (dernière clôture confirmée : 26 140 pts)",
-          "variation": 1.2
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 108,4 $ le baril (en séance)",
-          "variation": -1.3
-        },
-        {
-          "nom": "Or",
-          "valeur": "non confirmé ce soir",
-          "variation": 0.0
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "non confirmé ce soir",
-          "variation": 0.0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Dette et politique en France",
-          "texte": "Après le week-end de violences urbaines, les investisseurs ont demandé une prime plus élevée pour prêter à la France : l'écart avec l'Allemagne à dix ans a atteint environ 147 points de base. Les banques, grandes détentrices de dette publique, ont fortement reculé."
-        },
-        {
-          "titre": "IA et Wall Street",
-          "texte": "Après une semaine où le Nasdaq a perdu 4,5 %, les valeurs liées à l'IA rebondissent, avec les puces en tête. Une salve de résultats d'entreprises américaines est attendue cette semaine."
-        },
-        {
-          "titre": "Banques centrales et inflation",
-          "texte": "La Fed décide le 28 octobre et la BCE le 29. L'inflation est de 3,8 % dans la zone euro et 3,7 % aux États-Unis en septembre, ce qui limite la marge des banques centrales."
-        },
-        {
-          "titre": "Pétrole",
-          "texte": "Le Brent reculait d'environ 1,3 % vers 108 dollars en séance, après être monté près de 110 dollars vendredi, sur fond de tensions persistantes au Moyen-Orient."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 380.84,
-        "pv": -18.36,
-        "texte": "Ton portefeuille vaut 380,84 € pour 399,20 € investis, soit une moins-value latente de 18,36 €. Faute de clôture fiable ce soir pour tes lignes, les cours sont ceux déjà enregistrés."
-      },
-      "valeurs": [
-        {
-          "nom": "Thales",
-          "texte": "L'action recule d'environ 2 % à 229,5 € à la veille de ses commandes et de son chiffre d'affaires du troisième trimestre, publiés demain."
-        },
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre est resté très volatil : il a perdu près de 12 % la semaine dernière mais reste en hausse d'environ 83 % depuis janvier ; résultats le 29 octobre."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Capgemini",
-          "isin": "FR0000125338",
-          "risque": "Modéré",
-          "prix": "≈ 118 € la part (cours du 13 octobre)",
-          "texte": "Capgemini accompagne les grandes entreprises dans leurs projets de numérique et d'IA, un métier de services moins dépendant des cycles des puces que les fabricants de semi-conducteurs. Le titre a gagné environ 14 % en un mois et le groupe rachète ses propres actions, ce qui montre sa confiance. Il est coté à Paris en euros et éligible au PEA, avec un prochain rendez-vous le 30 octobre (activité du 3e trimestre). Le principal risque est que l'IA réduise une partie du travail de conseil et de programmation vendu par le groupe."
-        },
-        {
-          "nom": "Exosens",
-          "isin": "FR001400Q9V2",
-          "risque": "Élevé",
-          "prix": "≈ 60 € la part (cours de mi-septembre, à revérifier)",
-          "texte": "Exosens conçoit des capteurs et des détecteurs de lumière (vision nocturne, imagerie, instruments scientifiques) utilisés notamment dans la défense et la photonique. Le groupe a relevé deux fois ses objectifs 2026 et publie ses résultats du troisième trimestre le 27 octobre. Il est coté à Paris en euros. Le risque principal est une valorisation déjà exigeante : une déception sur les commandes de défense peut faire reculer le titre fortement."
-        },
-        {
-          "nom": "Lhyfe",
-          "isin": "FR0014009YQ1",
-          "risque": "Très élevé",
-          "prix": "≈ 2 € la part (cours de début septembre)",
-          "texte": "Lhyfe produit de l'hydrogène vert par électrolyse de l'eau et se place parmi les plus gros producteurs européens, un thème lié à la transition énergétique et au prix élevé du pétrole. Avec un cours proche de 2 €, la part est abordable pour un petit budget. Attention : la société est passée sur Euronext Growth en septembre, il faut vérifier chez ton courtier que le titre reste éligible au PEA. Le risque est élevé : société encore peu rentable, très sensible aux subventions et à la liquidité, avec une perte totale possible."
-        }
-      ],
-      "idee": {
-        "nom": "Capgemini",
-        "isin": "FR0000125338",
-        "risque": "Modéré",
-        "prix": "≈ 118 € la part (cours du 13 octobre)",
-        "texte": "Capgemini accompagne les grandes entreprises dans leurs projets de numérique et d'IA, un métier de services moins dépendant des cycles des puces que les fabricants de semi-conducteurs. Le titre a gagné environ 14 % en un mois et le groupe rachète ses propres actions, ce qui montre sa confiance. Il est coté à Paris en euros et éligible au PEA, avec un prochain rendez-vous le 30 octobre (activité du 3e trimestre). Le principal risque est que l'IA réduise une partie du travail de conseil et de programmation vendu par le groupe."
-      },
-      "concept": {
-        "terme": "Le spread OAT/Bund",
-        "texte": "Le spread OAT/Bund est l'écart entre le taux d'emprunt à dix ans de la France (l'OAT) et celui de l'Allemagne (le Bund), exprimé en points de base (100 points de base = 1 point de pourcentage). L'Allemagne sert de référence jugée très sûre : plus l'écart grandit, plus les investisseurs demandent une prime pour prêter à la France, signe de méfiance sur sa dette ou sa situation politique. Un spread élevé renchérit le coût de l'emprunt de l'État et pèse souvent sur les banques, qui détiennent beaucoup de dette publique. Lundi, il s'est élargi à environ 147 points de base après le week-end de violences en France, et les banques françaises ont fortement reculé.",
-        "references": [
-          {
-            "titre": "Invesse : Spread OAT/Bund (lexique) ⚠️",
-            "url": "https://invesse.fr/lexique/spread-oat-bund/"
-          },
-          {
-            "titre": "Idéal Investisseur : Spread OAT/Bund ⚠️",
-            "url": "https://www.ideal-investisseur.fr/marches/macro/spread-oat-bund.html"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-21",
-          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-22",
-          "titre": "Valeo et Nexans : résultats du 3e trimestre"
-        },
-        {
-          "date": "2026-10-27",
-          "titre": "Exosens : résultats du 3e trimestre"
-        },
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux ; résultats de STMicroelectronics, Air Liquide et Amundi"
-        },
-        {
-          "date": "2026-10-30",
-          "titre": "Capgemini : activité du 3e trimestre"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "BFM Bourse : le CAC 40 perd plus de 1 %",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-dans-la-foulee-du-week-end-de-violences-en-france-le-cac-40-perd-plus-de-1-1172009.html"
-        },
-        {
-          "titre": "Zonebourse : la Bourse de Paris pénalisée par les violences urbaines",
-          "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-penalisee-par-les-violences-urbaines-ce785cdbdd8af720"
-        },
-        {
-          "titre": "Boursorama : l'Europe finit dans le rouge",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-rouge-penalisee-par-les-tensions-apres-les-evenements-en-france-a46426667185287c22a87cabea2f40ce"
         }
       ]
     }

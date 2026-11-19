@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-18T21:35:00+01:00",
+  "maj": "2026-11-19T21:30:00+01:00",
   "verdict": {
-    "titre": "Stellantis toujours à vendre, STMicroelectronics s'éloigne de sa sortie",
-    "texte": "Ton portefeuille vaut 757,83 €, soit -41,45 €, quasi stable sur la journée. Stellantis finit à 3,28 € après un nouveau plus bas vers 3,18 €, toujours sous ton niveau de sortie de 3,75 € : la règle de vente s'applique, et si tu as déjà vendu, saisis-le dans ton journal. STMicroelectronics remonte à 40,53 €, à 1,92 € au-dessus de sa sortie de 38,61 €, qui ne bouge pas. Aucun achat court terme n'est prêt ce soir : la Fed reste orientée vers des hausses de taux et la réaction aux résultats de Soitec se jouera demain."
+    "titre": "Stellantis toujours à vendre, Wall Street se retourne",
+    "texte": "Ton portefeuille vaut 757,33 €, soit -41,95 €, en léger recul sur la journée. Stellantis finit vers 3,24 €, toujours sous ton niveau de sortie de 3,75 € : la règle de vente s'applique, et si tu as déjà vendu, saisis-le dans ton journal. STMicroelectronics remonte à 41,17 €, à 2,56 € au-dessus de sa sortie de 38,61 €, qui ne bouge pas. Aucun achat court terme n'est prêt ce soir : Wall Street a nettement reculé après les débuts d'Anthropic, et la seule nouvelle idée, Riber, est spéculative et attend un repli à 6,30 €."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -11,7 +11,7 @@
       "isin": "FR001400U5Q4",
       "symbole": "DCAM.PA",
       "action": "Garder",
-      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il est stable vers 6,176 €, sous ses moyennes 20 et 50 jours (6,29 € et 6,28 €) : un repli normal pour un placement de long terme.",
+      "pourquoi": "C'est ton socle : il répartit le risque sur les grandes entreprises mondiales. Il recule légèrement vers 6,15 € (-0,3 %), sous ses moyennes 20 et 50 jours (6,28 € et 6,28 €), et la baisse de Wall Street de jeudi soir pèsera vendredi : un repli normal pour un placement de long terme.",
       "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
       "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
     },
@@ -20,7 +20,7 @@
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "L'ETF remonte d'environ 1 % vers 6,49 € après les résultats de Nvidia, mais reste sous ses moyennes 20 et 50 jours (6,69 € et 6,88 €). Ni ce rebond ni la baisse des jours précédents ne sont une raison d'agir sur un placement de long terme.",
+      "pourquoi": "L'ETF finit vers 6,54 € à Paris, mais le Nasdaq s'est retourné d'environ -1,3 % après la clôture européenne, ce qui pèsera vendredi. Il reste sous ses moyennes 20 et 50 jours (6,68 € et 6,88 €). Ni ce rebond ni la baisse attendue ne sont une raison d'agir sur un placement de long terme.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -29,7 +29,7 @@
       "isin": "FR0013380607",
       "symbole": "CACC.PA",
       "action": "Garder",
-      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle recule vers 41,49 € (-0,8 %) mais reste au-dessus de ses moyennes 20 et 50 jours (41,23 € et 40,82 €), et en léger gain.",
+      "pourquoi": "Ligne diversifiée sur les grandes valeurs françaises. Elle recule vers 41,28 € avec le CAC 40 (-0,81 %), autour de sa moyenne 20 jours (41,31 €) et au-dessus de la 50 jours (40,82 €), et reste en léger gain.",
       "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
       "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
     },
@@ -39,7 +39,7 @@
       "symbole": "AI.PA",
       "action": "Garder",
       "sortie": 171.03,
-      "pourquoi": "Tu es en gain d'environ 8 € et la tendance reste haussière : vers 190,20 € ce soir (-0,4 %), au-dessus de ses moyennes 20 et 50 jours (184,63 € et 175,09 €). Avec une seule action, il n'y a rien à alléger.",
+      "pourquoi": "Tu es en gain d'environ 7,50 € et la tendance reste haussière : vers 189,54 € ce soir (-0,1 %), au-dessus de ses moyennes 20 et 50 jours (185,40 € et 175,53 €). Avec une seule action, il n'y a rien à alléger.",
       "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
       "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
     },
@@ -49,8 +49,8 @@
       "symbole": "STLAP.PA",
       "action": "Vendre",
       "sortie": 3.75,
-      "pourquoi": "Le titre est sous le niveau de sortie de 3,75 € depuis le 11 novembre et finit à 3,28 € (-1,2 %), après un nouveau plus bas vers 3,18 € en séance, sa neuvième baisse en dix séances. Les dégradations d'Oddo BHF (objectif 3 €) et de LBBW (3,50 €) de mardi restent d'actualité. Rien ne justifie de déplacer le niveau ni d'attendre un rebond.",
-      "vendreSi": "c'est le cas : vends les 13 actions avec un ordre à cours limité proche du cours (par exemple 3,26 € si l'ouverture se fait vers 3,28 €), puis saisis la vente dans ton journal. Vers 3,28 €, la perte totale serait d'environ 11,90 €, frais d'achat et de vente compris.",
+      "pourquoi": "Le titre est sous le niveau de sortie de 3,75 € depuis le 11 novembre et recule encore vers 3,24 € (-1,4 %, cours de 17h15), sous ses moyennes 20 et 50 jours (3,79 € et 3,96 €). Les dégradations d'Oddo BHF (objectif 3 €) et de LBBW (3,50 €) restent d'actualité. Rien ne justifie de déplacer le niveau ni d'attendre un rebond.",
+      "vendreSi": "c'est le cas : vends les 13 actions avec un ordre à cours limité proche du cours (par exemple 3,22 € si l'ouverture se fait vers 3,24 €), puis saisis la vente dans ton journal. Vers 3,24 €, la perte totale serait d'environ 12,40 €, frais d'achat et de vente compris.",
       "renforcerSi": "non. Un rachat ne serait à étudier qu'après un fait nouveau et une clôture au-dessus de sa moyenne 50 jours (4,03 €)."
     },
     {
@@ -59,7 +59,7 @@
       "symbole": "STMPA.PA",
       "action": "Garder",
       "sortie": 38.61,
-      "pourquoi": "Le titre prend la tête du CAC 40 avec +1,8 % à 40,53 € grâce aux résultats de Nvidia (AFP), mais sur un volume inférieur à la moyenne et toujours sous ses moyennes 20 et 50 jours (41,12 € et 43,48 €). Il remonte à 1,92 € au-dessus de ton niveau de sortie de 38,61 €, qui ne bouge pas.",
+      "pourquoi": "Le titre finit en tête du CAC 40 pour la deuxième séance, +1,6 % vers 41,17 € (Zonebourse), après un plus haut à 42,71 € en matinée. Il repasse au niveau de sa moyenne 20 jours (41,18 €) mais reste sous la 50 jours (43,43 €), sur un volume inférieur à la moyenne. Il est à 2,56 € au-dessus de ton niveau de sortie de 38,61 €, qui ne bouge pas.",
       "vendreSi": "clôture sous 38,61 €, sans exception. Sur 2 actions, la vente rapporterait alors environ 76 € après 1 € de frais.",
       "renforcerSi": "non. Il faudrait au minimum une clôture au-dessus de sa moyenne 50 jours, vers 44 €, sur un fait nouveau."
     }
@@ -85,6 +85,43 @@
       "quand": "Quand tu as de l'épargne disponible, sans attendre un signal. Un seul ordre par mois limite les frais.",
       "pourquoi": "C'est le seul achat que je peux te conseiller sans condition de marché : il vise le long terme. Garde d'abord une épargne de précaution hors bourse.",
       "contre": "Les marchés peuvent baisser plusieurs années de suite. Cet achat n'a de sens que si tu peux laisser l'argent investi au moins 5 ans."
+    },
+    {
+      "nom": "Riber (spéculatif)",
+      "statut": "Attendre",
+      "plan": [
+        [
+          "Déclencheur",
+          "Repli jusqu'à 6,30 €, ordre à cours limité"
+        ],
+        [
+          "Sortie",
+          "5,84 €"
+        ],
+        [
+          "Objectif",
+          "7,30 €"
+        ],
+        [
+          "Exemple",
+          "50 actions, environ 315 €"
+        ],
+        [
+          "Perte max",
+          "environ 25 €, frais compris, hors trou de cours"
+        ],
+        [
+          "Gain visé",
+          "environ 48 €, frais compris"
+        ],
+        [
+          "Échéance",
+          "3 décembre"
+        ]
+      ],
+      "quand": "Seulement si le cours revient à 6,30 € ; l'entrée peut ne jamais être atteinte. Pas d'achat au-dessus.",
+      "pourquoi": "Commande d'un industriel asiatique annoncée le 19 novembre, livrable fin décembre, sur un volume 2,5 fois supérieur à la moyenne (Moneyvox).",
+      "contre": "Très petite valeur, montant de la commande non publié, dirigeants et positions courtes non vérifiés, cours sous la moyenne 50 jours. Probabilité d'échec estimée à environ 60 %."
     },
     {
       "nom": "Soitec (spéculatif)",
@@ -119,9 +156,46 @@
           "20 novembre"
         ]
       ],
-      "quand": "L'entrée de 105 € a été touchée le 12 novembre et l'idée reste ouverte jusqu'au 20 novembre. Les résultats sont tombés ce soir et sont bons : pas de nouvel achat avant la réaction de jeudi, et pas d'achat si l'ouverture dépasse 116 € (plus de 2 ATR).",
-      "pourquoi": "Résultats du 18 novembre : chiffre d'affaires semestriel de 317 millions d'euros (+39 % à changes constants) et objectif annuel relevé à environ 40 % de croissance, porté par la photonique (ABC Bourse).",
+      "quand": "L'entrée de 105 € a été touchée et l'idée expire vendredi 20 novembre. Le titre a touché 117,40 € jeudi puis fini à 109,25 € : pas de nouvel achat, l'objectif de 122 € n'est pas atteint et le mouvement a dépassé 2 ATR depuis les résultats.",
+      "pourquoi": "Résultats du 18 novembre : chiffre d'affaires semestriel de 317 millions d'euros (+37 %), perte nette réduite à 45 millions, photonique attendue au-dessus de 300 millions de dollars sur l'année (Moneyvox).",
       "contre": "Idée spéculative : invalidation à 10 % sous l'entrée, résultats binaires avant l'échéance, tendance baissière sous les moyennes 20 et 50 jours. Probabilité d'échec estimée à 55 à 60 %."
+    },
+    {
+      "nom": "Airbus",
+      "statut": "Attendre",
+      "plan": [
+        [
+          "Déclencheur",
+          "Clôture au-dessus de 199,50 €"
+        ],
+        [
+          "Entrée",
+          "200,50 €"
+        ],
+        [
+          "Sortie",
+          "194,50 €"
+        ],
+        [
+          "Objectif",
+          "213,00 €"
+        ],
+        [
+          "Exemple",
+          "1 action, environ 200,50 €"
+        ],
+        [
+          "Perte max",
+          "environ 8 €, frais compris"
+        ],
+        [
+          "Gain visé",
+          "environ 10,50 €, frais compris"
+        ]
+      ],
+      "quand": "Après une clôture au-dessus de 199,50 €, avant la visite d'Emmanuel Macron à Toulouse le 23 novembre. Jeudi, le titre a touché 203,15 € puis fini vers 198,46 € : pas encore.",
+      "pourquoi": "Catalyseur daté : annonces attendues sur le soutien de l'État à la filière le 23 novembre (AFP).",
+      "contre": "Les annonces peuvent viser surtout les sous-traitants, et Wall Street s'est retournée nettement jeudi soir."
     },
     {
       "nom": "Infineon Technologies",
@@ -156,86 +230,22 @@
           "environ 42 €, frais compris"
         ]
       ],
-      "quand": "Sur un repli vers 50,50 € qui tient en clôture. Le titre finit mardi à 48,69 € (-1,1 %), sous ce seuil : le signal n'est pas validé.",
+      "quand": "Sur un repli vers 50,50 € qui tient en clôture. Le titre finit jeudi vers 49,37 € (+0,3 %), toujours sous ce seuil : le signal n'est pas validé.",
       "pourquoi": "Le seuil de 50,50 € a été franchi en clôture (52,12 €) après des résultats annuels solides et un objectif d'environ 20 milliards d'euros en 2027.",
       "contre": "Le titre reste sous sa moyenne 50 jours (55,19 €), et le rebond s'est fait dans des volumes réduits par le jour férié."
-    },
-    {
-      "nom": "TotalEnergies",
-      "statut": "Attendre",
-      "plan": [
-        [
-          "Déclencheur",
-          "Repli vers 80,90 €, près de la moyenne 20 jours"
-        ],
-        [
-          "Entrée",
-          "80,90 €"
-        ],
-        [
-          "Sortie",
-          "78,80 €"
-        ],
-        [
-          "Objectif",
-          "85,90 €"
-        ],
-        [
-          "Exemple",
-          "4 actions, environ 324 €"
-        ],
-        [
-          "Perte max",
-          "environ 10,40 €, frais compris"
-        ],
-        [
-          "Gain visé",
-          "environ 18 €, frais compris"
-        ]
-      ],
-      "quand": "Seulement sur repli vers 80,90 €. Mardi, le titre a fini stable à 81,98 € (+0,02 %), seule valeur du CAC 40 à ne pas baisser : l'entrée n'est pas touchée.",
-      "pourquoi": "La clôture au-dessus de 81,60 € est faite (82,17 €, +1,9 %), avec un Brent proche de 96 dollars et une valorisation d'environ 8 fois les bénéfices attendus selon Yahoo Finance.",
-      "contre": "L'AIE prévoit une offre de pétrole supérieure à la demande au 4e trimestre, et aucun catalyseur daté n'arrive : une détente avec l'Iran ferait rechuter le titre."
-    },
-    {
-      "nom": "Alstom (rebond après résultats)",
-      "statut": "Attendre",
-      "plan": [
-        [
-          "Déclencheur",
-          "Résultats du 17 novembre puis clôture au-dessus de 10,80 €"
-        ],
-        [
-          "Entrée",
-          "10,90 €"
-        ],
-        [
-          "Sortie",
-          "10,10 €"
-        ],
-        [
-          "Objectif",
-          "12,50 €"
-        ],
-        [
-          "Exemple",
-          "28 actions, environ 305 €"
-        ],
-        [
-          "Perte max",
-          "environ 24,40 €, frais compris"
-        ],
-        [
-          "Gain visé",
-          "environ 42,80 €, frais compris"
-        ]
-      ],
-      "quand": "Les résultats sont tombés mardi après la clôture (perte nette de 954 millions d'euros, plan de désendettement d'environ 2 milliards). Le titre a fini à 10,02 € : n'achète que si le titre clôture au-dessus de 10,80 € dans les prochains jours.",
-      "pourquoi": "Le titre a perdu environ 37 % en 20 séances après l'avertissement du 2 novembre et finit à 10,16 €, près de son plus bas de deux ans : des comptes et un plan de désendettement rassurants peuvent déclencher un rebond technique.",
-      "contre": "Tendance très baissière, loin des moyennes 20 et 50 jours (13,39 € et 14,69 €), risque d'augmentation de capital, et la perte maximale touche presque la limite de 25 €."
     }
   ],
   "decouvertes": [
+    {
+      "nom": "Groupe ADP",
+      "isin": "FR0010340141",
+      "symbole": "ADP.PA",
+      "theme": "Les infrastructures régulées : des revenus fixés pour huit ans",
+      "risque": "Modéré",
+      "pourquoi": "Tu n'as aucune valeur d'infrastructure. ADP exploite Roissy et Orly, et le régulateur des transports a validé jeudi, avec cinq réserves, son contrat 2027-2034 : 8,2 milliards d'euros d'investissements régulés et une rémunération moyenne des capitaux de 5,8 % (Boursier.com, Moneyvox). Ce type de contrat donne une visibilité rare sur les revenus. Le titre a gagné 3,9 % à 119,50 € le 19 novembre, +17 % depuis janvier.",
+      "aBorder": "À étudier pour le long terme, après la signature du contrat prévue d'ici la fin 2026. Une part coûte environ 120 € : une seule action serait une petite ligne.",
+      "faux": "Un recul du trafic aérien lié au conflit au Moyen-Orient, ou des réserves du régulateur qui réduisent les redevances prévues."
+    },
     {
       "nom": "Amundi PEA Émergents",
       "isin": "FR0013412020",
@@ -275,16 +285,6 @@
       "pourquoi": "Tu n'as aucune valeur financière. SCOR assure les compagnies d'assurance contre les gros sinistres et les risques vie, et place une grande partie de ses réserves en obligations : avec un taux américain à 10 ans monté à 5,15 % vendredi (AP), ces placements rapportent davantage avec le temps. Le titre finit à 35,80 € le 13 novembre, en hausse d'environ 6 % en 20 séances et au-dessus de ses moyennes 20 et 50 jours selon le radar.",
       "aBorder": "À étudier pour le long terme, en petite ligne, après avoir lu ses derniers résultats et sa politique de dividende. Pas dans l'urgence : le RSI est vers 74, le mouvement récent est déjà fort.",
       "faux": "Une année de grandes catastrophes naturelles, une mauvaise surprise sur ses provisions vie, ou une hausse brutale des taux qui fait baisser la valeur des obligations déjà détenues."
-    },
-    {
-      "nom": "Spie",
-      "isin": "FR0012757854",
-      "symbole": "SPIE.PA",
-      "theme": "L'électricité des centres de données, côté installation",
-      "risque": "Modéré",
-      "pourquoi": "Spie installe et entretient les équipements électriques, de chauffage et de climatisation des bâtiments et des usines en Europe. Sa filiale française a créé en avril 2026 un département dédié aux centres de données, dans un pays où la capacité de stockage doit tripler entre 2024 et 2030 selon la société (BFM Bourse, 9 avril 2026). C'est une façon moins visible que les fabricants de puces de suivre l'électrification liée à l'IA.",
-      "aBorder": "À étudier sur un repli vers sa moyenne 50 jours, avec une part autour de 45 €. Regarde d'abord la part réelle des centres de données dans son activité, que je n'ai pas pu vérifier ce soir.",
-      "faux": "Spie dépend surtout de l'activité générale du bâtiment et de l'industrie en Europe : un ralentissement économique pèserait plus que l'effet IA."
     }
   ]
 }
