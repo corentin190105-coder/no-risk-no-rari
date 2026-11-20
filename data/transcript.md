@@ -474,3 +474,15 @@ La vente à découvert consiste à vendre une action que l'on ne possède pas, e
 - [AMF : la réglementation sur les ventes à découvert (VAD)](https://www.amf-france.org/sites/institutionnel/files/pdf/61139/fr/La_reglementation_sur_les_ventes_a_decouvert_(VAD).pdf?1655834139)
 - [AMF : data visualisation des ventes à découvert](https://www.amf-france.org/fr/actualites-publications/publications/open-data/data-visualisation-des-ventes-decouvert)
 - [data.gouv.fr : historique des positions courtes nettes rendues publiques](https://www.data.gouv.fr/fr/datasets/62738e33f1be79935d3e5553/)
+
+## Q: Qu'est-ce que la bulle spéculative ?
+
+_2026-11-20 21:09 CET_
+
+Une bulle spéculative se forme quand le prix d'un actif monte bien au-delà de la valeur que justifient ses bénéfices futurs, porté surtout par l'espoir de le revendre plus cher à quelqu'un d'autre. La Banque de France la décrit en plusieurs étapes : une nouveauté qui attire les acheteurs, un emballement souvent nourri par le crédit, puis un retournement brutal quand la confiance disparaît, avec des effets possibles sur l'économie réelle. Vendredi, les doutes sur la rentabilité de l'IA ont fait perdre plus de 7 % au Nasdaq sur la semaine, et les analystes de Meilleurtaux Placement pointent les « financements circulaires », où des géants de la tech financent des entreprises qui leur achètent ensuite leurs produits (Moneyvox). Une forte baisse ne prouve pas à elle seule qu'une bulle éclate : on ne peut souvent le dire qu'après coup, et les grands groupes de l'IA restent aujourd'hui très rentables, contrairement à ceux de la bulle internet de 2000. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [Banque de France : bulle spéculative (ABC de l'économie)](https://www.banque-france.fr/fr/publications-et-statistiques/publications/bulle-speculative)
+- [Investopedia : What Is an Economic Bubble? ⚠️](https://www.investopedia.com/terms/b/bubble.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

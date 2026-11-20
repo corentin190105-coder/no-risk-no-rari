@@ -1,6 +1,349 @@
 {
   "points": [
     {
+      "date": "2026-11-20",
+      "titre": "La défiance envers l'IA fait plonger les Bourses, le CAC 40 perd plus de 5 % sur la semaine",
+      "resume": "Le CAC 40 a cédé 1,89 % à 7 927,75 points, sa cinquième baisse d'affilée et sa pire semaine depuis mars (-5,27 %), et l'Euro Stoxx 50 a perdu 2,81 % (Zonebourse, Yahoo Finance). Les semi-conducteurs ont été balayés, avec STMicroelectronics (-10,8 %), Soitec (-11,85 %) et ASML (-9,3 %), alors que Sanofi, Capgemini et Danone ont résisté. À Wall Street, le Nasdaq perdait plus de 4 % vers 21h et Anthropic environ 12 %, au lendemain de son entrée en Bourse record.",
+      "humeur": "baisse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 927,75 pts",
+          "variation": -1.89
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "5 941,95 pts",
+          "variation": -2.81
+        },
+        {
+          "nom": "S&P 500 (provisoire, vers 21h)",
+          "valeur": "≈ 6 969 pts",
+          "variation": -2.89
+        },
+        {
+          "nom": "Nasdaq Composite (provisoire, vers 21h)",
+          "valeur": "≈ 22 831 pts",
+          "variation": -4.39
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "56 437 pts",
+          "variation": -5.1
+        },
+        {
+          "nom": "Hang Seng (fin de séance)",
+          "valeur": "≈ 22 340 pts",
+          "variation": -2.2
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 91,34 $",
+          "variation": -0.7
+        },
+        {
+          "nom": "Or (par rapport à jeudi soir)",
+          "valeur": "≈ 3 558 $",
+          "variation": -3.2
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,0983 $",
+          "variation": 0.16
+        }
+      ],
+      "macro": [
+        {
+          "titre": "La vente sur l'IA s'étend à toute la planète",
+          "texte": "Les doutes sur la rentabilité des dépenses colossales dans l'IA, de plus en plus financées par l'emprunt, ont provoqué une nouvelle vague de ventes : Micron perdait près de 12 %, Broadcom environ 10 % et Nvidia plus de 6 % vers 17h50, et Anthropic reculait d'environ 10 à 12 % (AFP via Zonebourse). Les investisseurs craignent aussi un frein à la construction de centres de données aux États-Unis après la victoire des démocrates aux élections de mi-mandat. Le S&P 500 abandonne plus de 6 % sur la semaine, sa pire semaine depuis avril 2025 (Moneyvox)."
+        },
+        {
+          "titre": "Les taux reculent nettement, la Fed reste attendue",
+          "texte": "Les obligations d'État ont servi de refuge : le taux américain à 10 ans perd environ 10 points de base à 4,95 %, le Bund allemand revient à 3,30 % et l'OAT française à 4,87 % (Reuters via Zonebourse). Le marché anticipe toujours une hausse des taux de la Fed le 9 décembre, et l'inflation PCE d'octobre, publiée mardi 25 novembre à 14h30, sera le prochain test. La BCE décide le 17 décembre."
+        },
+        {
+          "titre": "Asie : la pire semaine depuis des années pour les marchés des puces",
+          "texte": "Le Nikkei a chuté de 5,1 % à 56 437 points, le Kospi coréen de 5,2 % et l'indice de Taïwan de 6,2 %, sa pire semaine depuis 1991 (24/7 Wall St.). Ces marchés dépendent fortement des fabricants de puces, premiers touchés par la défiance envers l'IA. Hong Kong a limité la casse (environ -2,2 %)."
+        },
+        {
+          "titre": "Pétrole en repli, or sous pression",
+          "texte": "Le Brent recule de 0,7 % à 91,34 dollars (Reuters) : Donald Trump a déclaré au site Axios qu'il ne se « précipiterait » pas pour frapper de nouveau l'Iran, tandis que la coalition menée par l'Arabie saoudite a visé le port yéménite de Hodeïda (Zonebourse). L'or glisse vers 3 558 dollars et signe sa pire semaine depuis mars, pénalisé par les paris sur une hausse des taux de la Fed (USAGold)."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 730.65,
+        "pv": -68.63,
+        "texte": "Ton portefeuille vaut 730,65 € pour 799,28 € investis, soit -68,63 €, en recul d'environ 26,70 € sur la journée. STMicroelectronics (-10,8 %) et l'ETF Nasdaq-100 (-5,1 %) expliquent près de 60 % de la baisse, alors qu'Air Liquide (-0,8 %) et le Core CAC 40 (-1,8 %) ont mieux résisté."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Ce qui a changé : chute de 10,81 % à 36,72 € (ABC Bourse), plus forte baisse du CAC 40, sur un volume proche du double de la moyenne. Le titre clôture sous ton niveau de sortie de 38,61 € : la règle de vente s'applique."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "L'ETF perd 5,1 % à 6,189 € (ABC Bourse), à son plus bas de six mois, et pourrait encore subir lundi la fin de séance américaine (Nasdaq vers -4,4 % à 21h, provisoire)."
+        },
+        {
+          "nom": "Stellantis",
+          "texte": "Recul de 3,46 % à 3,13 € (ABC Bourse), nouveau plus bas de l'année, sans nouvelle propre à la société trouvée ce soir. Toujours sous ton niveau de sortie de 3,75 €."
+        },
+        {
+          "nom": "Soitec",
+          "texte": "Chute de 11,85 % à 96,30 € (ABC Bourse) : l'idée spéculative arrive à échéance ce soir, entrée de 105 € touchée le 12 novembre, sans objectif ni invalidation atteints, soit -9,29 % net sur 200 €."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Simple repli de 0,82 % vers 188 € (Zonebourse), loin de ton niveau de sortie de 171 € : la ligne la plus défensive de ton portefeuille a joué son rôle."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Siemens Energy",
+          "isin": "DE000ENER6Y0",
+          "risque": "Élevé",
+          "prix": "≈ 119 € la part",
+          "texte": "Siemens Energy fabrique des turbines à gaz, des équipements de réseau électrique et des éoliennes, très demandés pour alimenter les centres de données. Vendredi, le titre a perdu 6,33 % avec toute la chaîne de l'IA (AFP via Zonebourse), alors que le groupe mettait en avant un carnet de commandes record autour de ses résultats du 11 novembre (Admiral Markets). Une vente aussi générale peut, à terme, créer des points d'entrée sur des sociétés dont la demande d'électricité reste réelle, mais rien n'indique que la baisse soit finie. Le principal risque : un vrai ralentissement des investissements dans les centres de données, notamment si les démocrates, vainqueurs des élections de mi-mandat, durcissent la régulation, avec un titre très volatil (environ 7 € de variation moyenne par jour)."
+        },
+        {
+          "nom": "Danone",
+          "isin": "FR0000120644",
+          "risque": "Modéré",
+          "prix": "≈ 69,70 € la part",
+          "texte": "Danone vend des produits laitiers, des eaux et de la nutrition médicale, des besoins qui ne dépendent pas de l'IA. Vendredi, il fait partie des rares hausses du CAC 40 (+0,74 %, Zonebourse) pendant que la tech s'effondre : c'est la rotation vers les valeurs défensives. Ce type de titre peut amortir les baisses d'un portefeuille très exposé à la technologie, ce qui est le sujet de la leçon du jour. Le principal risque : le titre a déjà beaucoup monté (RSI supérieur à 70 jeudi soir selon le radar), et si la peur sur l'IA retombe, l'argent peut quitter les défensives aussi vite qu'il est venu."
+        },
+        {
+          "nom": "Orange",
+          "isin": "FR0000133308",
+          "risque": "Modéré",
+          "prix": "≈ 15,30 € la part",
+          "texte": "Orange est l'opérateur télécom historique français, aux revenus réguliers d'abonnements, qui verse un dividende. Vendredi, le titre gagne 0,53 % (Zonebourse) dans un marché en forte baisse, aidé par la chute des taux d'emprunt (OAT à 10 ans à 4,87 %, -6,8 points de base, Reuters), qui rend les valeurs à dividende plus attractives. Avec une part autour de 15 €, il est accessible avec un petit budget. Le principal risque : la concurrence sur les prix en France et une dette importante, et le titre a déjà buté sur une résistance vers 15,60 € (Idéal Investisseur)."
+        }
+      ],
+      "idee": {
+        "nom": "Siemens Energy",
+        "isin": "DE000ENER6Y0",
+        "risque": "Élevé",
+        "prix": "≈ 119 € la part",
+        "texte": "Siemens Energy fabrique des turbines à gaz, des équipements de réseau électrique et des éoliennes, très demandés pour alimenter les centres de données. Vendredi, le titre a perdu 6,33 % avec toute la chaîne de l'IA (AFP via Zonebourse), alors que le groupe mettait en avant un carnet de commandes record autour de ses résultats du 11 novembre (Admiral Markets). Une vente aussi générale peut, à terme, créer des points d'entrée sur des sociétés dont la demande d'électricité reste réelle, mais rien n'indique que la baisse soit finie. Le principal risque : un vrai ralentissement des investissements dans les centres de données, notamment si les démocrates, vainqueurs des élections de mi-mandat, durcissent la régulation, avec un titre très volatil (environ 7 € de variation moyenne par jour)."
+      },
+      "concept": {
+        "terme": "La bulle spéculative",
+        "texte": "Une bulle spéculative se forme quand le prix d'un actif monte bien au-delà de la valeur que justifient ses bénéfices futurs, porté surtout par l'espoir de le revendre plus cher à quelqu'un d'autre. La Banque de France la décrit en plusieurs étapes : une nouveauté qui attire les acheteurs, un emballement souvent nourri par le crédit, puis un retournement brutal quand la confiance disparaît, avec des effets possibles sur l'économie réelle. Vendredi, les doutes sur la rentabilité de l'IA ont fait perdre plus de 7 % au Nasdaq sur la semaine, et les analystes de Meilleurtaux Placement pointent les « financements circulaires », où des géants de la tech financent des entreprises qui leur achètent ensuite leurs produits (Moneyvox). Une forte baisse ne prouve pas à elle seule qu'une bulle éclate : on ne peut souvent le dire qu'après coup, et les grands groupes de l'IA restent aujourd'hui très rentables, contrairement à ceux de la bulle internet de 2000. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "Banque de France : bulle spéculative (ABC de l'économie)",
+            "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/bulle-speculative"
+          },
+          {
+            "titre": "Investopedia : What Is an Economic Bubble? ⚠️",
+            "url": "https://www.investopedia.com/terms/b/bubble.asp"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché n'est pas porteur pour agir à court terme : le CAC 40 finit à 7 927,75 points (-1,89 %), cinquième baisse d'affilée et -5,27 % sur la semaine (Zonebourse), et le Nasdaq perd plus de 4 % (provisoire), dans une vente qui touche d'abord les puces. Aucune idée ne passe les critères Favorable, et je n'ajoute aucune idée Spéculatif ce soir : le journal compte 3 idées closes, toutes Spéculatif et toutes perdantes (Vusion -4,55 %, Riber -7,30 %, Soitec -9,29 % à l'échéance), un échantillon trop petit pour juger la méthode mais un signal clair de prudence dans ce marché. Sur tes lignes, STMicroelectronics a clôturé à 36,72 €, sous ton niveau de sortie de 38,61 € : la règle de vente s'applique, comme pour Stellantis (3,13 €, sortie à 3,75 €), alors qu'Air Liquide (environ 188 €) reste loin de 171 €.",
+        "retro": "Bilan intermédiaire à 5 séances de l'avis du 13 novembre : TotalEnergies (Attendre, entrée sur repli à 80,90 €, invalidation 78,80 €, objectif 85,90 €) est bien revenu sous 80,90 €, puis a fini vers 78,6 € vendredi (-1,2 %, Zonebourse), sous l'invalidation : environ -3,6 % net sur 200 €, une perte qu'un repli en tendance baissière ne justifiait pas. Bilan définitif à 10 séances des avis du 6 novembre : Air France-KLM (Attendre, entrée sur repli à 13,00 €) n'est jamais redescendu à ce niveau et valait environ 14,80 € jeudi soir (radar), un gain d'environ 9 % manqué par excès de prudence ; STMicroelectronics (Éviter à 37,64 €) a rebondi jusqu'à 42,71 € avant de finir à 36,72 €, soit -2,4 % : l'avis n'a finalement rien coûté. Bilan du vendredi des 3 idées du 6 novembre : Nexans passe d'environ 123 € à 120 € (-2,4 %), Euronext d'environ 170 € à 165,50 € (-2,6 %) et Riber d'environ 6 € à 5,86 € (-2,3 %), quand le CAC 40 recule de 2,6 % (8 139 à 7 928 points) : elles font jeu égal avec le marché, sans le battre de façon significative.",
+        "opportunites": [
+          {
+            "nom": "Airbus",
+            "isin": "NL0000235190",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 7 jours",
+            "catalyseur": "Visite d'Emmanuel Macron à Toulouse lundi 23 novembre, avec des annonces attendues sur le soutien de l'État à la filière (Élysée, AFP)",
+            "cours": "189,96 €",
+            "entree": "195,50 €, seulement après une clôture au-dessus",
+            "invalidation": "189,50 €",
+            "objectif": "207,50 €",
+            "ratio": "2,0",
+            "frais": "2 actions : environ 391 €, perte maximale d'environ 14 € frais compris, gain visé d'environ 22 € net de 2 € de frais",
+            "these": "Airbus construit des avions de ligne, des hélicoptères et des satellites. Le catalyseur est daté : lundi 23 novembre, Emmanuel Macron se rend chez Airbus à Toulouse et doit annoncer des mesures de soutien à la filière, ce qui peut rassurer sur les cadences et les sous-traitants. Ce qui a changé depuis jeudi : le titre a perdu 4,13 % à 189,96 € (ABC Bourse, Zonebourse), au plus bas de la séance, entraîné par la vente générale, et passe sous ses moyennes 20 et 50 jours (environ 199 € et 195 €). Le volume du jour (environ 1,4 million de titres) ne montre pas de vente panique. Pour passer à Favorable, il faudrait une clôture au-dessus de 195,50 €, au-dessus du plus haut du jour et de la moyenne 50 jours, avec un volume supérieur à la moyenne, et une annonce concrète lundi. Ce qui contredit l'idée : une visite présidentielle fait rarement bouger durablement un titre de cette taille, je n'ai vérifié ni le consensus ni les positions courtes, et la tendance de marché est très négative.",
+            "risque": "Si la vente sur les marchés continue, le titre peut casser 189,50 € dès l'ouverture lundi, avant même les annonces."
+          },
+          {
+            "nom": "Sanofi",
+            "isin": "FR0000120578",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Aucun catalyseur daté : rumeur de rachat de l'américain Insmed (Bloomberg), non confirmée",
+            "cours": "84,92 €",
+            "entree": "aucune pour l'instant",
+            "invalidation": "non fixée",
+            "objectif": "non fixé",
+            "ratio": "non calculé",
+            "frais": "aucun achat proposé",
+            "these": "Sanofi est le premier groupe pharmaceutique français. Vendredi, il a repris 1,35 % à 84,92 € (Moneyvox), parmi les rares hausses du CAC 40, après avoir perdu 2,85 % jeudi sur la rumeur d'un rachat d'Insmed, valorisé environ 26 milliards de dollars. La santé profite de la rotation vers les valeurs défensives. Mais il n'y a pas de catalyseur daté, et Sanofi n'est pas dans le fichier de suivi : sans ATR, il ne peut pas devenir Favorable. Valeur à ajouter au suivi ; elle deviendrait étudiable avec une annonce officielle sur Insmed ou une date de résultats.",
+            "risque": "Une acquisition très chère financée par la dette ferait probablement baisser le titre."
+          },
+          {
+            "nom": "STMicroelectronics",
+            "isin": "NL0000226223",
+            "compte": "PEA",
+            "avis": "Éviter",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Aucun : vente mondiale sur les puces de l'IA",
+            "cours": "36,72 €",
+            "entree": "aucune",
+            "invalidation": "38,61 €, niveau de sortie cassé à la clôture",
+            "objectif": "aucun",
+            "ratio": "non calculé",
+            "frais": "aucun achat proposé",
+            "these": "STMicroelectronics fabrique des puces pour l'automobile, l'industrie et l'électronique. Vendredi, le titre a chuté de 10,81 % à 36,72 € (ABC Bourse, Zonebourse), plus forte baisse du CAC 40, sur un volume d'environ 4,7 millions de titres, près du double de la moyenne. Il clôture sous ton niveau de sortie de 38,61 €, loin sous ses moyennes 20 et 50 jours (41,06 € et 43,28 €), et proche de son plus bas de six mois (35,82 €). Aucun fait propre à la société n'explique la baisse : c'est la défiance envers tout le secteur. Racheter ici reviendrait à parier sur un rebond sans catalyseur, ce que le test historique ne valide pas.",
+            "risque": "Un rebond technique brutal est possible après une telle chute, mais il n'est pas prévisible."
+          },
+          {
+            "nom": "Vallourec",
+            "isin": "FR0013506730",
+            "compte": "PEA",
+            "avis": "Éviter",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Résultats du 3e trimestre publiés le 20 novembre, prévisions du 4e trimestre sous les attentes",
+            "cours": "15,48 €",
+            "entree": "aucune",
+            "invalidation": "non fixée",
+            "objectif": "aucun",
+            "ratio": "non calculé",
+            "frais": "aucun achat proposé",
+            "these": "Vallourec fabrique des tubes sans soudure pour le pétrole et le gaz. Vendredi, le titre a chuté de 14,57 % à 15,48 € (Zonebourse) : le résultat brut d'exploitation du 3e trimestre recule de 26 % à 181 millions de dollars, et la société vise 170 à 210 millions au 4e trimestre, contre environ 251 millions attendus par les analystes (Moneyvox). TP ICAP Midcap repousse l'amélioration à 2027. Le volume est environ quatre fois supérieur à la moyenne et le titre passe à son plus bas de six mois. Une déception sur les prévisions pèse souvent plusieurs semaines : aucun signal d'achat.",
+            "risque": "Un rachat de position par des investisseurs de long terme peut faire rebondir le titre, sans que cela soit prévisible."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "La corrélation : pourquoi plusieurs lignes peuvent baisser en même temps",
+        "niveau": "Intermédiaire",
+        "texte": "Diversifier, ce n'est pas seulement avoir plusieurs lignes : c'est détenir des placements qui ne réagissent pas de la même façon aux mêmes nouvelles. La corrélation mesure ce lien entre deux actifs, de -1 (ils évoluent en sens inverse) à +1 (ils montent et baissent ensemble) ; autour de 0, leurs mouvements sont indépendants. Deux actions du même secteur, comme deux fabricants de puces, sont en général très corrélées, car elles dépendent des mêmes clients et du même cycle. Deux ETF peuvent aussi se recouper : un ETF Monde contient environ 70 % d'actions américaines, dont les grandes valeurs technologiques déjà présentes dans un ETF Nasdaq-100. Les corrélations ne sont pas fixes : dans une panique, elles montent souvent et beaucoup d'actifs risqués baissent ensemble, alors que les obligations d'État ou les valeurs défensives (santé, alimentation) résistent mieux. Pour vérifier ta diversification, regroupe tes lignes par moteur (tech, consommation, industrie) plutôt que par nom, et regarde quelle part de ton portefeuille dépend d'un même moteur. L'AMF rappelle aussi qu'une bonne diversification dépend de ton horizon et de ta tolérance au risque.",
+        "exemple": "Ton portefeuille a perdu environ 26,70 € vendredi. Tes deux lignes les plus liées à la tech, l'ETF Nasdaq-100 (-5,1 %, environ -6,90 €) et STMicroelectronics (-10,8 %, environ -8,90 €), pèsent environ 27 % du portefeuille (197 € sur 731 €) mais expliquent près de 60 % de la perte du jour (15,80 €). À l'inverse, Air Liquide n'a cédé que 0,8 % (environ -1,55 €) : elle dépend de l'industrie et de la santé, pas des centres de données.",
+        "references": [
+          {
+            "titre": "AMF : Bien diversifier son épargne pour atteindre ses objectifs",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/lexique-simulateurs-et-outils-pratiques/mon-zoom-epargne/bien-diversifier-son-epargne-pour-atteindre-ses-objectifs"
+          },
+          {
+            "titre": "AMF : Placements, qu'est-ce qu'une diversification adéquate ?",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/actualites-mises-en-garde/placements-quest-ce-quune-diversification-adequate"
+          },
+          {
+            "titre": "Investopedia : Correlation ⚠️",
+            "url": "https://www.investopedia.com/terms/c/correlation.asp"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Vendredi, ton ETF Nasdaq-100 a perdu 5 % et STMicroelectronics 11 %, alors qu'Air Liquide ne perdait que 0,8 %. Qu'est-ce que cela illustre ?",
+          "choix": [
+            "Une corrélation négative entre l'ETF et STMicroelectronics",
+            "Une erreur de cotation sur Euronext",
+            "Une forte corrélation positive : ces deux lignes dépendent du même moteur, la tech",
+            "Une diversification parfaite du portefeuille"
+          ],
+          "bonne": 2,
+          "explication": "Les deux lignes réagissent aux mêmes nouvelles sur l'IA et les puces, donc baissent ensemble. Air Liquide dépend d'autres moteurs et a mieux résisté."
+        },
+        {
+          "question": "Qu'est-ce qui caractérise une bulle spéculative ?",
+          "choix": [
+            "Un prix qui monte bien au-delà de ce que justifient les bénéfices futurs, porté par l'espoir de revendre plus cher",
+            "Toute baisse d'un indice de plus de 10 %",
+            "Une hausse expliquée par des bénéfices records",
+            "Une société qui vient d'entrer en Bourse"
+          ],
+          "bonne": 0,
+          "explication": "La bulle se définit par l'écart entre le prix et la valeur fondamentale. Une baisse forte peut en être le signe, mais ne suffit pas à la prouver."
+        },
+        {
+          "question": "Révision : le RSI d'une action dépasse 70. Que signale-t-il en général ?",
+          "choix": [
+            "Une action en survente, prête à rebondir",
+            "Une société trop endettée",
+            "Un dividende qui va être versé",
+            "Une hausse rapide qui peut s'essouffler (zone de surachat)"
+          ],
+          "bonne": 3,
+          "explication": "Au-dessus de 70, le RSI indique un mouvement de hausse très rapide. Ce n'est pas un signal de vente automatique, mais un appel à la prudence."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-23",
+          "titre": "Emmanuel Macron chez Airbus à Toulouse, annonces sur la filière"
+        },
+        {
+          "date": "2026-11-25",
+          "titre": "États-Unis : inflation PCE d'octobre (14h30) ; Eramet : fin de la négociation des droits"
+        },
+        {
+          "date": "2026-11-26",
+          "titre": "États-Unis : Thanksgiving, Wall Street fermée"
+        },
+        {
+          "date": "2026-12-01",
+          "titre": "Zone euro : estimation rapide de l'inflation de novembre"
+        },
+        {
+          "date": "2026-12-04",
+          "titre": "États-Unis : rapport sur l'emploi de novembre (Fed le 9 décembre, BCE le 17)"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Zonebourse : semaine éprouvante pour le CAC 40 qui repasse sous les 8 000 points",
+          "url": "https://www.zonebourse.com/actualite-bourse/semaine-eprouvante-pour-le-cac-40-qui-repasse-sous-les-8-000-points-ce785ed3da80f020"
+        },
+        {
+          "titre": "Zonebourse (AWP/AFP) : l'IA fait de nouveau dérailler les Bourses mondiales",
+          "url": "https://www.zonebourse.com/actualite-bourse/l-ia-fait-de-nouveau-derailler-les-bourses-mondiales-ce785ed3dd88f32d"
+        },
+        {
+          "titre": "Zonebourse (Reuters) : l'Europe finit en nette baisse, l'IA secoue le Nasdaq",
+          "url": "https://www.zonebourse.com/actualite-bourse/l-europe-finit-en-nette-baisse-l-ia-secoue-le-nasdaq-ce785ed3dd88fe22"
+        },
+        {
+          "titre": "Moneyvox : le journal de la Bourse du vendredi 20 novembre 2026",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111354/cac-40-en-baisse-de-pres-de-2-krach-de-ia-ubisoft-le-journal-de-la-bourse-du-vendredi-20-novembre-2026"
+        },
+        {
+          "titre": "24/7 Wall St. : Taïwan, Kospi et Nikkei chutent dans la vente des puces",
+          "url": "https://247wallst.com/investing/2026/11/20/taiwan-stock-market-falls-6-2-to-cap-its-worst-week-since-1991-as-kospi-closes-down-5-2-and-nikkei-225-drops-5-1-in-ai-chip-selloff/"
+        },
+        {
+          "titre": "USAGold : rapport du 20 novembre 2026 sur les métaux précieux",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-20-2026/"
+        },
+        {
+          "titre": "Yahoo Finance : historique du S&P 500",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC/history/"
+        },
+        {
+          "titre": "Yahoo Finance : historique de l'Euro Stoxx 50",
+          "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history/"
+        },
+        {
+          "titre": "ABC Bourse : cours de STMicroelectronics",
+          "url": "https://www.abcbourse.com/cotation/STMPAp"
+        },
+        {
+          "titre": "ABC Bourse : cours d'Airbus",
+          "url": "https://www.abcbourse.com/cotation/AIRp"
+        },
+        {
+          "titre": "Admiral Markets : rapport PCE du 25 novembre 2026",
+          "url": "https://admiralmarkets.com/fr/analyses/actualite-marches/apercu-inflation-indice-pce-octobre-2026"
+        },
+        {
+          "titre": "Admiral Markets : action Siemens Energy avant le 11 novembre",
+          "url": "https://admiralmarkets.com/fr/formation/articles/shares/action-siemens-energy"
+        },
+        {
+          "titre": "Idéal Investisseur : l'action Orange échoue sur sa résistance des 15,62 €",
+          "url": "https://www.ideal-investisseur.fr/actions-b/laction-orange-echoue-sur-sa-resistance-des-1562-et-cede-15/29542.html"
+        }
+      ]
+    },
+    {
       "date": "2026-11-19",
       "titre": "Les débuts record d'Anthropic font flancher Wall Street, Paris recule encore",
       "resume": "Le CAC 40 a perdu 0,81 % à 8 080,74 points, sa troisième baisse d'affilée (-3,44 % depuis lundi), et l'Euro Stoxx 50 environ 0,4 %, l'élan matinal des semi-conducteurs s'étant essoufflé (Zonebourse, Moneyvox). Soitec a bondi de 12 % après ses résultats, mais Sanofi, Accor et Capgemini ont reculé de près de 3 %. À New York, Anthropic a ouvert 34 % au-dessus de son prix d'introduction, puis Wall Street s'est retournée nettement à la baisse.",
@@ -6871,174 +7214,6 @@
         {
           "titre": "Boursedirect (AFP) : la Bourse de Paris finit en hausse, le taux français au-dessus de 5 %",
           "url": "https://boursedirect.fr/fr/actualites/categorie/economie/la-bourse-de-paris-finit-en-hausse-apres-une-serie-de-resultats-le-taux-francais-au-dessus-des-5-afp-ed90691fbe290b44cf76bec07b87118733f2bf38"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "titre": "Paris limite la casse (-0,4 %) malgré une dette française sous tension record depuis 2011",
-      "resume": "Le CAC 40 a clôturé à 7 838,49 points (-0,38 %) après avoir perdu plus de 1 % en début d'après-midi. L'écart de taux avec l'Allemagne est monté à environ 153 points de base, un plus haut depuis 2011 selon la presse financière. À Wall Street, le Dow Jones et le S&P 500 progressaient en séance alors que le Brent restait proche de 110 dollars.",
-      "humeur": "baisse",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 838,49 pts",
-          "variation": -0.38
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "non confirmé ce soir",
-          "variation": 0.0
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "en hausse en séance (clôture non confirmée)",
-          "variation": 0.4
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "en légère hausse en séance (clôture non confirmée)",
-          "variation": 0.2
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 111 $ le baril (en séance)",
-          "variation": 1.7
-        },
-        {
-          "nom": "Or",
-          "valeur": "non confirmé ce soir",
-          "variation": 0.0
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "≈ 1,121 $",
-          "variation": -0.03
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Dette française",
-          "texte": "Le taux français à dix ans a frôlé 5 % avant de revenir vers 4,92 %, et l'écart avec l'Allemagne atteint environ 153 points de base. Les investisseurs demandent une prime élevée pour détenir de la dette française, ce qui pèse sur les banques."
-        },
-        {
-          "titre": "Pétrole et géopolitique",
-          "texte": "Le Brent est reparti à la hausse vers 111 dollars, près de son plus haut de cinq mois, dans un contexte de tensions au Moyen-Orient. Il alimente l'inflation, déjà à 3,8 % dans la zone euro."
-        },
-        {
-          "titre": "Banques centrales",
-          "texte": "La Fed décide le 28 octobre et la BCE le 29. Avec une inflation élevée des deux côtés de l'Atlantique, leur marge de manoeuvre est étroite."
-        },
-        {
-          "titre": "IA et résultats américains",
-          "texte": "La saison des résultats d'entreprises américaines démarre, et les valeurs de l'IA, très secouées la semaine dernière, restent surveillées de près par les marchés."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 380.84,
-        "pv": -18.36,
-        "texte": "Ton portefeuille vaut 380,84 € pour 399,20 € investis, soit une moins-value latente de 18,36 €. Faute de clôture fiable ce soir pour tes lignes, les cours sont ceux déjà enregistrés."
-      },
-      "valeurs": [
-        {
-          "nom": "Thales",
-          "texte": "Le titre évoluait autour de 229 à 231 € en séance, avant la publication demain de ses commandes et de son chiffre d'affaires du troisième trimestre. Le groupe prépare aussi le rachat d'Exail Technologies à 134 € par action, une opération attendue d'ici fin 2027."
-        },
-        {
-          "nom": "Soitec",
-          "texte": "L'action a clôturé à 123,65 € (-3,74 %), la plus forte baisse du jour parmi les valeurs suivies, dans un secteur des semi-conducteurs encore nerveux."
-        },
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre a perdu environ 3 % en matinée (près de 40 €) avant de réduire sa baisse ; résultats le 29 octobre."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "TotalEnergies",
-          "isin": "FR0000120271",
-          "risque": "Modéré",
-          "prix": "≈ 70 à 76 € la part (derniers cours confirmés en juillet, à revérifier)",
-          "texte": "Avec un Brent autour de 110 dollars, le pétrolier engrange des marges élevées : au deuxième trimestre, son bénéfice net ajusté a bondi d'environ 68 % sur un an et son dividende a été relevé. C'est une valeur de grande taille, cotée à Paris en euros et éligible au PEA, qui verse un dividende régulier. Le principal risque est un retournement du pétrole en cas d'accord au Moyen-Orient, qui ferait fondre ces marges d'un coup."
-        },
-        {
-          "nom": "Technip Energies",
-          "isin": "NL0014559478",
-          "risque": "Élevé",
-          "prix": "≈ 30 € la part (cours du début août, à revérifier)",
-          "texte": "Ce groupe d'ingénierie construit des usines de gaz naturel liquéfié et de transition énergétique, des projets que la hausse de l'énergie remet au premier plan. Le titre a reculé depuis janvier après une dégradation d'un analyste en août, ce qui peut offrir un point d'entrée, et ses résultats des neuf premiers mois tombent le 29 octobre. Il est coté à Paris en euros et éligible au PEA. Le risque principal est le report ou l'annulation de gros chantiers, qui pèse vite sur les résultats."
-        },
-        {
-          "nom": "BNP Paribas Easy Bloomberg Europe Defense UCITS ETF",
-          "isin": "LU3047998896",
-          "risque": "Élevé",
-          "prix": "≈ 11 € la part (valeur de juillet, à revérifier)",
-          "texte": "Cet ETF regroupe une trentaine d'entreprises européennes de défense, un thème porté par la hausse des budgets militaires, et sa part à environ 11 € convient à un petit budget. Plusieurs sources l'indiquent éligible au PEA, mais elles ne sont pas toutes d'accord : vérifie-le sur Trade Republic avant tout achat. Il est déjà diversifié, mais il reste concentré sur un seul secteur, très sensible aux annonces politiques et aux prises de bénéfices après de fortes hausses."
-        }
-      ],
-      "idee": {
-        "nom": "TotalEnergies",
-        "isin": "FR0000120271",
-        "risque": "Modéré",
-        "prix": "≈ 70 à 76 € la part (derniers cours confirmés en juillet, à revérifier)",
-        "texte": "Avec un Brent autour de 110 dollars, le pétrolier engrange des marges élevées : au deuxième trimestre, son bénéfice net ajusté a bondi d'environ 68 % sur un an et son dividende a été relevé. C'est une valeur de grande taille, cotée à Paris en euros et éligible au PEA, qui verse un dividende régulier. Le principal risque est un retournement du pétrole en cas d'accord au Moyen-Orient, qui ferait fondre ces marges d'un coup."
-      },
-      "concept": {
-        "terme": "L'OPA (offre publique d'achat)",
-        "texte": "Une OPA est une proposition faite publiquement par une entreprise ou un investisseur pour racheter les actions d'une société cotée, à un prix fixé à l'avance et en général supérieur au cours de Bourse. L'objectif est de prendre le contrôle de la société visée. Le régulateur, l'AMF en France, encadre la procédure pour que tous les actionnaires soient traités de la même façon. L'offre peut être amicale si la direction de la cible l'approuve, ou hostile dans le cas contraire. Actuellement, Thales a annoncé une offre sur Exail Technologies à 134 € par action, ce qui illustre bien le mécanisme.",
-        "references": [
-          {
-            "titre": "AMF : Comprendre les offres publiques d'acquisition (OPA, OPE, etc.) ⚠️",
-            "url": "https://www.amf-france.org/sites/institutionnel/files/pdf/56050/fr/Comprendre_les_offres_publiques_d%27acquisition__OPA%2C_OPE%2C_etc_.pdf"
-          },
-          {
-            "titre": "Investopedia : Tender Offer ⚠️",
-            "url": "https://www.investopedia.com/terms/t/tenderoffer.asp"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-21",
-          "titre": "Thales : commandes et chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-22",
-          "titre": "Nexans : chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-23",
-          "titre": "Safran : chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux ; résultats de STMicroelectronics et d'Amundi ; chiffre d'affaires d'Air Liquide"
-        },
-        {
-          "date": "2026-11-03",
-          "titre": "États-Unis : élections de mi-mandat"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "BFM Bourse : le CAC 40 limite la casse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-dette-francaise-reste-sous-tension-mais-le-cac-40-parvient-a-limiter-la-casse-1172096.html"
-        },
-        {
-          "titre": "Zonebourse : la Bourse de Paris finit dans le rouge",
-          "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-finit-dans-le-rouge-le-climat-social-reste-tendu-en-france-ce785cd8da81f52c"
-        },
-        {
-          "titre": "Zonebourse : Wall Street résiste",
-          "url": "https://www.zonebourse.com/actualite-bourse/wall-street-resiste-malgre-la-persistance-de-multiples-facteurs-de-pression-ce785cd8da8af22d"
-        },
-        {
-          "titre": "Boursorama : la Bourse de Paris recule, dette française",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-recule-les-inquietudes-sur-la-dette-francaise-persistent-69c20327fcf942b8a7e0dd0e9445c0af"
         }
       ]
     }

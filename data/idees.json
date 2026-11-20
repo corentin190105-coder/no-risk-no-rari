@@ -12,9 +12,9 @@
       "invalidation": 94.5,
       "objectif": 122.0,
       "echeance": "2026-11-20",
-      "statut": "ouverte",
-      "dateCloture": null,
-      "perfPct": null
+      "statut": "expirée",
+      "dateCloture": "2026-11-20",
+      "perfPct": -9.29
     },
     {
       "id": "vu-2026-11-16",
