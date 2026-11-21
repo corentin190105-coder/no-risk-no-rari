@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-20T21:15:00+01:00",
-    "resume": "Vendredi 20 novembre 2026 : le CAC 40 perd 1,89 % à 7 927,75 points et 5,27 % sur la semaine, emporté par la défiance envers l'IA ; le Nasdaq recule de plus de 4 % (provisoire). Ton portefeuille vaut 730,65 € pour 799,28 € investis, soit -68,63 €. STMicroelectronics chute de 10,8 % et clôture sous son niveau de sortie de 38,61 €."
+    "date": "2026-11-21T21:05:00+01:00",
+    "resume": "Samedi 21 novembre 2026, marchés fermés : cours de clôture de vendredi. Wall Street a fini plus bas qu'à la clôture de Paris, le S&P 500 entre en correction (-3,70 %) et le Nasdaq perd 5,28 %, avec Nvidia (-14 %) visé par un examen de ses comptes par la SEC. Ton portefeuille vaut 730,65 € pour 799,28 € investis, soit -68,63 €. STMicroelectronics et Stellantis restent sous leurs niveaux de sortie."
   },
   "actifs": [
     {
@@ -427,6 +427,11 @@
       "actus": [
         {
           "date": "2026-11-20",
+          "titre": "Nvidia chute de 14 % sur un examen de ses comptes par la SEC, le Nasdaq finit à -5,28 %",
+          "url": "https://stockinvest.us/digest/digest-us-market-close-2026-11-20"
+        },
+        {
+          "date": "2026-11-20",
           "titre": "Le Nasdaq recule de plus de 4 % vendredi (provisoire) et plus de 7 % sur la semaine, sa pire semaine depuis avril 2025",
           "url": "https://www.moneyvox.fr/bourse/actualites/111354/cac-40-en-baisse-de-pres-de-2-krach-de-ia-ubisoft-le-journal-de-la-bourse-du-vendredi-20-novembre-2026"
         },
@@ -449,11 +454,6 @@
           "date": "2026-11-16",
           "titre": "Le Nasdaq perd environ 1,7 % en séance : nouvelles règles américaines sur l'export de puces d'IA et prudence avant Nvidia (Reuters)",
           "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slide-nvidia-earnings-anthropic-debut-loom-2026-11-16/"
-        },
-        {
-          "date": "2026-11-15",
-          "titre": "Nvidia publie mardi soir ses premiers résultats sans Jensen Huang : le consensus attend environ 108,8 milliards de dollars de chiffre d'affaires (+91 %)",
-          "url": "https://www.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-nvidia-home-depot-200691576"
         }
       ],
       "isin": "FR0011871110",
@@ -838,6 +838,11 @@
       "actus": [
         {
           "date": "2026-11-20",
+          "titre": "Nvidia chute de 14 % sur un examen de ses comptes par la SEC, le Nasdaq finit à -5,28 %, plus bas qu'à la clôture de Paris",
+          "url": "https://stockinvest.us/digest/digest-us-market-close-2026-11-20"
+        },
+        {
+          "date": "2026-11-20",
           "titre": "Le Nasdaq recule de plus de 4 % vendredi (provisoire) et plus de 7 % sur la semaine, sa pire semaine depuis avril 2025",
           "url": "https://www.moneyvox.fr/bourse/actualites/111354/cac-40-en-baisse-de-pres-de-2-krach-de-ia-ubisoft-le-journal-de-la-bourse-du-vendredi-20-novembre-2026"
         },
@@ -860,11 +865,6 @@
           "date": "2026-11-16",
           "titre": "Le Nasdaq perd environ 1,7 % en séance : nouvelles règles américaines sur l'export de puces d'IA et prudence avant Nvidia (Reuters)",
           "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slide-nvidia-earnings-anthropic-debut-loom-2026-11-16/"
-        },
-        {
-          "date": "2026-11-15",
-          "titre": "Nvidia publie mardi soir ses premiers résultats sans Jensen Huang : le consensus attend environ 108,8 milliards de dollars de chiffre d'affaires (+91 %)",
-          "url": "https://www.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-nvidia-home-depot-200691576"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -1354,18 +1354,6 @@
   ],
   "agenda": [
     {
-      "id": "us-ppi-2026-10",
-      "date": "2026-11-13",
-      "titre": "États-Unis : prix à la production d'octobre",
-      "detail": "Publié : +0,3 % sur un mois contre 0,4 % attendu, mais +6,5 % sur un an, le plus haut depuis novembre 2022 (Zonebourse, AFP). Septembre a été révisé en hausse : la Fed reste attendue en hausse de taux en décembre."
-    },
-    {
-      "id": "ez-gdp-q3-2026",
-      "date": "2026-11-13",
-      "titre": "Zone euro : PIB du 3e trimestre (2e estimation)",
-      "detail": "Publié : croissance conforme à la première estimation selon Zonebourse. Pas de surprise pour la BCE."
-    },
-    {
       "id": "eramet-dps-2026-11",
       "date": "2026-11-16",
       "titre": "Eramet : détachement et début de cotation des droits préférentiels",
@@ -1468,16 +1456,52 @@
       "detail": "Annonce de l'Élysée du 18 novembre (AFP). Peut toucher Airbus, Safran, Thales et les sous-traitants."
     },
     {
+      "id": "pmi-flash-2026-11-23",
+      "date": "2026-11-23",
+      "titre": "France, Allemagne, zone euro : indices PMI flash de novembre",
+      "detail": "France à 9h15, Allemagne à 9h30, zone euro à 10h00 (ABC Bourse, agenda du 20 novembre). Premier baromètre de l'activité après une semaine de forte baisse des marchés. Bourse de Tokyo fermée (jour férié)."
+    },
+    {
+      "id": "ifo-cb-2026-11-24",
+      "date": "2026-11-24",
+      "titre": "Allemagne : climat des affaires Ifo ; États-Unis : confiance des ménages du Conference Board",
+      "detail": "Ifo à 10h00, Conference Board à 16h00 heure de Paris (ABC Bourse). Trigano publie ses résultats annuels après la clôture."
+    },
+    {
       "id": "us-pce-2026-10",
       "date": "2026-11-25",
       "titre": "États-Unis : inflation PCE et revenus des ménages d'octobre",
       "detail": "14h30 heure de Paris (8h30 à New York, Admiral Markets). L'indice d'inflation préféré de la Fed, dernier grand chiffre avant sa décision du 9 décembre."
     },
     {
+      "id": "rco-s1-2026-11-25",
+      "date": "2026-11-25",
+      "titre": "Rémy Cointreau : résultats semestriels et objectifs 2031-32",
+      "detail": "Communiqué à partir de 7h30, présentation à 9h00 (agenda financier de Rémy Cointreau). Le groupe présentera aussi ses priorités stratégiques."
+    },
+    {
+      "id": "rhm-cmd-2026-11-25",
+      "date": "2026-11-25",
+      "titre": "Rheinmetall : journée investisseurs à Hambourg (25 au 27 novembre)",
+      "detail": "Après une deuxième baisse de ses prévisions 2026 (AktienCheck, 20 novembre). Repère pour tout le secteur européen de la défense."
+    },
+    {
+      "id": "us-beige-2026-11-25",
+      "date": "2026-11-25",
+      "titre": "États-Unis : PIB du 3e trimestre (2e estimation) et Livre beige de la Fed",
+      "detail": "PIB à 14h30, en même temps que l'inflation PCE ; Livre beige à 20h00 heure de Paris (ABC Bourse)."
+    },
+    {
       "id": "us-thanksgiving-2026",
       "date": "2026-11-26",
       "titre": "États-Unis : Thanksgiving, Wall Street fermée",
       "detail": "Quatrième jeudi de novembre : pas de séance à New York, volumes faibles en Europe."
+    },
+    {
+      "id": "fr-ipc-2026-11-27",
+      "date": "2026-11-27",
+      "titre": "France : inflation préliminaire de novembre et PIB du 3e trimestre",
+      "detail": "8h45 (ABC Bourse). Wall Street ferme à 19h00 heure de Paris, au lendemain de Thanksgiving."
     },
     {
       "id": "ez-flash-hicp-2026-11",
@@ -1502,6 +1526,12 @@
       "date": "2026-12-10",
       "titre": "États-Unis : inflation de novembre (CPI)",
       "detail": "Publication le 10 décembre à 14h30 heure de Paris, le lendemain de la décision de la Fed."
+    },
+    {
+      "id": "engie-be-2026-12-12",
+      "date": "2026-12-12",
+      "titre": "Engie : date butoir de l'accord sur le nucléaire belge",
+      "detail": "Discussions avec l'État belge, avec des divergences sur la valorisation (ABC Bourse, 5 novembre)."
     },
     {
       "id": "bce-2026-12",
@@ -1723,6 +1753,11 @@
     },
     {
       "d": "2026-11-20",
+      "valeur": 730.65,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-21",
       "valeur": 730.65,
       "investi": 799.28
     }

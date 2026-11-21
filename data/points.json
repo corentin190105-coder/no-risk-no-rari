@@ -1,6 +1,333 @@
 {
   "points": [
     {
+      "date": "2026-11-21",
+      "titre": "Samedi sans cotation : Wall Street finit en correction et des missiles russes tombent en Pologne",
+      "resume": "Les marchés sont fermés et ce point reprend les cours de clôture de vendredi : le CAC 40 a perdu 5,27 % sur la semaine, et Wall Street a fini plus bas qu'à la clôture de Paris, avec un S&P 500 en correction (-3,70 %) et un Nasdaq à -5,28 %, emporté par Nvidia (-14 %), visé par un examen de ses comptes par la SEC. Dans la nuit de jeudi à vendredi, deux missiles et un drone russes sont tombés en Pologne, et l'OTAN promet de défendre son territoire. La semaine prochaine se jouera sur les indices PMI lundi, l'inflation PCE mercredi et Thanksgiving jeudi.",
+      "humeur": "baisse",
+      "indices": [
+        {
+          "nom": "CAC 40 (vendredi)",
+          "valeur": "7 927,75 pts",
+          "variation": -1.89
+        },
+        {
+          "nom": "Euro Stoxx 50 (vendredi)",
+          "valeur": "5 941,95 pts",
+          "variation": -2.81
+        },
+        {
+          "nom": "S&P 500 (clôture de vendredi)",
+          "valeur": "6 910,39 pts",
+          "variation": -3.7
+        },
+        {
+          "nom": "Nasdaq Composite (clôture de vendredi)",
+          "valeur": "22 617,73 pts",
+          "variation": -5.28
+        },
+        {
+          "nom": "Nikkei 225 (vendredi)",
+          "valeur": "56 436,65 pts",
+          "variation": -5.06
+        },
+        {
+          "nom": "Hang Seng (vendredi)",
+          "valeur": "22 410,80 pts",
+          "variation": -1.89
+        },
+        {
+          "nom": "Brent (clôture de vendredi)",
+          "valeur": "92,57 $",
+          "variation": 0.64
+        },
+        {
+          "nom": "Or (clôture de vendredi)",
+          "valeur": "3 524,35 $",
+          "variation": -2.77
+        },
+        {
+          "nom": "Euro/dollar (vendredi soir)",
+          "valeur": "≈ 1,098 $",
+          "variation": 0.16
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Wall Street en correction, Nvidia sous enquête",
+          "texte": "Le S&P 500 a perdu 3,70 % vendredi à 6 910,39 points et entre en correction, soit plus de 10 % sous son record, pour sa pire semaine depuis avril 2025 ; le Nasdaq recule de 5,28 % et efface ses gains de l'année (StockInvest). Nvidia a chuté d'environ 14 % à 125,53 dollars après l'annonce d'un examen de ses comptes par la SEC, le gendarme boursier américain, en plus d'une enquête du procureur de Californie (Yahoo Finance, Nocta). Ces chiffres sont des clôtures définitives, plus basses que les cours provisoires affichés vendredi soir."
+        },
+        {
+          "titre": "Missiles russes en Pologne : l'OTAN promet de répondre",
+          "texte": "Deux missiles et un drone russes sont tombés dans le sud-est de la Pologne pendant des exercices militaires européens, et Varsovie parle de provocation volontaire (Al Jazeera). Le secrétaire général de l'OTAN, Mark Rutte, a promis de défendre chaque centimètre du territoire polonais, et Donald Trump a parlé d'une erreur (Washington Post). Le recours à l'article 5, la défense collective, paraît peu probable ; une consultation au titre de l'article 4 reste possible, ce qui maintient la défense au cœur de l'actualité."
+        },
+        {
+          "titre": "L'or chute malgré la crise, le pétrole se stabilise",
+          "texte": "L'once d'or a perdu 2,77 % vendredi à 3 524,35 dollars et 9,1 % sur la semaine, à son plus bas depuis septembre 2025 (Ausecure) : dans la vente générale, même la valeur refuge a été vendue. Le Brent a gagné 0,64 % à 92,57 dollars, entre les tensions au Moyen-Orient et une offre mondiale qui, selon l'AIE, dépasserait la demande pour la première fois depuis le début de la guerre (Prix du baril)."
+        },
+        {
+          "titre": "Banques centrales : l'inflation PCE avant la Fed",
+          "texte": "Mercredi 25 novembre à 14h30, l'inflation PCE d'octobre, la mesure préférée de la Fed, sera le dernier grand chiffre américain avant sa décision du 9 décembre, où une hausse des taux reste envisagée ; le Livre beige suivra à 20h00. En Europe, les indices PMI flash de lundi diront si l'activité résiste, avant une BCE qui se réunit le 17 décembre avec une inflation de 4,0 % en octobre."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 730.65,
+        "pv": -68.63,
+        "texte": "Marchés fermés : ton portefeuille vaut toujours 730,65 € pour 799,28 € investis, soit -68,63 €, aux cours de clôture de vendredi. Lundi, l'ETF Nasdaq-100 risque d'ouvrir en baisse après la fin de séance américaine, et la règle de vente s'applique à STMicroelectronics et Stellantis."
+      },
+      "valeurs": [
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "Ce qui a changé depuis vendredi soir : le Nasdaq a fini à -5,28 %, plus bas que vers 21h, et Nvidia, première ligne de l'indice, a perdu environ 14 % sur l'examen de ses comptes par la SEC. L'ETF (6,189 € vendredi) peut encore baisser à l'ouverture lundi."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Aucune nouvelle propre à la société ce week-end, mais la chute de Nvidia pèse sur tout le secteur des puces. La ligne (36,72 €) reste sous ton niveau de sortie de 38,61 € : la vente des 2 actions est prévue lundi."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Engie",
+          "isin": "FR0010208488",
+          "risque": "Modéré",
+          "prix": "≈ 24 € la part",
+          "texte": "Engie produit et distribue de l'électricité et du gaz, avec une grande part de revenus régulés, donc plus prévisibles que ceux de la tech. Dans une semaine où le CAC 40 a perdu 5,3 %, le titre a presque tenu : 24,26 € vendredi (-0,37 %), +6,4 % sur 20 séances et au-dessus de ses moyennes 20 et 50 jours (24,19 € et 23,61 €, Yahoo Finance via le radar). Le 5 novembre, le groupe a dit viser le haut de sa fourchette de résultat net récurrent 2026, entre 4,9 et 5,5 milliards d'euros (ABC Bourse). Le principal risque : l'accord sur le nucléaire belge, avec une date butoir au 12 décembre et des divergences sur la valorisation, et des taux en hausse qui pèsent sur les valeurs à dividende."
+        },
+        {
+          "nom": "Rémy Cointreau",
+          "isin": "FR0000130395",
+          "risque": "Élevé",
+          "prix": "≈ 50 € la part",
+          "texte": "Rémy Cointreau vend du cognac Rémy Martin, de la liqueur Cointreau et d'autres spiritueux haut de gamme, une activité sans lien avec l'IA qui fait chuter la tech. Mercredi 25 novembre, le groupe publie ses résultats semestriels et ses objectifs pour 2031-32 (agenda de la société) : un rendez-vous daté qui peut faire bouger fortement le titre. Vendredi, l'action a fini stable à 50,45 € (+0,1 %) dans un marché en chute, au-dessus de sa moyenne 50 jours (47,44 €) mais sous sa moyenne 20 jours (51,39 €), après un chiffre d'affaires du 2e trimestre meilleur que prévu et des objectifs annuels confirmés le 28 octobre (Boursorama). Le principal risque : des objectifs de long terme décevants, dans un secteur du cognac pénalisé par les droits de douane et une demande faible."
+        },
+        {
+          "nom": "Rheinmetall",
+          "isin": "DE0007030009",
+          "risque": "Très élevé",
+          "prix": "≈ 705 € la part",
+          "texte": "Rheinmetall fabrique des blindés, des munitions et des systèmes de défense aérienne pour les armées européennes. Les missiles russes tombés en Pologne jeudi soir relancent la question de la protection du flanc est de l'OTAN, et le groupe tient sa journée investisseurs à Hambourg du 25 au 27 novembre. Le titre vaut environ 705 €, au plus bas depuis près de deux ans et 64 % sous son record de janvier, après une deuxième baisse de ses prévisions : chiffre d'affaires 2026 d'environ 13,2 milliards d'euros contre 13,7 à 14,2 milliards auparavant (AktienCheck, 20 novembre). Le principal risque : des prévisions abaissées deux fois, au moins 14 courtiers qui ont réduit leurs objectifs, et une part trop chère pour ton budget, à suivre plutôt qu'à acheter."
+        }
+      ],
+      "idee": {
+        "nom": "Engie",
+        "isin": "FR0010208488",
+        "risque": "Modéré",
+        "prix": "≈ 24 € la part",
+        "texte": "Engie produit et distribue de l'électricité et du gaz, avec une grande part de revenus régulés, donc plus prévisibles que ceux de la tech. Dans une semaine où le CAC 40 a perdu 5,3 %, le titre a presque tenu : 24,26 € vendredi (-0,37 %), +6,4 % sur 20 séances et au-dessus de ses moyennes 20 et 50 jours (24,19 € et 23,61 €, Yahoo Finance via le radar). Le 5 novembre, le groupe a dit viser le haut de sa fourchette de résultat net récurrent 2026, entre 4,9 et 5,5 milliards d'euros (ABC Bourse). Le principal risque : l'accord sur le nucléaire belge, avec une date butoir au 12 décembre et des divergences sur la valorisation, et des taux en hausse qui pèsent sur les valeurs à dividende."
+      },
+      "concept": {
+        "terme": "La valeur refuge",
+        "texte": "Une valeur refuge est un placement vers lequel les investisseurs se tournent quand ils ont peur, parce qu'ils pensent qu'il gardera mieux sa valeur que les actions en période de crise. L'or est l'exemple le plus connu : La finance pour tous rappelle qu'il évolue souvent à l'inverse des autres actifs, mais qu'il reste un actif risqué et volatil, qui ne verse ni dividende ni intérêt. Cette semaine le montre : malgré la chute des Bourses et des missiles russes tombés en Pologne, l'once d'or a perdu 2,77 % vendredi à 3 524,35 dollars et 9,1 % sur la semaine, à son plus bas depuis septembre 2025 (Ausecure). Dans une vente générale, des investisseurs vendent aussi ce qui a le plus monté pour couvrir leurs pertes ou trouver des liquidités : le statut de refuge n'est donc jamais une garantie. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "La finance pour tous : Pourquoi dit-on que l'or est une « valeur refuge » ?",
+            "url": "https://www.lafinancepourtous.com/outils/questions-reponses/pourquoi-dit-que-lor-est-une-valeur-refuge/"
+          },
+          {
+            "titre": "Banque de France : Eco Bref sur l'or (avril 2025) ⚠️",
+            "url": "https://www.banque-france.fr/system/files/2025-04/Eco-Bref_Or_VDef%200425.pdf"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché n'est pas porteur pour agir lundi matin : Wall Street a fini vendredi plus bas qu'à la clôture de Paris, le S&P 500 entre en correction (-3,70 %) et le Nasdaq perd 5,28 % et efface ses gains de 2026 (StockInvest), ce qui peut peser sur l'ouverture européenne. Aucune idée ne passe les critères Favorable et je n'ajoute pas d'idée Spéculatif : le journal compte 3 idées closes, toutes Spéculatif et toutes perdantes (Soitec -9,29 %, Vusion -4,55 %, Riber -7,30 %), aucune ouverte, un échantillon trop petit (moins de 10) pour juger la méthode, mais une raison de plus d'être exigeant. Sur tes lignes, rien n'a changé depuis vendredi : STMicroelectronics (36,72 €) reste sous ton niveau de sortie de 38,61 € et Stellantis (3,13 €) sous 3,75 €, la règle de vente s'applique lundi ; Air Liquide (environ 188 €) reste loin de 171 €. L'ETF Nasdaq-100 risque d'ouvrir en baisse lundi, puisque le Nasdaq a encore reculé après 17h35 vendredi.",
+        "retro": "",
+        "opportunites": [
+          {
+            "nom": "Airbus",
+            "isin": "NL0000235190",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 7 jours",
+            "catalyseur": "Visite d'Emmanuel Macron chez Airbus à Toulouse lundi 23 novembre, avec des annonces attendues sur la filière (ICI, Le Journal Toulousain)",
+            "cours": "189,96 €",
+            "entree": "195,50 €, seulement après une clôture au-dessus",
+            "invalidation": "189,50 €",
+            "objectif": "207,50 €",
+            "ratio": "2,0",
+            "frais": "2 actions : environ 391 €, perte maximale d'environ 14 € frais compris, gain visé d'environ 22 € net de 2 € de frais",
+            "these": "Airbus construit des avions de ligne, des hélicoptères et des satellites. Le catalyseur reste daté et confirmé : Emmanuel Macron est à Toulouse dimanche et lundi, avec un dîner réunissant des patrons européens puis des annonces chez Airbus (Le Journal Toulousain, ICI). Rien n'a changé sur le titre depuis vendredi : 189,96 € (-4,13 %), sous ses moyennes 20 et 50 jours (199,13 € et 195,00 €), avec un volume 1,26 fois la moyenne, ce qui ne ressemble pas à une vente panique. Ce qui a changé, c'est le décor : Wall Street a fini plus bas que prévu, ce qui rend une ouverture difficile probable lundi. Les niveaux restent identiques pour ne pas les déplacer au gré du marché : il faut une clôture au-dessus de 195,50 €, au-dessus de la moyenne 50 jours, avec un volume supérieur à la moyenne et une annonce concrète. Ce qui contredit l'idée : une visite présidentielle fait rarement bouger durablement un titre de cette taille, et ni le consensus ni les positions courtes n'ont été vérifiés ce soir.",
+            "risque": "Une ouverture en forte baisse lundi peut casser 189,50 € avant même les annonces."
+          },
+          {
+            "nom": "Rémy Cointreau",
+            "isin": "FR0000130395",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 7 jours",
+            "catalyseur": "Résultats semestriels et objectifs 2031-32 le mercredi 25 novembre à 7h30 (agenda de la société)",
+            "cours": "50,45 €",
+            "entree": "52,50 €, seulement après les résultats et une clôture au-dessus",
+            "invalidation": "50,00 €",
+            "objectif": "57,50 €",
+            "ratio": "2,0",
+            "frais": "7 actions : environ 367,50 €, perte maximale d'environ 19,50 € frais compris, gain visé d'environ 33 € net de 2 € de frais (environ +9,5 %)",
+            "these": "Rémy Cointreau vend des spiritueux haut de gamme, surtout du cognac et la liqueur Cointreau. Le catalyseur est daté : mercredi 25 novembre, le groupe publie ses résultats semestriels et présente ses objectifs 2031-32, un rendez-vous qui peut relancer le titre si le plan rassure. Le 28 octobre, il a publié un chiffre d'affaires du 2e trimestre meilleur que prévu et confirmé ses objectifs annuels (Boursorama). Vendredi, l'action a fini stable à 50,45 € (+0,1 %) quand le CAC 40 perdait 1,89 %, au-dessus de sa moyenne 50 jours (47,44 €) mais sous sa moyenne 20 jours (51,39 €), avec un ATR de 1,22 € (Yahoo Finance via le radar). Acheter avant mercredi serait un pari sur un chiffre : l'entrée n'est valable qu'après la publication, sur une clôture au-dessus de 52,50 €, au-dessus de la moyenne 20 jours ; l'invalidation à 50,00 € est à environ 2 ATR et 4,8 % sous l'entrée. Ce qui contredit l'idée : le volume de vendredi n'était que de 0,66 fois la moyenne, le cognac souffre des droits de douane et d'une demande faible, et je n'ai vérifié ni le consensus ni les positions courtes.",
+            "risque": "Des objectifs 2031-32 jugés trop prudents peuvent faire chuter le titre de plus de 5 % en une séance."
+          },
+          {
+            "nom": "Rheinmetall",
+            "isin": "DE0007030009",
+            "compte": "PEA",
+            "avis": "Éviter",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Missiles russes en Pologne et journée investisseurs du 25 au 27 novembre",
+            "cours": "≈ 705 €",
+            "entree": "aucune",
+            "invalidation": "non fixée",
+            "objectif": "non fixé",
+            "ratio": "non calculé",
+            "frais": "aucun achat proposé",
+            "these": "Rheinmetall fabrique des blindés, des munitions et de la défense aérienne. Le catalyseur existe : les missiles tombés en Pologne et la journée investisseurs de Hambourg. Mais une part vaut environ 705 €, bien au-dessus de la limite de 200 € par part, et la valeur n'est pas dans le suivi des cours, donc sans ATR : elle ne peut pas devenir une idée. Le titre a aussi abaissé deux fois ses prévisions 2026, avec un chiffre d'affaires attendu vers 13,2 milliards d'euros (AktienCheck, 20 novembre). À suivre comme baromètre du secteur de la défense, pas à acheter.",
+            "risque": "Une journée investisseurs décevante peut prolonger la baisse d'un titre déjà 64 % sous son record."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "Psychologie de l'investisseur : l'effet de troupeau et la vente de panique",
+        "niveau": "Intermédiaire",
+        "texte": "Après l'aversion à la perte, voici un deuxième piège mental, très actif dans une semaine comme celle-ci : l'effet de troupeau. Il consiste à faire comme les autres parce qu'ils le font, en achetant ce qui monte ou en vendant ce qui baisse, sans revenir à ses propres raisons. L'AMF le cite parmi les biais qui faussent les décisions des épargnants, avec l'aversion à la perte et la myopie face aux pertes, qui pousse à regarder trop souvent ses lignes. Dans une chute rapide, ce réflexe pousse à vendre au plus bas, juste avant un éventuel rebond, et à racheter plus tard, plus cher. Il faut pourtant distinguer deux ventes : vendre parce que tout le monde vend, et vendre parce qu'un niveau fixé à l'avance, à froid, est cassé. La première est une réaction, la seconde est l'application d'un plan. Pour se protéger, on écrit avant d'acheter pourquoi on achète, à quel niveau on sort et pour combien de temps, puis on relit ce plan avant chaque décision. Enfin, on se rappelle que les pertes et les gains ne sont pas symétriques : une baisse de 20 % demande une hausse de 25 % pour revenir au point de départ.",
+        "exemple": "Ton ETF Nasdaq-100 vaut 6,189 € contre 7,223 € à l'achat, soit -14,3 % : pour revenir à l'équilibre, il lui faut remonter d'environ 16,7 % (7,223 / 6,189). Le vendre lundi parce que le Nasdaq a perdu 5,28 % vendredi serait une réaction de troupeau, car cette ligne de long terme n'a pas de niveau de sortie. À l'inverse, vendre les 2 actions STMicroelectronics (36,72 €) n'est pas de la panique : leur niveau de sortie de 38,61 € avait été fixé à l'avance, et il est cassé.",
+        "references": [
+          {
+            "titre": "AMF : Mieux connaître ses réactions pour mieux investir, comprendre les biais comportementaux",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/actualites-mises-en-garde/mieux-connaitre-ses-reactions-pour-mieux-investir-comprendre-les-biais-comportementaux"
+          },
+          {
+            "titre": "Investopedia : Herd Instinct ⚠️",
+            "url": "https://www.investopedia.com/terms/h/herdinstinct.asp"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Un investisseur vend son ETF Monde de long terme lundi matin, uniquement parce que les Bourses ont fortement baissé vendredi. Quel biais illustre-t-il ?",
+          "choix": [
+            "Le biais de confirmation",
+            "L'aversion à l'ambiguïté",
+            "L'effet de troupeau qui pousse à vendre dans la panique",
+            "Le biais d'ancrage sur le prix d'achat"
+          ],
+          "bonne": 2,
+          "explication": "Il suit le mouvement général sans revenir à ses propres raisons ni à un plan fixé à l'avance : c'est l'effet de troupeau, qui pousse souvent à vendre au plus bas."
+        },
+        {
+          "question": "Cette semaine, l'or a perdu 9,1 % alors que les Bourses chutaient. Qu'est-ce que cela montre sur la notion de valeur refuge ?",
+          "choix": [
+            "Qu'une valeur refuge peut aussi baisser, par exemple quand des investisseurs vendent pour couvrir leurs pertes ou trouver des liquidités",
+            "Que l'or n'est plus du tout considéré comme une valeur refuge",
+            "Que les valeurs refuges montent toujours quand les actions baissent",
+            "Que l'or suit exactement l'indice CAC 40"
+          ],
+          "bonne": 0,
+          "explication": "Le statut de valeur refuge décrit un comportement fréquent, pas une garantie : dans une vente générale, même l'or peut être vendu."
+        },
+        {
+          "question": "Révision (gestion du risque) : tu acceptes de perdre au maximum 23 € hors frais sur une opération, avec une entrée à 50 € et une sortie à 47 €. Combien de parts entières peux-tu acheter ?",
+          "choix": [
+            "3 parts",
+            "15 parts",
+            "46 parts",
+            "7 parts"
+          ],
+          "bonne": 3,
+          "explication": "La perte par part est de 50 - 47 = 3 € ; 23 / 3 = 7,67, arrondi vers le bas à 7 parts, soit une perte maximale de 21 € hors frais."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-23",
+          "titre": "Indices PMI flash de novembre (France 9h15, zone euro 10h00) ; Emmanuel Macron chez Airbus à Toulouse ; Bourse de Tokyo fermée"
+        },
+        {
+          "date": "2026-11-24",
+          "titre": "Allemagne : Ifo (10h00) ; États-Unis : confiance du Conference Board (16h00) ; Trigano : résultats annuels"
+        },
+        {
+          "date": "2026-11-25",
+          "titre": "États-Unis : inflation PCE et PIB du 3e trimestre (14h30), Livre beige de la Fed (20h00) ; Rémy Cointreau : résultats et objectifs 2031-32 ; Rheinmetall : journée investisseurs jusqu'au 27"
+        },
+        {
+          "date": "2026-11-26",
+          "titre": "États-Unis : Thanksgiving, Wall Street fermée"
+        },
+        {
+          "date": "2026-11-27",
+          "titre": "France : inflation préliminaire de novembre et PIB du 3e trimestre (8h45) ; Wall Street ferme à 19h00"
+        },
+        {
+          "date": "2026-12-01",
+          "titre": "Zone euro : estimation rapide de l'inflation de novembre"
+        },
+        {
+          "date": "2026-12-04",
+          "titre": "États-Unis : rapport sur l'emploi de novembre (Fed le 9 décembre, BCE le 17)"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "StockInvest : le S&P 500 entre en correction, le Nasdaq perd 5,3 %",
+          "url": "https://stockinvest.us/digest/digest-us-market-close-2026-11-20"
+        },
+        {
+          "titre": "Nocta : brief du samedi 21 novembre 2026",
+          "url": "https://noctaaa.substack.com/p/daily-brief-saturday-21-november-2026"
+        },
+        {
+          "titre": "Yahoo Finance : Nvidia, enquête de la Californie et examen de la SEC",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-nvidia-stock-crashed-014533764.html"
+        },
+        {
+          "titre": "Al Jazeera : des missiles russes en Pologne, que peut faire l'OTAN ?",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+        },
+        {
+          "titre": "Washington Post : la Pologne dit avoir été touchée, Trump parle d'erreur",
+          "url": "https://www.washingtonpost.com/world/2026/11/21/poland-says-russian-missiles-hit-its-territory-trump-calls-it-mistake/"
+        },
+        {
+          "titre": "Ausecure : l'or clôture à 3 524,35 dollars",
+          "url": "https://www.ausecure.com/gold-market-close-nov-20-2026/"
+        },
+        {
+          "titre": "Prix du baril : le pétrole avance, entre impasse géopolitique et surplus d'offre",
+          "url": "https://prixdubaril.com/news-petrole/75238-le-petrole-avance-entre-impasse-geopolitique-et-surplus-d-offre.html"
+        },
+        {
+          "titre": "ABC Bourse : agenda du 23 au 27 novembre",
+          "url": "https://www.abcbourse.com/marches/newsContent/706453"
+        },
+        {
+          "titre": "Rémy Cointreau : agenda financier",
+          "url": "https://www.remy-cointreau.com/fr/finance/agenda/"
+        },
+        {
+          "titre": "Boursorama : Rémy Cointreau, chiffre d'affaires du 2e trimestre",
+          "url": "https://www.boursorama.com/bourse/actualites/remy-cointreau-le-ca-avance-plus-que-prevu-au-t2-objectifs-annuels-confirmes-1aec3306576b1d2803ddd4189d7391c2"
+        },
+        {
+          "titre": "AktienCheck : Rheinmetall, deuxième baisse des prévisions",
+          "url": "https://aktiencheck.de/artikel/rheinmetall-aktienanalyse-zweite-prognosesenkung-kurs-unter-710-euro-und-64"
+        },
+        {
+          "titre": "ABC Bourse : Engie relève ses objectifs 2026",
+          "url": "https://www.abcbourse.com/marches/engie-releve-ses-objectifs-2026-mais-doit-encore-regler-sa-sortie-du-nucleaire-e_705685"
+        },
+        {
+          "titre": "ICI Occitanie : Emmanuel Macron attendu à Toulouse dimanche et lundi",
+          "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/emmanuel-macron-attendu-dimanche-et-lundi-a-toulouse-6269455"
+        },
+        {
+          "titre": "Le Journal Toulousain : dîner avec des patrons européens avant les annonces chez Airbus",
+          "url": "https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/macron-a-toulouse-diner-60-patrons-europeens-annonces-airbus-404512/"
+        },
+        {
+          "titre": "Données de cours : data/cours.json et data/radar.json (Yahoo Finance, source non officielle)",
+          "url": "https://corentin190105-coder.github.io/no-risk-no-rari/data/radar.json"
+        }
+      ]
+    },
+    {
       "date": "2026-11-20",
       "titre": "La défiance envers l'IA fait plonger les Bourses, le CAC 40 perd plus de 5 % sur la semaine",
       "resume": "Le CAC 40 a cédé 1,89 % à 7 927,75 points, sa cinquième baisse d'affilée et sa pire semaine depuis mars (-5,27 %), et l'Euro Stoxx 50 a perdu 2,81 % (Zonebourse, Yahoo Finance). Les semi-conducteurs ont été balayés, avec STMicroelectronics (-10,8 %), Soitec (-11,85 %) et ASML (-9,3 %), alors que Sanofi, Capgemini et Danone ont résisté. À Wall Street, le Nasdaq perdait plus de 4 % vers 21h et Anthropic environ 12 %, au lendemain de son entrée en Bourse record.",
@@ -7046,174 +7373,6 @@
         {
           "titre": "Boursorama : Wall Street clôture en hausse, appétit retrouvé pour l'IA",
           "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-hausse-appetit-retrouve-pour-l-ia-1b236eb0ba45855364906525caa3c4e8"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "titre": "Paris rebondit de 1,06 % malgré un taux français à dix ans repassé au-dessus de 5 %",
-      "resume": "Le CAC 40 a gagné 1,06 % pour finir à 7 921,68 points, porté par une série de résultats d'entreprises et par le retour de la technologie à Wall Street. Le taux d'emprunt de la France à dix ans a toutefois dépassé 5 %. Le Brent a reculé vers 108 dollars.",
-      "humeur": "hausse",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 921,68 pts",
-          "variation": 1.06
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "non confirmé ce soir",
-          "variation": 0.0
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "en hausse en séance (clôture non confirmée)",
-          "variation": 0.3
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "Nasdaq 100 en hausse en séance (clôture non confirmée)",
-          "variation": 1.0
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 108,5 $ le baril (en séance)",
-          "variation": -2.3
-        },
-        {
-          "nom": "Or",
-          "valeur": "≈ 4 128 $ l'once (en séance)",
-          "variation": 0.0
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "non confirmé ce soir",
-          "variation": 0.0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Dette française",
-          "texte": "Le taux à dix ans de la France est repassé au-dessus de 5 %, un niveau qui renchérit le coût de la dette de l'État. Les investisseurs demandent une prime élevée pour prêter à Paris, ce qui reste un point de fragilité pour les banques françaises."
-        },
-        {
-          "titre": "Pétrole et géopolitique",
-          "texte": "Le Brent est revenu vers 108 dollars après avoir approché 111 dollars la veille, mais il reste très élevé dans un contexte de tensions au Moyen-Orient. Il continue d'alimenter l'inflation, à 3,8 % dans la zone euro."
-        },
-        {
-          "titre": "Banques centrales",
-          "texte": "La Fed décide le 28 octobre et la BCE le 29. Avec une inflation élevée des deux côtés de l'Atlantique, les marchés scrutent chaque indice pour deviner la suite des taux."
-        },
-        {
-          "titre": "IA et technologie",
-          "texte": "Les valeurs technologiques et les puces ont rebondi à Wall Street, soutenues par l'essor du calcul pour l'IA lié à SpaceX. Ce mouvement a aussi aidé les semi-conducteurs européens."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 380.84,
-        "pv": -18.36,
-        "texte": "Ton portefeuille vaut 380,84 € pour 399,20 € investis, soit une moins-value latente de 18,36 €. Faute de clôture fiable ce soir pour tes lignes, les cours sont ceux déjà enregistrés."
-      },
-      "valeurs": [
-        {
-          "nom": "Thales",
-          "texte": "La DGA a commandé quatre sections supplémentaires du système sol-air SAMP/T NG auprès d'Eurosam (Thales et MBDA), et le titre gagnait environ 1 % en séance. Je n'ai pas pu confirmer la publication de ses commandes du troisième trimestre, prévue aujourd'hui."
-        },
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre progressait d'environ 1,2 % à 1,4 % vers 41,5 € en cours de séance, dans le rebond des puces ; résultats le 29 octobre."
-        },
-        {
-          "nom": "Soitec",
-          "texte": "L'action rebondissait d'environ 3 % en séance après avoir perdu 3,74 % la veille, dans le même mouvement des semi-conducteurs."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Aixtron",
-          "isin": "DE000A0WMPJ6",
-          "risque": "Élevé",
-          "prix": "≈ 33 à 44 € la part (cours à vérifier)",
-          "texte": "Aixtron fabrique les machines qui déposent les couches ultrafines nécessaires aux puces de puissance, aux LED et aux composants optiques, des briques de l'IA et de l'électrification. Le secteur des semi-conducteurs rebondit aujourd'hui avec la technologie, et l'entreprise publie son chiffre d'affaires des neuf mois le 29 octobre. L'action est cotée en euros et éligible au PEA. Le principal risque est la forte cyclicité des commandes : le titre a perdu près de 28 % en un mois cet été."
-        },
-        {
-          "nom": "Orange",
-          "isin": "FR0000133308",
-          "risque": "Modéré",
-          "prix": "≈ 15 à 17 € la part (cours à vérifier)",
-          "texte": "Orange exploite les réseaux télécoms dont dépendent le cloud et l'IA, et a relevé ses objectifs annuels fin juillet avec un flux de trésorerie attendu d'environ 4,3 milliards d'euros. Dans un marché agité par la hausse des taux, un groupe aux revenus récurrents peut servir de valeur plus stable. La part est abordable pour un petit budget. Le principal risque est un endettement important, sensible aux taux élevés, et une concurrence vive sur les prix."
-        },
-        {
-          "nom": "Exail Technologies",
-          "isin": "FR0000062671",
-          "risque": "Élevé",
-          "prix": "≈ 126 à 134 € la part (cours à vérifier)",
-          "texte": "Exail conçoit des drones navals et des systèmes de navigation, au coeur du thème défense. Thales a signé un accord pour la racheter à 134 € par action, soit 3,9 milliards d'euros, et le cours reste proche de ce prix. C'est une illustration concrète d'une offre publique d'achat. Le principal risque tient aux délais : la clôture est attendue entre 2027 et début 2028, et un accroc réglementaire ou politique ferait chuter le titre, avec un gain potentiel limité par le prix d'offre."
-        }
-      ],
-      "idee": {
-        "nom": "Aixtron",
-        "isin": "DE000A0WMPJ6",
-        "risque": "Élevé",
-        "prix": "≈ 33 à 44 € la part (cours à vérifier)",
-        "texte": "Aixtron fabrique les machines qui déposent les couches ultrafines nécessaires aux puces de puissance, aux LED et aux composants optiques, des briques de l'IA et de l'électrification. Le secteur des semi-conducteurs rebondit aujourd'hui avec la technologie, et l'entreprise publie son chiffre d'affaires des neuf mois le 29 octobre. L'action est cotée en euros et éligible au PEA. Le principal risque est la forte cyclicité des commandes : le titre a perdu près de 28 % en un mois cet été."
-      },
-      "concept": {
-        "terme": "Le rendement obligataire (taux à dix ans)",
-        "texte": "Le rendement d'une obligation est le taux de gain annuel qu'obtient celui qui l'achète au prix du marché et la garde jusqu'à son remboursement. Prix et rendement évoluent en sens inverse : quand les investisseurs vendent une obligation, son prix baisse et son rendement monte. Le taux à dix ans d'un pays est le rendement de son emprunt de référence, et il sert de repère pour le coût de la dette de l'État, des entreprises et des crédits immobiliers. Aujourd'hui, le taux français à dix ans est repassé au-dessus de 5 %, ce qui montre que prêter à la France est jugé plus risqué et plus cher qu'avant. Des taux élevés pèsent aussi sur les actions, car ils rendent les placements sans risque plus attractifs et renchérissent le crédit.",
-        "references": [
-          {
-            "titre": "Club Patrimoine : Qu'est-ce qu'une obligation ? ⚠️",
-            "url": "https://www.clubpatrimoine.com/faq/faq-contenus/obligation"
-          },
-          {
-            "titre": "Investopedia : Bond Yield ⚠️",
-            "url": "https://www.investopedia.com/terms/b/bond-yield.asp"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-22",
-          "titre": "Nexans : chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-23",
-          "titre": "Safran : chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "STMicroelectronics : résultats du 3e trimestre"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "Air Liquide et Amundi : publications du 3e trimestre"
-        },
-        {
-          "date": "2026-11-03",
-          "titre": "États-Unis : élections de mi-mandat"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "Boursorama : Thales gagne 1 % après une commande de la DGA",
-          "url": "https://www.boursorama.com/bourse/actualites/thales-gagne-1-apres-une-commande-de-la-dga-b74ef595a880deeadebb225e1794d280"
-        },
-        {
-          "titre": "Boursorama : Wall Street progresse, mais à tâtons",
-          "url": "https://www.boursorama.com/bourse/actualites/wall-street-progresse-mais-a-tatons-075018bd3012440ef28c6fd1f5d6b36e"
-        },
-        {
-          "titre": "Boursedirect (AFP) : la Bourse de Paris finit en hausse, le taux français au-dessus de 5 %",
-          "url": "https://boursedirect.fr/fr/actualites/categorie/economie/la-bourse-de-paris-finit-en-hausse-apres-une-serie-de-resultats-le-taux-francais-au-dessus-des-5-afp-ed90691fbe290b44cf76bec07b87118733f2bf38"
         }
       ]
     }

@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-20T21:15:00+01:00",
+  "maj": "2026-11-21T21:05:00+01:00",
   "verdict": {
-    "titre": "STMicroelectronics passe sous sa sortie, Stellantis toujours à vendre",
-    "texte": "Ton portefeuille vaut 730,65 €, soit -68,63 €, après une semaine de forte baisse liée à la défiance envers l'IA. STMicroelectronics a clôturé à 36,72 €, sous ton niveau de sortie de 38,61 € : la règle prévoit la vente des 2 actions, comme pour Stellantis (3,13 €, sortie à 3,75 €). Les ETF et Air Liquide se gardent. Aucun achat court terme n'est prêt ce soir : le marché est trop vendeur et les trois dernières idées spéculatives ont toutes perdu."
+    "titre": "Week-end : le plan de lundi ne change pas",
+    "texte": "Marchés fermés : ton portefeuille vaut 730,65 €, soit -68,63 €, aux cours de vendredi. Wall Street a fini plus bas qu'à la clôture de Paris (Nasdaq -5,28 %), donc l'ouverture de lundi peut être difficile. Le plan reste celui de vendredi : vendre les 2 actions STMicroelectronics et les 13 actions Stellantis, sous leurs niveaux de sortie fixés à l'avance, et garder les ETF et Air Liquide sans vente de panique. Aucun achat court terme n'est prêt."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -20,7 +20,7 @@
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "L'ETF perd 5,1 % à 6,189 € (ABC Bourse), à son plus bas de six mois, et Wall Street a encore baissé après la clôture de Paris. Cette ligne recoupe en partie le Monde et la tech de STMicroelectronics : c'est la part la plus exposée à la vente sur l'IA, mais vendre en pleine panique fige la perte.",
+      "pourquoi": "L'ETF a fini vendredi à 6,189 € (-5,1 %, ABC Bourse), à son plus bas de six mois, et le Nasdaq a encore reculé après la clôture de Paris pour finir à -5,28 % : l'ouverture de lundi peut être en baisse. Cette ligne recoupe en partie le Monde et la tech : c'est ta part la plus exposée à la vente sur l'IA, mais la vendre parce que tout le monde vend serait une réaction de troupeau, sans niveau fixé à l'avance.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -159,6 +159,47 @@
       "quand": "Seulement après les annonces d'Emmanuel Macron à Toulouse lundi 23 novembre et une clôture au-dessus de 195,50 €. Pas d'achat avant.",
       "pourquoi": "Catalyseur daté : visite présidentielle et annonces de soutien à la filière lundi. Le titre a perdu 4,13 % vendredi à 189,96 € avec la vente générale.",
       "contre": "Une visite présidentielle fait rarement bouger durablement un titre de cette taille, la tendance de marché est très négative, et consensus et positions courtes ne sont pas vérifiés."
+    },
+    {
+      "nom": "Rémy Cointreau",
+      "statut": "Attendre",
+      "plan": [
+        [
+          "Déclencheur",
+          "Résultats du 25 novembre puis clôture au-dessus de 52,50 €"
+        ],
+        [
+          "Entrée",
+          "52,50 €"
+        ],
+        [
+          "Sortie",
+          "50,00 €"
+        ],
+        [
+          "Objectif",
+          "57,50 €"
+        ],
+        [
+          "Exemple",
+          "7 actions, environ 367,50 €"
+        ],
+        [
+          "Perte max",
+          "environ 19,50 €, frais compris"
+        ],
+        [
+          "Gain visé",
+          "environ 33 €, net de 2 € de frais"
+        ],
+        [
+          "Échéance",
+          "4 décembre"
+        ]
+      ],
+      "quand": "Seulement après la publication du mercredi 25 novembre (7h30) et une clôture au-dessus de 52,50 €. Pas d'achat avant les résultats.",
+      "pourquoi": "Catalyseur daté : résultats semestriels et objectifs 2031-32. Le titre a tenu vendredi (50,45 €, +0,1 %) dans un marché en chute, au-dessus de sa moyenne 50 jours.",
+      "contre": "Volume faible vendredi, cognac pénalisé par les droits de douane, consensus et positions courtes non vérifiés, et des objectifs décevants peuvent faire chuter le titre."
     }
   ],
   "decouvertes": [
@@ -203,14 +244,14 @@
       "faux": "Un ralentissement industriel mondial qui réduit les missions d'inspection, ou une acquisition coûteuse mal digérée."
     },
     {
-      "nom": "GTT (Gaztransport & Technigaz)",
-      "isin": "FR0011726835",
-      "symbole": "GTT.PA",
-      "theme": "Le transport du gaz naturel liquéfié, un savoir-faire de niche",
-      "risque": "Modéré",
-      "pourquoi": "GTT conçoit les cuves à membrane qui équipent la plupart des méthaniers, ces navires qui transportent le gaz liquéfié, et touche des redevances sur chaque construction. Le 11 novembre, Morgan Stanley a relevé sa recommandation de « sous-pondérer » à « pondération en ligne », avec un objectif de 184 €, et le titre a gagné 1,08 %. Les tensions sur le gaz qatari rappellent l'importance du transport de GNL. C'est un secteur absent de ton portefeuille.",
-      "aBorder": "À étudier pour le long terme, en petite ligne, après avoir regardé son prix par part et son dividende. Pas d'urgence.",
-      "faux": "Un ralentissement des commandes de méthaniers, la concurrence de technologies chinoises, ou une baisse durable de la demande de gaz."
+      "nom": "SES",
+      "isin": "LU0088087324",
+      "symbole": "SESG.PA",
+      "theme": "Les satellites de communication, un enjeu de souveraineté européenne",
+      "risque": "Très élevé",
+      "pourquoi": "SES, groupe luxembourgeois coté à Paris, exploite des satellites de communication pour la télévision, les gouvernements et les armées. Les missiles tombés en Pologne rappellent que l'Europe veut des moyens de communication sûrs et indépendants. La part vaut environ 4,17 € (vendredi, -5,53 %), abordable pour un petit budget, mais le titre est sous ses moyennes 20, 50 et 200 jours (4,40 €, 4,33 € et 6,12 €, Yahoo Finance via le radar). C'est un secteur absent de ton portefeuille. Je n'ai pas vérifié ce soir d'actualité propre à la société.",
+      "aBorder": "À étudier : lire ses derniers résultats, sa dette et son dividende avant tout achat. Pas de signal aujourd'hui, la tendance est baissière.",
+      "faux": "Une dette lourde, la concurrence des constellations en orbite basse et le déclin de la télévision par satellite peuvent continuer de peser sur le cours."
     }
   ]
 }

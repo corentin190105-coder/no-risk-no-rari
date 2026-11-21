@@ -486,3 +486,15 @@ Une bulle spéculative se forme quand le prix d'un actif monte bien au-delà de 
 - [Investopedia : What Is an Economic Bubble? ⚠️](https://www.investopedia.com/terms/b/bubble.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que la valeur refuge ?
+
+_2026-11-21 21:04 CET_
+
+Une valeur refuge est un placement vers lequel les investisseurs se tournent quand ils ont peur, parce qu'ils pensent qu'il gardera mieux sa valeur que les actions en période de crise. L'or est l'exemple le plus connu : La finance pour tous rappelle qu'il évolue souvent à l'inverse des autres actifs, mais qu'il reste un actif risqué et volatil, qui ne verse ni dividende ni intérêt. Cette semaine le montre : malgré la chute des Bourses et des missiles russes tombés en Pologne, l'once d'or a perdu 2,77 % vendredi à 3 524,35 dollars et 9,1 % sur la semaine, à son plus bas depuis septembre 2025 (Ausecure). Dans une vente générale, des investisseurs vendent aussi ce qui a le plus monté pour couvrir leurs pertes ou trouver des liquidités : le statut de refuge n'est donc jamais une garantie. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [La finance pour tous : Pourquoi dit-on que l'or est une « valeur refuge » ?](https://www.lafinancepourtous.com/outils/questions-reponses/pourquoi-dit-que-lor-est-une-valeur-refuge/)
+- [Banque de France : Eco Bref sur l'or (avril 2025) ⚠️](https://www.banque-france.fr/system/files/2025-04/Eco-Bref_Or_VDef%200425.pdf)
+
+⚠️ Lien non vérifiable au moment de la rédaction
