@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-21T21:05:00+01:00",
+  "maj": "2026-11-22T21:10:00+01:00",
   "verdict": {
-    "titre": "Week-end : le plan de lundi ne change pas",
-    "texte": "Marchés fermés : ton portefeuille vaut 730,65 €, soit -68,63 €, aux cours de vendredi. Wall Street a fini plus bas qu'à la clôture de Paris (Nasdaq -5,28 %), donc l'ouverture de lundi peut être difficile. Le plan reste celui de vendredi : vendre les 2 actions STMicroelectronics et les 13 actions Stellantis, sous leurs niveaux de sortie fixés à l'avance, et garder les ETF et Air Liquide sans vente de panique. Aucun achat court terme n'est prêt."
+    "titre": "Dimanche : le plan de lundi ne change pas",
+    "texte": "Marchés fermés : ton portefeuille vaut 730,65 €, soit -68,63 €, aux cours de vendredi. Le week-end a alourdi le dossier Nvidia, ce qui peut peser lundi sur la tech. Le plan reste le même : vendre les 2 actions STMicroelectronics et les 13 actions Stellantis, sous leurs niveaux de sortie fixés à l'avance, et garder les ETF et Air Liquide sans vente de panique. Aucun achat court terme n'est prêt : Airbus et Rémy Cointreau restent à attendre, après leurs catalyseurs de lundi et mercredi."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -234,16 +234,6 @@
       "faux": "La tech asiatique pèse lourd dedans : ce n'est pas une protection totale si les puces continuent de baisser. Le risque de change existe aussi."
     },
     {
-      "nom": "Bureau Veritas",
-      "isin": "FR0006174348",
-      "symbole": "BVI.PA",
-      "theme": "Le contrôle et la certification, un métier discret",
-      "risque": "Modéré",
-      "pourquoi": "Tu n'as aucune valeur de services aux entreprises. Bureau Veritas inspecte et certifie bâtiments, usines, navires et produits : des revenus récurrents, liés aux normes plutôt qu'aux cycles de la tech. Le titre est en tendance haussière, à 29,95 € le 6 novembre selon le radar, avec +10,6 % en 20 séances.",
-      "aBorder": "À étudier pour le long terme, en petite ligne. Pas dans l'urgence : le RSI est à 73, le mouvement récent est déjà fort.",
-      "faux": "Un ralentissement industriel mondial qui réduit les missions d'inspection, ou une acquisition coûteuse mal digérée."
-    },
-    {
       "nom": "SES",
       "isin": "LU0088087324",
       "symbole": "SESG.PA",
@@ -252,6 +242,16 @@
       "pourquoi": "SES, groupe luxembourgeois coté à Paris, exploite des satellites de communication pour la télévision, les gouvernements et les armées. Les missiles tombés en Pologne rappellent que l'Europe veut des moyens de communication sûrs et indépendants. La part vaut environ 4,17 € (vendredi, -5,53 %), abordable pour un petit budget, mais le titre est sous ses moyennes 20, 50 et 200 jours (4,40 €, 4,33 € et 6,12 €, Yahoo Finance via le radar). C'est un secteur absent de ton portefeuille. Je n'ai pas vérifié ce soir d'actualité propre à la société.",
       "aBorder": "À étudier : lire ses derniers résultats, sa dette et son dividende avant tout achat. Pas de signal aujourd'hui, la tendance est baissière.",
       "faux": "Une dette lourde, la concurrence des constellations en orbite basse et le déclin de la télévision par satellite peuvent continuer de peser sur le cours."
+    },
+    {
+      "nom": "Getlink",
+      "isin": "FR0010533075",
+      "symbole": "GET.PA",
+      "theme": "Une concession de très long terme sous la Manche",
+      "risque": "Modéré",
+      "pourquoi": "Tu n'as aucune valeur de transport. Getlink exploite le tunnel sous la Manche, dont la concession court jusqu'en 2086, et tire ses revenus des navettes Le Shuttle et des péages payés par les trains Eurostar et de fret : un actif unique, difficile à concurrencer. Dans la semaine où le CAC 40 a perdu 5,3 %, le titre n'a cédé que 2,7 % et finit vendredi à 20,12 €, au-dessus de sa moyenne 50 jours (19,34 €), en tendance haussière selon le radar (Yahoo Finance). Une part à environ 20 € reste accessible. Je n'ai pas vérifié ce soir d'actualité propre à la société.",
+      "aBorder": "À étudier pour le long terme : lire ses derniers résultats, sa dette et la politique de dividende avant tout achat. Pas de signal court terme.",
+      "faux": "Une baisse du trafic transmanche, une dette importante sensible aux taux, ou une concurrence renforcée des ferries et de l'aérien."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-21T21:05:00+01:00",
-    "resume": "Samedi 21 novembre 2026, marchés fermés : cours de clôture de vendredi. Wall Street a fini plus bas qu'à la clôture de Paris, le S&P 500 entre en correction (-3,70 %) et le Nasdaq perd 5,28 %, avec Nvidia (-14 %) visé par un examen de ses comptes par la SEC. Ton portefeuille vaut 730,65 € pour 799,28 € investis, soit -68,63 €. STMicroelectronics et Stellantis restent sous leurs niveaux de sortie."
+    "date": "2026-11-22T21:10:00+01:00",
+    "resume": "Dimanche 22 novembre 2026, marchés fermés : cours de clôture de vendredi. Le week-end n'apporte pas de détente : le dossier Nvidia (examen de ses comptes par la SEC, messages divergents de Trump et du Trésor sur les puces vers la Chine) pèse sur la tech, et la semaine se jouera sur les PMI lundi et l'inflation PCE mercredi. Ton portefeuille vaut 730,65 € pour 799,28 € investis, soit -68,63 €. STMicroelectronics et Stellantis restent sous leurs niveaux de sortie."
   },
   "actifs": [
     {
@@ -426,6 +426,11 @@
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
         {
+          "date": "2026-11-22",
+          "titre": "Week-end : Trump dit avoir parlé de Jensen Huang avec Xi, le Trésor assure que la règle sur les puces H200 vers la Chine ne change pas, alors que la SEC examine les comptes de Nvidia",
+          "url": "https://journalarta.com/en/2026/11/22/trump-jensen-huang-xi-nvidia-chip-policy/"
+        },
+        {
           "date": "2026-11-20",
           "titre": "Nvidia chute de 14 % sur un examen de ses comptes par la SEC, le Nasdaq finit à -5,28 %",
           "url": "https://stockinvest.us/digest/digest-us-market-close-2026-11-20"
@@ -449,11 +454,6 @@
           "date": "2026-11-17",
           "titre": "Avant les résultats de Nvidia, le Nasdaq touche un plus bas de huit mois ; Jensen Huang se dit prêt à revenir, le conseil refuse",
           "url": "https://www.zonebourse.com/actualite-bourse/l-europe-finit-dans-le-rouge-avant-les-resultats-de-nvidia-ce785edcdd8dff23"
-        },
-        {
-          "date": "2026-11-16",
-          "titre": "Le Nasdaq perd environ 1,7 % en séance : nouvelles règles américaines sur l'export de puces d'IA et prudence avant Nvidia (Reuters)",
-          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slide-nvidia-earnings-anthropic-debut-loom-2026-11-16/"
         }
       ],
       "isin": "FR0011871110",
@@ -837,6 +837,11 @@
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
         {
+          "date": "2026-11-22",
+          "titre": "Week-end : Trump dit avoir parlé de Jensen Huang avec Xi, le Trésor assure que la règle sur les puces H200 vers la Chine ne change pas, alors que la SEC examine les comptes de Nvidia",
+          "url": "https://journalarta.com/en/2026/11/22/trump-jensen-huang-xi-nvidia-chip-policy/"
+        },
+        {
           "date": "2026-11-20",
           "titre": "Nvidia chute de 14 % sur un examen de ses comptes par la SEC, le Nasdaq finit à -5,28 %, plus bas qu'à la clôture de Paris",
           "url": "https://stockinvest.us/digest/digest-us-market-close-2026-11-20"
@@ -860,11 +865,6 @@
           "date": "2026-11-17",
           "titre": "Avant les résultats de Nvidia, le Nasdaq touche un plus bas de huit mois ; Jensen Huang se dit prêt à revenir, le conseil refuse",
           "url": "https://www.zonebourse.com/actualite-bourse/l-europe-finit-dans-le-rouge-avant-les-resultats-de-nvidia-ce785edcdd8dff23"
-        },
-        {
-          "date": "2026-11-16",
-          "titre": "Le Nasdaq perd environ 1,7 % en séance : nouvelles règles américaines sur l'export de puces d'IA et prudence avant Nvidia (Reuters)",
-          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slide-nvidia-earnings-anthropic-debut-loom-2026-11-16/"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -1462,6 +1462,12 @@
       "detail": "France à 9h15, Allemagne à 9h30, zone euro à 10h00 (ABC Bourse, agenda du 20 novembre). Premier baromètre de l'activité après une semaine de forte baisse des marchés. Bourse de Tokyo fermée (jour férié)."
     },
     {
+      "id": "fed-williams-2026-11-23",
+      "date": "2026-11-23",
+      "titre": "Fed : discours de John Williams (Fed de New York)",
+      "detail": "Lundi à 22h00 heure de Paris, seul responsable de la Fed attendu avant l'inflation PCE de mercredi, alors que le marché anticipe à environ 90 % une hausse des taux le 9 décembre."
+    },
+    {
       "id": "ifo-cb-2026-11-24",
       "date": "2026-11-24",
       "titre": "Allemagne : climat des affaires Ifo ; États-Unis : confiance des ménages du Conference Board",
@@ -1498,16 +1504,34 @@
       "detail": "Quatrième jeudi de novembre : pas de séance à New York, volumes faibles en Europe."
     },
     {
+      "id": "bce-comptes-2026-11-26",
+      "date": "2026-11-26",
+      "titre": "BCE : compte rendu de la réunion d'octobre",
+      "detail": "Jeudi à 13h30 heure de Paris : il dira si une hausse des taux a été discutée, avant la décision du 17 décembre."
+    },
+    {
       "id": "fr-ipc-2026-11-27",
       "date": "2026-11-27",
       "titre": "France : inflation préliminaire de novembre et PIB du 3e trimestre",
       "detail": "8h45 (ABC Bourse). Wall Street ferme à 19h00 heure de Paris, au lendemain de Thanksgiving."
     },
     {
+      "id": "opep-2026-11-29",
+      "date": "2026-11-29",
+      "titre": "OPEP+ : réunion ministérielle sur la production 2027",
+      "detail": "Dimanche 29 novembre, heure non annoncée : décision clé pour le prix du pétrole."
+    },
+    {
       "id": "ez-flash-hicp-2026-11",
       "date": "2026-12-01",
       "titre": "Zone euro : estimation rapide de l'inflation de novembre",
       "detail": "Après 4,0 % en octobre, dernier grand chiffre avant la décision de la BCE du 17 décembre"
+    },
+    {
+      "id": "nvidia-audition-2026-12-01",
+      "date": "2026-12-01",
+      "titre": "Nvidia : audition de Jensen Huang devant des commissions de la Chambre des représentants",
+      "detail": "Nvidia est la première ligne du Nasdaq-100 ; son avocat est entendu le 2 décembre et le dépôt de ses comptes trimestriels (10-Q), retardé, est attendu au plus tard le 4 décembre."
     },
     {
       "id": "us-jobs-2026-11",
@@ -1758,6 +1782,11 @@
     },
     {
       "d": "2026-11-21",
+      "valeur": 730.65,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-22",
       "valeur": 730.65,
       "investi": 799.28
     }

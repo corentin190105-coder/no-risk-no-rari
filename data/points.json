@@ -1,6 +1,313 @@
 {
   "points": [
     {
+      "date": "2026-11-22",
+      "titre": "Dimanche sans cotation : le dossier Nvidia s'alourdit avant une semaine décisive pour l'inflation",
+      "resume": "Les marchés sont fermés et ce point reprend les cours de clôture de vendredi, après une semaine où le CAC 40 a perdu 5,27 % et le Nasdaq-100 plus de 10 %, sa pire semaine depuis 2020. Ce week-end, Donald Trump a dit avoir parlé de Jensen Huang avec Xi Jinping, tandis que le Trésor assure que la règle sur les puces Nvidia vendues à la Chine ne change pas, alors que la SEC examine les comptes du groupe. La semaine se jouera sur les PMI lundi, l'inflation PCE mercredi et Thanksgiving jeudi.",
+      "humeur": "baisse",
+      "indices": [
+        {
+          "nom": "CAC 40 (vendredi)",
+          "valeur": "7 927,75 pts",
+          "variation": -1.89
+        },
+        {
+          "nom": "Euro Stoxx 50 (vendredi)",
+          "valeur": "5 941,95 pts",
+          "variation": -2.81
+        },
+        {
+          "nom": "S&P 500 (clôture de vendredi)",
+          "valeur": "6 910,39 pts",
+          "variation": -3.7
+        },
+        {
+          "nom": "Nasdaq Composite (clôture de vendredi)",
+          "valeur": "22 617,73 pts",
+          "variation": -5.28
+        },
+        {
+          "nom": "Nikkei 225 (vendredi)",
+          "valeur": "56 436,65 pts",
+          "variation": -5.06
+        },
+        {
+          "nom": "Hang Seng (vendredi)",
+          "valeur": "22 410,80 pts",
+          "variation": -1.89
+        },
+        {
+          "nom": "Brent (clôture de vendredi)",
+          "valeur": "92,57 $",
+          "variation": 0.64
+        },
+        {
+          "nom": "Or (clôture de vendredi)",
+          "valeur": "3 524,35 $",
+          "variation": -2.77
+        },
+        {
+          "nom": "Euro/dollar (vendredi soir)",
+          "valeur": "≈ 1,098 $",
+          "variation": 0.16
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Nvidia : la SEC, la Chine et un pouvoir vacant",
+          "texte": "Nvidia a perdu 23 % sur la semaine, sa pire baisse hebdomadaire depuis 18 ans, et environ 48 % depuis son record du 6 octobre, après l'annonce vendredi d'un examen de ses comptes par la SEC, à un stade précoce (JournalArta). Ce week-end, Donald Trump a dit que Xi Jinping souhaitait le retour de Jensen Huang, démissionnaire le 12 novembre, alors que le conseil ne l'envisage pas ; le Trésor affirme que l'autorisation de vendre des puces H200 à la Chine n'a pas changé, mais Nvidia a cessé ces livraisons. Huang sera entendu par le Congrès le 1er décembre : le dossier reste le premier risque pour la tech, donc pour ton ETF Nasdaq-100."
+        },
+        {
+          "titre": "Inflation américaine : le chiffre de la semaine",
+          "texte": "Mercredi 25 novembre à 14h30, l'inflation PCE d'octobre, la mesure préférée de la Fed, est attendue à 3,8 % sur un an contre 3,6 % le mois précédent, en même temps que la 2e estimation du PIB du 3e trimestre (Substack Catalyst Week Ahead). Le marché voit à environ 90 % une hausse des taux de la Fed le 9 décembre, et John Williams, de la Fed de New York, parle lundi à 22h00. Une inflation plus forte que prévu pèserait d'abord sur les valeurs de croissance."
+        },
+        {
+          "titre": "Europe : PMI lundi, BCE jeudi",
+          "texte": "Lundi, les indices PMI flash de novembre (France 9h15, Allemagne 9h30, zone euro 10h00) diront si l'activité résiste à la hausse des prix, puis l'Ifo allemand suit mardi (Zonebourse). Jeudi à 13h30, la BCE publie le compte rendu de sa réunion d'octobre, avant sa décision du 17 décembre avec une inflation de 4,0 % en octobre, et vendredi tombe l'inflation française de novembre."
+        },
+        {
+          "titre": "Pétrole en repli, Trump promet une essence moins chère",
+          "texte": "Le WTI a fini la semaine à 83,98 dollars, en baisse de 5,2 %, sa troisième baisse hebdomadaire d'affilée, après une hausse surprise des stocks américains, alors que le Brent s'est maintenu vers 92,57 dollars (Substack Catalyst Week Ahead). Dimanche, Donald Trump a affirmé dans une vidéo que le prix de l'essence américaine passerait sous 3 dollars sauf escalade en Iran : une prévision, pas une décision. L'OPEP+ se réunit dimanche 29 novembre sur sa production 2027."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 730.65,
+        "pv": -68.63,
+        "texte": "Marchés fermés : ton portefeuille vaut toujours 730,65 € pour 799,28 € investis, soit -68,63 €, aux cours de clôture de vendredi. Lundi, la vente prévue de STMicroelectronics et Stellantis reste valable, et l'ETF Nasdaq-100 reste ta ligne la plus exposée au dossier Nvidia."
+      },
+      "valeurs": [
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "Ce qui a changé depuis hier : rien sur les cours, mais le dossier Nvidia s'est compliqué, avec des messages contradictoires de la Maison-Blanche et du Trésor sur la Chine et l'audition de Jensen Huang fixée au 1er décembre. L'ETF (6,189 € vendredi) peut rester sous pression tant que ce dossier n'est pas clarifié."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Klépierre",
+          "isin": "FR0000121964",
+          "risque": "Modéré",
+          "prix": "≈ 37 € la part",
+          "texte": "Klépierre possède et gère plus d'une centaine de grands centres commerciaux en Europe, avec des loyers en partie indexés sur l'inflation. Le Black Friday de vendredi 27 novembre ouvre la saison des achats de fin d'année, qui fait la fréquentation de ses centres, et le groupe a relevé ses objectifs annuels le 27 octobre après une activité solide sur neuf mois (communiqué de la société). Dans une semaine où le CAC 40 a perdu 5,3 %, le titre n'a cédé que 0,6 % et finit vendredi à 37,22 € (+0,11 %), au-dessus de ses moyennes 20 et 50 jours (36,54 € et 36,01 €, Yahoo Finance via le radar). Le principal risque : une foncière est sensible aux taux, et une nouvelle hausse de la Fed puis de la BCE en décembre pèserait sur sa valorisation."
+        },
+        {
+          "nom": "Exosens",
+          "isin": "FR001400Q9V2",
+          "risque": "Élevé",
+          "prix": "≈ 50 € la part",
+          "texte": "Exosens fabrique des tubes de vision nocturne, des détecteurs infrarouges et des capteurs, vendus surtout aux armées européennes, et cherche à s'adapter à la lutte contre les drones (AFP). Les missiles et le drone russes tombés en Pologne jeudi soir rappellent le besoin de surveillance du flanc est de l'OTAN, et le groupe a publié en octobre une croissance de 23,5 % de son chiffre d'affaires au 3e trimestre, avec une montée en cadence plus rapide que prévu (communiqué de la société). Pourtant, le titre a fini vendredi à 50,00 € (-4,85 %), en baisse de 12,8 % sur 20 séances et sous ses moyennes 20 et 50 jours (53,94 € et 56,72 €, Yahoo Finance via le radar) : le marché ne paie pas encore ce contexte. Le principal risque : une tendance nettement baissière, et une valeur de défense qui peut encore reculer si un apaisement diplomatique se dessine."
+        },
+        {
+          "nom": "OVHcloud",
+          "isin": "FR0014005HJ9",
+          "risque": "Très élevé",
+          "prix": "≈ 13,60 € la part",
+          "texte": "OVHcloud, hébergeur français basé à Roubaix, loue des serveurs et du cloud sans maison mère américaine, ce qui intéresse les clients qui veulent garder leurs données en Europe. Ce week-end, le Trésor américain a dit vouloir encadrer l'accès de clients chinois à de la puissance de calcul via des centres de données à l'étranger, un signe de plus que le cloud devient un enjeu de souveraineté ; OVHcloud s'est lancé le 17 novembre dans l'offre d'IA avec Qwant et Shadow (AFP, Idéal Investisseur). La part est abordable, 13,57 € vendredi (-4,84 %), mais le titre a perdu 9 % en cinq séances avec la vente sur l'IA et reste sous sa moyenne 50 jours (15,25 €, Yahoo Finance via le radar). Le principal risque : une valeur très volatile (ATR de 0,85 €, soit plus de 6 % par jour), endettée, qui peut continuer de baisser tant que la tech est vendue."
+        }
+      ],
+      "idee": {
+        "nom": "Klépierre",
+        "isin": "FR0000121964",
+        "risque": "Modéré",
+        "prix": "≈ 37 € la part",
+        "texte": "Klépierre possède et gère plus d'une centaine de grands centres commerciaux en Europe, avec des loyers en partie indexés sur l'inflation. Le Black Friday de vendredi 27 novembre ouvre la saison des achats de fin d'année, qui fait la fréquentation de ses centres, et le groupe a relevé ses objectifs annuels le 27 octobre après une activité solide sur neuf mois (communiqué de la société). Dans une semaine où le CAC 40 a perdu 5,3 %, le titre n'a cédé que 0,6 % et finit vendredi à 37,22 € (+0,11 %), au-dessus de ses moyennes 20 et 50 jours (36,54 € et 36,01 €, Yahoo Finance via le radar). Le principal risque : une foncière est sensible aux taux, et une nouvelle hausse de la Fed puis de la BCE en décembre pèserait sur sa valorisation."
+      },
+      "concept": {
+        "terme": "Le PER de Shiller (ratio CAPE)",
+        "texte": "Le PER de Shiller, ou ratio CAPE, compare le prix d'un indice à la moyenne de ses bénéfices des dix dernières années, corrigés de l'inflation, au lieu des bénéfices d'une seule année comme le PER classique. Inventé par l'économiste Robert Shiller, il lisse les hauts et les bas du cycle économique : une année de bénéfices exceptionnels ou catastrophiques ne fausse pas la mesure. Un CAPE élevé signifie que les investisseurs paient cher chaque euro de bénéfice moyen, ce qui a souvent été suivi de rendements plus faibles sur les années suivantes. Ce week-end, The Motley Fool rappelle que le CAPE du S&P 500 était de 40,1 en octobre 2026, sixième mois d'affilée au-dessus de 40, un niveau jamais vu depuis la bulle internet de 2000. Ce ratio ne dit jamais quand un marché va baisser : il peut rester élevé pendant des années, et il sert à juger un niveau de prix sur le long terme, pas à choisir le jour où acheter ou vendre. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "Café de la Bourse : PE Shiller (lexique)",
+            "url": "https://www.cafedelabourse.com/lexique/pe-shiller"
+          },
+          {
+            "titre": "Wikipédia (en anglais) : Cyclically adjusted price-to-earnings ratio",
+            "url": "https://en.wikipedia.org/wiki/Cyclically_adjusted_price-to-earnings_ratio"
+          },
+          {
+            "titre": "Corporate Finance Institute : CAPE Ratio, Overview and Formula",
+            "url": "https://corporatefinanceinstitute.com/resources/valuation/cape-ratio/"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché n'est toujours pas porteur pour acheter à court terme : Wall Street a fini vendredi en correction (S&P 500 -3,70 %, Nasdaq -5,28 %), sa pire semaine depuis 2020 pour le Nasdaq-100, et le week-end n'a rien apaisé, entre l'examen des comptes de Nvidia par la SEC et les messages divergents de Donald Trump et du Trésor sur les puces vendues à la Chine (JournalArta). Mercredi 25 à 14h30, l'inflation PCE est attendue en hausse à 3,8 % sur un an, et le marché voit à environ 90 % une hausse des taux de la Fed le 9 décembre : un chiffre plus chaud peut prolonger la baisse. Aucune idée ne passe les critères Favorable et je n'ajoute pas d'idée Spéculatif ; le journal compte 3 idées closes, toutes Spéculatif et perdantes (Soitec -9,29 %, Vusion -4,55 %, Riber -7,30 %), un échantillon trop petit pour juger la méthode mais une raison de rester exigeant. Sur tes lignes, rien n'a bougé depuis vendredi : STMicroelectronics (36,72 €) reste sous ton niveau de sortie de 38,61 € et Stellantis (3,13 €) sous 3,75 €, la vente prévue lundi reste valable ; Air Liquide (environ 188 €) garde une marge confortable au-dessus de 171 €.",
+        "retro": "",
+        "opportunites": [
+          {
+            "nom": "Rémy Cointreau",
+            "isin": "FR0000130395",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 7 jours",
+            "catalyseur": "Résultats semestriels et objectifs 2031-32 le mercredi 25 novembre avant l'ouverture (agenda de la société)",
+            "cours": "50,45 €",
+            "entree": "52,50 €, seulement après les résultats et une clôture au-dessus",
+            "invalidation": "50,00 €",
+            "objectif": "57,50 €",
+            "ratio": "2,0",
+            "frais": "7 actions : environ 367,50 €, perte maximale d'environ 19,50 € frais compris, gain visé d'environ 33 € net de 2 € de frais (environ +9,5 %)",
+            "these": "Rémy Cointreau vend des spiritueux haut de gamme, surtout du cognac et la liqueur Cointreau. Le catalyseur reste le même et il approche : mercredi 25 novembre, le groupe publie ses résultats semestriels et ses objectifs 2031-32, un rendez-vous qui peut relancer le titre si le plan rassure. Le 28 octobre, il avait publié un chiffre d'affaires du 2e trimestre meilleur que prévu et confirmé ses objectifs annuels (Boursorama). Vendredi, l'action a fini stable à 50,45 € quand le CAC 40 perdait 1,89 %, au-dessus de sa moyenne 50 jours (47,44 €) mais sous sa moyenne 20 jours (51,39 €), avec un ATR de 1,22 € (Yahoo Finance via le radar). Les niveaux ne changent pas : l'entrée ne vaut qu'après la publication, sur une clôture au-dessus de 52,50 €, et l'invalidation à 50,00 € est à environ 2 ATR et 4,8 % sous l'entrée. Ce qui contredit l'idée : un volume faible vendredi (0,66 fois la moyenne), des droits de douane qui pèsent sur le cognac, et ni le consensus ni les positions courtes n'ont été vérifiés.",
+            "risque": "Des objectifs 2031-32 jugés trop prudents peuvent faire chuter le titre de plus de 5 % en une séance."
+          },
+          {
+            "nom": "Airbus",
+            "isin": "NL0000235190",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 7 jours",
+            "catalyseur": "Visite d'Emmanuel Macron chez Airbus à Toulouse lundi 23 novembre, avec des annonces attendues sur la filière",
+            "cours": "189,96 €",
+            "entree": "195,50 €, seulement après une clôture au-dessus",
+            "invalidation": "189,50 €",
+            "objectif": "207,50 €",
+            "ratio": "2,0",
+            "frais": "2 actions : environ 391 €, perte maximale d'environ 14 € frais compris, gain visé d'environ 22 € net de 2 € de frais",
+            "these": "Airbus construit des avions de ligne, des hélicoptères et des satellites. Le catalyseur tombe demain : la visite d'Emmanuel Macron à Toulouse, avec des annonces attendues pour la filière. Le titre a fini vendredi à 189,96 € (-4,13 %), sous ses moyennes 20 et 50 jours (199,13 € et 195,00 €), avec un volume de 1,26 fois la moyenne (Yahoo Finance via le radar). Les niveaux restent identiques pour ne pas les déplacer au gré du marché : il faut une clôture au-dessus de 195,50 €, au-dessus de la moyenne 50 jours, avec un volume supérieur à la moyenne et une annonce concrète. Ce qui contredit l'idée : une visite présidentielle fait rarement bouger durablement un titre de cette taille, et le décor de marché reste très vendeur.",
+            "risque": "Une ouverture en forte baisse lundi peut casser 189,50 € avant même les annonces."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "ETF et allocation : rééquilibrer son portefeuille après une forte baisse",
+        "niveau": "Intermédiaire",
+        "texte": "L'allocation, c'est la part que tu donnes à chaque famille de placements : ETF larges, actions individuelles, liquidités. Avec le temps, les mouvements du marché déforment cette répartition : ce qui monte prend plus de place, ce qui baisse en perd, et ton portefeuille ne ressemble plus à celui que tu avais choisi. Rééquilibrer consiste à revenir vers la répartition cible, en vendant un peu de ce qui a trop grossi ou, plus simplement, en orientant les nouveaux achats vers ce qui est devenu trop petit. justETF rappelle que cette discipline sert d'abord à contrôler le risque, et qu'elle a un effet anticyclique : elle pousse à acheter ce qui a baissé et à alléger ce qui a monté, à l'inverse de l'effet de troupeau. Elle a un coût, car chaque ordre te coûte 1 € : avec un petit portefeuille, on rééquilibre rarement, par exemple une fois par an ou quand l'écart dépasse 5 à 10 points, et de préférence avec l'argent qu'on ajoute. Il faut enfin distinguer deux choses : rééquilibrer une allocation de long terme, et vendre une ligne parce qu'un niveau de sortie est cassé. Ce sont deux règles différentes, toutes deux fixées à froid, à l'avance.",
+        "exemple": "Aux cours de vendredi, ton portefeuille de 730,65 € compte environ 58,7 % d'ETF (Monde 143 €, Nasdaq-100 123,78 €, CAC 40 161,82 €), 25,7 % d'Air Liquide (187,99 €) et 15,6 % de STMicroelectronics et Stellantis (114,07 €). Si la vente prévue de ces deux lignes est exécutée lundi aux mêmes cours, il te restera environ 112 € de liquidités après 2 € de frais. Les placer en un seul ordre sur l'ETF Monde, par exemple 18 parts à 5,958 € (107,24 € plus 1 € de frais), ferait passer les ETF à environ 73 % du total, avec une seule ligne d'action. C'est une illustration du mécanisme, pas une recommandation.",
+        "references": [
+          {
+            "titre": "justETF : Qu'est-ce que le rééquilibrage d'un portefeuille ?",
+            "url": "https://www.justetf.com/fr/academy/qu-est-ce-que-le-reequilibrage-d-un-portefeuille.html"
+          },
+          {
+            "titre": "AMF : Mieux connaître ses réactions pour mieux investir, comprendre les biais comportementaux",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/actualites-mises-en-garde/mieux-connaitre-ses-reactions-pour-mieux-investir-comprendre-les-biais-comportementaux"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Ton allocation cible est de 80 % d'ETF, mais après une baisse de la tech ils ne pèsent plus que 70 %. Avec un petit portefeuille et 1 € de frais par ordre, quelle est la façon la plus économique de rééquilibrer ?",
+          "choix": [
+            "Vendre toutes les actions individuelles le jour même",
+            "Ne jamais rééquilibrer, puisque le marché finit toujours par corriger les écarts",
+            "Rééquilibrer chaque semaine pour coller exactement à 80 %",
+            "Orienter les prochains achats vers les ETF jusqu'à revenir vers 80 %"
+          ],
+          "bonne": 3,
+          "explication": "Diriger l'argent nouveau vers la partie devenue trop petite rééquilibre sans multiplier les ordres de vente, donc sans frais inutiles."
+        },
+        {
+          "question": "Que mesure le PER de Shiller (ratio CAPE) ?",
+          "choix": [
+            "Le prix d'un indice rapporté à ses bénéfices moyens des dix dernières années, corrigés de l'inflation",
+            "Le prix d'une action rapporté au bénéfice prévu l'an prochain",
+            "Le rendement du dividende moyen d'un indice sur dix ans",
+            "La volatilité attendue d'un indice sur les 30 prochains jours"
+          ],
+          "bonne": 0,
+          "explication": "Le CAPE lisse le cycle en utilisant dix ans de bénéfices réels ; il sert à juger un niveau de valorisation sur le long terme, pas à prévoir la séance suivante."
+        },
+        {
+          "question": "Révision (corrélation) : pourquoi ton ETF Nasdaq-100 et STMicroelectronics ont-ils fortement baissé la même semaine ?",
+          "choix": [
+            "Parce qu'ils sont cotés sur la même place boursière",
+            "Parce qu'ils dépendent du même moteur, la tech et les puces, et réagissent donc aux mêmes nouvelles",
+            "Parce que tous les placements baissent toujours ensemble",
+            "Parce que l'ETF détient beaucoup d'actions STMicroelectronics"
+          ],
+          "bonne": 1,
+          "explication": "Deux lignes exposées au même secteur sont fortement corrélées : une mauvaise nouvelle sur l'IA, comme le dossier Nvidia, les touche en même temps."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-23",
+          "titre": "PMI flash de novembre (France 9h15, Allemagne 9h30, zone euro 10h00, États-Unis 15h45) ; Emmanuel Macron chez Airbus à Toulouse ; John Williams (Fed) à 22h00"
+        },
+        {
+          "date": "2026-11-24",
+          "titre": "Allemagne : Ifo (10h00) ; États-Unis : confiance du Conference Board (16h00) ; Dell et HP publient après la clôture américaine"
+        },
+        {
+          "date": "2026-11-25",
+          "titre": "États-Unis : inflation PCE, PIB du 3e trimestre et biens durables (14h30), Livre beige de la Fed (20h00) ; Rémy Cointreau : résultats et objectifs 2031-32 ; Rheinmetall : journée investisseurs jusqu'au 27"
+        },
+        {
+          "date": "2026-11-26",
+          "titre": "BCE : compte rendu de la réunion d'octobre (13h30) ; Thanksgiving, Wall Street fermée"
+        },
+        {
+          "date": "2026-11-27",
+          "titre": "France : inflation préliminaire de novembre (8h45) ; zone euro : sentiment économique (11h00) ; Black Friday, Wall Street ferme à 19h00"
+        },
+        {
+          "date": "2026-11-29",
+          "titre": "OPEP+ : réunion ministérielle sur la production 2027"
+        },
+        {
+          "date": "2026-12-01",
+          "titre": "Zone euro : estimation rapide de l'inflation de novembre ; audition de Jensen Huang au Congrès américain"
+        },
+        {
+          "date": "2026-12-04",
+          "titre": "États-Unis : rapport sur l'emploi de novembre ; date limite des comptes trimestriels de Nvidia (Fed le 9 décembre, BCE le 17)"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "JournalArta : Trump a évoqué Jensen Huang avec Xi, la politique sur les puces maintenue (22 novembre)",
+          "url": "https://journalarta.com/en/2026/11/22/trump-jensen-huang-xi-nvidia-chip-policy/"
+        },
+        {
+          "titre": "JournalArta : Nvidia chute de 14 %, la SEC examine ses comptes (22 novembre)",
+          "url": "https://journalarta.com/en/2026/11/22/nvidia-shares-fall-sec-examines-accounting/"
+        },
+        {
+          "titre": "JournalArta : la semaine boursière à venir après la chute de 10 % du Nasdaq (21 novembre)",
+          "url": "https://journalarta.com/en/2026/11/21/stock-market-week-ahead-inflation-earnings-nasdaq/"
+        },
+        {
+          "titre": "JournalArta : Nvidia, bitcoin et Anthropic avant la semaine de Thanksgiving",
+          "url": "https://journalarta.com/en/2026/11/23/nvidia-bitcoin-anthropic-xrp-thanksgiving-week/"
+        },
+        {
+          "titre": "Catalyst Week Ahead : 23 au 29 novembre",
+          "url": "https://mciuzelis.substack.com/p/catalyst-week-ahead-nov-2329"
+        },
+        {
+          "titre": "Zonebourse via Bourse Direct : agenda macro du 23 au 27 novembre 2026",
+          "url": "https://www.boursedirect.fr/fr/actualites/categorie/analyse-de-la-tendance-des-marches/agenda-macro-zonebourse-semaine-du-23-au-27-novembre-2026-zone-bourse-2bc061e0c46165f3ae2893f0c9ae5366af9a5cfe"
+        },
+        {
+          "titre": "The Motley Fool : le marché tire la sonnette d'alarme (CAPE à 40,1)",
+          "url": "https://www.fool.com/investing/2026/11/22/stock-market-sounds-alarm-bad-news-president-trump-economy/"
+        },
+        {
+          "titre": "Trump's Truth : vidéo du 22 novembre 2026 sur le prix de l'essence",
+          "url": "https://www.trumpstruth.org/statuses/43695"
+        },
+        {
+          "titre": "Klépierre : relèvement des objectifs annuels (27 octobre)",
+          "url": "https://mfn.se/all/a/klepierre/steady-trading-momentum-and-guidance-uplift-49d221d4"
+        },
+        {
+          "titre": "Exosens : chiffre d'affaires du 3e trimestre 2026 en hausse de 23,5 %",
+          "url": "https://www.taiwannews.com.tw/news/6466034"
+        },
+        {
+          "titre": "AFP : Exosens affûte sa vue face aux drones",
+          "url": "https://www.connaissancedesenergies.org/afp/exosens-affute-sa-vue-face-aux-drones-et-vise-les-microreacteurs-nucleaires-americains-261018"
+        },
+        {
+          "titre": "AFP : OVHcloud se lance dans la bataille de l'IA (17 novembre)",
+          "url": "https://www.dhnet.be/dernieres-depeches/2026/11/17/lentreprise-francaise-ovhcloud-se-lance-dans-la-bataille-de-lia-NVUCNMTWLREXNEO63TEHNUVHBE/"
+        },
+        {
+          "titre": "Idéal Investisseur : OVH rebondit après son accord IA avec Qwant et Shadow",
+          "url": "https://www.ideal-investisseur.fr/actions-b/laction-ovh-rebondit-de-35-apres-son-accord-ia-avec-qwant-et-shadow/29729.html"
+        }
+      ]
+    },
+    {
       "date": "2026-11-21",
       "titre": "Samedi sans cotation : Wall Street finit en correction et des missiles russes tombent en Pologne",
       "resume": "Les marchés sont fermés et ce point reprend les cours de clôture de vendredi : le CAC 40 a perdu 5,27 % sur la semaine, et Wall Street a fini plus bas qu'à la clôture de Paris, avec un S&P 500 en correction (-3,70 %) et un Nasdaq à -5,28 %, emporté par Nvidia (-14 %), visé par un examen de ses comptes par la SEC. Dans la nuit de jeudi à vendredi, deux missiles et un drone russes sont tombés en Pologne, et l'OTAN promet de défendre son territoire. La semaine prochaine se jouera sur les indices PMI lundi, l'inflation PCE mercredi et Thanksgiving jeudi.",
@@ -7209,170 +7516,6 @@
         {
           "titre": "Boursorama : STMicroelectronics",
           "url": "https://www.boursorama.com/cours/1rPSTMPA/"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "titre": "Paris recule de 1,39 % : Hermès, les puces et un taux français au plus haut depuis 2002 pèsent",
-      "resume": "Le CAC 40 a perdu 1,39 % pour finir à 7 811,26 points, entraîné par la chute d'Hermès après un chiffre d'affaires trimestriel décevant, par les semi-conducteurs et par la hausse du taux d'emprunt français à dix ans, autour de 5,04 %. Le Brent a de nouveau grimpé au-dessus de 110 dollars avec les tensions au Moyen-Orient.",
-      "humeur": "baisse",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 811,26 pts",
-          "variation": -1.39
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "non confirmé ce soir",
-          "variation": 0.0
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "7 757,17 pts (clôture de mercredi, celle de jeudi n'est pas encore connue)",
-          "variation": 0.58
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "clôture de mercredi (celle de jeudi n'est pas encore connue)",
-          "variation": 1.05
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 111 $ le baril (en séance)",
-          "variation": 2.2
-        },
-        {
-          "nom": "Or",
-          "valeur": "non confirmé ce soir",
-          "variation": 0.0
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "≈ 1,1205 $ (en séance)",
-          "variation": -0.24
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Dette française",
-          "texte": "Le rendement de l'OAT à dix ans a atteint environ 5,04 %, son plus haut niveau depuis 2002, alors que le Bund recule vers 3,34 %. L'écart entre les deux dépasse 165 points de base, un niveau inédit depuis 2011, signe d'une méfiance croissante envers les finances publiques françaises."
-        },
-        {
-          "titre": "Pétrole et géopolitique",
-          "texte": "Le Brent a gagné environ 2 % pour approcher 111 dollars après de nouvelles attaques des Houthis en Arabie saoudite. Un baril cher entretient l'inflation et pèse sur les entreprises consommatrices d'énergie."
-        },
-        {
-          "titre": "Banques centrales",
-          "texte": "La Fed se réunit le 28 octobre et la BCE rend sa décision le 29, avec un taux de dépôt à 2,50 % et une inflation de 3,8 % en zone euro. Je n'ai pas trouvé d'analyse récente fiable sur les attentes précises des marchés."
-        },
-        {
-          "titre": "Résultats d'entreprises",
-          "texte": "Hermès a chuté d'environ 8 % après un chiffre d'affaires du troisième trimestre sous les attentes, notamment en Chine. Nexans a perdu environ 5,8 % malgré une croissance organique de 3,9 % sur neuf mois."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 378.12,
-        "pv": -21.08,
-        "texte": "Ton portefeuille vaut 378,12 € pour 399,20 € investis, soit une moins-value latente de 21,08 €. La baisse de STMicroelectronics (-4,89 % à 39,96 €) explique l'essentiel du recul du jour."
-      },
-      "valeurs": [
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre a fini à 39,96 € (-4,89 %), dans une séance dure pour les semi-conducteurs européens. Résultats du troisième trimestre attendus le 29 octobre avant l'ouverture."
-        },
-        {
-          "nom": "Soitec",
-          "texte": "L'action a chuté d'environ 9,8 % à 114,70 €, dans le même mouvement de recul des valeurs de puces."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Dassault Aviation",
-          "isin": "FR0014004L86",
-          "risque": "Modéré",
-          "prix": "≈ 300 € la part (dernier cours relevé en août, à revérifier)",
-          "texte": "Le constructeur du Rafale profite de la hausse des budgets de défense européens et d'un carnet de commandes bien rempli. Dans une séance où le CAC 40 recule de 1,4 %, une valeur de défense peut servir de point d'observation décorrélé de la tech. Le principal risque : le titre dépend de grosses commandes d'États et son prix unitaire élevé est peu adapté à un petit budget."
-        },
-        {
-          "nom": "Lumibird",
-          "isin": "FR0000038242",
-          "risque": "Très élevé",
-          "prix": "≈ 25 € la part (relevé mi-septembre, à revérifier)",
-          "texte": "Ce spécialiste français des lasers touche à la photonique, un thème porté par l'IA et les capteurs. Il a signé la vente de sa division médicale à IPG Photonics pour 300 millions d'euros, dont une grande partie doit revenir aux actionnaires, ce qui peut soutenir le cours. Le principal risque : c'est une petite capitalisation volatile, et l'opération reste soumise à des conditions de finalisation."
-        },
-        {
-          "nom": "Sopra Steria",
-          "isin": "FR0000050809",
-          "risque": "Élevé",
-          "prix": "cours non confirmé ce soir",
-          "texte": "Ce groupe de services numériques se positionne sur la cybersécurité et le spatial souverain, et prépare un rachat d'actions pouvant atteindre 40 millions d'euros. Il publie son chiffre d'affaires du troisième trimestre le 29 octobre, avec un objectif de croissance organique de 1 % à 2 %. Le principal risque : une croissance modeste et une dépendance à la demande des grandes entreprises, sensible à un ralentissement économique."
-        }
-      ],
-      "idee": {
-        "nom": "Dassault Aviation",
-        "isin": "FR0014004L86",
-        "risque": "Modéré",
-        "prix": "≈ 300 € la part (dernier cours relevé en août, à revérifier)",
-        "texte": "Le constructeur du Rafale profite de la hausse des budgets de défense européens et d'un carnet de commandes bien rempli. Dans une séance où le CAC 40 recule de 1,4 %, une valeur de défense peut servir de point d'observation décorrélé de la tech. Le principal risque : le titre dépend de grosses commandes d'États et son prix unitaire élevé est peu adapté à un petit budget."
-      },
-      "concept": {
-        "terme": "La croissance organique",
-        "texte": "La croissance organique mesure l'évolution du chiffre d'affaires d'une entreprise grâce à son activité existante, sans compter l'effet des acquisitions, des cessions ni des variations de change. On la calcule à périmètre et taux de change constants, ce qui permet de comparer deux périodes sur une base identique. Elle sert à savoir si une entreprise grandit vraiment par elle-même ou seulement parce qu'elle a racheté une autre société. Aujourd'hui, Nexans a annoncé une croissance organique de 3,9 % sur neuf mois, ce qui décrit sa dynamique propre, hors rachats et effets de devises. Cet indicateur n'est pas une norme comptable : chaque groupe précise sa méthode dans ses communiqués.",
-        "references": [
-          {
-            "titre": "Bourse des Crédits : Définition de la croissance organique ⚠️",
-            "url": "https://www.boursedescredits.com/lexique-definition-croissance-organique-1407.php"
-          },
-          {
-            "titre": "Investopedia : Organic Growth ⚠️",
-            "url": "https://www.investopedia.com/terms/o/organic-growth.asp"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-23",
-          "titre": "Safran : chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "STMicroelectronics : résultats du 3e trimestre"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "Sopra Steria : chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-11-03",
-          "titre": "États-Unis : élections de mi-mandat"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "Boursorama : L'Europe finit dans le rouge, le taux d'emprunt de la France grimpe encore",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-rouge-le-taux-d-emprunt-de-la-france-grimpe-encore-1a8aa077a279bd10a40064a36c1b07d1"
-        },
-        {
-          "titre": "Zonebourse : Paris décroche, plombé par Hermès et les tensions sur la dette française",
-          "url": "https://www.zonebourse.com/actualite-bourse/paris-decroche-plombe-par-hermes-et-les-tensions-sur-la-dette-francaise-ce785cded989ff2d"
-        },
-        {
-          "titre": "L'Énergeek : Prix du pétrole le 22 octobre 2026",
-          "url": "https://lenergeek.com/2026/10/22/prix-du-petrole-le-22-octobre-2026-le-brent-depasse-110-dollars-le-wti-a-98-dollars/"
-        },
-        {
-          "titre": "Boursorama : Wall Street clôture en hausse, appétit retrouvé pour l'IA",
-          "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-hausse-appetit-retrouve-pour-l-ia-1b236eb0ba45855364906525caa3c4e8"
         }
       ]
     }

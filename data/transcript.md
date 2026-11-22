@@ -498,3 +498,14 @@ Une valeur refuge est un placement vers lequel les investisseurs se tournent qua
 - [Banque de France : Eco Bref sur l'or (avril 2025) ⚠️](https://www.banque-france.fr/system/files/2025-04/Eco-Bref_Or_VDef%200425.pdf)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le PER de Shiller (ratio CAPE) ?
+
+_2026-11-22 21:09 CET_
+
+Le PER de Shiller, ou ratio CAPE, compare le prix d'un indice à la moyenne de ses bénéfices des dix dernières années, corrigés de l'inflation, au lieu des bénéfices d'une seule année comme le PER classique. Inventé par l'économiste Robert Shiller, il lisse les hauts et les bas du cycle économique : une année de bénéfices exceptionnels ou catastrophiques ne fausse pas la mesure. Un CAPE élevé signifie que les investisseurs paient cher chaque euro de bénéfice moyen, ce qui a souvent été suivi de rendements plus faibles sur les années suivantes. Ce week-end, The Motley Fool rappelle que le CAPE du S&P 500 était de 40,1 en octobre 2026, sixième mois d'affilée au-dessus de 40, un niveau jamais vu depuis la bulle internet de 2000. Ce ratio ne dit jamais quand un marché va baisser : il peut rester élevé pendant des années, et il sert à juger un niveau de prix sur le long terme, pas à choisir le jour où acheter ou vendre. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [Café de la Bourse : PE Shiller (lexique)](https://www.cafedelabourse.com/lexique/pe-shiller)
+- [Wikipédia (en anglais) : Cyclically adjusted price-to-earnings ratio](https://en.wikipedia.org/wiki/Cyclically_adjusted_price-to-earnings_ratio)
+- [Corporate Finance Institute : CAPE Ratio, Overview and Formula](https://corporatefinanceinstitute.com/resources/valuation/cape-ratio/)
