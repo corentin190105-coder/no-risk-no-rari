@@ -509,3 +509,15 @@ Le PER de Shiller, ou ratio CAPE, compare le prix d'un indice à la moyenne de s
 - [Café de la Bourse : PE Shiller (lexique)](https://www.cafedelabourse.com/lexique/pe-shiller)
 - [Wikipédia (en anglais) : Cyclically adjusted price-to-earnings ratio](https://en.wikipedia.org/wiki/Cyclically_adjusted_price-to-earnings_ratio)
 - [Corporate Finance Institute : CAPE Ratio, Overview and Formula](https://corporatefinanceinstitute.com/resources/valuation/cape-ratio/)
+
+## Q: Qu'est-ce que le rebond du chat mort (dead cat bounce) ?
+
+_2026-11-23 21:04 CET_
+
+Le rebond du chat mort, ou dead cat bounce en anglais, désigne une hausse brève et souvent forte d'un titre ou d'un marché en pleine baisse, suivie d'une reprise de la chute. L'image est volontairement brutale : même un objet inerte rebondit un peu s'il tombe de haut. ABC Bourse explique que ce piège fonctionne grâce à deux biais, l'aversion à la perte et l'ancrage sur les anciens cours, qui poussent à croire trop vite à un retournement. Pour distinguer un simple rebond d'un vrai retournement, les analystes regardent si la hausse s'accompagne de volumes élevés, si le cours repasse au-dessus de ses moyennes mobiles et si les nouvelles de fond s'améliorent. Lundi, le Nasdaq-100 a repris environ 7 % après sa pire semaine depuis 2020 grâce au retour de Jensen Huang chez Nvidia : seules les prochaines séances diront s'il s'agit d'un rebond durable ou d'un rebond du chat mort. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [ABC Bourse : Rebond du chat mort, le piège redouté d'un marché baissier](https://www.abcbourse.com/analyses/chronique-rebond_du_chat_mort_le_piege_redoute_d_un_marche_baissier-1375)
+- [Investopedia : Dead Cat Bounce ⚠️](https://www.investopedia.com/terms/d/deadcatbounce.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

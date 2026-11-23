@@ -1,6 +1,365 @@
 {
   "points": [
     {
+      "date": "2026-11-23",
+      "titre": "Le retour de Jensen Huang chez Nvidia déclenche un rebond géant, le CAC 40 repasse 8 000 points",
+      "resume": "Le conseil de Nvidia a réintégré Jensen Huang comme PDG, et l'action a bondi d'environ 32 %, entraînant le Nasdaq-100 vers +7 % et le S&P 500 vers +5 %, sa meilleure séance depuis avril 2025 (CNBC, Benzinga, chiffres provisoires). À Paris, le CAC 40 gagne 1,48 % à 8 044,84 points, mené par STMicroelectronics (+8,96 %), malgré des PMI qui confirment le recul de l'activité en France. Le pétrole chute à son plus bas depuis août et l'or reprend plus de 3 %.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 044,84 pts",
+          "variation": 1.48
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 074,47 pts",
+          "variation": 2.23
+        },
+        {
+          "nom": "S&P 500 (provisoire)",
+          "valeur": "7 240,69 pts",
+          "variation": 4.78
+        },
+        {
+          "nom": "Nasdaq Composite (provisoire)",
+          "valeur": "24 086,15 pts",
+          "variation": 6.49
+        },
+        {
+          "nom": "Nikkei 225 (fermé lundi, jour férié)",
+          "valeur": "56 436,65 pts",
+          "variation": 0.0
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "22 383,74 pts",
+          "variation": -0.12
+        },
+        {
+          "nom": "Brent (provisoire)",
+          "valeur": "≈ 86,51 $",
+          "variation": -6.55
+        },
+        {
+          "nom": "Or (provisoire)",
+          "valeur": "3 639,90 $",
+          "variation": 3.54
+        },
+        {
+          "nom": "Euro/dollar (provisoire)",
+          "valeur": "≈ 1,091 $",
+          "variation": -0.58
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Nvidia rappelle Jensen Huang, la tech respire",
+          "texte": "Dix jours après sa démission, Jensen Huang est réintégré à la tête de Nvidia avec effet immédiat, et l'action a gagné environ 32 % vers 166 dollars après avoir perdu plus de 40 % en quelques semaines (CNBC, Zonebourse). Le rebond a gagné tout le secteur, l'ETF des semi-conducteurs VanEck prenant environ 15 % (Benzinga). L'examen des comptes par la SEC et l'audition de Jensen Huang au Congrès le 1er décembre restent au programme : le dossier n'est pas clos."
+        },
+        {
+          "titre": "PMI : la zone euro tient, la France recule",
+          "texte": "Le PMI composite flash de la zone euro reste à 51,7 en novembre, juste sous les 51,9 attendus, l'Allemagne compensant la France (Boursorama). En France, l'indice des services tombe à 46,6 contre 47,5 attendu, au plus bas depuis six mois, ce qui augmente le risque d'une récession technique au 4e trimestre (investingLive). Ces chiffres pèsent peu face à l'effet Nvidia, mais ils comptent pour les valeurs domestiques françaises."
+        },
+        {
+          "titre": "Pétrole au plus bas depuis août",
+          "texte": "Le Brent a reculé fortement, à environ 89 dollars en fin d'après-midi selon l'AFP (-3,7 %) puis vers 86,5 dollars en soirée (Yahoo Finance, provisoire), et le WTI est passé sous 80 dollars pour la première fois depuis août. Le marché anticipe un surplus d'offre au 4e trimestre malgré le conflit au Moyen-Orient (Connaissance des énergies). L'OPEP+ se réunit dimanche 29 novembre : c'est le prochain rendez-vous pour TotalEnergies et les parapétrolières."
+        },
+        {
+          "titre": "Fed : l'inflation PCE de mercredi reste le juge de paix",
+          "texte": "Le rebond ne change rien au calendrier : mercredi 25 novembre à 14h30, l'inflation PCE d'octobre est attendue en hausse à 3,8 % sur un an, et le marché voit toujours une forte probabilité de hausse des taux de la Fed le 9 décembre. John Williams, de la Fed de New York, s'exprime ce soir à 22h00. L'or reprend environ 3,5 % et l'euro recule vers 1,091 dollar, signe que la nervosité n'a pas disparu."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 750.99,
+        "pv": -48.29,
+        "texte": "Ton portefeuille vaut 750,99 € pour 799,28 € investis, soit -48,29 €, en hausse d'environ 20 € sur la journée grâce à STMicroelectronics (+8,96 %), à l'ETF Nasdaq-100 (+5,59 %) et à l'ETF Monde (+3,19 %). STMicroelectronics repasse au-dessus de ton niveau de sortie de 38,61 €, tandis que Stellantis (3,22 €) reste sous 3,75 €, et Air Liquide est stable à 187,66 €."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Ce qui a changé depuis vendredi : le titre bondit de 8,96 % à 40,01 €, plus forte hausse du CAC 40, et clôture au-dessus de ton niveau de sortie de 38,61 € (Zonebourse). Rothschild & Co Redburn reste neutre avec un objectif de 48 € (Ideal Investisseur). Le niveau de sortie ne change pas : une nouvelle clôture sous 38,61 € redonnerait le signal de vente."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "L'ETF reprend 5,59 % à 6,494 €, porté par Nvidia, mais il reste sous ses moyennes 20 et 50 jours (6,62 € et 6,87 €) et Wall Street n'était pas clôturée à l'heure de ce point : la séance de demain à Paris intégrera la fin de séance américaine."
+        },
+        {
+          "nom": "Stellantis",
+          "texte": "Le groupe annonce l'arrêt de ses programmes officiels en endurance et en Formule E pour économiser ses ressources (L'Équipe). Le titre gagne 2,98 % à 3,22 € mais reste loin sous ton niveau de sortie de 3,75 € et sous ses moyennes 20 et 50 jours."
+        },
+        {
+          "nom": "Airbus",
+          "texte": "Emmanuel Macron a annoncé à Toulouse 350 millions d'euros pour la recherche de la filière aéronautique (Public Sénat). Le titre gagne 3,03 % à 195,72 €, une hausse proche de celle de Safran, qui suit surtout le marché."
+        },
+        {
+          "nom": "Vallourec",
+          "texte": "Le titre perd encore 4,3 % à 14,81 €, son plus bas de six mois, dans une séance pourtant très positive, après des prévisions annuelles sous le consensus et la chute du pétrole (BFM Bourse)."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Renault",
+          "isin": "FR0000131906",
+          "risque": "Élevé",
+          "prix": "≈ 27 € la part",
+          "texte": "Renault fabrique des voitures sous les marques Renault, Dacia et Alpine. Lundi, Kepler Cheuvreux est passé à l'achat avec un objectif de 35 €, et le titre a repris 4,06 % à 27,19 € (Le Revenu, Fortuneo), alors que le pétrole tombe à son plus bas depuis août, une bonne nouvelle pour les automobilistes. Avec environ 27 € la part, c'est une idée accessible pour un petit budget. Le principal risque : un secteur automobile européen sous pression, avec des droits de douane et une concurrence chinoise qui pèsent sur les marges."
+        },
+        {
+          "nom": "Legrand",
+          "isin": "FR0010307819",
+          "risque": "Modéré",
+          "prix": "≈ 133 € la part",
+          "texte": "Legrand fournit le matériel électrique des bâtiments et des centres de données, dont une part croissante sert à alimenter et refroidir les serveurs de l'IA. Le retour de Jensen Huang chez Nvidia a relancé ce thème : le titre a gagné 4,20 % à 132,75 € lundi, au côté de Schneider Electric (+4,11 %), après être tombé à 127,40 € vendredi (Ideal Investisseur, Yahoo Finance). C'est une façon de jouer l'IA par l'infrastructure électrique, avec une activité plus diversifiée qu'un fabricant de puces. Le principal risque : si l'enthousiasme pour l'IA retombe, ces valeurs de l'électrification ont montré la semaine dernière qu'elles baissent avec la tech."
+        },
+        {
+          "nom": "X-FAB Silicon Foundries",
+          "isin": "BE0974310428",
+          "risque": "Très élevé",
+          "prix": "≈ 4,70 € la part",
+          "texte": "X-FAB est une fonderie spécialisée dans les puces analogiques et les capteurs, surtout pour l'automobile et l'industrie, cotée à Paris. Le titre a rebondi de 5,7 % à 4,672 € lundi avec tout le secteur des semi-conducteurs, après être tombé à 4,42 € vendredi, son plus bas du mois (Yahoo Finance). La part coûte moins de 5 €, mais c'est un pari risqué : le chiffre d'affaires du 3e trimestre a reculé de 15 % sur un an (Boursorama). Le principal risque : sans reprise de la demande automobile, le rebond du secteur peut ne pas profiter durablement à X-FAB."
+        }
+      ],
+      "idee": {
+        "nom": "Renault",
+        "isin": "FR0000131906",
+        "risque": "Élevé",
+        "prix": "≈ 27 € la part",
+        "texte": "Renault fabrique des voitures sous les marques Renault, Dacia et Alpine. Lundi, Kepler Cheuvreux est passé à l'achat avec un objectif de 35 €, et le titre a repris 4,06 % à 27,19 € (Le Revenu, Fortuneo), alors que le pétrole tombe à son plus bas depuis août, une bonne nouvelle pour les automobilistes. Avec environ 27 € la part, c'est une idée accessible pour un petit budget. Le principal risque : un secteur automobile européen sous pression, avec des droits de douane et une concurrence chinoise qui pèsent sur les marges."
+      },
+      "concept": {
+        "terme": "Le rebond du chat mort (dead cat bounce)",
+        "texte": "Le rebond du chat mort, ou dead cat bounce en anglais, désigne une hausse brève et souvent forte d'un titre ou d'un marché en pleine baisse, suivie d'une reprise de la chute. L'image est volontairement brutale : même un objet inerte rebondit un peu s'il tombe de haut. ABC Bourse explique que ce piège fonctionne grâce à deux biais, l'aversion à la perte et l'ancrage sur les anciens cours, qui poussent à croire trop vite à un retournement. Pour distinguer un simple rebond d'un vrai retournement, les analystes regardent si la hausse s'accompagne de volumes élevés, si le cours repasse au-dessus de ses moyennes mobiles et si les nouvelles de fond s'améliorent. Lundi, le Nasdaq-100 a repris environ 7 % après sa pire semaine depuis 2020 grâce au retour de Jensen Huang chez Nvidia : seules les prochaines séances diront s'il s'agit d'un rebond durable ou d'un rebond du chat mort. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "ABC Bourse : Rebond du chat mort, le piège redouté d'un marché baissier",
+            "url": "https://www.abcbourse.com/analyses/chronique-rebond_du_chat_mort_le_piege_redoute_d_un_marche_baissier-1375"
+          },
+          {
+            "titre": "Investopedia : Dead Cat Bounce ⚠️",
+            "url": "https://www.investopedia.com/terms/d/deadcatbounce.asp"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché redevient plus porteur, mais sur une seule séance : le retour de Jensen Huang chez Nvidia a fait rebondir le CAC 40 de 1,48 % et Wall Street de plus de 4 % (chiffres provisoires), et l'indice de peur VIX a reculé d'environ 22 % à 27,8, un niveau encore élevé (Ideal Investisseur, Benzinga). Un rebond d'un jour après la pire semaine depuis 2020 ne suffit pas à confirmer un retournement, surtout avant l'inflation PCE de mercredi 14h30 et une possible hausse des taux de la Fed le 9 décembre. Aucune idée ne passe tous les critères Favorable et je n'ajoute pas d'idée Spéculatif : Airbus échoue sur le ratio gain/risque, Rémy Cointreau attend ses résultats, Renault n'a pas encore d'ATR vérifié. Le journal compte 3 idées closes, toutes Spéculatif et perdantes (Soitec -9,29 %, Vusion -4,55 %, Riber -7,30 %) : l'échantillon est trop petit pour juger la méthode, mais c'est une raison de rester exigeant. Sur tes lignes : STMicroelectronics a clôturé à 40,01 €, au-dessus de ton niveau de sortie de 38,61 €, ce qui neutralise le signal de vente de vendredi sans changer le niveau ; Stellantis (3,22 €) reste sous 3,75 € et la vente prévue reste valable. Aucune vente n'est saisie dans ton journal : si tu as vendu aujourd'hui, ajoute-la pour que le suivi soit juste.",
+        "retro": "Bilan à 5 jours (idées du 16 novembre) : sur TotalEnergies (Attendre, 81,96 €), l'entrée sur repli à 80,90 € a été touchée puis l'invalidation à 78,80 €, soit environ -3,6 % net de frais si l'ordre avait été passé ; le titre finit à 77,49 €. Sur Vallourec, l'avis Attendre avant les résultats a évité une chute de 21,5 % (de 18,87 € à 14,81 €). Bilan définitif à 10 jours (idées du 9 novembre) : Infineon (Attendre) a touché l'entrée de 48,60 € puis l'invalidation de 45,60 € le 20 novembre, soit environ -7,2 % net si l'idée avait été suivie ; STMicroelectronics, déjà détenue, passe de 39,63 € à 40,01 €. Les avis Attendre ont surtout évité des pertes dans une semaine très vendeuse, mais les entrées sur repli auraient été déclenchées trop tôt.",
+        "opportunites": [
+          {
+            "nom": "Airbus",
+            "isin": "NL0000235190",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 7 jours",
+            "catalyseur": "Visite d'Emmanuel Macron à Toulouse lundi 23 novembre : 350 millions d'euros pour la recherche de la filière aéronautique",
+            "cours": "195,72 €",
+            "entree": "195,72 €, sur une confirmation au-dessus de 199,50 €",
+            "invalidation": "189,50 €",
+            "objectif": "207,50 €",
+            "ratio": "1,9",
+            "frais": "2 actions : environ 391 €, perte maximale d'environ 14,40 € frais compris, gain visé d'environ 21,50 € net de 2 € de frais",
+            "these": "Airbus construit des avions de ligne, des hélicoptères et des satellites. Le catalyseur attendu est tombé : Emmanuel Macron a annoncé 350 millions d'euros pour la recherche et la décarbonation de toute la filière (Public Sénat), une enveloppe utile mais modeste et non une commande pour Airbus. Le titre a fini à 195,72 € (+3,03 %), juste au-dessus du seuil de 195,50 €, avec un volume de 1,09 fois la moyenne, mais il reste sous sa moyenne 20 jours (199,24 €) et Safran a monté autant (+3,35 %) : la hausse suit surtout le rebond général (Yahoo Finance via le fichier de cours). Avec l'entrée au cours actuel et les niveaux fixés à l'avance, le ratio gain/risque n'est que de 1,9, sous le minimum de 2, et je ne remonte pas l'objectif pour le faire passer. L'idée deviendrait Favorable sur une clôture au-dessus de 199,50 € avec un volume nettement supérieur à la moyenne, ou sur une annonce propre à Airbus (commandes, cadence). Ce qui contredit l'idée : un catalyseur faible et un marché qui vient de rebondir d'un coup après une semaine très vendeuse.",
+            "risque": "Si le rebond de lundi s'essouffle, le titre peut revenir vers 189,50 € en une ou deux séances (1 ATR vaut environ 6 €)."
+          },
+          {
+            "nom": "Rémy Cointreau",
+            "isin": "FR0000130395",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 7 jours",
+            "catalyseur": "Résultats semestriels et objectifs 2031-32 le mercredi 25 novembre à 7h30 (agenda de la société)",
+            "cours": "50,35 €",
+            "entree": "52,50 €, seulement après les résultats et une clôture au-dessus",
+            "invalidation": "50,00 €",
+            "objectif": "57,50 €",
+            "ratio": "2,0",
+            "frais": "7 actions : environ 367,50 €, perte maximale d'environ 19,50 € frais compris, gain visé d'environ 33 € net de 2 € de frais",
+            "these": "Rémy Cointreau vend des spiritueux haut de gamme, surtout du cognac et la liqueur Cointreau. Ce qui a changé depuis hier : rien sur le fond, le titre a fini à 50,35 € (-0,2 %) dans un marché en forte hausse, ce qui montre que les investisseurs attendent la publication de mercredi (Yahoo Finance). Le volume a toutefois presque doublé par rapport à vendredi (95 779 titres), signe que des positions se prennent avant les chiffres. Les niveaux ne bougent pas : entrée seulement sur une clôture au-dessus de 52,50 € après la publication, invalidation à 50,00 €, environ 2 ATR et 4,8 % sous l'entrée. Ce qui contredit l'idée : le titre ne profite pas du rebond, le cognac reste pénalisé par les droits de douane, et ni le consensus ni les positions courtes n'ont été vérifiés ce soir.",
+            "risque": "Des objectifs 2031-32 jugés trop prudents peuvent faire perdre plus de 5 % au titre en une séance."
+          },
+          {
+            "nom": "Renault",
+            "isin": "FR0000131906",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Kepler Cheuvreux passe à l'achat avec un objectif de 35 € (lundi 23 novembre)",
+            "cours": "27,19 €",
+            "entree": "27,30 €, sur une clôture au-dessus de 27,80 €",
+            "invalidation": "25,95 €",
+            "objectif": "30,00 €",
+            "ratio": "2,0",
+            "frais": "14 actions : environ 382 €, perte maximale d'environ 20,90 € frais compris, gain visé d'environ 35,80 € net de 2 € de frais",
+            "these": "Renault fabrique des voitures sous les marques Renault, Dacia et Alpine. Le fait nouveau est daté : Kepler Cheuvreux est passé à l'achat lundi avec un objectif de 35 €, soit environ 29 % au-dessus du cours (Fortuneo, Le Revenu), et la baisse du pétrole soutient le moral des automobilistes. Le titre a repris 4,06 % à 27,19 €, juste au-dessus de sa moyenne 50 jours (27,22 € vendredi) mais sous la 20 jours (27,80 €), avec un volume proche de la moyenne (Yahoo Finance, radar du 20 novembre). La résistance suivante est la zone de 29,40 à 30 €, les plus hauts du 10 novembre. Il reste à Attendre pour deux raisons : Renault n'était pas dans le fichier de cours, donc l'ATR du jour n'est pas vérifié (je l'ajoute au suivi pour demain), et une seule recommandation d'analyste ne suffit pas sans confirmation au-dessus de la moyenne 20 jours. Ce qui contredit l'idée : un secteur automobile européen fragile, et l'invalidation à 25,95 € est sous le plus bas de vendredi, environ 1,5 ATR sous l'entrée.",
+            "risque": "Une rechute du marché peut ramener le titre vers 26 € avant que le signal ne se confirme."
+          },
+          {
+            "nom": "Vallourec",
+            "isin": "FR0013506730",
+            "compte": "PEA",
+            "avis": "Éviter",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Prévisions annuelles sous le consensus (20 novembre) et pétrole au plus bas depuis août",
+            "cours": "14,81 €",
+            "entree": "Aucune",
+            "invalidation": "Sans objet",
+            "objectif": "Sans objet",
+            "ratio": "Sans objet",
+            "frais": "Pas de position",
+            "these": "Vallourec fabrique des tubes en acier sans soudure, surtout pour les forages pétroliers et gaziers. Le 20 novembre, le groupe a visé un résultat brut d'exploitation 2026 de 760 à 800 millions de dollars, contre environ 850 millions attendus par les analystes (BFM Bourse), et le titre a chuté. Lundi, il a encore perdu 4,3 % à 14,81 €, son plus bas de six mois, avec un volume de 2,7 fois la moyenne, loin sous ses moyennes 20 et 50 jours (18,53 € et 18,52 €), pendant que le Brent tombait à son plus bas depuis août. Un titre qui baisse dans une journée de forte hausse générale montre que les vendeurs dominent : chercher le point bas serait un pari sans catalyseur. Ce qui pourrait changer l'avis : une décision de l'OPEP+ dimanche 29 novembre qui ferait remonter le pétrole, puis une stabilisation du cours.",
+            "risque": "Le titre a déjà beaucoup baissé : un rebond technique brutal reste possible, mais rien ne permet de le prévoir."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "Valorisation : la valeur d'entreprise et le ratio VE/EBITDA",
+        "niveau": "Intermédiaire",
+        "texte": "Le PER compare le prix d'une action à son bénéfice, mais il ignore la dette : deux entreprises au même PER peuvent être très différentes si l'une est très endettée. La valeur d'entreprise (VE) corrige ce défaut : c'est la capitalisation boursière plus la dette nette, c'est-à-dire le prix qu'il faudrait payer pour racheter toute l'entreprise, dettes comprises. On la compare ensuite à l'EBITDA, que les entreprises françaises appellent souvent résultat brut d'exploitation (RBE) : le résultat de l'activité avant intérêts, impôts et amortissements. Le ratio VE/EBITDA indique combien d'années de ce résultat il faudrait pour payer l'entreprise et sa dette. Comme le rappelle Forvis Mazars, c'est un multiple : il ne sert qu'à comparer des sociétés d'un même secteur, ou une société avec son propre passé. Un multiple bas n'est pas forcément une affaire, car il peut refléter une activité en déclin, et l'EBITDA ignore les investissements nécessaires pour faire tourner les usines. Ce ratio est donc un point de départ pour poser des questions, jamais une conclusion à lui seul.",
+        "exemple": "Deux entreprises valent chacune 1 milliard d'euros en Bourse et dégagent 200 millions d'EBITDA. A a 500 millions de dette nette : sa VE est de 1,5 milliard, soit 7,5 fois l'EBITDA. B a 200 millions de trésorerie nette : sa VE n'est que de 0,8 milliard, soit 4 fois l'EBITDA. Au même prix en Bourse, B est nettement moins chère. Exemple réel du jour : Vallourec vise 760 à 800 millions de dollars d'EBITDA en 2026 avec seulement 100 millions de dollars de dette nette au 30 septembre (communiqué du 20 novembre) : pour lui, la VE est presque égale à la capitalisation, et c'est la baisse de l'EBITDA attendu qui a fait chuter le titre.",
+        "references": [
+          {
+            "titre": "Forvis Mazars : Multiple (glossaire)",
+            "url": "https://www.forvismazars.com/fr/fr/services/financial-advisory/glossaire-definition/m/multiple"
+          },
+          {
+            "titre": "Investopedia : EV/EBITDA ⚠️",
+            "url": "https://www.investopedia.com/terms/e/ev-ebitda.asp"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Deux entreprises ont la même capitalisation et le même EBITDA. La première a beaucoup de dette nette, la seconde a de la trésorerie. Laquelle a le ratio VE/EBITDA le plus bas ?",
+          "choix": [
+            "Celle qui a beaucoup de dette",
+            "Elles ont exactement le même ratio",
+            "Celle qui a de la trésorerie nette",
+            "On ne peut pas le savoir sans le PER"
+          ],
+          "bonne": 2,
+          "explication": "La VE ajoute la dette nette à la capitalisation : la trésorerie nette la réduit, donc le ratio de la seconde est plus bas."
+        },
+        {
+          "question": "Après une forte baisse, un indice rebondit de 7 % en une séance. Qu'est-ce qui permettrait de penser qu'il ne s'agit pas seulement d'un rebond du chat mort ?",
+          "choix": [
+            "Une hausse qui se poursuit avec des volumes élevés et un retour au-dessus des moyennes mobiles",
+            "Le seul fait que la hausse du jour dépasse 5 %",
+            "Un message optimiste sur un forum",
+            "Une baisse de l'indice de volatilité le jour même, sans autre signal"
+          ],
+          "bonne": 0,
+          "explication": "Un vrai retournement se confirme dans la durée : volumes, tendance et nouvelles de fond, pas une seule séance."
+        },
+        {
+          "question": "Révision : un titre monte de 4 % avec un volume égal à 0,5 fois sa moyenne. Comment lire ce mouvement ?",
+          "choix": [
+            "Une hausse très solide, car elle est forte",
+            "Un signal de vente automatique",
+            "Le volume n'a aucune importance pour une action",
+            "Une hausse peu soutenue, à confirmer"
+          ],
+          "bonne": 3,
+          "explication": "Un mouvement avec peu d'échanges reflète peu d'acheteurs convaincus : il doit être confirmé par des volumes plus élevés."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-23",
+          "titre": "Fed : discours de John Williams à 22h00"
+        },
+        {
+          "date": "2026-11-24",
+          "titre": "Allemagne : climat des affaires Ifo (10h00) ; États-Unis : confiance du Conference Board (16h00) ; Dell publie ses résultats après la clôture"
+        },
+        {
+          "date": "2026-11-25",
+          "titre": "États-Unis : inflation PCE et PIB du 3e trimestre (14h30), Livre beige (20h00) ; Rémy Cointreau : résultats semestriels (7h30) ; Rheinmetall : journée investisseurs"
+        },
+        {
+          "date": "2026-11-26",
+          "titre": "Thanksgiving, Wall Street fermée ; BCE : compte rendu de la réunion d'octobre (13h30)"
+        },
+        {
+          "date": "2026-11-27",
+          "titre": "France : inflation préliminaire de novembre et PIB du 3e trimestre (8h45)"
+        },
+        {
+          "date": "2026-11-29",
+          "titre": "OPEP+ : réunion ministérielle sur la production 2027"
+        },
+        {
+          "date": "2026-12-01",
+          "titre": "Zone euro : inflation de novembre ; Nvidia : audition de Jensen Huang au Congrès"
+        },
+        {
+          "date": "2026-12-04",
+          "titre": "États-Unis : rapport sur l'emploi de novembre"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Zonebourse (Agefi-Dow Jones) : la Bourse de Paris rebondit grâce au come-back de Jensen Huang",
+          "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-rebondit-nettement-grace-au-come-back-de-jensen-huang-ce7851dadd81f12d"
+        },
+        {
+          "titre": "Ideal Investisseur : le CAC 40 clôture à 8 044 points",
+          "url": "https://www.ideal-investisseur.fr/bourse-cryptos/le-cac-40-cloture-a-8-044-points-le-rebond-des-valeurs-ia-electrise-la-fin-de-seance-parisienne-34064.html"
+        },
+        {
+          "titre": "CNBC : Jensen Huang reinstated as Nvidia CEO",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        },
+        {
+          "titre": "Benzinga : Stock Market Today, Nvidia Soars 32%",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63551516/stock-market-today-nvidia-jensen-huang-return-nasdaq-100-anthropic-crowdstrike"
+        },
+        {
+          "titre": "Boursorama : Zone euro, PMI, croissance stable mais la récession en France assombrit les perspectives",
+          "url": "https://www.boursorama.com/actualite-economique/actualites-amp/zone-euro-pmi-croissance-stable-mais-la-recession-en-france-assombrit-les-perspectives-627d0d29e6f91525bca914115150597f"
+        },
+        {
+          "titre": "investingLive : France November flash services PMI 46.6",
+          "url": "https://investinglive.com/news/france-november-flash-services-pmi-46-6-vs-47-5-expected/"
+        },
+        {
+          "titre": "Connaissance des énergies (AFP) : le pétrole recule fortement",
+          "url": "https://www.connaissancedesenergies.org/afp/le-petrole-chute-avec-lanticipation-dun-surplus-doffre-malgre-le-conflit-au-moyen-orient-261123"
+        },
+        {
+          "titre": "Public Sénat : Emmanuel Macron annonce 350 millions pour la recherche aéronautique",
+          "url": "https://www.publicsenat.fr/actualites/economie/emmanuel-macron-annonce-350-millions-dinvestissement-dans-la-recherche-aeronautique-a-toulouse"
+        },
+        {
+          "titre": "Le Revenu : Paris rebondit de 1,48 %, Renault et Kepler Cheuvreux",
+          "url": "https://www.lerevenu.com/reussir-bourse/points-marches/cac40-cloture-rebond-nvidia-jensen-huang-stmicro-soitec"
+        },
+        {
+          "titre": "Fortuneo : les avis d'analystes du jour",
+          "url": "https://bourse.fortuneo.fr/actualites/marches-les-avis-d-analystes-mise-a-jour-7714473"
+        },
+        {
+          "titre": "BFM Bourse via Tradingsat : Vallourec déçoit le marché",
+          "url": "https://www.tradingsat.com/vallourec-FR0013506730/actualites/vallourec-perspectives-decevantes-rebond-de-la-rentabilite-repousse-a-2027-vallourec-decoit-le-marche-et-chute-de-pres-de-13-1174152.html"
+        },
+        {
+          "titre": "Vallourec : résultats du troisième trimestre 2026 (communiqué)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407248/0/fr/r%C3%A9sultats-du-troisi%C3%A8me-trimestre-2026.html"
+        },
+        {
+          "titre": "Boursorama : X-FAB Silicon Foundries",
+          "url": "https://www.boursorama.com/cours/1rPXFAB/"
+        },
+        {
+          "titre": "L'Équipe : Stellantis arrête l'endurance et la Formule E",
+          "url": "https://www.lequipe.fr/Sport-auto/Actualites/Le-groupe-stellantis-annonce-l-arret-immediat-de-peugeot-en-endurance-et-de-citroen-et-opel-en-formule-e-en-2027/1745606"
+        },
+        {
+          "titre": "Yahoo Finance : historique Renault",
+          "url": "https://finance.yahoo.com/quote/RNO.PA/history/"
+        }
+      ]
+    },
+    {
       "date": "2026-11-22",
       "titre": "Dimanche sans cotation : le dossier Nvidia s'alourdit avant une semaine décisive pour l'inflation",
       "resume": "Les marchés sont fermés et ce point reprend les cours de clôture de vendredi, après une semaine où le CAC 40 a perdu 5,27 % et le Nasdaq-100 plus de 10 %, sa pire semaine depuis 2020. Ce week-end, Donald Trump a dit avoir parlé de Jensen Huang avec Xi Jinping, tandis que le Trésor assure que la règle sur les puces Nvidia vendues à la Chine ne change pas, alors que la SEC examine les comptes du groupe. La semaine se jouera sur les PMI lundi, l'inflation PCE mercredi et Thanksgiving jeudi.",
@@ -7356,166 +7715,6 @@
         {
           "titre": "Option Finance : AlphaValue et Eutelsat",
           "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-20-alphavalue-confirme-son-conseil-sur-eutelsat-le-titre-recule.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "titre": "Moody's maintient la note de la France, le CAC 40 recule tout de même de 0,36 % et le Brent bondit à près de 117 $",
-      "resume": "Contre l'attente de nombreux économistes, Moody's n'a pas dégradé la France, notée Aa3 avec perspective négative. Le CAC 40 a pourtant fini à 7 782,82 points (-0,36 %), soit -2,19 % sur la semaine, tandis que Wall Street reculait sous l'effet de la hausse du pétrole et des doutes sur l'IA.",
-      "humeur": "baisse",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 782,82 pts",
-          "variation": -0.36
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "≈ 6 068 pts (cotation de fin de séance)",
-          "variation": -0.31
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "7 623,7 pts",
-          "variation": -0.52
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "25 955 pts (Composite)",
-          "variation": -0.2
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 116,75 $ le baril",
-          "variation": 3.4
-        },
-        {
-          "nom": "Or",
-          "valeur": "≈ 3 994 $ l'once",
-          "variation": 0.0
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "≈ 1,120",
-          "variation": 0.0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Note de la France",
-          "texte": "Moody's n'a pris aucune décision de notation vendredi et laisse la France à Aa3 avec perspective négative, alors qu'une dégradation était attendue. L'agence suppose que le budget 2027 réduira le déficit, qu'elle estime à 5,2 %. Fitch et S&P restent à A+."
-        },
-        {
-          "titre": "Pétrole et géopolitique",
-          "texte": "Le Brent a gagné environ 3,4 % pour atteindre 116,75 $, son plus haut depuis début avril, sur fond de craintes d'escalade entre Washington et Téhéran. Cette hausse nourrit l'inflation et pèse sur les actions."
-        },
-        {
-          "titre": "Taux et inflation",
-          "texte": "Le rendement américain à dix ans évolue près de 5 % et le taux français à dix ans a touché 5,04 % jeudi. En zone euro, l'inflation de septembre est à 3,8 %."
-        },
-        {
-          "titre": "Banques centrales",
-          "texte": "La Fed décide le 28 octobre, avec un statu quo plutôt attendu, et la BCE le 29, avec un taux de dépôt à 2,50 %. L'indice PCE américain suit le 29."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 377.14,
-        "pv": -22.06,
-        "texte": "Ton portefeuille vaut 377.14 € pour 399.20 € investis, soit -22.06 €. STMicroelectronics (-1,24 %) a pesé, tandis que les deux ETF gardent leur dernier cours connu faute de cotation fiable."
-      },
-      "valeurs": [
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre termine à 39,47 € (-1,24 %), après avoir oscillé entre 38,61 € et 40,28 €. Les résultats du troisième trimestre sont attendus le 29 octobre avant l'ouverture."
-        },
-        {
-          "nom": "Soitec",
-          "texte": "L'action recule à 111,65 € (environ -2,7 %), un jour après sa chute de près de 10 %."
-        },
-        {
-          "nom": "Safran",
-          "texte": "Le motoriste a lâché environ 10 % (autour de 272 €) le jour de son chiffre d'affaires du troisième trimestre, la plus forte baisse de l'indice."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "GTT (Gaztransport & Technigaz)",
-          "isin": "FR0011726835",
-          "risque": "Modéré",
-          "prix": "≈ 197 € la part (cours indicatif, à vérifier)",
-          "texte": "GTT conçoit les cuves des méthaniers qui transportent le gaz naturel liquéfié, un secteur porté par la tension sur l'énergie avec un Brent à près de 117 $. Son carnet de commandes est à un niveau historique (1,85 Md€) et ses objectifs 2026 ont été confirmés en juillet. Le principal risque : un chiffre d'affaires lié à un nombre limité de grosses commandes, donc irrégulier, et un prix unitaire élevé pour un petit budget."
-        },
-        {
-          "nom": "ASML",
-          "isin": "NL0010273215",
-          "risque": "Élevé",
-          "prix": "≈ 1 450 € la part (dernier cours daté trouvé : début septembre, à vérifier)",
-          "texte": "ASML fabrique les machines sans lesquelles les puces les plus avancées ne peuvent pas être gravées, au cœur de la course à l'IA. Les semi-conducteurs ont rebondi vendredi après une forte chute la veille, ce qui remet le secteur sous les projecteurs avant les résultats de STMicroelectronics. Le principal risque : une valorisation élevée, une forte sensibilité aux restrictions d'export et un prix par part très au-dessus d'un petit budget."
-        },
-        {
-          "nom": "Maurel & Prom",
-          "isin": "FR0000051070",
-          "risque": "Très élevé",
-          "prix": "≈ 8 € la part (cours relevé mi-octobre)",
-          "texte": "Ce producteur de pétrole, actif en Afrique, profite du baril élevé : ses résultats du premier semestre ont bondi, avec un prix réalisé d'environ 104 $ le baril. Il prépare aussi le rachat d'actifs en Colombie et en Équateur pour 1,33 Md$. Le principal risque : le titre dépend presque entièrement du prix du pétrole, qui peut retomber vite en cas d'apaisement géopolitique, et l'acquisition alourdit l'endettement."
-        }
-      ],
-      "idee": {
-        "nom": "GTT (Gaztransport & Technigaz)",
-        "isin": "FR0011726835",
-        "risque": "Modéré",
-        "prix": "≈ 197 € la part (cours indicatif, à vérifier)",
-        "texte": "GTT conçoit les cuves des méthaniers qui transportent le gaz naturel liquéfié, un secteur porté par la tension sur l'énergie avec un Brent à près de 117 $. Son carnet de commandes est à un niveau historique (1,85 Md€) et ses objectifs 2026 ont été confirmés en juillet. Le principal risque : un chiffre d'affaires lié à un nombre limité de grosses commandes, donc irrégulier, et un prix unitaire élevé pour un petit budget."
-      },
-      "concept": {
-        "terme": "Le déficit public",
-        "texte": "Le déficit public est l'écart, sur une année, entre ce que dépensent les administrations publiques (État, collectivités, Sécurité sociale) et ce qu'elles reçoivent. On l'exprime en pourcentage du PIB pour comparer les pays. Le traité de Maastricht fixe un repère de 3 % du PIB, que la France dépasse : Moody's l'estime à 5,2 %. Un déficit élevé oblige l'État à emprunter davantage, ce qui pèse sur la dette et peut faire monter les taux. Cette notion éclaire la décision de Moody's de ce soir, sans constituer un conseil.",
-        "references": [
-          {
-            "titre": "Insee : Déficit public (comptabilité nationale) ⚠️",
-            "url": "https://www.insee.fr/fr/metadonnees/definition/c1750"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "STMicroelectronics : résultats du 3e trimestre"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "Air Liquide : chiffre d'affaires du 3e trimestre"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "États-Unis : PIB du 3e trimestre et indice PCE"
-        },
-        {
-          "date": "2026-11-03",
-          "titre": "États-Unis : élections de mi-mandat"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "Zonebourse : Paris termine dans le rouge, la dette française attend Moody's",
-          "url": "https://www.zonebourse.com/actualite-bourse/paris-termine-dans-le-rouge-la-dette-francaise-attend-moody-s-ce785cdfdd8cf421"
-        },
-        {
-          "titre": "Boursorama : Wall Street finit dans le rouge une semaine mouvementée autour de l'IA",
-          "url": "https://www.boursorama.com/bourse/actualites/wall-street-finit-dans-le-rouge-une-semaine-mouvementee-autour-de-l-ia-58ab5db80d8a42558d1a6c30530f9309"
-        },
-        {
-          "titre": "Boursorama : STMicroelectronics",
-          "url": "https://www.boursorama.com/cours/1rPSTMPA/"
         }
       ]
     }

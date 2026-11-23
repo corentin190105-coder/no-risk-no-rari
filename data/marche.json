@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-22T21:10:00+01:00",
-    "resume": "Dimanche 22 novembre 2026, marchés fermés : cours de clôture de vendredi. Le week-end n'apporte pas de détente : le dossier Nvidia (examen de ses comptes par la SEC, messages divergents de Trump et du Trésor sur les puces vers la Chine) pèse sur la tech, et la semaine se jouera sur les PMI lundi et l'inflation PCE mercredi. Ton portefeuille vaut 730,65 € pour 799,28 € investis, soit -68,63 €. STMicroelectronics et Stellantis restent sous leurs niveaux de sortie."
+    "date": "2026-11-23T21:15:00+01:00",
+    "resume": "Lundi 23 novembre 2026 : le retour surprise de Jensen Huang à la tête de Nvidia déclenche un fort rebond, le CAC 40 gagne 1,48 % à 8 044,84 points et Wall Street plus de 4 % (provisoire). Ton portefeuille vaut 750,99 € pour 799,28 € investis, soit -48,29 €. STMicroelectronics (+8,96 %) repasse au-dessus de son niveau de sortie de 38,61 €, Stellantis reste en dessous de 3,75 €."
   },
   "actifs": [
     {
@@ -98,11 +98,15 @@
         {
           "d": "2026-11-20",
           "p": 5.86
+        },
+        {
+          "d": "2026-11-23",
+          "p": 6.17
         }
       ],
-      "prix": 5.86,
-      "prixDate": "2026-11-20",
-      "variationJour": -8.86
+      "prix": 6.17,
+      "prixDate": "2026-11-23",
+      "variationJour": 5.29
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
@@ -208,11 +212,15 @@
         {
           "d": "2026-11-20",
           "p": 187.99
+        },
+        {
+          "d": "2026-11-23",
+          "p": 187.66
         }
       ],
-      "prix": 187.99,
-      "prixDate": "2026-11-20",
-      "variationJour": -0.82
+      "prix": 187.66,
+      "prixDate": "2026-11-23",
+      "variationJour": 0.04
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
@@ -327,11 +335,15 @@
         {
           "d": "2026-11-20",
           "p": 223.28
+        },
+        {
+          "d": "2026-11-23",
+          "p": 226.8
         }
       ],
-      "prix": 223.28,
-      "prixDate": "2026-11-20",
-      "variationJour": -1.85
+      "prix": 226.8,
+      "prixDate": "2026-11-23",
+      "variationJour": 1.52
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -416,15 +428,24 @@
         {
           "d": "2026-11-20",
           "p": 91.85
+        },
+        {
+          "d": "2026-11-23",
+          "p": 92.65
         }
       ],
-      "prix": 91.85,
-      "prixDate": "2026-11-20",
-      "variationJour": -2.8
+      "prix": 92.65,
+      "prixDate": "2026-11-23",
+      "variationJour": 0.87
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
+        {
+          "date": "2026-11-23",
+          "titre": "Nvidia réintègre Jensen Huang comme PDG : l'action gagne environ 32 % et le Nasdaq-100 environ 7 %",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        },
         {
           "date": "2026-11-22",
           "titre": "Week-end : Trump dit avoir parlé de Jensen Huang avec Xi, le Trésor assure que la règle sur les puces H200 vers la Chine ne change pas, alors que la SEC examine les comptes de Nvidia",
@@ -449,11 +470,6 @@
           "date": "2026-11-18",
           "titre": "Nvidia double son chiffre d'affaires mais son titre recule, Wall Street hésite",
           "url": "https://www.benzinga.com/markets/equities/26/11/63404681/stock-market-today-dow-jones-nvidia-earnings-dollar-19-month-high-november-18"
-        },
-        {
-          "date": "2026-11-17",
-          "titre": "Avant les résultats de Nvidia, le Nasdaq touche un plus bas de huit mois ; Jensen Huang se dit prêt à revenir, le conseil refuse",
-          "url": "https://www.zonebourse.com/actualite-bourse/l-europe-finit-dans-le-rouge-avant-les-resultats-de-nvidia-ce785edcdd8dff23"
         }
       ],
       "isin": "FR0011871110",
@@ -531,15 +547,24 @@
         {
           "d": "2026-11-20",
           "p": 94.19
+        },
+        {
+          "d": "2026-11-23",
+          "p": 98.62
         }
       ],
-      "prix": 94.19,
-      "prixDate": "2026-11-20",
-      "variationJour": -5.24
+      "prix": 98.62,
+      "prixDate": "2026-11-23",
+      "variationJour": 5.17
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
+        {
+          "date": "2026-11-23",
+          "titre": "Soitec rebondit de 5,4 % à 101,50 € avec le retour des achats sur les semi-conducteurs",
+          "url": "https://www.lerevenu.com/reussir-bourse/points-marches/cac40-cloture-rebond-nvidia-jensen-huang-stmicro-soitec/"
+        },
         {
           "date": "2026-11-20",
           "titre": "Soitec perd 11,85 % à 96,30 € et efface le bond de jeudi avec le recul des semi-conducteurs",
@@ -564,11 +589,6 @@
           "date": "2026-11-17",
           "titre": "Recul de 3,5 % à 95,94 €, à la veille des résultats semestriels, avec la chute de la tech européenne",
           "url": "https://www.zonebourse.com/actualite-bourse/l-europe-finit-dans-le-rouge-avant-les-resultats-de-nvidia-ce785edcdd8dff23"
-        },
-        {
-          "date": "2026-11-16",
-          "titre": "Soitec recule de 3,3 % à 99,40 € avec le secteur, deux jours avant ses résultats semestriels",
-          "url": "https://fr.tradingview.com/news/afp:5169a5572e7d8:0/"
         }
       ],
       "isin": "FR0013227113",
@@ -682,11 +702,15 @@
         {
           "d": "2026-11-20",
           "p": 96.3
+        },
+        {
+          "d": "2026-11-23",
+          "p": 101.5
         }
       ],
-      "prix": 96.3,
-      "prixDate": "2026-11-20",
-      "variationJour": -11.85
+      "prix": 101.5,
+      "prixDate": "2026-11-23",
+      "variationJour": 5.4
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -742,6 +766,11 @@
     {
       "activite": "Un seul produit qui achète environ 1 400 grandes entreprises de 23 pays développés, pondérées selon leur taille. Les États-Unis pèsent environ 70 % et la tech environ 25 %.",
       "actus": [
+        {
+          "date": "2026-11-23",
+          "titre": "Wall Street s'envole : le S&P 500 vise sa meilleure séance depuis avril 2025 après le retour de Jensen Huang",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63551516/stock-market-today-nvidia-jensen-huang-return-nasdaq-100-anthropic-crowdstrike"
+        },
         {
           "date": "2026-11-20",
           "titre": "Wall Street aggrave sa baisse sur les doutes autour de la rentabilité de l'IA ; Nikkei -5,1 % en Asie",
@@ -827,15 +856,24 @@
         {
           "d": "2026-11-20",
           "p": 5.958
+        },
+        {
+          "d": "2026-11-23",
+          "p": 6.148
         }
       ],
-      "prix": 5.958,
-      "prixDate": "2026-11-20",
-      "variationJour": -3.09
+      "prix": 6.148,
+      "prixDate": "2026-11-23",
+      "variationJour": 3.19
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
+        {
+          "date": "2026-11-23",
+          "titre": "Nvidia réintègre Jensen Huang comme PDG : l'action gagne environ 32 % et le Nasdaq-100 environ 7 %",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        },
         {
           "date": "2026-11-22",
           "titre": "Week-end : Trump dit avoir parlé de Jensen Huang avec Xi, le Trésor assure que la règle sur les puces H200 vers la Chine ne change pas, alors que la SEC examine les comptes de Nvidia",
@@ -860,11 +898,6 @@
           "date": "2026-11-18",
           "titre": "Nvidia double son chiffre d'affaires mais son titre recule, Wall Street hésite",
           "url": "https://www.benzinga.com/markets/equities/26/11/63404681/stock-market-today-dow-jones-nvidia-earnings-dollar-19-month-high-november-18"
-        },
-        {
-          "date": "2026-11-17",
-          "titre": "Avant les résultats de Nvidia, le Nasdaq touche un plus bas de huit mois ; Jensen Huang se dit prêt à revenir, le conseil refuse",
-          "url": "https://www.zonebourse.com/actualite-bourse/l-europe-finit-dans-le-rouge-avant-les-resultats-de-nvidia-ce785edcdd8dff23"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -946,11 +979,15 @@
         {
           "d": "2026-11-20",
           "p": 6.189
+        },
+        {
+          "d": "2026-11-23",
+          "p": 6.494
         }
       ],
-      "prix": 6.189,
-      "prixDate": "2026-11-20",
-      "variationJour": -5.08
+      "prix": 6.494,
+      "prixDate": "2026-11-23",
+      "variationJour": 5.59
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -1008,6 +1045,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-11-23",
+          "titre": "STMicroelectronics bondit de 8,96 % à 40,01 €, plus forte hausse du CAC 40, porté par le retour de Jensen Huang chez Nvidia",
+          "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-rebondit-nettement-grace-au-come-back-de-jensen-huang-ce7851dadd81f12d"
+        },
+        {
           "date": "2026-11-20",
           "titre": "STMicroelectronics chute de 10,8 % à 36,72 €, plus forte baisse du CAC 40, emportée par la vente mondiale sur les puces de l'IA",
           "url": "https://www.zonebourse.com/actualite-bourse/l-ia-fait-de-nouveau-derailler-les-bourses-mondiales-ce785ed3dd88f32d"
@@ -1031,11 +1073,6 @@
           "date": "2026-11-16",
           "titre": "STMicroelectronics cède 2,1 % à 41,07 € dans le sillage des ventes sur les puces américaines, avant les résultats de Nvidia",
           "url": "https://fr.tradingview.com/news/afp:5169a5572e7d8:0/"
-        },
-        {
-          "date": "2026-11-11",
-          "titre": "Le titre bondit de 5,2 % à 42,18 €, meilleure hausse du CAC 40, porté par le regain d'intérêt pour l'IA après les résultats de CoreWeave",
-          "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
         }
       ],
       "isin": "NL0000226223",
@@ -1149,11 +1186,15 @@
         {
           "d": "2026-11-20",
           "p": 36.72
+        },
+        {
+          "d": "2026-11-23",
+          "p": 40.01
         }
       ],
-      "prix": 36.72,
-      "prixDate": "2026-11-20",
-      "variationJour": -10.81
+      "prix": 40.01,
+      "prixDate": "2026-11-23",
+      "variationJour": 8.96
     },
     {
       "isin": "NL00150001Q9",
@@ -1169,6 +1210,11 @@
       "risques": "Le titre reste en tendance baissière et très loin de sa moyenne 200 jours. Un nouveau recul des ventes, des dépréciations ou des droits de douane pèseraient encore. Un cours bas ne suffit jamais à faire une bonne affaire.",
       "rendezvous": [],
       "actus": [
+        {
+          "date": "2026-11-23",
+          "titre": "Stellantis arrête ses programmes officiels en endurance et en Formule E pour économiser ses ressources",
+          "url": "https://www.lequipe.fr/Sport-auto/Actualites/Le-groupe-stellantis-annonce-l-arret-immediat-de-peugeot-en-endurance-et-de-citroen-et-opel-en-formule-e-en-2027/1745606"
+        },
         {
           "date": "2026-11-20",
           "titre": "Stellantis cède encore 3,5 % à 3,13 €, nouveau plus bas de l'année",
@@ -1193,16 +1239,11 @@
           "date": "2026-11-15",
           "titre": "Mirafiori : cinquième semaine sans production de Fiat 500 hybride à partir du 16 novembre, faute de commandes et d'une puce de moteur selon les syndicats",
           "url": "https://www.autonext.co/news/fiat-500-hybrid-mirafiori-half-target"
-        },
-        {
-          "date": "2026-11-14",
-          "titre": "Antonio Filosa met en garde contre la hausse des coûts et confie à Tim Kuniskis les ventes et le réseau aux États-Unis",
-          "url": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-stellantis-kuniskis-us-sales-john-bergstrom-1113/"
         }
       ],
-      "prix": 3.1255,
-      "prixDate": "2026-11-20",
-      "variationJour": -3.46,
+      "prix": 3.2185,
+      "prixDate": "2026-11-23",
+      "variationJour": 2.98,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1255,6 +1296,10 @@
         {
           "d": "2026-11-20",
           "p": 3.1255
+        },
+        {
+          "d": "2026-11-23",
+          "p": 3.2185
         }
       ]
     },
@@ -1272,6 +1317,11 @@
       "risques": "Il dépend d'un seul pays et de quelques secteurs, avec un poids important du luxe. Il recoupe en partie l'ETF Monde pour ce qui concerne les grandes valeurs françaises.",
       "rendezvous": [],
       "actus": [
+        {
+          "date": "2026-11-23",
+          "titre": "Le CAC 40 reprend 1,48 % à 8 044,84 points et repasse au-dessus de 8 000 points",
+          "url": "https://investir.lesechos.fr/actu-des-valeurs/la-vie-des-actions/cac-40-la-bourse-de-paris-rebondit-nettement-grace-au-come-back-de-jensen-huang-2264166"
+        },
         {
           "date": "2026-11-20",
           "titre": "Le CAC 40 perd 1,89 % à 7 927,75 points et 5,27 % sur la semaine, sa pire semaine depuis mars",
@@ -1293,9 +1343,9 @@
           "url": "https://www.zonebourse.com/actualite-bourse/cinq-sur-cinq-pour-le-cac-40-sur-la-semaine-ce785ed9d08df327"
         }
       ],
-      "prix": 40.455,
-      "prixDate": "2026-11-20",
-      "variationJour": -1.83,
+      "prix": 41.01,
+      "prixDate": "2026-11-23",
+      "variationJour": 1.37,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1348,6 +1398,10 @@
         {
           "d": "2026-11-20",
           "p": 40.455
+        },
+        {
+          "d": "2026-11-23",
+          "p": 41.01
         }
       ]
     }
@@ -1453,13 +1507,13 @@
       "id": "airbus-macron-2026-11-23",
       "date": "2026-11-23",
       "titre": "Emmanuel Macron chez Airbus à Toulouse, annonces sur le soutien de l'État à la filière",
-      "detail": "Annonce de l'Élysée du 18 novembre (AFP). Peut toucher Airbus, Safran, Thales et les sous-traitants."
+      "detail": "Fait : Emmanuel Macron annonce 350 millions d'euros pour la recherche et la décarbonation de la filière aéronautique (Public Sénat, RTL). Une enveloppe pour toute la filière, pas une commande pour Airbus."
     },
     {
       "id": "pmi-flash-2026-11-23",
       "date": "2026-11-23",
       "titre": "France, Allemagne, zone euro : indices PMI flash de novembre",
-      "detail": "France à 9h15, Allemagne à 9h30, zone euro à 10h00 (ABC Bourse, agenda du 20 novembre). Premier baromètre de l'activité après une semaine de forte baisse des marchés. Bourse de Tokyo fermée (jour férié)."
+      "detail": "Publié : le PMI composite de la zone euro reste à 51,7 (51,9 attendu), l'Allemagne compense la France, dont les services tombent à 46,6 contre 47,5 attendu, au plus bas depuis six mois (Boursorama, investingLive). Le risque d'une récession technique en France au 4e trimestre augmente."
     },
     {
       "id": "fed-williams-2026-11-23",
@@ -1468,10 +1522,22 @@
       "detail": "Lundi à 22h00 heure de Paris, seul responsable de la Fed attendu avant l'inflation PCE de mercredi, alors que le marché anticipe à environ 90 % une hausse des taux le 9 décembre."
     },
     {
+      "id": "nvda-huang-2026-11-23",
+      "date": "2026-11-23",
+      "titre": "Nvidia : Jensen Huang réintégré comme PDG",
+      "detail": "Fait : annonce du conseil lundi, l'action finit en hausse d'environ 32 % (CNBC, Benzinga). L'examen des comptes par la SEC et l'audition au Congrès du 1er décembre restent au calendrier."
+    },
+    {
       "id": "ifo-cb-2026-11-24",
       "date": "2026-11-24",
       "titre": "Allemagne : climat des affaires Ifo ; États-Unis : confiance des ménages du Conference Board",
       "detail": "Ifo à 10h00, Conference Board à 16h00 heure de Paris (ABC Bourse). Trigano publie ses résultats annuels après la clôture."
+    },
+    {
+      "id": "dell-q3-2026-11-24",
+      "date": "2026-11-24",
+      "titre": "Dell : résultats du 3e trimestre (après la clôture de Wall Street)",
+      "detail": "Grand assembleur de serveurs pour l'IA, attendu à 6,62 $ de bénéfice par action (Benzinga). Un test pour la demande en puces après le rebond de lundi."
     },
     {
       "id": "us-pce-2026-10",
@@ -1788,6 +1854,11 @@
     {
       "d": "2026-11-22",
       "valeur": 730.65,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-23",
+      "valeur": 750.99,
       "investi": 799.28
     }
   ]
