@@ -521,3 +521,13 @@ Le rebond du chat mort, ou dead cat bounce en anglais, désigne une hausse brèv
 - [Investopedia : Dead Cat Bounce ⚠️](https://www.investopedia.com/terms/d/deadcatbounce.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que l'offre publique d'achat (OPA) ?
+
+_2026-11-24 21:04 CET_
+
+Une offre publique d'achat, ou OPA, est une proposition faite publiquement à tous les actionnaires d'une société cotée de leur racheter leurs actions à un prix fixé et payé en espèces, dans le but d'en prendre ou d'en renforcer le contrôle. L'AMF encadre l'opération : l'initiateur dépose un projet, publie une note d'information, et l'offre reste ouverte pendant une durée définie pendant laquelle chaque actionnaire choisit librement d'apporter ou non ses titres. Pour convaincre, l'acheteur propose presque toujours une prime, c'est-à-dire un prix supérieur au dernier cours : mardi, HLD Europe a annoncé un projet d'OPA sur Clariane à 4,60 € par action, soit une prime de 38,3 %, et le titre a bondi de 35,3 % à 4,50 € (Moneyvox, ABC Bourse). Le cours se cale alors juste sous le prix offert, car le gain restant est limité et l'offre peut encore échouer ou être retardée par les autorisations. Le même jour, Sanofi a annoncé le rachat de l'américain Insmed à 175 dollars par action, une acquisition négociée de gré à gré sur un marché américain : le principe de la prime est le même, mais les règles de l'AMF s'appliquent aux sociétés cotées en France. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [AMF : Que savoir sur les offres publiques d'acquisition (OPA, OPE...) ?](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/comprendre-et-participer-une-operation-financiere)
+- [AMF : Comprendre les offres publiques d'acquisition, OPA, OPE, etc. (guide épargnants)](https://www.amf-france.org/fr/actualites-publications/publications/guides/guides-epargnants/comprendre-les-offres-publiques-dacquisition-opa-ope-etc)

@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-23T21:20:00+01:00",
+  "maj": "2026-11-24T21:30:00+01:00",
   "verdict": {
-    "titre": "Rebond géant : STMicroelectronics sort de la zone de vente, Stellantis non",
-    "texte": "Le retour de Jensen Huang chez Nvidia fait rebondir tout le marché, et ton portefeuille remonte à 750,99 €, soit -48,29 € (contre -68,63 € vendredi). STMicroelectronics a clôturé à 40,01 €, au-dessus de son niveau de sortie de 38,61 € : le signal de vente de vendredi est neutralisé, mais le niveau ne bouge pas et une clôture sous 38,61 € le réactive. Stellantis (3,22 €) reste sous 3,75 € : la vente reste l'action la plus importante du plan. Aucun achat court terme n'est prêt : un rebond d'une seule séance, avant l'inflation PCE de mercredi, ne suffit pas."
+    "titre": "STMicroelectronics repasse sous son niveau de sortie : deux ventes sont maintenant actives",
+    "texte": "Le rebond de lundi n'a tenu qu'une séance : ton portefeuille revient à 734,80 €, soit -64,48 € (contre -48,29 € lundi). STMicroelectronics a clôturé à 35,92 € (-10,22 %), sous son niveau de sortie de 38,61 € fixé à l'avance : la vente prévue se déclenche, sans déplacer le niveau. Stellantis (3,12 €) reste sous 3,75 €. Vendre ces deux lignes est l'action la plus importante du plan ; aucun achat court terme n'est prêt avant l'inflation PCE de mercredi."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -11,7 +11,7 @@
       "isin": "FR001400U5Q4",
       "symbole": "DCAM.PA",
       "action": "Garder",
-      "pourquoi": "C'est ton socle. Il reprend 3,19 % à 6,148 € avec le rebond mondial, mais reste sous ses moyennes 20 et 50 jours (6,26 € et 6,28 €). Pour un placement de long terme, ni la chute de la semaine dernière ni le rebond du jour ne changent le plan.",
+      "pourquoi": "C'est ton socle. Il rend 1,61 % à 6,049 € avec la rechute de la tech américaine et reste sous ses moyennes 20 et 50 jours (6,24 € et 6,28 €). Pour un placement de long terme, ces variations ne changent pas le plan.",
       "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
       "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
     },
@@ -20,7 +20,7 @@
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "L'ETF reprend 5,59 % à 6,494 €, porté par Nvidia, après avoir touché vendredi son plus bas de six mois. Il reste sous ses moyennes 20 et 50 jours (6,62 € et 6,87 €), et le dossier Nvidia (SEC, audition du 1er décembre) n'est pas clos : c'est toujours ta ligne la plus sensible à l'IA.",
+      "pourquoi": "L'ETF rend 3,74 % à 6,251 €, presque tout le rebond de lundi, car Nvidia perd environ 8 % au lendemain de son envolée. Il reste sous ses moyennes 20 et 50 jours (6,59 € et 6,86 €) : c'est ta ligne la plus sensible à l'IA et à l'inflation PCE de mercredi.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -29,7 +29,7 @@
       "isin": "FR0013380607",
       "symbole": "CACC.PA",
       "action": "Garder",
-      "pourquoi": "Le CAC 40 reprend 1,48 % et repasse au-dessus de 8 000 points : l'ETF finit à 41,01 €, au-dessus de sa moyenne 50 jours (40,80 €) mais sous la 20 jours (41,40 €).",
+      "pourquoi": "Le CAC 40 finit stable (-0,05 %) grâce à Sanofi : l'ETF termine à 41,02 €, au-dessus de sa moyenne 50 jours (40,80 €) mais sous la 20 jours (41,44 €).",
       "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
       "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
     },
@@ -39,7 +39,7 @@
       "symbole": "AI.PA",
       "action": "Garder",
       "sortie": 171.03,
-      "pourquoi": "Le titre est stable à 187,66 € (+0,04 %), une valeur défensive délaissée les jours de forte hausse, mais toujours au-dessus de ses moyennes 20 et 50 jours (186,64 € et 176,36 €). Tu es en gain d’environ 4,60 €, frais d’achat et de vente compris.",
+      "pourquoi": "Le titre gagne 0,25 % à 188,12 € et annonce un investissement de plus de 100 millions de dollars aux États-Unis pour un client aciériste. Il reste au-dessus de ses moyennes 20 et 50 jours (187,33 € et 176,80 €), loin de ton niveau de sortie. Tu es en gain d'environ 5 €, frais d'achat et de vente compris.",
       "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
       "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
     },
@@ -49,19 +49,19 @@
       "symbole": "STLAP.PA",
       "action": "Vendre",
       "sortie": 3.75,
-      "pourquoi": "Le titre gagne 2,98 % à 3,22 € avec le marché, sans fait propre positif : le groupe arrête l'endurance et la Formule E pour économiser ses ressources. Il reste loin sous le niveau de sortie de 3,75 €, cassé depuis le 11 novembre, et sous ses moyennes 20 et 50 jours (3,75 € et 3,90 €). Rien ne justifie de déplacer le niveau.",
-      "vendreSi": "c'est le cas : vends les 13 actions avec un ordre à cours limité proche du cours, puis saisis la vente dans ton journal. Vers 3,22 €, la perte totale serait d'environ 12,70 €, frais d'achat et de vente compris. Le rebond du jour ne change pas la règle.",
+      "pourquoi": "Le titre perd 3,06 % à 3,12 €, tout près de son plus bas de six mois (3,085 €), sans nouvelle propre. Il reste loin sous le niveau de sortie de 3,75 €, cassé depuis le 11 novembre, et sous ses moyennes 20 et 50 jours (3,72 € et 3,87 €). Rien ne justifie de déplacer le niveau.",
+      "vendreSi": "c'est le cas : vends les 13 actions avec un ordre à cours limité proche du cours, puis saisis la vente dans ton journal. Vers 3,12 €, la perte totale serait d'environ 14 €, frais d'achat et de vente compris.",
       "renforcerSi": "non. Un rachat ne serait à étudier qu'après un fait nouveau et une clôture au-dessus de sa moyenne 50 jours (4,03 €)."
     },
     {
       "nom": "STMicroelectronics",
       "isin": "NL0000226223",
       "symbole": "STMPA.PA",
-      "action": "Garder",
+      "action": "Vendre",
       "sortie": 38.61,
-      "pourquoi": "Le titre bondit de 8,96 % à 40,01 €, plus forte hausse du CAC 40, et clôture au-dessus de ton niveau de sortie de 38,61 € : le signal de vente de vendredi est neutralisé. Le niveau reste le même, il n'est pas relevé. Le titre reste sous ses moyennes 20 et 50 jours (41,01 € et 43,23 €), Rothschild & Co Redburn est neutre avec un objectif de 48 €, et le rebond vient du secteur, pas d'une nouvelle propre à la société.",
-      "vendreSi": "clôture sous 38,61 €, le niveau fixé à l'avance. Avec un ATR d'environ 2,60 €, une seule mauvaise séance peut suffire : garde le niveau en tête dès demain.",
-      "renforcerSi": "non. Un renforcement ne serait à étudier qu'après une clôture au-dessus de sa moyenne 50 jours, vers 43 €."
+      "pourquoi": "Le titre perd 10,22 % à 35,92 €, efface tout le rebond de lundi et clôture sous ton niveau de sortie de 38,61 €, avec un volume supérieur à la moyenne (ABC Bourse, Moneyvox). La baisse vient du secteur, pas d'une nouvelle propre à la société, mais la règle fixée à l'avance ne dépend pas de la cause : le niveau est cassé en clôture. Le titre est à son plus bas de six mois, sous ses moyennes 20 et 50 jours (40,64 € et 43,12 €).",
+      "vendreSi": "c'est le cas : vends les 2 actions avec un ordre à cours limité proche du cours, puis saisis la vente dans ton journal. Vers 35,92 €, la perte totale serait d'environ 30 €, frais d'achat et de vente compris. Un rebond technique est possible après -10 % en une séance : un ordre limité vers 36,50 € en début de séance peut viser un meilleur prix, sans attendre au-delà de la journée.",
+      "renforcerSi": "non. Un rachat ne serait à étudier qu'après une clôture au-dessus de sa moyenne 50 jours, vers 43 €."
     }
   ],
   "achats": [
@@ -85,43 +85,6 @@
       "quand": "Quand tu as de l'épargne disponible, sans attendre un signal. Un seul ordre par mois limite les frais.",
       "pourquoi": "C'est le seul achat que je peux te conseiller sans condition de marché : il vise le long terme. Garde d'abord une épargne de précaution hors bourse.",
       "contre": "Les marchés peuvent baisser plusieurs années de suite. Cet achat n'a de sens que si tu peux laisser l'argent investi au moins 5 ans."
-    },
-    {
-      "nom": "Airbus",
-      "statut": "Attendre",
-      "plan": [
-        [
-          "Déclencheur",
-          "Clôture au-dessus de 195,50 € avec un volume supérieur à la moyenne"
-        ],
-        [
-          "Sortie",
-          "189,50 €"
-        ],
-        [
-          "Objectif",
-          "207,50 €"
-        ],
-        [
-          "Exemple",
-          "2 actions, environ 391 €"
-        ],
-        [
-          "Perte max",
-          "environ 14 €, frais compris"
-        ],
-        [
-          "Gain visé",
-          "environ 22 €, net de 2 € de frais"
-        ],
-        [
-          "Échéance",
-          "1er décembre"
-        ]
-      ],
-      "quand": "Seulement sur une clôture au-dessus de 199,50 € avec un volume nettement supérieur à la moyenne, ou sur une annonce propre à Airbus. Lundi, le titre a fini à 195,72 € : le seuil de 195,50 € est passé, mais le ratio gain/risque n'est que de 1,9.",
-      "pourquoi": "Le catalyseur est tombé : 350 millions d'euros pour la recherche de toute la filière, annoncés par Emmanuel Macron à Toulouse. C'est une aide sectorielle, pas une commande pour Airbus.",
-      "contre": "La hausse du jour suit le marché (Safran a monté autant), le titre reste sous sa moyenne 20 jours (199,24 €), et je ne remonte pas l'objectif pour faire passer le ratio."
     },
     {
       "nom": "Rémy Cointreau",
@@ -160,63 +123,53 @@
           "4 décembre"
         ]
       ],
-      "quand": "Seulement après la publication du mercredi 25 novembre (7h30) et une clôture au-dessus de 52,50 €. Lundi, le titre a fini à 50,35 € (-0,2 %) sans suivre le rebond.",
-      "pourquoi": "Catalyseur daté : résultats semestriels et objectifs 2031-32. Le titre a tenu vendredi (50,45 €, +0,1 %) dans un marché en chute, au-dessus de sa moyenne 50 jours.",
-      "contre": "Volume faible vendredi, cognac pénalisé par les droits de douane, consensus et positions courtes non vérifiés, et des objectifs décevants peuvent faire chuter le titre."
+      "quand": "Seulement après la publication du mercredi 25 novembre et une clôture au-dessus de 52,50 €. Mardi, le titre a fini à 51,40 € (+2,09 %).",
+      "pourquoi": "Catalyseur daté : résultats semestriels et objectifs 2031-32. Le chiffre d'affaires du semestre progresse déjà de 2,9 % en organique, avec une accélération au 2e trimestre.",
+      "contre": "Volume faible, cognac pénalisé par les droits de douane, ATR à confirmer dans le fichier de cours, et des objectifs décevants peuvent faire chuter le titre."
     },
     {
-      "nom": "Renault",
+      "nom": "Air France-KLM",
       "statut": "Attendre",
       "plan": [
         [
           "Déclencheur",
-          "Clôture au-dessus de 27,80 € (moyenne 20 jours)"
+          "Repli vers 14,00 € qui tient en clôture"
         ],
         [
           "Entrée",
-          "27,30 €"
+          "14,00 €"
         ],
         [
           "Sortie",
-          "25,95 €"
+          "13,30 €"
         ],
         [
           "Objectif",
-          "30,00 €"
+          "15,60 €"
         ],
         [
           "Exemple",
-          "14 actions, environ 382 €"
+          "28 actions, environ 392 €"
         ],
         [
           "Perte max",
-          "environ 20,90 €, frais compris"
+          "environ 21,60 €, frais compris"
         ],
         [
           "Gain visé",
-          "environ 35,80 €, net de 2 € de frais"
+          "environ 42,80 €, net de 2 € de frais"
         ],
         [
           "Échéance",
-          "7 décembre"
+          "8 décembre"
         ]
       ],
-      "quand": "Après une clôture au-dessus de 27,80 € et la vérification de l'ATR dans le fichier de cours, où Renault est ajouté ce soir.",
-      "pourquoi": "Fait nouveau daté : Kepler Cheuvreux passe à l'achat lundi avec un objectif de 35 €, et le titre reprend 4,06 % à 27,19 €. La baisse du pétrole soutient aussi les constructeurs.",
-      "contre": "Une seule recommandation d'analyste, un secteur automobile européen fragile, et un titre encore sous sa moyenne 20 jours."
+      "quand": "Seulement sur un repli vers 14,00 € qui tient en clôture, et après confirmation de l'ATR dans le fichier de cours. Mardi, le titre a fini à 14,52 € (-1,99 %).",
+      "pourquoi": "Le pétrole au plus bas depuis trois mois allège la facture de carburant, et le groupe a battu le consensus au 3e trimestre.",
+      "contre": "Titre en surchauffe (environ +44 % en 20 séances, RSI au-dessus de 85 vendredi), catalyseur surtout macro, et l'OPEP+ peut faire remonter le pétrole le 29 novembre."
     }
   ],
   "decouvertes": [
-    {
-      "nom": "Legrand",
-      "isin": "FR0010307819",
-      "symbole": "LR.PA",
-      "theme": "L'IA par l'infrastructure électrique",
-      "risque": "Modéré",
-      "pourquoi": "Tu es exposé à l'IA par les puces (STMicroelectronics, ETF Nasdaq-100), mais pas par l'électricité qui fait tourner les centres de données. Legrand fournit le matériel électrique des bâtiments et des centres de données, une activité plus diversifiée qu'un fabricant de puces. Le 23 novembre, le titre a repris 4,20 % à 132,75 € avec le retour de Jensen Huang chez Nvidia (Ideal Investisseur).",
-      "aBorder": "À étudier pour le long terme, en petite ligne : une part vaut environ 133 €, ce qui pèse lourd dans un petit portefeuille. Mieux vaut attendre un repli calme qu'acheter après une séance de +4 %.",
-      "faux": "Le 20 novembre, le titre a perdu environ 4,6 % avec la tech : l'électrification baisse aussi quand l'enthousiasme pour l'IA retombe."
-    },
     {
       "nom": "Groupe ADP",
       "isin": "FR0010340141",
@@ -256,6 +209,16 @@
       "pourquoi": "Tu n'as aucune valeur de transport. Getlink exploite le tunnel sous la Manche, dont la concession court jusqu'en 2086, et tire ses revenus des navettes Le Shuttle et des péages payés par les trains Eurostar et de fret : un actif unique, difficile à concurrencer. Dans la semaine où le CAC 40 a perdu 5,3 %, le titre n'a cédé que 2,7 % et finit vendredi à 20,12 €, au-dessus de sa moyenne 50 jours (19,34 €), en tendance haussière selon le radar (Yahoo Finance). Une part à environ 20 € reste accessible. Je n'ai pas vérifié ce soir d'actualité propre à la société.",
       "aBorder": "À étudier pour le long terme : lire ses derniers résultats, sa dette et la politique de dividende avant tout achat. Pas de signal court terme.",
       "faux": "Une baisse du trafic transmanche, une dette importante sensible aux taux, ou une concurrence renforcée des ferries et de l'aérien."
+    },
+    {
+      "nom": "Bureau Veritas",
+      "isin": "FR0006174348",
+      "symbole": "BVI.PA",
+      "theme": "Les services d'inspection et de certification, une activité peu cyclique",
+      "risque": "Modéré",
+      "pourquoi": "Tu n'as aucune valeur de services aux entreprises. Bureau Veritas contrôle et certifie des bâtiments, des navires, des usines et des produits pour le compte de clients du monde entier : ce sont souvent des contrôles obligatoires, ce qui rend l'activité moins dépendante de la conjoncture. Dans la semaine où le CAC 40 a perdu plus de 5 %, le titre est resté en tendance haussière selon le radar, à 29,68 € vendredi, au-dessus de ses moyennes 20, 50 et 200 jours (Yahoo Finance). Une part à environ 30 € reste accessible. Je n'ai pas vérifié ce soir d'actualité propre à la société.",
+      "aBorder": "À étudier pour le long terme : lire ses derniers résultats, sa croissance organique et sa dette avant tout achat. Pas de signal court terme.",
+      "faux": "Un ralentissement industriel mondial peut réduire les missions, et une valeur réputée défensive peut être délaissée quand le marché repart vers la tech."
     }
   ]
 }

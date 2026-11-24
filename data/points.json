@@ -1,6 +1,353 @@
 {
   "points": [
     {
+      "date": "2026-11-24",
+      "titre": "L'effet Nvidia retombe déjà, Sanofi sauve le CAC 40 avec un rachat géant",
+      "resume": "Au lendemain de l'envolée provoquée par le retour de Jensen Huang, les investisseurs prennent leurs bénéfices sur l'IA : Nvidia rend environ 8 % et le Nasdaq recule nettement (provisoire). À Paris, le CAC 40 finit stable à 8 040,49 points (-0,05 %), car la hausse de Sanofi (+9,76 %), qui rachète Insmed pour 41 milliards de dollars, compense la rechute de STMicroelectronics (-10,22 %). Le pétrole reste à son plus bas depuis trois mois avant l'inflation PCE de mercredi.",
+      "humeur": "stable",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 040,49 pts",
+          "variation": -0.05
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 003,76 pts",
+          "variation": -1.16
+        },
+        {
+          "nom": "S&P 500 (provisoire)",
+          "valeur": "7 197,38 pts",
+          "variation": -0.55
+        },
+        {
+          "nom": "Nasdaq Composite (provisoire)",
+          "valeur": "23 721,47 pts",
+          "variation": -1.53
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "58 644,63 pts",
+          "variation": 3.91
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "22 219,65 pts",
+          "variation": -0.73
+        },
+        {
+          "nom": "Brent (mi-journée)",
+          "valeur": "≈ 86,8 $",
+          "variation": 0.16
+        },
+        {
+          "nom": "Or (matin, provisoire)",
+          "valeur": "≈ 3 621 $",
+          "variation": -0.37
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,096 $",
+          "variation": 0.5
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Le jour d'après chez Nvidia",
+          "texte": "Après un bond d'environ 31 % lundi, Nvidia perd environ 8 % mardi et le Nasdaq recule (chiffres provisoires) : le retour de Jensen Huang n'efface ni l'examen des comptes par la SEC, ni l'audition au Congrès du 1er décembre, ni les doutes sur le financement des centres de données (Moneyvox). Les résultats de Dell, ce soir après la clôture américaine, seront un nouveau test pour les serveurs d'IA."
+        },
+        {
+          "titre": "Fed : l'inflation PCE de mercredi décidera du ton",
+          "texte": "Le marché anticipe presque unanimement une hausse de 0,25 point des taux de la Fed en décembre, selon l'outil FedWatch cité par l'Agefi-Dow Jones. Mercredi à 14h30, l'inflation PCE d'octobre et la deuxième estimation du PIB du 3e trimestre peuvent confirmer ou nuancer ce scénario. Le taux à 10 ans américain se tient vers 4,91 %, celui de l'OAT française vers 4,77 %."
+        },
+        {
+          "titre": "Pétrole au plus bas depuis trois mois",
+          "texte": "Le Brent oscille entre 86 et 87 dollars, au plus bas depuis août, car l'Agence internationale de l'énergie prévoit une offre supérieure à la demande au 4e trimestre et les exportations du Golfe se normalisent (Prix du baril). C'est une bonne nouvelle pour l'inflation et pour les compagnies aériennes, mais une mauvaise pour les parapétrolières. L'OPEP+ se réunit dimanche 29 novembre."
+        },
+        {
+          "titre": "Allemagne : le climat des affaires progresse encore",
+          "texte": "L'indice IFO remonte à 90,6 en novembre, contre 90,1 en octobre et 90,5 attendu, septième hausse d'affilée (ABC Bourse). Ce signal positif n'a pas empêché le DAX de perdre 1,3 %, plombé par la tech. L'euro gagne environ 0,5 % vers 1,096 dollar."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 734.8,
+        "pv": -64.48,
+        "texte": "Ton portefeuille vaut 734,80 € pour 799,28 € investis, soit -64,48 €, en baisse d'environ 16 € sur la journée, surtout à cause de STMicroelectronics (-10,22 %), de l'ETF Nasdaq-100 (-3,74 %) et de l'ETF Monde (-1,61 %). STMicroelectronics clôture à 35,92 €, sous ton niveau de sortie de 38,61 € : la vente prévue se déclenche, comme pour Stellantis (3,12 €, sous 3,75 €), tandis qu'Air Liquide (188,12 €) tient bien."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Ce qui a changé depuis hier : le titre efface tout son rebond et perd 10,22 % à 35,92 €, au plus bas du jour et de six mois, sans nouvelle propre à la société (Moneyvox, ABC Bourse). Il clôture sous ton niveau de sortie de 38,61 € avec un volume supérieur à sa moyenne 20 jours : le signal de vente est actif, niveau inchangé."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Le groupe annonce un investissement de plus de 100 millions de dollars dans une nouvelle unité de séparation de l'air dans le Wisconsin, pour l'aciériste Charter Steel (ABC Bourse). Le titre gagne 0,25 % à 188,12 €, loin de ton niveau de sortie de 171 €."
+        },
+        {
+          "nom": "Stellantis",
+          "texte": "Pas de nouvelle propre : le titre perd 3,06 % à 3,12 €, proche de son plus bas de six mois (3,085 €), toujours très loin sous ton niveau de sortie de 3,75 €."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "L'ETF rend 3,74 % à 6,251 €, presque toute la hausse de lundi, avec la rechute de Nvidia ; il reste sous ses moyennes 20 et 50 jours (6,59 € et 6,86 €). La fin de séance américaine, non clôturée à l'heure de ce point, pèsera sur l'ouverture de demain."
+        },
+        {
+          "nom": "Sanofi",
+          "texte": "Le laboratoire bondit de 9,76 % à 93,58 € après l'annonce du rachat d'Insmed à 175 dollars par action, soit environ 41 milliards de dollars, pour préparer l'après-Dupixent dans les maladies respiratoires (Agefi-Dow Jones, Moneyvox). Le financement passera par la trésorerie et de nouveaux emprunts, avec une finalisation visée au 1er semestre 2027."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Air France-KLM",
+          "isin": "FR001400J770",
+          "risque": "Élevé",
+          "prix": "≈ 14,50 € la part",
+          "texte": "Air France-KLM transporte des passagers et du fret, et le carburant est l'un de ses premiers coûts. Le Brent est tombé mardi vers 86 à 87 dollars, son plus bas depuis trois mois, sur la perspective d'un surplus d'offre (Prix du baril), ce qui allège directement la facture des compagnies aériennes. Le titre a fini à 14,52 € (-1,99 %, ABC Bourse) après une hausse d'environ 44 % en 20 séances depuis un 3e trimestre supérieur aux attentes, et son RSI dépassait 85 vendredi : il est déjà très monté. Le principal risque : une remontée brutale du pétrole si la tension avec l'Iran repart, ou une prise de bénéfices sur un titre en surchauffe."
+        },
+        {
+          "nom": "Ipsen",
+          "isin": "FR0010259150",
+          "risque": "Modéré",
+          "prix": "≈ 167 € la part",
+          "texte": "Ipsen est un laboratoire pharmaceutique français spécialisé en oncologie, maladies rares et neurosciences. Le rachat d'Insmed par Sanofi pour 41 milliards de dollars a rappelé mardi que les grands laboratoires paient cher pour remplacer leurs médicaments qui perdront leur brevet, et Ipsen a gagné 1,46 % à 167,10 € (ABC Bourse). Le groupe a relevé deux fois ses objectifs 2026, avec une croissance de 24 % annoncée le 22 octobre. Le principal risque : l'arrivée d'un générique concurrent en septembre a déjà fait chuter le titre, et un rachat d'Ipsen n'est qu'une spéculation, jamais une raison d'acheter."
+        },
+        {
+          "nom": "Eutelsat",
+          "isin": "FR0010221234",
+          "risque": "Très élevé",
+          "prix": "≈ 1,62 € la part",
+          "texte": "Eutelsat exploite des satellites de télécommunication, dont la constellation OneWeb en orbite basse, présentée comme une alternative européenne à Starlink pour les gouvernements et les armées. Mardi, le groupe a annoncé racheter 496,9 millions d'euros d'obligations à échéance 2028, financés par 600 millions d'euros d'obligations à 2032 émises ce mois-ci : il repousse le mur de sa dette (ABC Bourse). Le titre reprend 0,90 % à 1,62 €, une part très abordable, mais il a perdu plus de 16 % en 20 séances. Le principal risque : une dette lourde, des résultats décevants fin octobre et une tendance nettement baissière."
+        }
+      ],
+      "idee": {
+        "nom": "Air France-KLM",
+        "isin": "FR001400J770",
+        "risque": "Élevé",
+        "prix": "≈ 14,50 € la part",
+        "texte": "Air France-KLM transporte des passagers et du fret, et le carburant est l'un de ses premiers coûts. Le Brent est tombé mardi vers 86 à 87 dollars, son plus bas depuis trois mois, sur la perspective d'un surplus d'offre (Prix du baril), ce qui allège directement la facture des compagnies aériennes. Le titre a fini à 14,52 € (-1,99 %, ABC Bourse) après une hausse d'environ 44 % en 20 séances depuis un 3e trimestre supérieur aux attentes, et son RSI dépassait 85 vendredi : il est déjà très monté. Le principal risque : une remontée brutale du pétrole si la tension avec l'Iran repart, ou une prise de bénéfices sur un titre en surchauffe."
+      },
+      "concept": {
+        "terme": "L'offre publique d'achat (OPA)",
+        "texte": "Une offre publique d'achat, ou OPA, est une proposition faite publiquement à tous les actionnaires d'une société cotée de leur racheter leurs actions à un prix fixé et payé en espèces, dans le but d'en prendre ou d'en renforcer le contrôle. L'AMF encadre l'opération : l'initiateur dépose un projet, publie une note d'information, et l'offre reste ouverte pendant une durée définie pendant laquelle chaque actionnaire choisit librement d'apporter ou non ses titres. Pour convaincre, l'acheteur propose presque toujours une prime, c'est-à-dire un prix supérieur au dernier cours : mardi, HLD Europe a annoncé un projet d'OPA sur Clariane à 4,60 € par action, soit une prime de 38,3 %, et le titre a bondi de 35,3 % à 4,50 € (Moneyvox, ABC Bourse). Le cours se cale alors juste sous le prix offert, car le gain restant est limité et l'offre peut encore échouer ou être retardée par les autorisations. Le même jour, Sanofi a annoncé le rachat de l'américain Insmed à 175 dollars par action, une acquisition négociée de gré à gré sur un marché américain : le principe de la prime est le même, mais les règles de l'AMF s'appliquent aux sociétés cotées en France. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "AMF : Que savoir sur les offres publiques d'acquisition (OPA, OPE...) ?",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/comprendre-et-participer-une-operation-financiere"
+          },
+          {
+            "titre": "AMF : Comprendre les offres publiques d'acquisition, OPA, OPE, etc. (guide épargnants)",
+            "url": "https://www.amf-france.org/fr/actualites-publications/publications/guides/guides-epargnants/comprendre-les-offres-publiques-dacquisition-opa-ope-etc"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché n'est pas porteur pour agir à court terme : le rebond de lundi a été effacé en une séance sur la tech, l'Euro Stoxx 50 perd 1,16 % et le CAC 40 ne tient que grâce à Sanofi. Mercredi à 14h30, l'inflation PCE peut faire bouger fortement les marchés dans un sens comme dans l'autre, et une hausse des taux de la Fed le 9 décembre est quasi certaine selon FedWatch : prendre une position avant ce chiffre serait un pari, pas un plan. Aucune idée ne passe les critères Favorable et je n'ajoute pas d'idée Spéculatif. Le journal compte 3 idées closes, toutes Spéculatif et perdantes (-9,29 %, -4,55 %, -7,30 %) : l'échantillon est trop petit pour juger la méthode, mais il justifie de rester exigeant. Sur tes lignes : STMicroelectronics a clôturé à 35,92 €, sous ton niveau de sortie de 38,61 €, et Stellantis (3,12 €) reste sous 3,75 € : les deux ventes prévues sont actives. Aucune vente n'est saisie dans ton journal : si tu vends, ajoute l'opération pour que le suivi reste juste.",
+        "retro": "Bilan à 5 jours (idées du 17 novembre) : sur TotalEnergies (Attendre, 81,98 €), l'entrée sur repli à 80,90 € puis l'invalidation à 78,80 € ont été touchées, soit environ -3,6 % net de frais si l'ordre avait été passé ; le titre finit à 77,68 €. Sur Alstom (Attendre, 10,02 €), la clôture au-dessus de 10,80 € n'est jamais venue et le titre est tombé vers 8,38 € vendredi : l'avis Attendre a évité une perte d'environ 16 %. Bilan définitif à 10 jours (idées du 10 novembre) : Edenred (Attendre, 25,89 €) a touché l'entrée de 25,00 € puis l'invalidation de 23,90 € le 20 novembre (plus bas 23,89 €), soit environ -5,4 % net, avant de remonter à 25,48 € ; pour Infineon (entrée sur clôture au-dessus de 50,50 €), je n'ai pas l'historique complet des clôtures, mais le titre finit à 43,74 €, sous l'invalidation de 47,40 €. Leçon honnête : les avis Attendre ont évité les plus grosses chutes, mais les entrées sur repli se sont déclenchées dans un marché qui continuait de baisser.",
+        "opportunites": [
+          {
+            "nom": "Rémy Cointreau",
+            "isin": "FR0000130395",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 7 jours",
+            "catalyseur": "Résultats semestriels et objectifs 2031-32 le mercredi 25 novembre (agenda de la société)",
+            "cours": "51,40 €",
+            "entree": "52,50 €, seulement après les résultats et une clôture au-dessus",
+            "invalidation": "50,00 €",
+            "objectif": "57,50 €",
+            "ratio": "2,0",
+            "frais": "7 actions : environ 367,50 €, perte maximale d'environ 19,50 € frais compris, gain visé d'environ 33 € net de 2 € de frais",
+            "these": "Rémy Cointreau vend des spiritueux haut de gamme, surtout du cognac et la liqueur Cointreau. Ce qui a changé depuis hier : le titre gagne 2,09 % à 51,40 €, au plus haut du jour, la veille de ses résultats (ABC Bourse), et revient vers sa moyenne 20 jours (51,39 € vendredi, radar). Le chiffre d'affaires du semestre, déjà publié, progresse de 2,9 % en organique, avec une accélération à 4,2 % au 2e trimestre (communiqué de la société). Le catalyseur est daté, mais il est binaire : des objectifs 2031-32 jugés trop prudents peuvent effacer la hausse en une séance. Les niveaux ne bougent pas : entrée seulement sur une clôture au-dessus de 52,50 € après la publication, invalidation à 50,00 €, environ 2 ATR et 4,8 % sous l'entrée. Ce qui contredit l'idée : le volume reste faible (64 735 titres), Rémy Cointreau n'est pas encore dans le fichier de cours (je l'ajoute au suivi pour vérifier l'ATR), et ni le consensus ni les positions courtes n'ont été vérifiés ce soir.",
+            "risque": "Des résultats ou des objectifs décevants peuvent faire perdre plus de 5 % au titre à l'ouverture, avant que le signal d'entrée n'existe."
+          },
+          {
+            "nom": "Air France-KLM",
+            "isin": "FR001400J770",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Brent au plus bas depuis trois mois (24 novembre) et réunion de l'OPEP+ le dimanche 29 novembre",
+            "cours": "14,52 €",
+            "entree": "14,00 €, sur un repli qui tient en clôture",
+            "invalidation": "13,30 €",
+            "objectif": "15,60 €",
+            "ratio": "2,3",
+            "frais": "28 actions : environ 392 €, perte maximale d'environ 21,60 € frais compris, gain visé d'environ 42,80 € net de 2 € de frais",
+            "these": "Air France-KLM est la première compagnie aérienne européenne par le trafic, et le carburant est l'un de ses premiers postes de coûts. Le pétrole au plus bas depuis août allège ce coût, et le groupe a battu le consensus au 3e trimestre le 5 novembre (ABC Bourse). Le titre a fini à 14,52 € (-1,99 %), très au-dessus de ses moyennes 20 et 50 jours (12,78 € et 11,77 € vendredi, radar), après une hausse d'environ 44 % en 20 séances. Son RSI dépassait 85 vendredi : le titre est en surchauffe, et acheter maintenant reviendrait à courir après le mouvement. Le catalyseur est surtout macro, pas propre à la société, et Air France-KLM n'est pas dans le fichier de cours : l'ATR d'environ 0,60 € vient du radar de vendredi et doit être confirmé (je l'ajoute au suivi). Ce qui contredit l'idée : une décision de l'OPEP+ qui ferait remonter le pétrole, ou une simple prise de bénéfices, peuvent ramener le titre vers 13 € rapidement.",
+            "risque": "Le titre est déjà monté de près de moitié en un mois : un repli de 10 % ne changerait rien à sa tendance mais toucherait l'invalidation."
+          },
+          {
+            "nom": "Sanofi",
+            "isin": "FR0000120578",
+            "compte": "PEA",
+            "avis": "Éviter",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Rachat d'Insmed annoncé le 24 novembre (environ 41 milliards de dollars)",
+            "cours": "93,58 €",
+            "entree": "Aucune",
+            "invalidation": "Sans objet",
+            "objectif": "Sans objet",
+            "ratio": "Sans objet",
+            "frais": "Pas de position",
+            "these": "Sanofi est le premier laboratoire pharmaceutique français, très dépendant de son médicament Dupixent. L'acquisition d'Insmed à 175 dollars par action apporte deux traitements respiratoires déjà vendus, dont Brinsupri, et Barclays estime qu'elle pourrait augmenter les bénéfices de plus de 25 % à partir de 2032 (Moneyvox). Le titre a bondi de 9,76 % à 93,58 € avec plus de 9 millions de titres échangés, soit environ 4 ATR en une séance (ATR de 1,89 € vendredi, radar). La règle est claire : pas d'achat d'un titre déjà monté de plus de 2 ATR depuis son catalyseur, et je ne propose pas d'entrée sur repli car le niveau pertinent, vers 88 €, est trop loin pour un horizon de 10 jours. Ce qui pourrait changer l'avis : une consolidation calme au-dessus de 90 € pendant plusieurs séances. Ce qui contredit aussi la hausse : une opération chère, financée en partie par de la dette, qui ne sera finalisée qu'en 2027.",
+            "risque": "Après une hausse de près de 10 % en une séance, des prises de bénéfices sont fréquentes, même quand la stratégie est bien accueillie."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "Macroéconomie : la Bourse réagit à la surprise, pas au chiffre",
+        "niveau": "Intermédiaire",
+        "texte": "Chaque statistique importante, comme l'inflation, l'emploi ou la croissance, est précédée d'une prévision moyenne des économistes, appelée consensus. Les investisseurs achètent et vendent déjà en fonction de ce consensus avant la publication : le chiffre attendu est donc en grande partie intégré dans les cours. Ce qui fait bouger le marché le jour J, c'est l'écart entre le chiffre publié et le consensus, qu'on appelle la surprise. Une inflation élevée mais conforme aux attentes peut laisser les marchés indifférents, alors qu'une inflation un peu plus basse que prévu peut faire monter les actions, même si elle reste élevée. La surprise compte parce qu'elle change les anticipations sur la banque centrale : plus d'inflation que prévu rend une hausse des taux plus probable, ce qui pèse d'abord sur les valeurs de croissance comme la tech. Il faut aussi regarder les révisions des mois précédents et le détail du chiffre, par exemple l'inflation hors énergie et alimentation, que les banques centrales suivent de près. Pour un petit investisseur, la leçon pratique est d'éviter d'ouvrir une position de court terme juste avant une publication majeure, car le résultat est imprévisible et le cours peut sauter son niveau de sortie à l'ouverture.",
+        "exemple": "Mercredi 25 novembre à 14h30, les États-Unis publient l'inflation PCE d'octobre, que le marché attendait autour de 3,8 % sur un an selon les prévisions relevées lundi. Si le chiffre sort à 3,8 %, il est déjà dans les cours : la réaction devrait être limitée. S'il sort à 4,0 %, soit 0,2 point de surprise, la hausse de taux de la Fed du 9 décembre paraît encore plus sûre et l'ETF Nasdaq-100 de ton portefeuille, qui a perdu 3,74 % mardi, pourrait de nouveau souffrir. S'il sort à 3,6 %, la surprise est favorable et la tech pourrait rebondir, alors même que l'inflation reste près de deux fois au-dessus de l'objectif de 2 %.",
+        "references": [
+          {
+            "titre": "Banque de France : l'inflation, ses causes et sa mesure",
+            "url": "https://www.banque-france.fr/fr/statistiques/themes-statistiques-et-series-webstat-associees/inflation"
+          },
+          {
+            "titre": "Investopedia : Consensus Estimate ⚠️",
+            "url": "https://www.investopedia.com/terms/c/consensusestimate.asp"
+          },
+          {
+            "titre": "Investopedia : Personal Consumption Expenditures (PCE) Price Index ⚠️",
+            "url": "https://www.investopedia.com/terms/p/pce.asp"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Le consensus attendait une inflation de 3,8 % et le chiffre publié sort à 3,8 %. Quelle réaction du marché est la plus probable ?",
+          "choix": [
+            "Une forte baisse, car l'inflation reste élevée",
+            "Une forte hausse, car l'inflation n'a pas augmenté",
+            "Une réaction limitée, car le chiffre était déjà intégré dans les cours",
+            "Une suspension de la cotation"
+          ],
+          "bonne": 2,
+          "explication": "Le marché réagit surtout à l'écart avec le consensus. Un chiffre conforme aux attentes apporte peu d'information nouvelle."
+        },
+        {
+          "question": "Une société cote 3,33 € et reçoit une OPA à 4,60 € en espèces. Pourquoi son cours monte-t-il ensuite vers 4,50 € plutôt qu'à 4,60 € ?",
+          "choix": [
+            "Parce que l'offre peut encore échouer ou prendre du temps",
+            "Parce que l'AMF interdit de coter au prix de l'offre",
+            "Parce que les frais de courtage sont déduits du cours",
+            "Parce que la prime est versée seulement aux grands actionnaires"
+          ],
+          "bonne": 0,
+          "explication": "L'écart restant rémunère le risque d'échec et l'attente jusqu'au paiement. Tous les actionnaires peuvent apporter leurs titres au même prix."
+        },
+        {
+          "question": "Révision : comment calcule-t-on la valeur d'entreprise (VE) ?",
+          "choix": [
+            "Le chiffre d'affaires multiplié par la marge",
+            "La capitalisation boursière plus la dette nette",
+            "Le bénéfice net multiplié par le PER",
+            "La capitalisation boursière moins le dividende"
+          ],
+          "bonne": 1,
+          "explication": "La VE est le prix pour racheter toute l'entreprise, dettes comprises : la capitalisation plus la dette nette."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-25",
+          "titre": "États-Unis : inflation PCE d'octobre et PIB du 3e trimestre (2e estimation), 14h30"
+        },
+        {
+          "date": "2026-11-25",
+          "titre": "Rémy Cointreau : résultats semestriels et objectifs 2031-32"
+        },
+        {
+          "date": "2026-11-25",
+          "titre": "Fed : Livre beige ; Rheinmetall : journée investisseurs (25 au 27 novembre)"
+        },
+        {
+          "date": "2026-11-26",
+          "titre": "États-Unis : Thanksgiving, Wall Street fermée ; BCE : compte rendu de la réunion d'octobre"
+        },
+        {
+          "date": "2026-11-27",
+          "titre": "France : inflation préliminaire de novembre et PIB du 3e trimestre"
+        },
+        {
+          "date": "2026-11-29",
+          "titre": "OPEP+ : réunion ministérielle sur la production 2027"
+        },
+        {
+          "date": "2026-12-01",
+          "titre": "Zone euro : estimation rapide de l'inflation de novembre ; audition de Jensen Huang au Congrès"
+        },
+        {
+          "date": "2026-12-04",
+          "titre": "États-Unis : rapport sur l'emploi de novembre"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "ABC Bourse (Agefi-Dow Jones) : retour au calme pour la Bourse de Paris, l'effet Nvidia s'est dissipé",
+          "url": "https://www.abcbourse.com/marches/cac-40-retour-au-calme-pour-la-bourse-de-paris-l-effet-nvidia-s-est-dissipe_706602"
+        },
+        {
+          "titre": "ABC Bourse (Agefi-Dow Jones) : l'Europe sur la défensive après la folle séance de lundi",
+          "url": "https://www.abcbourse.com/marches/l-europe-sur-la-defensive-apres-la-folle-seance-de-lundi_706613"
+        },
+        {
+          "titre": "ABC Bourse (Agefi-Dow Jones) : les taux en ordre dispersé à la veille de l'inflation PCE",
+          "url": "https://www.abcbourse.com/marches/les-taux-en-ordre-disperse-aux-etats-unis-a-la-veille-de-l-indicateur-d-inflatio_706588"
+        },
+        {
+          "titre": "Moneyvox (Meilleurtaux Placement) : le journal de la Bourse du mardi 24 novembre 2026",
+          "url": "https://www.moneyvox.fr/bourse/actualites/111392/le-cac-40-en-equilibre-carton-pour-sanofi-le-journal-de-la-bourse-du-mardi-24-novembre-2026"
+        },
+        {
+          "titre": "Prix du baril : le surplus d'offre attendu tire le Brent sous 87 dollars",
+          "url": "https://prixdubaril.com/news-petrole/75244-petrole-le-surplus-d-offre-attendu-tire-le-brent-sous-87-dollars.html"
+        },
+        {
+          "titre": "ABC Bourse : STMicroelectronics, le support des 38,60 euros enfoncé",
+          "url": "https://www.abcbourse.com/marches/stmicroelectronics-le-support-des-38-60-euros-enfonce_706597"
+        },
+        {
+          "titre": "ABC Bourse : Air Liquide va investir plus de 100 millions de dollars aux États-Unis",
+          "url": "https://www.abcbourse.com/marches/air-liquide-va-investir-plus-de-100-millions-de-dollars-pour-accelerer-sa-croiss_706614"
+        },
+        {
+          "titre": "ABC Bourse : Eutelsat va racheter pour 496,9 millions d'euros de ses obligations 2028",
+          "url": "https://www.abcbourse.com/marches/eutelsat-va-racheter-pour-496-9-millions-d-euros-de-ses-obligations-venant-a-ech_706574"
+        },
+        {
+          "titre": "ABC Bourse : cotation Air France-KLM (clôture du 24 novembre)",
+          "url": "https://www.abcbourse.com/cotation/AFp"
+        },
+        {
+          "titre": "ABC Bourse : cotation Ipsen (clôture du 24 novembre)",
+          "url": "https://www.abcbourse.com/cotation/IPNp"
+        },
+        {
+          "titre": "ABC Bourse : cotation Rémy Cointreau (clôture du 24 novembre)",
+          "url": "https://www.abcbourse.com/cotation/RCOp"
+        },
+        {
+          "titre": "ABC Bourse : cotation Sanofi (clôture du 24 novembre)",
+          "url": "https://www.abcbourse.com/cotation/SANp"
+        },
+        {
+          "titre": "Rémy Cointreau : chiffre d'affaires du 1er semestre 2026-27",
+          "url": "https://news.remy-cointreau.com/chiffre-daffaires-en-hausse-de-29-en-organique-au-premier-semestre/"
+        },
+        {
+          "titre": "Trump's Truth : archive des publications de Donald Trump (rien de nouveau pour les marchés le 24 novembre)",
+          "url": "https://www.trumpstruth.org/"
+        },
+        {
+          "titre": "Fichier de cours No Risk No Rari (Yahoo Finance, clôtures du 24 novembre)",
+          "url": "https://corentin190105-coder.github.io/no-risk-no-rari/data/cours.json"
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "titre": "Le retour de Jensen Huang chez Nvidia déclenche un rebond géant, le CAC 40 repasse 8 000 points",
       "resume": "Le conseil de Nvidia a réintégré Jensen Huang comme PDG, et l'action a bondi d'environ 32 %, entraînant le Nasdaq-100 vers +7 % et le S&P 500 vers +5 %, sa meilleure séance depuis avril 2025 (CNBC, Benzinga, chiffres provisoires). À Paris, le CAC 40 gagne 1,48 % à 8 044,84 points, mené par STMicroelectronics (+8,96 %), malgré des PMI qui confirment le recul de l'activité en France. Le pétrole chute à son plus bas depuis août et l'or reprend plus de 3 %.",
@@ -7573,150 +7920,6 @@
         "prix": "≈ 15 € la part",
         "texte": "Crédit Agricole est l'une des grandes banques françaises, très présente dans la banque de détail et la gestion d'actifs via Amundi. Lundi, les banques ont profité de la détente des taux français : le titre a gagné environ 1,2 % pour approcher 15 €, un prix accessible à un petit budget. Le conseil d'administration a aussi décidé le 6 octobre d'annuler environ 32 millions d'actions auto-détenues. Le principal risque : une banque dépend de la santé de l'économie française et de la confiance dans la dette du pays, et le taux à dix ans reste élevé."
       }
-    },
-    {
-      "date": "2026-10-25",
-      "titre": "Dimanche sans séance : une semaine décisive s'annonce avec la Fed, la BCE et un Brent près de 117 dollars",
-      "resume": "Les marchés sont fermés ce dimanche. Vendredi, le CAC 40 a fini à 7 782,82 points (-0,36 %), pénalisé par un Brent à environ 117 $ et par la chute de Safran. La semaine à venir est dense, avec les décisions de la Fed le 28 et de la BCE le 29 octobre.",
-      "humeur": "stable",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 782,82 pts (clôture de vendredi)",
-          "variation": -0.36
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "≈ 6 068 pts (vendredi)",
-          "variation": -0.31
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "7 623,7 pts (vendredi)",
-          "variation": -0.52
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "25 955 pts (Composite, vendredi)",
-          "variation": -0.2
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 116,75 $ le baril (vendredi)",
-          "variation": 3.4
-        },
-        {
-          "nom": "Or",
-          "valeur": "≈ 3 994 $ l'once (vendredi)",
-          "variation": 0.0
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "≈ 1,120 (vendredi)",
-          "variation": 0.0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Banques centrales",
-          "texte": "La Fed rend sa décision le 28 octobre, un statu quo étant plutôt attendu, puis la BCE le 29 avec un taux de dépôt à 2,50 %. Ces deux rendez-vous orienteront le coût du crédit et les marchés."
-        },
-        {
-          "titre": "Inflation",
-          "texte": "L'inflation de septembre est à 3,8 % en zone euro et à 3,7 % aux États-Unis, surtout à cause de l'énergie. L'indice PCE américain, suivi par la Fed, sort le 29 octobre."
-        },
-        {
-          "titre": "Pétrole et géopolitique",
-          "texte": "Le Brent est à son plus haut depuis début avril, sur fond de craintes d'escalade entre Washington et Téhéran. Un baril durablement cher entretient l'inflation et pèse sur les actions."
-        },
-        {
-          "titre": "France",
-          "texte": "Moody's a maintenu la note Aa3 avec perspective négative, mais le taux français à dix ans reste autour de 5 %. Le budget 2027 sera le prochain point d'attention."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 377.14,
-        "pv": -22.06,
-        "texte": "Ton portefeuille vaut 377.14 € pour 399.20 € investis, soit -22.06 €. Les marchés étant fermés, les cours sont ceux de vendredi."
-      },
-      "valeurs": [
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre a fini vendredi à 39,47 €. Ses résultats du troisième trimestre sont attendus jeudi 29 octobre avant l'ouverture."
-        },
-        {
-          "nom": "Air Liquide",
-          "texte": "Le groupe publie son chiffre d'affaires du troisième trimestre le 29 octobre, le premier depuis son plan BEYOND."
-        },
-        {
-          "nom": "Amundi",
-          "texte": "Les résultats du troisième trimestre, avec la collecte des ETF, sont attendus le 29 octobre."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Safran",
-          "isin": "FR0000073272",
-          "risque": "Modéré",
-          "prix": "≈ 272 € la part (cours du 23 octobre, à vérifier)",
-          "texte": "Safran fabrique les moteurs d'avions LEAP avec General Electric et des équipements de défense. L'action a perdu environ 10 % vendredi après son chiffre d'affaires du troisième trimestre, ce qui peut intéresser ceux qui suivent l'aéronautique sur le long terme. Le groupe avait relevé ses objectifs annuels en juillet et un accord CFM pour plus de 300 moteurs avec Turkish Airlines a été annoncé mi-octobre. Le principal risque : un titre cher en valeur absolue pour un petit budget et sensible à un pétrole durablement élevé qui pèse sur les compagnies aériennes."
-        },
-        {
-          "nom": "Nexans",
-          "isin": "FR0000044448",
-          "risque": "Élevé",
-          "prix": "≈ 121 € la part (cours du 21 octobre, à vérifier)",
-          "texte": "Nexans produit des câbles pour les réseaux électriques, l'éolien en mer et les centres de données, trois besoins liés à l'électrification et à l'IA. Le titre a perdu environ 11 % en un mois, ce qui le rend plus abordable qu'il y a peu pour qui croit à cette tendance. Le principal risque : une activité cyclique dépendant de grands projets et du prix du cuivre, avec des variations parfois brutales à la publication des résultats."
-        },
-        {
-          "nom": "Eutelsat Communications",
-          "isin": "FR0010221234",
-          "risque": "Très élevé",
-          "prix": "≈ 1,70 € la part (cours du 20 octobre, à vérifier)",
-          "texte": "Eutelsat exploite la constellation de satellites OneWeb et participe au projet européen IRIS², une alternative aux réseaux américains qui intéresse la souveraineté et la défense. Sa part à moins de 2 € est accessible à un très petit budget et le chiffre d'affaires du premier trimestre est attendu le 29 octobre. Le principal risque est élevé : le titre est à des plus bas historiques, très endetté et très volatil, avec un risque de perte importante."
-        }
-      ],
-      "idee": {
-        "nom": "Safran",
-        "isin": "FR0000073272",
-        "risque": "Modéré",
-        "prix": "≈ 272 € la part (cours du 23 octobre, à vérifier)",
-        "texte": "Safran fabrique les moteurs d'avions LEAP avec General Electric et des équipements de défense. L'action a perdu environ 10 % vendredi après son chiffre d'affaires du troisième trimestre, ce qui peut intéresser ceux qui suivent l'aéronautique sur le long terme. Le groupe avait relevé ses objectifs annuels en juillet et un accord CFM pour plus de 300 moteurs avec Turkish Airlines a été annoncé mi-octobre. Le principal risque : un titre cher en valeur absolue pour un petit budget et sensible à un pétrole durablement élevé qui pèse sur les compagnies aériennes."
-      },
-      "concept": {
-        "terme": "Le taux directeur",
-        "texte": "Le taux directeur est le taux d'intérêt fixé par une banque centrale pour les prêts qu'elle accorde aux banques commerciales. Dans la zone euro, la BCE en fixe trois, dont le taux de la facilité de dépôt, devenu la référence. Quand il monte, le crédit devient plus cher, la demande ralentit et l'inflation tend à baisser ; quand il baisse, l'effet est inverse. Cette semaine, la BCE et la Fed décident de leurs taux, ce qui explique l'attention des marchés. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
-        "references": [
-          {
-            "titre": "Banque de France : Les taux directeurs ⚠️",
-            "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-taux-directeurs"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux ; résultats de STMicroelectronics, Air Liquide, Amundi ; PIB et PCE américains"
-        },
-        {
-          "date": "2026-11-03",
-          "titre": "États-Unis : élections de mi-mandat"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "Idéal Investisseur : Nexans",
-          "url": "https://www.ideal-investisseur.fr/actions-b/laction-nexans-rebondit-de-2-mais-cede-115-sur-un-mois/27647.html"
-        },
-        {
-          "titre": "Option Finance : AlphaValue et Eutelsat",
-          "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-20-alphavalue-confirme-son-conseil-sur-eutelsat-le-titre-recule.html"
-        }
-      ]
     }
   ]
 }
