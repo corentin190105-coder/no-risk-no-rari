@@ -1,6 +1,349 @@
 {
   "points": [
     {
+      "date": "2026-11-25",
+      "titre": "Inflation américaine et droits de douane : la tech plonge, Paris repasse sous 8 000 points",
+      "resume": "L'inflation PCE d'octobre, à 3,3 % hors énergie et alimentation, et un projet de nouveaux droits de douane américains contre 14 partenaires, dont l'Union européenne, ont relancé la vente des valeurs liées à l'IA. Le CAC 40 efface une hausse de plus de 1 % en matinée et finit à 7 980,57 points (-0,75 %), plombé par STMicroelectronics et Schneider, alors que l'automobile et Rémy Cointreau résistent. À Wall Street, le Nasdaq a chuté jusqu'à 4,6 % avant de réduire fortement ses pertes (chiffres provisoires).",
+      "humeur": "baisse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "7 980,57 pts",
+          "variation": -0.75
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "5 894,46 pts",
+          "variation": -1.82
+        },
+        {
+          "nom": "S&P 500 (provisoire, 20h21)",
+          "valeur": "7 191,19 pts",
+          "variation": -0.14
+        },
+        {
+          "nom": "Nasdaq Composite (provisoire, 20h21)",
+          "valeur": "23 600,64 pts",
+          "variation": -0.56
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "57 011,62 pts",
+          "variation": -2.78
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "21 966,01 pts",
+          "variation": -1.14
+        },
+        {
+          "nom": "Brent (fin d'après-midi)",
+          "valeur": "≈ 93,7 $",
+          "variation": 3.02
+        },
+        {
+          "nom": "Or (provisoire)",
+          "valeur": "≈ 3 446 $",
+          "variation": -3.0
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,0946 $",
+          "variation": -0.16
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Inflation PCE : la Fed a de quoi monter ses taux",
+          "texte": "L'indice des prix PCE d'octobre progresse de 3,8 % sur un an, comme prévu, mais l'inflation hors énergie et alimentation atteint 3,3 %, au-dessus des 3,2 % attendus (Schaeffer's, Investing). Avant le chiffre, les contrats à terme donnaient déjà environ 97 % de chances à une hausse de 0,25 point le 9 décembre selon CME FedWatch. C'est le dernier grand chiffre d'inflation avant cette réunion."
+        },
+        {
+          "titre": "Washington propose de nouveaux droits de douane",
+          "texte": "Le représentant américain au commerce propose des droits de douane au titre de la section 301 contre 14 partenaires, dont l'Union européenne et la Chine, avec 20 % supplémentaires sur une partie des produits chinois (Investing, ABC Bourse). Ils remplaceraient des droits annulés par la Cour suprême. Il s'agit d'un projet : les taux visant l'Europe et le calendrier restent à préciser."
+        },
+        {
+          "titre": "Le pétrole rebondit sur une alerte en Arabie saoudite",
+          "texte": "Le Brent gagne environ 3 % vers 93,7 dollars en fin d'après-midi (Boursorama), après l'interception par l'Arabie saoudite de quatre drones au-dessus du site pétrolier de Ras Tanura (MLQ). Le matin, il retombait encore sous 88 dollars sur la perspective d'une offre excédentaire (Prix du baril). L'OPEP+ se réunit dimanche 29 novembre."
+        },
+        {
+          "titre": "L'Europe plafonne les voitures hybrides importées",
+          "texte": "La Commission européenne limitera dès le 1er décembre les importations de voitures hybrides de tous les pays, avec un quota d'environ 191 780 véhicules pour la Chine (MLQ, Les Echos). Volkswagen a gagné 4,6 %, Stellantis 3,75 % et Renault 2,28 %. Le Maroc, où Renault et Stellantis assemblent des voitures, est aussi plafonné (Ilboursa)."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 724.75,
+        "pv": -74.53,
+        "texte": "Ton portefeuille vaut 724,75 € pour 799,28 € investis, soit -74,53 €, en baisse d'environ 10 € sur la journée, surtout à cause de l'ETF Nasdaq-100 (-3,65 %), de STMicroelectronics (-4,69 %) et de l'ETF Monde (-1,88 %). Stellantis (+3,75 %) et Air Liquide (+0,18 %) limitent la baisse, mais les deux niveaux de sortie de ST et Stellantis restent cassés."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Ce qui a changé depuis hier : le titre perd encore 4,69 % à 34,24 €, nouveau plus bas de six mois, avec les autres fabricants de puces européens (Infineon -6,5 %, ASML -5,8 %), sans nouvelle propre (Zonebourse, MLQ). Il cède environ 15,5 % en cinq séances et reste nettement sous ton niveau de sortie de 38,61 €."
+        },
+        {
+          "nom": "Stellantis",
+          "texte": "Le titre rebondit de 3,75 % à 3,24 € grâce aux quotas européens sur les hybrides importés, mais le groupe produit aussi au Maroc, également plafonné. Il reste sous ses moyennes 20 et 50 jours (3,67 € et 3,85 €) et loin sous ton niveau de sortie de 3,75 €."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Le titre termine à l'équilibre (+0,18 % à 188,46 €), à environ 3 % de son record du 12 novembre (Idéal Investisseur), et reste loin au-dessus de ton niveau de sortie de 171 €. C'est ta ligne la plus calme dans cette séance agitée."
+        },
+        {
+          "nom": "Amundi PEA Nasdaq-100",
+          "texte": "L'ETF perd 3,65 % à 6,023 €, son plus bas de six mois, environ 18 % sous son sommet de 7,365 €, car la clôture de Paris a eu lieu près du plus bas de Wall Street. Le rebond américain de l'après-midi pourrait limiter la casse à l'ouverture de jeudi."
+        },
+        {
+          "nom": "Rémy Cointreau",
+          "texte": "Le titre s'envole de 13,13 % à 58,15 € après avoir relevé ses objectifs annuels et présenté ses ambitions jusqu'en 2032 (Les Echos Investir, MLQ)."
+        },
+        {
+          "nom": "Bureau Veritas",
+          "texte": "Le titre gagne 6,6 % à 31,80 €, meilleure performance du CAC 40, sur des informations de presse évoquant un projet de rachat par le fonds Advent, non confirmé (ABC Bourse, Les Echos)."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Bureau Veritas",
+          "isin": "FR0006174348",
+          "risque": "Élevé",
+          "prix": "≈ 31,80 € la part",
+          "texte": "Bureau Veritas inspecte et certifie des bâtiments, des navires, des usines et des produits partout dans le monde, une activité peu dépendante de la conjoncture. Mercredi, le titre a pris 6,6 % à 31,80 € (Zonebourse), en tête du CAC 40 dans un marché en baisse, après des informations de presse selon lesquelles le fonds américain Advent étudierait un rachat ; Wendel détient 21,4 % du capital et jouerait un rôle clé (ABC Bourse). La société affichait déjà 10,1 % de croissance au 3e trimestre. Le principal risque : rien n'est confirmé, aucun prix n'est connu, et le cours peut rendre toute sa hausse si le projet est démenti ou abandonné."
+        },
+        {
+          "nom": "Dassault Systèmes",
+          "isin": "FR0014003TT8",
+          "risque": "Élevé",
+          "prix": "≈ 22 € la part",
+          "texte": "Dassault Systèmes édite des logiciels de conception 3D et de simulation utilisés par l'aéronautique, l'automobile et la santé, un métier que l'IA peut renforcer ou bousculer. Le titre a cédé 0,94 % mercredi (Zonebourse) et a enfoncé son support de 22,14 €, après environ 8,5 % de baisse en une semaine (Idéal Investisseur), car le plan à 2029 présenté le 17 novembre abaisse l'objectif de rentabilité (Les Echos Investir). La part est abordable et le titre très survendu (RSI vers 29 au radar de mardi), mais une valeur qui casse ses supports peut continuer à baisser. Le principal risque : la vente générale sur la tech et un doute durable sur la place des éditeurs de logiciels face à l'IA."
+        },
+        {
+          "nom": "TotalEnergies",
+          "isin": "FR0000120271",
+          "risque": "Modéré",
+          "prix": "≈ 77 € la part",
+          "texte": "TotalEnergies produit du pétrole, du gaz et de l'électricité, et ses profits suivent en partie le prix du baril. Le Brent a rebondi d'environ 3 % vers 93,7 dollars mercredi (Boursorama), après l'interception par l'Arabie saoudite de drones visant le site pétrolier de Ras Tanura (MLQ), alors que l'action n'a pas suivi : elle finit en baisse de 0,51 % à 77,28 €, sous ses moyennes 20 et 50 jours (80,55 € et 79,77 €). Cet écart peut se refermer si la tension se confirme. Le principal risque : la réunion de l'OPEP+ dimanche 29 novembre et les prévisions d'offre excédentaire peuvent faire retomber le pétrole aussi vite qu'il est monté."
+        }
+      ],
+      "idee": {
+        "nom": "Bureau Veritas",
+        "isin": "FR0006174348",
+        "risque": "Élevé",
+        "prix": "≈ 31,80 € la part",
+        "texte": "Bureau Veritas inspecte et certifie des bâtiments, des navires, des usines et des produits partout dans le monde, une activité peu dépendante de la conjoncture. Mercredi, le titre a pris 6,6 % à 31,80 € (Zonebourse), en tête du CAC 40 dans un marché en baisse, après des informations de presse selon lesquelles le fonds américain Advent étudierait un rachat ; Wendel détient 21,4 % du capital et jouerait un rôle clé (ABC Bourse). La société affichait déjà 10,1 % de croissance au 3e trimestre. Le principal risque : rien n'est confirmé, aucun prix n'est connu, et le cours peut rendre toute sa hausse si le projet est démenti ou abandonné."
+      },
+      "concept": {
+        "terme": "Le marché baissier (bear market)",
+        "texte": "Un marché baissier, ou bear market, désigne une baisse prolongée d'au moins 20 % d'un indice ou d'un actif par rapport à son dernier plus haut, dans un climat de pessimisme général. Ce seuil de 20 % est une convention de place, pas une règle officielle : entre 10 et 20 % de baisse, on parle plutôt de correction. Mercredi, le Nasdaq-100 a été tout près de franchir ce seuil en séance avant de réduire ses pertes (Yahoo Finance relayé par MLQ), et l'ETF Nasdaq-100 éligible au PEA a fini à 6,023 €, au plus bas de six mois et environ 18 % sous son sommet de 7,365 €. Un marché baissier peut durer de quelques mois à plusieurs années, et il est souvent coupé de rebonds rapides qui ne marquent pas forcément la fin de la baisse. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "Pictet Asset Management (Terre d'épargne) : qu'est-ce qu'un Bear Market ?",
+            "url": "https://am.pictet.com/terredepargne/actualite-des-marches/2024/marches-financiers-qu-est-ce-qu-un-bear-market"
+          },
+          {
+            "titre": "Investopedia : Bear Market ⚠️",
+            "url": "https://www.investopedia.com/terms/b/bearmarket.asp"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché n'est pas porteur pour agir à court terme : l'inflation PCE hors énergie (3,3 %, un peu au-dessus des attentes) rend une hausse des taux de la Fed le 9 décembre presque certaine, Washington propose de nouveaux droits de douane contre l'Union européenne, et le Nasdaq a frôlé le seuil du marché baissier en séance avant de se reprendre (chiffres américains provisoires). Jeudi, Wall Street est fermée pour Thanksgiving : les volumes seront faibles et les écarts de cours plus brutaux. Aucune idée ne passe les critères Favorable et je n'ajoute pas d'idée Spéculatif ; le journal compte 3 idées closes, toutes Spéculatif et perdantes : l'échantillon est trop petit pour juger la méthode, mais il justifie de rester exigeant. Sur tes lignes : STMicroelectronics (34,24 €) et Stellantis (3,24 €) restent sous leurs niveaux de sortie (38,61 € et 3,75 €), les deux ventes prévues sont toujours actives ; le rebond de Stellantis sur les quotas européens ne change pas ce plan. Si tu vends, saisis l'opération dans ton journal.",
+        "retro": "Bilan à 5 jours (idées du 18 novembre) : Soitec (Attendre, 97,54 €) a bien clôturé au-dessus de 104 € le 19 novembre (109,25 €), ce qui ouvrait l'entrée à 106 € le 20 ; le titre a fini ce jour-là à 96,30 €, sous l'invalidation de 97,50 €, soit environ -9 % net de frais si l'ordre avait été servi (je n'ai pas le plus haut du 20 pour le confirmer). TotalEnergies (Attendre, 80,17 €) et Airbus (Attendre, 197,31 €) n'ont jamais clôturé au-dessus de leurs seuils (81,80 € et 199,50 €) : les avis ont évité environ -3,6 % et -3,7 % (77,28 € et 190,00 € ce soir). Bilan définitif à 10 jours (idées du 11 novembre) : l'idée Spéculatif sur Soitec est close à -9,29 % ; Infineon (Attendre) a touché l'entrée de 50,50 € puis l'invalidation de 47,40 € au plus tard le 20 novembre, soit environ -7,1 % net, et finit à 40,90 € ; Siemens Energy (Attendre) finit à 112,46 €, sous l'invalidation de 115 €, soit environ -9 % net si l'entrée de 125 € a été touchée, ce que je n'ai pas vérifié séance par séance. Leçon honnête : attendre une cassure confirmée a protégé, mais une seule clôture de confirmation (Soitec) et les achats sur repli ont échoué dans un marché qui continuait de baisser.",
+        "opportunites": [
+          {
+            "nom": "Renault",
+            "isin": "FR0000131906",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Entrée en vigueur des quotas européens sur les voitures hybrides importées le mardi 1er décembre (Commission européenne)",
+            "cours": "27,37 €",
+            "entree": "28,00 €, seulement après une clôture au-dessus de 28,00 €",
+            "invalidation": "27,00 €",
+            "objectif": "30,00 €",
+            "ratio": "2,0",
+            "frais": "14 actions : environ 392 €, perte maximale d'environ 16 € frais compris, gain visé d'environ 26 € net de 2 € de frais",
+            "these": "Renault fabrique des voitures sous les marques Renault, Dacia et Alpine, et vend surtout en Europe. Le catalyseur est daté : à partir du 1er décembre, Bruxelles plafonne les importations de voitures hybrides, avec un quota d'environ 191 780 véhicules pour la Chine, alors que les marques chinoises ont importé 472 000 hybrides en Europe en huit mois (MLQ, Auto Infos). Cela peut protéger les parts de marché des constructeurs européens. Le titre gagne 2,28 % à 27,37 € avec un volume 1,7 fois supérieur à sa moyenne 20 jours, entre sa moyenne 50 jours (27,10 €) et sa moyenne 20 jours (27,94 €) qui sert de résistance (data/cours.json). L'entrée n'a de sens qu'au-dessus de cette résistance, avec une invalidation à 27,00 €, soit 1,1 ATR et 3,6 % sous l'entrée. Ce qui contredit l'idée : l'Union européenne plafonne aussi les hybrides exportés depuis le Maroc, où Renault produit des Dacia (Ilboursa), l'impact exact pour le groupe n'est pas chiffré, et le projet américain de droits de douane vise l'Europe. Je n'ai vérifié ce soir ni le consensus, ni les dirigeants, ni les positions courtes : l'idée reste Attendre.",
+            "risque": "Un plafonnement des usines marocaines plus pénalisant que prévu, ou une nouvelle vague de ventes sur les marchés, peut faire retomber le titre sous 27 € avant toute entrée."
+          },
+          {
+            "nom": "Air France-KLM",
+            "isin": "FR001400J770",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Prix du carburant et réunion de l'OPEP+ du dimanche 29 novembre",
+            "cours": "14,27 €",
+            "entree": "14,00 €, sur un repli qui tient en clôture, et seulement si le Brent repasse sous 90 dollars",
+            "invalidation": "13,30 €",
+            "objectif": "15,60 €",
+            "ratio": "2,3",
+            "frais": "28 actions : environ 392 €, perte maximale d'environ 21,60 € frais compris, gain visé d'environ 42,80 € net de 2 € de frais",
+            "these": "Air France-KLM transporte passagers et fret, et le carburant est l'un de ses premiers coûts. Ce qui a changé depuis hier : le titre recule de 1,76 % à 14,27 €, toujours au-dessus de ses moyennes 20 et 50 jours (13,41 € et 11,96 €), mais le Brent a rebondi d'environ 3 % vers 93,7 dollars après l'attaque de drones visant Ras Tanura (Boursorama, MLQ), ce qui affaiblit l'argument du pétrole bon marché. J'ajoute donc une condition : un Brent revenu sous 90 dollars. Les niveaux ne bougent pas : invalidation à 13,30 €, 1,3 ATR et 5 % sous l'entrée. Ce qui contredit l'idée : un titre encore très monté en novembre, un catalyseur surtout macroéconomique, et l'OPEP+ dimanche.",
+            "risque": "Une remontée durable du pétrole ou une prise de bénéfices sur un titre en forte hausse depuis un mois peut le faire chuter de plus de 5 % en deux séances."
+          },
+          {
+            "nom": "Rémy Cointreau",
+            "isin": "FR0000130395",
+            "compte": "PEA",
+            "avis": "Éviter",
+            "horizon": "2 à 7 jours",
+            "catalyseur": "Résultats semestriels et objectifs relevés publiés le mercredi 25 novembre",
+            "cours": "58,15 €",
+            "entree": "aucune",
+            "invalidation": "sans objet",
+            "objectif": "sans objet",
+            "ratio": "sans objet",
+            "frais": "aucun ordre",
+            "these": "Rémy Cointreau vend du cognac et des liqueurs haut de gamme. Les résultats ont dépassé les attentes : le groupe relève ses objectifs annuels et fixe des ambitions jusqu'en 2032 (Les Echos Investir), et le titre bondit de 13,13 % à 58,15 € avec un volume près de 5 fois supérieur à sa moyenne (data/cours.json). Mais il a déjà dépassé l'objectif de 57,50 € de l'idée Attendre d'hier, et il se situe à plus de 4 ATR au-dessus du seuil d'entrée de 52,50 € : la règle interdit d'acheter un titre déjà monté de plus de 2 ATR depuis son catalyseur. Leçon honnête : le titre a ouvert directement vers 56,60 €, au-dessus de l'entrée prévue, donc le signal Attendre a fait rater ce gain. Une entrée ne serait à étudier qu'après une consolidation qui tient au-dessus de 55 €, avec de nouveaux niveaux.",
+            "risque": "Après une telle hausse, une prise de bénéfices de plusieurs pour cent est fréquente, et les droits de douane américains proposés peuvent toucher le cognac."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "Gestion du risque : le bêta, ou pourquoi certaines lignes amplifient le marché",
+        "niveau": "Intermédiaire",
+        "texte": "Le bêta mesure la sensibilité d'une action ou d'un fonds aux mouvements de son marché de référence. Un bêta de 1 signifie qu'en moyenne le titre bouge comme l'indice ; un bêta de 1,5 qu'il amplifie les mouvements d'environ 50 %, à la hausse comme à la baisse ; un bêta de 0,6 qu'il les amortit. On le calcule sur plusieurs mois ou années de variations, jamais sur une seule séance : c'est une moyenne statistique, pas une promesse pour demain. Les valeurs de croissance et les semi-conducteurs ont souvent un bêta élevé, alors que les sociétés aux revenus réguliers, comme les gaz industriels ou les services aux collectivités, ont plutôt un bêta faible. Le bêta d'un portefeuille est la moyenne des bêtas de ses lignes, pondérée par leur poids : deux lignes à bêta élevé peuvent donc dominer le comportement de l'ensemble. En pratique, le bêta aide à dimensionner une position : plus une ligne est nerveuse, plus elle doit être petite pour une même perte acceptable. Il a deux limites : il ne mesure que le risque lié au marché, pas une mauvaise nouvelle propre à l'entreprise, et il change avec le temps.",
+        "exemple": "Mercredi, l'ETF CAC 40 de ton portefeuille a perdu 0,76 %, l'ETF Nasdaq-100 3,65 % et STMicroelectronics 4,69 %, alors qu'Air Liquide gagnait 0,18 % (data/cours.json). Sur cette seule séance, ST a donc baissé environ six fois plus que le CAC 40 : ce n'est pas son bêta, mais c'est le comportement typique d'un titre à bêta élevé dans une journée de ventes. Tes deux lignes tech (ETF Nasdaq-100 et ST) pèsent environ 189 € sur 725 €, soit 26 % du portefeuille, mais elles expliquent l'essentiel de sa baisse du jour.",
+        "references": [
+          {
+            "titre": "Nalo, lexique : Coefficient bêta, définition et rôle",
+            "url": "https://blog.nalo.fr/lexique/coefficient-beta/"
+          },
+          {
+            "titre": "Easybourse, pédagogie : le bêta pour constituer son portefeuille d'actions",
+            "url": "https://www.easybourse.com/pedagogie/fiche/le-beta-176"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Une action a un bêta de 1,5. Si son indice de référence baisse de 2 % sur une période, quelle baisse peut-on attendre en moyenne pour l'action ?",
+          "choix": [
+            "Environ 1,5 %",
+            "Environ 3 %",
+            "Exactement 2 %",
+            "Aucune, le bêta ne concerne que les hausses"
+          ],
+          "bonne": 1,
+          "explication": "Le bêta multiplie le mouvement moyen du marché : 2 % × 1,5 = 3 %. C'est une moyenne statistique, valable à la hausse comme à la baisse, pas une garantie séance par séance."
+        },
+        {
+          "question": "Un indice perd 14 % depuis son dernier plus haut. Comment qualifie-t-on habituellement cette baisse ?",
+          "choix": [
+            "Un krach",
+            "Un marché baissier (bear market)",
+            "Un rebond du chat mort",
+            "Une correction"
+          ],
+          "bonne": 3,
+          "explication": "Par convention, une baisse de 10 à 20 % est une correction ; on parle de marché baissier à partir d'environ 20 % sous le dernier sommet."
+        },
+        {
+          "question": "Révision : un titre monte de 5 % avec un volume égal à 30 % de sa moyenne sur 20 jours. Que faut-il en conclure ?",
+          "choix": [
+            "Le mouvement est peu soutenu et mérite prudence",
+            "La hausse est confirmée par un fort intérêt des acheteurs",
+            "Le volume n'a aucun rapport avec la solidité d'un mouvement",
+            "Le titre va forcément rebaisser le lendemain"
+          ],
+          "bonne": 0,
+          "explication": "Un mouvement fait avec peu d'échanges reflète peu d'acheteurs ; il est plus fragile qu'une hausse portée par un volume supérieur à la moyenne."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-26",
+          "titre": "États-Unis : Thanksgiving, Wall Street fermée ; BCE : compte rendu de la réunion d'octobre (13h30)"
+        },
+        {
+          "date": "2026-11-27",
+          "titre": "France : inflation préliminaire de novembre et PIB du 3e trimestre (8h45) ; séance courte à Wall Street"
+        },
+        {
+          "date": "2026-11-29",
+          "titre": "OPEP+ : réunion ministérielle sur la production 2027"
+        },
+        {
+          "date": "2026-12-01",
+          "titre": "Zone euro : inflation de novembre (estimation rapide) ; quotas européens sur les hybrides importés ; audition de Jensen Huang au Congrès"
+        },
+        {
+          "date": "2026-12-04",
+          "titre": "États-Unis : rapport sur l'emploi de novembre ; date limite des comptes trimestriels de Nvidia"
+        },
+        {
+          "date": "2026-12-09",
+          "titre": "Fed : décision sur les taux (20h00)"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Zonebourse (Agefi-Dow Jones) : la Bourse de Paris retombe sous les 8 000 points",
+          "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-retombe-sous-les-8-000-points-les-technologiques-sous-pression-ce7851d8db80f522"
+        },
+        {
+          "titre": "MLQ : clôture européenne, puces en baisse, automobile soutenue par les quotas",
+          "url": "https://mlq.ai/news/european-stocks-close-down-1-as-chipmakers-slide-with-a-4-nasdaq-drop-carmakers-hold-gains-on-eu-hybrid-caps/"
+        },
+        {
+          "titre": "MLQ : le Dow repasse dans le vert, le Nasdaq réduit sa chute (provisoire)",
+          "url": "https://mlq.ai/news/dow-turns-positive-and-nasdaq-pares-a-46-drop-to-06-by-afternoon/"
+        },
+        {
+          "titre": "Schaeffer's : inflation PCE d'octobre et contrats à terme",
+          "url": "https://www.schaeffersresearch.com/content/ezines/2026/11/25/stock-futures-sink-as-inflation-data-compounds-tech-woes"
+        },
+        {
+          "titre": "Investing : tech et droits de douane, FedWatch",
+          "url": "https://in.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5724641"
+        },
+        {
+          "titre": "ABC Bourse : nouveaux droits de douane américains",
+          "url": "https://www.abcbourse.com/marches/donald-trump-prepare-de-nouveaux-droits-de-douane-contre-16-partenaires-commerci_706650"
+        },
+        {
+          "titre": "Boursorama (Reuters) : l'Europe finit dans le rouge, euro et Brent",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-rouge-entrainee-par-les-pertes-de-wall-street-80b70fb4043b73b810fe9bef1e06c250"
+        },
+        {
+          "titre": "Prix du baril : le Brent le matin du 25 novembre",
+          "url": "https://prixdubaril.com/news-petrole/75248-le-brent-retombe-sous-88-dollars-apres-son-rebond-de-mardi.html"
+        },
+        {
+          "titre": "Les Echos : quotas européens sur les voitures hybrides",
+          "url": "https://www.lesechos.fr/industrie-services/automobile/automobile-comment-les-quotas-sur-les-voitures-hybrides-vont-rebattre-les-cartes-en-europe-et-penaliser-certains-geants-chinois-2264668"
+        },
+        {
+          "titre": "Ilboursa : l'UE plafonne les hybrides exportés du Maroc",
+          "url": "https://www.ilboursa.com/marches/lunion-europeenne-plafonne-les-exportations-marocaines-de-voitures-hybrides_65930"
+        },
+        {
+          "titre": "Les Echos Investir : Rémy Cointreau relève ses objectifs",
+          "url": "https://investir.lesechos.fr/actu-des-valeurs/la-vie-des-actions/remy-cointreau-releve-ses-objectifs-annuels-et-presente-ses-ambitions-a-horizon-2032-2264465"
+        },
+        {
+          "titre": "ABC Bourse : Advent étudie le rachat de Bureau Veritas",
+          "url": "https://www.abcbourse.com/marches/le-fonds-americain-advent-international-etudie-le-rachat-de-bureau-veritas_706638"
+        },
+        {
+          "titre": "Les Echos : le scénario d'un rachat de Bureau Veritas par Advent",
+          "url": "https://www.lesechos.fr/industrie-services/services-conseils/la-bourse-seduite-par-le-scenario-surprise-dun-rachat-de-bureau-veritas-par-advent-2264607"
+        },
+        {
+          "titre": "Idéal Investisseur : Dassault Systèmes enfonce son support",
+          "url": "https://www.ideal-investisseur.fr/actions-b/laction-dassault-systemes-enfonce-son-support-des-2214-et-cede-85-en-une-semaine/30192.html"
+        },
+        {
+          "titre": "Les Echos Investir : le plan stratégique de Dassault Systèmes",
+          "url": "https://investir.lesechos.fr/conseils-boursiers/conseils-actions/le-nouveau-plan-strategique-de-dassault-systemes-a-ete-fraichement-accueilli-par-les-marches-qui-retiennent-labaissement-de-lobjectif-de-rentabilite-a-lhorizon-2029-2263588"
+        },
+        {
+          "titre": "Idéal Investisseur : Air Liquide à 3 % de son record",
+          "url": "https://www.ideal-investisseur.fr/actions-b/laction-air-liquide-grappille-02-a-3-de-son-record-du-12-novembre/30193.html"
+        }
+      ]
+    },
+    {
       "date": "2026-11-24",
       "titre": "L'effet Nvidia retombe déjà, Sanofi sauve le CAC 40 avec un rachat géant",
       "resume": "Au lendemain de l'envolée provoquée par le retour de Jensen Huang, les investisseurs prennent leurs bénéfices sur l'IA : Nvidia rend environ 8 % et le Nasdaq recule nettement (provisoire). À Paris, le CAC 40 finit stable à 8 040,49 points (-0,05 %), car la hausse de Sanofi (+9,76 %), qui rachète Insmed pour 41 milliards de dollars, compense la rechute de STMicroelectronics (-10,22 %). Le pétrole reste à son plus bas depuis trois mois avant l'inflation PCE de mercredi.",
@@ -7744,182 +8087,6 @@
           "url": "https://www.boursorama.com/bourse/actualites/wall-street-poursuit-son-elan-avant-la-fed-f7ca8742a7f73a72908fe0244d19ca91"
         }
       ]
-    },
-    {
-      "date": "2026-10-26",
-      "titre": "Paris rebondit de 0,83 % grâce à la détente des taux français, et Wall Street grimpe avec l'introduction en bourse d'Anthropic",
-      "resume": "Le CAC 40 a fini à 7 847,32 points (+0,83 %), aidé par un net repli du taux français à dix ans après le maintien de la note de la France par Moody's. À Wall Street, les valeurs de l'IA ont mené la hausse après le dépôt du dossier d'introduction en bourse d'Anthropic. La Fed et la BCE doivent se prononcer mercredi et jeudi.",
-      "humeur": "hausse",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 847,32 pts",
-          "variation": 0.83
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "≈ 6 120 pts",
-          "variation": 0.86
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "≈ 7 694 pts (fin de séance à Paris)",
-          "variation": 0.92
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "≈ 26 280 pts (Composite, fin de séance à Paris)",
-          "variation": 1.25
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 115 $ le baril",
-          "variation": -1.1
-        },
-        {
-          "nom": "Or",
-          "valeur": "cours non confirmé ce soir",
-          "variation": 0.0
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "≈ 1,121",
-          "variation": 0.0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Banques centrales",
-          "texte": "La Fed décide mercredi 28 octobre, avec une conférence de presse de Kevin Warsh, et la BCE jeudi 29. Le scénario central est un statu quo sur les taux, mais les marchés anticipent de possibles hausses en décembre."
-        },
-        {
-          "titre": "Taux français et dette",
-          "texte": "Le taux français à dix ans est redescendu vers 4,90 % après la décision de Moody's de ne pas dégrader la note du pays. Cette détente a soutenu les banques : BNP Paribas a gagné environ 2,4 % et Société Générale environ 2 %."
-        },
-        {
-          "titre": "Pétrole et géopolitique",
-          "texte": "Le Brent reculait lundi autour de 115 $ le baril, après son sommet depuis avril atteint la semaine passée. Les tensions entre Washington et Téhéran et des attaques des Houthis contre l'Arabie saoudite maintiennent une forte prime de risque."
-        },
-        {
-          "titre": "Intelligence artificielle",
-          "texte": "Anthropic a déposé son dossier d'introduction en bourse au Nasdaq, avec une valorisation visée entre 1 500 et 2 000 milliards de dollars selon la presse. L'annonce a relancé l'appétit pour l'IA, avant les résultats d'Alphabet et de Microsoft cette semaine."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 369.76,
-        "pv": -29.44,
-        "texte": "Ton portefeuille vaut 369.76 € pour 399.20 € investis, soit -29.44 €. STMicroelectronics (+2,6 %) et ton ETF Monde ont progressé ; le dernier cours disponible de l'ETF Nasdaq-100 date de vendredi. Cette valeur tient aussi compte d'un rafraîchissement des cours des deux ETF, qui n'avaient plus été mis à jour depuis le 9 octobre."
-      },
-      "valeurs": [
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre remonte d'environ 2,6 % à 40,50 € à trois jours de ses résultats du troisième trimestre, attendus jeudi 29 octobre avant l'ouverture."
-        },
-        {
-          "nom": "Soitec",
-          "texte": "L'action rebondit d'environ 5 % à 117,30 € après deux séances de baisse, dont une chute proche de 10 % mercredi."
-        },
-        {
-          "nom": "Amundi PEA Nasdaq-100",
-          "texte": "L'ETF suit un Nasdaq porté par l'IA après l'annonce d'Anthropic. Son dernier cours confirmé (6,843 €) date de vendredi 23 octobre."
-        },
-        {
-          "nom": "Air Liquide et Amundi",
-          "texte": "Les deux groupes publient leurs résultats du troisième trimestre jeudi 29 octobre, le jour de la BCE."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Crédit Agricole SA",
-          "isin": "FR0000045072",
-          "risque": "Modéré",
-          "prix": "≈ 15 € la part",
-          "texte": "Crédit Agricole est l'une des grandes banques françaises, très présente dans la banque de détail et la gestion d'actifs via Amundi. Lundi, les banques ont profité de la détente des taux français : le titre a gagné environ 1,2 % pour approcher 15 €, un prix accessible à un petit budget. Le conseil d'administration a aussi décidé le 6 octobre d'annuler environ 32 millions d'actions auto-détenues. Le principal risque : une banque dépend de la santé de l'économie française et de la confiance dans la dette du pays, et le taux à dix ans reste élevé."
-        },
-        {
-          "nom": "Legrand",
-          "isin": "FR0010307819",
-          "risque": "Élevé",
-          "prix": "≈ 127 € la part (cours en séance)",
-          "texte": "Legrand fabrique des équipements électriques, notamment pour les centres de données, que l'essor de l'IA oblige à multiplier. L'action rebondit d'environ 2 % lundi mais a perdu plus de 11 % depuis le début du mois, ce qui peut intéresser ceux qui suivent la tendance de l'IA par ses fournisseurs plutôt que par ses vedettes. Le groupe a multiplié les acquisitions dans les centres de données. Le principal risque : la valorisation reste liée à l'enthousiasme pour l'IA, qui peut se retourner vite."
-        },
-        {
-          "nom": "Nanobiotix",
-          "isin": "FR0011341205",
-          "risque": "Très élevé",
-          "prix": "≈ 25,8 € la part (cours du 23 octobre)",
-          "texte": "Nanobiotix est une biotech française qui développe des nanoparticules pour renforcer l'effet de la radiothérapie contre le cancer. Elle figure dans l'actualité boursière du jour et dispose de 110,9 millions d'euros de trésorerie, qui financent selon elle ses activités jusqu'en 2029. Les analystes affichent un objectif moyen proche de 49 €, bien au-dessus du cours actuel. Le principal risque : comme toute biotech, sa valeur dépend de résultats d'essais cliniques et d'autorisations, et le titre peut perdre beaucoup en une séance."
-        }
-      ],
-      "concept": {
-        "terme": "L'introduction en bourse (IPO)",
-        "texte": "Une introduction en bourse (IPO en anglais) est l'opération par laquelle une entreprise vend pour la première fois ses actions au public sur un marché financier. Elle permet à l'entreprise de lever de l'argent et aux premiers actionnaires de revendre une partie de leurs titres. Avant l'opération, un prospectus décrit l'activité, les comptes et les risques, et l'investisseur peut déposer un ordre dans une fourchette de prix. Le dossier d'Anthropic déposé aujourd'hui en est un exemple. Une introduction n'est pas une garantie de gain : le prix initial peut être trop élevé, et l'AMF recommande de n'y engager qu'une petite partie de son épargne. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
-        "references": [
-          {
-            "titre": "AMF : Participer à une introduction en bourse, quelles précautions prendre ⚠️",
-            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/participer-une-introduction-en-bourse/participer-une-introduction-en-bourse-quelles-precautions-prendre"
-          },
-          {
-            "titre": "Investopedia : Initial Public Offering (IPO) ⚠️",
-            "url": "https://www.investopedia.com/terms/i/ipo.asp"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux et conférence de presse"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "STMicroelectronics : résultats du 3e trimestre (avant l'ouverture)"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "Air Liquide et Amundi : chiffre d'affaires et résultats du 3e trimestre"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "États-Unis : PIB du 3e trimestre et indice PCE"
-        },
-        {
-          "date": "2026-11-03",
-          "titre": "États-Unis : élections de mi-mandat"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "Boursorama : La Bourse de Paris termine en hausse, aidée par le reflux des taux",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-aidee-par-le-reflux-des-taux-db4455d4897742cf6edddb03e8a1a321"
-        },
-        {
-          "titre": "Boursorama : L'Europe finit dans le vert avant le pic de la saison des résultats",
-          "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-avant-le-pic-de-la-saison-des-resultats-a5a3ed3ffb11d7d8059621b2d366c565"
-        },
-        {
-          "titre": "Boursorama : Wall Street s'apprête à connaître sa meilleure journée depuis un mois",
-          "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-apprete-a-connaitre-sa-meilleure-journee-depuis-un-mois-l-annonce-de-l-introduction-en-bourse-d-anthropic-ayant-stimule-les-valeurs-liees-a-l-ia-1089d8f98fea96709b733fc2eebb4f0d"
-        },
-        {
-          "titre": "MarketScreener : Wall St rises as Anthropic's IPO filing sharpens focus on AI trade",
-          "url": "https://www.marketscreener.com/news/wall-st-rises-as-anthropic-s-ipo-filing-sharpens-focus-on-ai-trade-ce785cdcdd8ff22d"
-        },
-        {
-          "titre": "Finanzen.net : Euro STOXX 50 en clôture",
-          "url": "https://www.finanzen.net/nachricht/aktien/boerse-europa-in-gruen-euro-stoxx-50-klettert-zum-ende-des-montagshandels-16009067"
-        }
-      ],
-      "idee": {
-        "nom": "Crédit Agricole SA",
-        "isin": "FR0000045072",
-        "risque": "Modéré",
-        "prix": "≈ 15 € la part",
-        "texte": "Crédit Agricole est l'une des grandes banques françaises, très présente dans la banque de détail et la gestion d'actifs via Amundi. Lundi, les banques ont profité de la détente des taux français : le titre a gagné environ 1,2 % pour approcher 15 €, un prix accessible à un petit budget. Le conseil d'administration a aussi décidé le 6 octobre d'annuler environ 32 millions d'actions auto-détenues. Le principal risque : une banque dépend de la santé de l'économie française et de la confiance dans la dette du pays, et le taux à dix ans reste élevé."
-      }
     }
   ]
 }

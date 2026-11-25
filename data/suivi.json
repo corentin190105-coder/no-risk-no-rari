@@ -29,7 +29,8 @@
     "ADP.PA",
     "RNO.PA",
     "RCO.PA",
-    "AF.PA"
+    "AF.PA",
+    "BVI.PA"
   ],
   "indices": [
     "^FCHI",

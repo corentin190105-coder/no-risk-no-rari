@@ -531,3 +531,15 @@ Une offre publique d'achat, ou OPA, est une proposition faite publiquement à to
 **Références**
 - [AMF : Que savoir sur les offres publiques d'acquisition (OPA, OPE...) ?](https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/comprendre-et-participer-une-operation-financiere)
 - [AMF : Comprendre les offres publiques d'acquisition, OPA, OPE, etc. (guide épargnants)](https://www.amf-france.org/fr/actualites-publications/publications/guides/guides-epargnants/comprendre-les-offres-publiques-dacquisition-opa-ope-etc)
+
+## Q: Qu'est-ce que le marché baissier (bear market) ?
+
+_2026-11-25 21:01 CET_
+
+Un marché baissier, ou bear market, désigne une baisse prolongée d'au moins 20 % d'un indice ou d'un actif par rapport à son dernier plus haut, dans un climat de pessimisme général. Ce seuil de 20 % est une convention de place, pas une règle officielle : entre 10 et 20 % de baisse, on parle plutôt de correction. Mercredi, le Nasdaq-100 a été tout près de franchir ce seuil en séance avant de réduire ses pertes (Yahoo Finance relayé par MLQ), et l'ETF Nasdaq-100 éligible au PEA a fini à 6,023 €, au plus bas de six mois et environ 18 % sous son sommet de 7,365 €. Un marché baissier peut durer de quelques mois à plusieurs années, et il est souvent coupé de rebonds rapides qui ne marquent pas forcément la fin de la baisse. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [Pictet Asset Management (Terre d'épargne) : qu'est-ce qu'un Bear Market ?](https://am.pictet.com/terredepargne/actualite-des-marches/2024/marches-financiers-qu-est-ce-qu-un-bear-market)
+- [Investopedia : Bear Market ⚠️](https://www.investopedia.com/terms/b/bearmarket.asp)
+
+⚠️ Lien non vérifiable au moment de la rédaction

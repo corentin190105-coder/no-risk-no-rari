@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-24T21:30:00+01:00",
+  "maj": "2026-11-25T21:10:00+01:00",
   "verdict": {
-    "titre": "STMicroelectronics repasse sous son niveau de sortie : deux ventes sont maintenant actives",
-    "texte": "Le rebond de lundi n'a tenu qu'une séance : ton portefeuille revient à 734,80 €, soit -64,48 € (contre -48,29 € lundi). STMicroelectronics a clôturé à 35,92 € (-10,22 %), sous son niveau de sortie de 38,61 € fixé à l'avance : la vente prévue se déclenche, sans déplacer le niveau. Stellantis (3,12 €) reste sous 3,75 €. Vendre ces deux lignes est l'action la plus importante du plan ; aucun achat court terme n'est prêt avant l'inflation PCE de mercredi."
+    "titre": "Deux ventes toujours actives, aucun achat court terme prêt dans un marché nerveux",
+    "texte": "Ton portefeuille recule à 724,75 €, soit -74,53 € (contre -64,48 € mardi), surtout à cause de l'ETF Nasdaq-100 et de STMicroelectronics après une inflation américaine plus forte que prévu hors énergie et un projet de droits de douane contre l'Europe. STMicroelectronics (34,24 €) et Stellantis (3,24 €) restent sous leurs niveaux de sortie de 38,61 € et 3,75 € : vendre ces deux lignes reste l'action la plus importante du plan, sans déplacer les niveaux. Aucun achat court terme n'est prêt ; le socle ETF Monde reste le seul achat sans condition de marché."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -11,16 +11,16 @@
       "isin": "FR001400U5Q4",
       "symbole": "DCAM.PA",
       "action": "Garder",
-      "pourquoi": "C'est ton socle. Il rend 1,61 % à 6,049 € avec la rechute de la tech américaine et reste sous ses moyennes 20 et 50 jours (6,24 € et 6,28 €). Pour un placement de long terme, ces variations ne changent pas le plan.",
+      "pourquoi": "C'est ton socle. Il perd 1,88 % à 5,935 € avec la vente sur la tech américaine et reste sous ses moyennes 20 et 50 jours (6,22 € et 6,28 €), à 1,6 % de son plus bas de six mois (5,841 €). Pour un placement de long terme, ces variations ne changent pas le plan.",
       "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
-      "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 15 parts."
+      "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 16 parts."
     },
     {
       "nom": "Amundi PEA Nasdaq-100",
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "L'ETF rend 3,74 % à 6,251 €, presque tout le rebond de lundi, car Nvidia perd environ 8 % au lendemain de son envolée. Il reste sous ses moyennes 20 et 50 jours (6,59 € et 6,86 €) : c'est ta ligne la plus sensible à l'IA et à l'inflation PCE de mercredi.",
+      "pourquoi": "L'ETF perd 3,65 % à 6,023 €, son plus bas de six mois, environ 18 % sous son sommet de 7,365 €, car Paris a clôturé près du plus bas de Wall Street. Il reste sous ses moyennes 20 et 50 jours (6,54 € et 6,85 €) : c'est ta ligne la plus sensible à l'IA, aux taux et aux droits de douane.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -29,7 +29,7 @@
       "isin": "FR0013380607",
       "symbole": "CACC.PA",
       "action": "Garder",
-      "pourquoi": "Le CAC 40 finit stable (-0,05 %) grâce à Sanofi : l'ETF termine à 41,02 €, au-dessus de sa moyenne 50 jours (40,80 €) mais sous la 20 jours (41,44 €).",
+      "pourquoi": "Le CAC 40 recule de 0,75 % et repasse sous 8 000 points : l'ETF termine à 40,71 €, juste sous sa moyenne 50 jours (40,78 €) et sous la 20 jours (41,47 €), avec un volume deux fois supérieur à la moyenne.",
       "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
       "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
     },
@@ -39,7 +39,7 @@
       "symbole": "AI.PA",
       "action": "Garder",
       "sortie": 171.03,
-      "pourquoi": "Le titre gagne 0,25 % à 188,12 € et annonce un investissement de plus de 100 millions de dollars aux États-Unis pour un client aciériste. Il reste au-dessus de ses moyennes 20 et 50 jours (187,33 € et 176,80 €), loin de ton niveau de sortie. Tu es en gain d'environ 5 €, frais d'achat et de vente compris.",
+      "pourquoi": "Le titre finit à l'équilibre (+0,18 % à 188,46 €), à environ 3 % de son record du 12 novembre, au-dessus de ses moyennes 20 et 50 jours (188,04 € et 177,24 €) et loin de ton niveau de sortie. C'est ta ligne la plus stable : tu es en gain d'environ 5 €, frais d'achat et de vente compris.",
       "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
       "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
     },
@@ -49,8 +49,8 @@
       "symbole": "STLAP.PA",
       "action": "Vendre",
       "sortie": 3.75,
-      "pourquoi": "Le titre perd 3,06 % à 3,12 €, tout près de son plus bas de six mois (3,085 €), sans nouvelle propre. Il reste loin sous le niveau de sortie de 3,75 €, cassé depuis le 11 novembre, et sous ses moyennes 20 et 50 jours (3,72 € et 3,87 €). Rien ne justifie de déplacer le niveau.",
-      "vendreSi": "c'est le cas : vends les 13 actions avec un ordre à cours limité proche du cours, puis saisis la vente dans ton journal. Vers 3,12 €, la perte totale serait d'environ 14 €, frais d'achat et de vente compris.",
+      "pourquoi": "Le titre rebondit de 3,75 % à 3,24 € grâce aux quotas européens sur les hybrides importés à partir du 1er décembre, mais le Maroc, où le groupe produit aussi, est également plafonné. Il reste sous ses moyennes 20 et 50 jours (3,67 € et 3,85 €) et loin sous le niveau de sortie de 3,75 €, cassé depuis le 11 novembre : un rebond d'une séance ne justifie pas de déplacer le niveau.",
+      "vendreSi": "c'est le cas : vends les 13 actions avec un ordre à cours limité proche du cours, puis saisis la vente dans ton journal. Vers 3,24 €, la perte totale serait d'environ 12,50 €, frais d'achat et de vente compris.",
       "renforcerSi": "non. Un rachat ne serait à étudier qu'après un fait nouveau et une clôture au-dessus de sa moyenne 50 jours (4,03 €)."
     },
     {
@@ -59,8 +59,8 @@
       "symbole": "STMPA.PA",
       "action": "Vendre",
       "sortie": 38.61,
-      "pourquoi": "Le titre perd 10,22 % à 35,92 €, efface tout le rebond de lundi et clôture sous ton niveau de sortie de 38,61 €, avec un volume supérieur à la moyenne (ABC Bourse, Moneyvox). La baisse vient du secteur, pas d'une nouvelle propre à la société, mais la règle fixée à l'avance ne dépend pas de la cause : le niveau est cassé en clôture. Le titre est à son plus bas de six mois, sous ses moyennes 20 et 50 jours (40,64 € et 43,12 €).",
-      "vendreSi": "c'est le cas : vends les 2 actions avec un ordre à cours limité proche du cours, puis saisis la vente dans ton journal. Vers 35,92 €, la perte totale serait d'environ 30 €, frais d'achat et de vente compris. Un rebond technique est possible après -10 % en une séance : un ordre limité vers 36,50 € en début de séance peut viser un meilleur prix, sans attendre au-delà de la journée.",
+      "pourquoi": "Le titre perd encore 4,69 % à 34,24 €, nouveau plus bas de six mois, avec tout le secteur des puces (Infineon -6,5 %, ASML -5,8 %), sans nouvelle propre. Il reste nettement sous ton niveau de sortie de 38,61 €, cassé en clôture mardi, et sous ses moyennes 20 et 50 jours (40,18 € et 42,95 €).",
+      "vendreSi": "c'est le cas : vends les 2 actions avec un ordre à cours limité proche du cours, puis saisis la vente dans ton journal. Vers 34,24 €, la perte totale serait d'environ 34 €, frais d'achat et de vente compris. Le rebond de Wall Street mercredi soir peut offrir un meilleur prix à l'ouverture : un ordre limité vers 34,80 € en début de séance, sans attendre au-delà de la journée.",
       "renforcerSi": "non. Un rachat ne serait à étudier qu'après une clôture au-dessus de sa moyenne 50 jours, vers 43 €."
     }
   ],
@@ -87,45 +87,45 @@
       "contre": "Les marchés peuvent baisser plusieurs années de suite. Cet achat n'a de sens que si tu peux laisser l'argent investi au moins 5 ans."
     },
     {
-      "nom": "Rémy Cointreau",
+      "nom": "Renault",
       "statut": "Attendre",
       "plan": [
         [
           "Déclencheur",
-          "Résultats du 25 novembre puis clôture au-dessus de 52,50 €"
+          "Clôture au-dessus de 28,00 €"
         ],
         [
           "Entrée",
-          "52,50 €"
+          "28,00 €"
         ],
         [
           "Sortie",
-          "50,00 €"
+          "27,00 €"
         ],
         [
           "Objectif",
-          "57,50 €"
+          "30,00 €"
         ],
         [
           "Exemple",
-          "7 actions, environ 367,50 €"
+          "14 actions, environ 392 €"
         ],
         [
           "Perte max",
-          "environ 19,50 €, frais compris"
+          "environ 16 €, frais compris"
         ],
         [
           "Gain visé",
-          "environ 33 €, net de 2 € de frais"
+          "environ 26 €, net de 2 € de frais"
         ],
         [
           "Échéance",
-          "4 décembre"
+          "9 décembre"
         ]
       ],
-      "quand": "Seulement après la publication du mercredi 25 novembre et une clôture au-dessus de 52,50 €. Mardi, le titre a fini à 51,40 € (+2,09 %).",
-      "pourquoi": "Catalyseur daté : résultats semestriels et objectifs 2031-32. Le chiffre d'affaires du semestre progresse déjà de 2,9 % en organique, avec une accélération au 2e trimestre.",
-      "contre": "Volume faible, cognac pénalisé par les droits de douane, ATR à confirmer dans le fichier de cours, et des objectifs décevants peuvent faire chuter le titre."
+      "quand": "Seulement après une clôture au-dessus de 28,00 €, sa moyenne 20 jours. Mercredi, le titre a fini à 27,37 € (+2,28 %).",
+      "pourquoi": "Catalyseur daté : les quotas européens sur les voitures hybrides importées entrent en vigueur le 1er décembre, avec un quota d'environ 191 780 véhicules pour la Chine.",
+      "contre": "Le Maroc, où Renault produit des Dacia, est aussi plafonné ; les droits de douane américains proposés visent l'Europe ; consensus, dirigeants et positions courtes non vérifiés."
     },
     {
       "nom": "Air France-KLM",
@@ -133,7 +133,7 @@
       "plan": [
         [
           "Déclencheur",
-          "Repli vers 14,00 € qui tient en clôture"
+          "Repli vers 14,00 € qui tient en clôture, avec un Brent sous 90 dollars"
         ],
         [
           "Entrée",
@@ -164,9 +164,9 @@
           "8 décembre"
         ]
       ],
-      "quand": "Seulement sur un repli vers 14,00 € qui tient en clôture, et après confirmation de l'ATR dans le fichier de cours. Mardi, le titre a fini à 14,52 € (-1,99 %).",
-      "pourquoi": "Le pétrole au plus bas depuis trois mois allège la facture de carburant, et le groupe a battu le consensus au 3e trimestre.",
-      "contre": "Titre en surchauffe (environ +44 % en 20 séances, RSI au-dessus de 85 vendredi), catalyseur surtout macro, et l'OPEP+ peut faire remonter le pétrole le 29 novembre."
+      "quand": "Seulement sur un repli vers 14,00 € qui tient en clôture et si le Brent repasse sous 90 dollars. Mercredi, le titre a fini à 14,27 € (-1,76 %).",
+      "pourquoi": "Le groupe a battu le consensus au 3e trimestre, et un pétrole moins cher allège sa facture de carburant.",
+      "contre": "Le Brent a rebondi d'environ 3 % vers 93,7 dollars mercredi, le titre a déjà beaucoup monté en novembre, et l'OPEP+ se réunit le 29 novembre."
     }
   ],
   "decouvertes": [
@@ -201,24 +201,24 @@
       "faux": "Une dette lourde, la concurrence des constellations en orbite basse et le déclin de la télévision par satellite peuvent continuer de peser sur le cours."
     },
     {
-      "nom": "Getlink",
-      "isin": "FR0010533075",
-      "symbole": "GET.PA",
-      "theme": "Une concession de très long terme sous la Manche",
-      "risque": "Modéré",
-      "pourquoi": "Tu n'as aucune valeur de transport. Getlink exploite le tunnel sous la Manche, dont la concession court jusqu'en 2086, et tire ses revenus des navettes Le Shuttle et des péages payés par les trains Eurostar et de fret : un actif unique, difficile à concurrencer. Dans la semaine où le CAC 40 a perdu 5,3 %, le titre n'a cédé que 2,7 % et finit vendredi à 20,12 €, au-dessus de sa moyenne 50 jours (19,34 €), en tendance haussière selon le radar (Yahoo Finance). Une part à environ 20 € reste accessible. Je n'ai pas vérifié ce soir d'actualité propre à la société.",
-      "aBorder": "À étudier pour le long terme : lire ses derniers résultats, sa dette et la politique de dividende avant tout achat. Pas de signal court terme.",
-      "faux": "Une baisse du trafic transmanche, une dette importante sensible aux taux, ou une concurrence renforcée des ferries et de l'aérien."
-    },
-    {
       "nom": "Bureau Veritas",
       "isin": "FR0006174348",
       "symbole": "BVI.PA",
       "theme": "Les services d'inspection et de certification, une activité peu cyclique",
       "risque": "Modéré",
-      "pourquoi": "Tu n'as aucune valeur de services aux entreprises. Bureau Veritas contrôle et certifie des bâtiments, des navires, des usines et des produits pour le compte de clients du monde entier : ce sont souvent des contrôles obligatoires, ce qui rend l'activité moins dépendante de la conjoncture. Dans la semaine où le CAC 40 a perdu plus de 5 %, le titre est resté en tendance haussière selon le radar, à 29,68 € vendredi, au-dessus de ses moyennes 20, 50 et 200 jours (Yahoo Finance). Une part à environ 30 € reste accessible. Je n'ai pas vérifié ce soir d'actualité propre à la société.",
-      "aBorder": "À étudier pour le long terme : lire ses derniers résultats, sa croissance organique et sa dette avant tout achat. Pas de signal court terme.",
-      "faux": "Un ralentissement industriel mondial peut réduire les missions, et une valeur réputée défensive peut être délaissée quand le marché repart vers la tech."
+      "pourquoi": "Tu n'as aucune valeur de services aux entreprises. Bureau Veritas contrôle et certifie des bâtiments, des navires, des usines et des produits, une activité peu cyclique, avec 10,1 % de croissance au 3e trimestre (ABC Bourse, 21 octobre). Mercredi, le titre a gagné 6,6 % à 31,80 € sur des informations de presse évoquant un projet de rachat par le fonds Advent, non confirmé (ABC Bourse, Les Echos).",
+      "aBorder": "À étudier pour le long terme, pas pour jouer la rumeur : attends une confirmation ou un démenti officiel avant toute décision.",
+      "faux": "Un démenti du projet de rachat peut effacer la hausse du jour, et une valorisation déjà élevée laisse peu de marge en cas de ralentissement."
+    },
+    {
+      "nom": "Symrise",
+      "isin": "DE000SYM9999",
+      "symbole": "SY1.DE",
+      "theme": "Les ingrédients de parfums et d'arômes, un fournisseur discret de la consommation",
+      "risque": "Modéré",
+      "pourquoi": "Tu n'as aucune valeur de chimie de spécialité ni d'action allemande. Symrise fabrique des arômes, des parfums et des ingrédients vendus aux groupes de cosmétiques et d'alimentation. Mercredi, la Commission européenne a infligé 471,9 millions d'euros d'amendes pour entente à Givaudan, DSM-Firmenich et IFF, mais pas à Symrise, dont l'action a gagné 1,6 % (Commission européenne, MLQ).",
+      "aBorder": "À étudier pour le long terme : vérifie d'abord l'éligibilité au PEA chez Trade Republic (société allemande, cotée à Francfort en euros) et le prix d'une part.",
+      "faux": "Le secteur peut subir d'autres enquêtes, et une consommation qui ralentit pèserait sur les volumes vendus."
     }
   ]
 }
