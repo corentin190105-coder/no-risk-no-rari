@@ -30,7 +30,8 @@
     "RNO.PA",
     "RCO.PA",
     "AF.PA",
-    "BVI.PA"
+    "BVI.PA",
+    "MT.AS"
   ],
   "indices": [
     "^FCHI",

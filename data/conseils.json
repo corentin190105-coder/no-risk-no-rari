@@ -1,8 +1,8 @@
 {
-  "maj": "2026-11-25T21:10:00+01:00",
+  "maj": "2026-11-26T21:10:00+01:00",
   "verdict": {
-    "titre": "Deux ventes toujours actives, aucun achat court terme prêt dans un marché nerveux",
-    "texte": "Ton portefeuille recule à 724,75 €, soit -74,53 € (contre -64,48 € mardi), surtout à cause de l'ETF Nasdaq-100 et de STMicroelectronics après une inflation américaine plus forte que prévu hors énergie et un projet de droits de douane contre l'Europe. STMicroelectronics (34,24 €) et Stellantis (3,24 €) restent sous leurs niveaux de sortie de 38,61 € et 3,75 € : vendre ces deux lignes reste l'action la plus importante du plan, sans déplacer les niveaux. Aucun achat court terme n'est prêt ; le socle ETF Monde reste le seul achat sans condition de marché."
+    "titre": "Rebond de jour férié : un meilleur prix pour les deux ventes prévues, toujours aucun achat court terme prêt",
+    "texte": "Ton portefeuille remonte à 745,43 €, soit -53,85 € (contre -74,53 € mercredi), grâce au rebond de toutes tes lignes pendant que Wall Street était fermée pour Thanksgiving. Stellantis (3,53 €) et STMicroelectronics (35,77 €) restent sous leurs niveaux de sortie de 3,75 € et 38,61 € : vendre ces deux lignes reste l'action la plus importante du plan, et ce rebond offre un meilleur prix qu'hier, sans déplacer les niveaux. Aucun achat court terme n'est prêt ; le socle ETF Monde reste le seul achat sans condition de marché."
   },
   "lecture": "J'ai testé 5 ans d'historique sur environ 95 actions françaises. Résultat : aucun des trois signaux techniques ne bat des entrées au hasard, et tous perdent environ 0,7 à 0,9 % par opération après 2 € de frais sur 200 €. Un signal technique seul n'est donc pas une raison d'acheter. Il aide à trouver des valeurs à étudier, pas à décider. Les frais pèsent lourd sur de petits montants : mieux vaut peu d'ordres, bien choisis. J'ai aussi testé des méthodes plus longues, revues chaque mois : momentum et actions calmes font moins bien qu'un panier égal de toutes les actions. Ce panier est flatté car il exclut les sociétés disparues, mais aucune règle simple de sélection ne le bat.",
   "positions": [
@@ -11,7 +11,7 @@
       "isin": "FR001400U5Q4",
       "symbole": "DCAM.PA",
       "action": "Garder",
-      "pourquoi": "C'est ton socle. Il perd 1,88 % à 5,935 € avec la vente sur la tech américaine et reste sous ses moyennes 20 et 50 jours (6,22 € et 6,28 €), à 1,6 % de son plus bas de six mois (5,841 €). Pour un placement de long terme, ces variations ne changent pas le plan.",
+      "pourquoi": "C'est ton socle. Il reprend 2,85 % à 6,104 € en suivant le rebond de Wall Street de mercredi soir, mais reste sous ses moyennes 20 et 50 jours (6,21 € et 6,27 €). Pour un placement de long terme, ces variations ne changent pas le plan.",
       "vendreSi": "pas de niveau de vente. Tu vends seulement si ton projet change ou si tu as besoin de cet argent.",
       "renforcerSi": "tu as de l'épargne disponible : achats réguliers, sans chercher le meilleur moment. Avec 100 €, cela fait 16 parts."
     },
@@ -20,7 +20,7 @@
       "isin": "FR001400ZGR7",
       "symbole": "PNAS.PA",
       "action": "Garder",
-      "pourquoi": "L'ETF perd 3,65 % à 6,023 €, son plus bas de six mois, environ 18 % sous son sommet de 7,365 €, car Paris a clôturé près du plus bas de Wall Street. Il reste sous ses moyennes 20 et 50 jours (6,54 € et 6,85 €) : c'est ta ligne la plus sensible à l'IA, aux taux et aux droits de douane.",
+      "pourquoi": "L'ETF reprend 4,37 % à 6,286 €, après un plus bas de six mois mercredi (6,001 €). Il reste sous ses moyennes 20 et 50 jours (6,51 € et 6,84 €) : c'est ta ligne la plus sensible à l'IA, aux taux et aux droits de douane, et un rebond d'une séance ne change pas sa tendance.",
       "vendreSi": "pas de vente de panique. Revois la taille de la ligne si tu ne supportes pas ses variations.",
       "renforcerSi": "seulement après le Monde : cette ligne pèse déjà lourd dans ton portefeuille."
     },
@@ -29,7 +29,7 @@
       "isin": "FR0013380607",
       "symbole": "CACC.PA",
       "action": "Garder",
-      "pourquoi": "Le CAC 40 recule de 0,75 % et repasse sous 8 000 points : l'ETF termine à 40,71 €, juste sous sa moyenne 50 jours (40,78 €) et sous la 20 jours (41,47 €), avec un volume deux fois supérieur à la moyenne.",
+      "pourquoi": "Le CAC 40 reprend 1,61 % à 8 108,74 points : l'ETF termine à 41,38 €, au-dessus de sa moyenne 50 jours (40,78 €) mais juste sous la 20 jours (41,52 €), sur un volume très faible un jour de Thanksgiving.",
       "vendreSi": "pas de niveau de vente, c'est un placement de fond.",
       "renforcerSi": "inutile à court terme : tu détiens déjà le Monde, plus diversifié."
     },
@@ -39,7 +39,7 @@
       "symbole": "AI.PA",
       "action": "Garder",
       "sortie": 171.03,
-      "pourquoi": "Le titre finit à l'équilibre (+0,18 % à 188,46 €), à environ 3 % de son record du 12 novembre, au-dessus de ses moyennes 20 et 50 jours (188,04 € et 177,24 €) et loin de ton niveau de sortie. C'est ta ligne la plus stable : tu es en gain d'environ 5 €, frais d'achat et de vente compris.",
+      "pourquoi": "Le titre gagne 0,99 % à 190,32 €, au-dessus de ses moyennes 20 et 50 jours (188,68 € et 177,74 €), à environ 2 % de son plus haut de six mois et loin de ton niveau de sortie. C'est ta ligne la plus stable : tu es en gain d'environ 7 €, frais d'achat et de vente compris.",
       "vendreSi": "clôture sous 171 €, sa moyenne 50 jours, ce qui casserait la tendance.",
       "renforcerSi": "pas maintenant : une part vaut environ 190 € et le mouvement est déjà fait."
     },
@@ -49,8 +49,8 @@
       "symbole": "STLAP.PA",
       "action": "Vendre",
       "sortie": 3.75,
-      "pourquoi": "Le titre rebondit de 3,75 % à 3,24 € grâce aux quotas européens sur les hybrides importés à partir du 1er décembre, mais le Maroc, où le groupe produit aussi, est également plafonné. Il reste sous ses moyennes 20 et 50 jours (3,67 € et 3,85 €) et loin sous le niveau de sortie de 3,75 €, cassé depuis le 11 novembre : un rebond d'une séance ne justifie pas de déplacer le niveau.",
-      "vendreSi": "c'est le cas : vends les 13 actions avec un ordre à cours limité proche du cours, puis saisis la vente dans ton journal. Vers 3,24 €, la perte totale serait d'environ 12,50 €, frais d'achat et de vente compris.",
+      "pourquoi": "Le titre s'envole de 8,93 % à 3,53 €, en tête du CAC 40, avec les quotas européens sur les hybrides importés à partir du 1er décembre, sur un volume un peu supérieur à sa moyenne. Il reste pourtant sous sa moyenne 20 jours (3,63 €), sous la 50 jours (3,83 €) et sous le niveau de sortie de 3,75 €, cassé depuis le 11 novembre : un rebond d'une séance ne justifie pas de déplacer le niveau.",
+      "vendreSi": "c'est le cas : vends les 13 actions avec un ordre à cours limité proche du cours, puis saisis la vente dans ton journal. Vers 3,53 €, la perte totale serait d'environ 8,70 €, frais d'achat et de vente compris, contre 12,50 € hier soir.",
       "renforcerSi": "non. Un rachat ne serait à étudier qu'après un fait nouveau et une clôture au-dessus de sa moyenne 50 jours (4,03 €)."
     },
     {
@@ -59,8 +59,8 @@
       "symbole": "STMPA.PA",
       "action": "Vendre",
       "sortie": 38.61,
-      "pourquoi": "Le titre perd encore 4,69 % à 34,24 €, nouveau plus bas de six mois, avec tout le secteur des puces (Infineon -6,5 %, ASML -5,8 %), sans nouvelle propre. Il reste nettement sous ton niveau de sortie de 38,61 €, cassé en clôture mardi, et sous ses moyennes 20 et 50 jours (40,18 € et 42,95 €).",
-      "vendreSi": "c'est le cas : vends les 2 actions avec un ordre à cours limité proche du cours, puis saisis la vente dans ton journal. Vers 34,24 €, la perte totale serait d'environ 34 €, frais d'achat et de vente compris. Le rebond de Wall Street mercredi soir peut offrir un meilleur prix à l'ouverture : un ordre limité vers 34,80 € en début de séance, sans attendre au-delà de la journée.",
+      "pourquoi": "Le titre reprend 4,48 % à 35,77 € avec tout le secteur des puces, mais sur un volume deux fois plus faible que sa moyenne 20 jours. Il reste nettement sous ton niveau de sortie de 38,61 €, cassé en clôture le 24 novembre, et sous ses moyennes 20 et 50 jours (39,76 € et 42,81 €).",
+      "vendreSi": "c'est le cas : vends les 2 actions avec un ordre à cours limité proche du cours, puis saisis la vente dans ton journal. Vers 35,77 €, la perte totale serait d'environ 30,60 €, frais d'achat et de vente compris, contre 34 € hier soir.",
       "renforcerSi": "non. Un rachat ne serait à étudier qu'après une clôture au-dessus de sa moyenne 50 jours, vers 43 €."
     }
   ],
@@ -92,23 +92,23 @@
       "plan": [
         [
           "Déclencheur",
-          "Clôture au-dessus de 28,00 €"
+          "Repli vers 28,20 € qui tient en clôture"
         ],
         [
           "Entrée",
-          "28,00 €"
+          "28,20 €"
         ],
         [
           "Sortie",
-          "27,00 €"
+          "27,20 €"
         ],
         [
           "Objectif",
-          "30,00 €"
+          "30,40 €"
         ],
         [
           "Exemple",
-          "14 actions, environ 392 €"
+          "14 actions, environ 395 €"
         ],
         [
           "Perte max",
@@ -116,16 +116,16 @@
         ],
         [
           "Gain visé",
-          "environ 26 €, net de 2 € de frais"
+          "environ 29 €, net de 2 € de frais"
         ],
         [
           "Échéance",
-          "9 décembre"
+          "10 décembre"
         ]
       ],
-      "quand": "Seulement après une clôture au-dessus de 28,00 €, sa moyenne 20 jours. Mercredi, le titre a fini à 27,37 € (+2,28 %).",
-      "pourquoi": "Catalyseur daté : les quotas européens sur les voitures hybrides importées entrent en vigueur le 1er décembre, avec un quota d'environ 191 780 véhicules pour la Chine.",
-      "contre": "Le Maroc, où Renault produit des Dacia, est aussi plafonné ; les droits de douane américains proposés visent l'Europe ; consensus, dirigeants et positions courtes non vérifiés."
+      "quand": "Seulement sur un repli vers 28,20 € qui tient en clôture. Jeudi, le titre a clôturé à 28,94 € (+5,74 %), au-dessus du seuil de 28,00 €, mais acheter à ce prix donnerait un ratio gain/risque inférieur à 1.",
+      "pourquoi": "Catalyseur daté : les quotas européens sur les voitures hybrides importées entrent en vigueur le 1er décembre, avec un quota d'environ 191 780 véhicules pour la Chine. Le titre est au-dessus de ses moyennes 20 et 50 jours.",
+      "contre": "Le titre a déjà fait environ 1,6 ATR en une séance sur une mesure connue ; l'objectif bute sur le plus haut de six mois (30,44 €) ; le Maroc, où Renault produit des Dacia, est aussi plafonné ; consensus, dirigeants et positions courtes non vérifiés."
     },
     {
       "nom": "Air France-KLM",
@@ -164,12 +164,22 @@
           "8 décembre"
         ]
       ],
-      "quand": "Seulement sur un repli vers 14,00 € qui tient en clôture et si le Brent repasse sous 90 dollars. Mercredi, le titre a fini à 14,27 € (-1,76 %).",
+      "quand": "Seulement sur un repli vers 14,00 € qui tient en clôture et si le Brent repasse sous 90 dollars. Jeudi, le titre a fini à 14,23 € (-0,25 %) et le Brent est remonté vers 96 dollars : la condition s'éloigne.",
       "pourquoi": "Le groupe a battu le consensus au 3e trimestre, et un pétrole moins cher allège sa facture de carburant.",
-      "contre": "Le Brent a rebondi d'environ 3 % vers 93,7 dollars mercredi, le titre a déjà beaucoup monté en novembre, et l'OPEP+ se réunit le 29 novembre."
+      "contre": "Le Brent a gagné environ 1,4 % vers 95,95 dollars jeudi après des attaques contre des installations pétrolières au Moyen-Orient, le titre a déjà beaucoup monté en novembre, et l'OPEP+ se réunit le 29 novembre."
     }
   ],
   "decouvertes": [
+    {
+      "nom": "Maurel & Prom",
+      "isin": "FR0000051070",
+      "symbole": "MAU.PA",
+      "theme": "Un petit producteur de pétrole, très sensible au prix du baril",
+      "risque": "Très élevé",
+      "pourquoi": "Tu n'as aucune valeur pétrolière. Maurel & Prom produit du pétrole et du gaz au Gabon, en Angola et en Tanzanie ; ses profits suivent de près le Brent, remonté vers 95,95 dollars jeudi après des attaques au Moyen-Orient (ABC Bourse). L'action a gagné 2,2 % à 6,50 € le 26 novembre (Yahoo Finance), une part très abordable, mais elle reste loin sous ses moyennes 50 et 200 jours (7,68 € et 8,65 €).",
+      "aBorder": "À étudier : sa production, sa dette, son dividende et son exposition au Venezuela et à l'Afrique avant tout achat. Pas de signal aujourd'hui, la tendance reste baissière.",
+      "faux": "Une décision de l'OPEP+ d'augmenter l'offre le 29 novembre, un apaisement au Moyen-Orient ou un incident politique dans ses pays de production peuvent faire chuter le titre."
+    },
     {
       "nom": "Groupe ADP",
       "isin": "FR0010340141",
@@ -189,16 +199,6 @@
       "pourquoi": "Tu es exposé aux États-Unis, à l'Europe et à la France, mais presque pas à l'Inde, à la Chine ou à Taïwan. Cet ETF ajoute une vraie diversification géographique.",
       "aBorder": "Pour le long terme, par achats réguliers et en petite part du portefeuille. La baisse récente d'environ 9 % en 20 séances n'est pas en soi une raison d'acheter.",
       "faux": "La tech asiatique pèse lourd dedans : ce n'est pas une protection totale si les puces continuent de baisser. Le risque de change existe aussi."
-    },
-    {
-      "nom": "SES",
-      "isin": "LU0088087324",
-      "symbole": "SESG.PA",
-      "theme": "Les satellites de communication, un enjeu de souveraineté européenne",
-      "risque": "Très élevé",
-      "pourquoi": "SES, groupe luxembourgeois coté à Paris, exploite des satellites de communication pour la télévision, les gouvernements et les armées. Les missiles tombés en Pologne rappellent que l'Europe veut des moyens de communication sûrs et indépendants. La part vaut environ 4,17 € (vendredi, -5,53 %), abordable pour un petit budget, mais le titre est sous ses moyennes 20, 50 et 200 jours (4,40 €, 4,33 € et 6,12 €, Yahoo Finance via le radar). C'est un secteur absent de ton portefeuille. Je n'ai pas vérifié ce soir d'actualité propre à la société.",
-      "aBorder": "À étudier : lire ses derniers résultats, sa dette et son dividende avant tout achat. Pas de signal aujourd'hui, la tendance est baissière.",
-      "faux": "Une dette lourde, la concurrence des constellations en orbite basse et le déclin de la télévision par satellite peuvent continuer de peser sur le cours."
     },
     {
       "nom": "Bureau Veritas",

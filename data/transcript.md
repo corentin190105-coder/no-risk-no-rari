@@ -543,3 +543,13 @@ Un marché baissier, ou bear market, désigne une baisse prolongée d'au moins 2
 - [Investopedia : Bear Market ⚠️](https://www.investopedia.com/terms/b/bearmarket.asp)
 
 ⚠️ Lien non vérifiable au moment de la rédaction
+
+## Q: Qu'est-ce que le resserrement monétaire ?
+
+_2026-11-26 21:03 CET_
+
+Le resserrement monétaire désigne une politique par laquelle une banque centrale rend l'argent plus cher et plus rare pour freiner l'inflation. Son outil principal est la hausse des taux directeurs, qui renchérit le crédit pour les ménages et les entreprises, ce qui ralentit la consommation et l'investissement. La banque centrale peut aussi réduire la taille de son bilan, en cessant de racheter des obligations. Jeudi, le compte rendu de la BCE a montré que ses dirigeants jugent probable une nouvelle hausse des taux en décembre, avec une inflation de la zone euro à 4,0 % en octobre. Pour un investisseur, un resserrement pèse souvent davantage sur les actions de croissance, dont la valeur repose sur des profits lointains, que sur les sociétés aux revenus réguliers. Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [BCE : qu'est-ce que la politique monétaire ?](https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/what-is-monetary-policy.fr.html)
+- [Banque de France : 3 minutes pour comprendre la stratégie monétaire](https://www.banque-france.fr/fr/strategie-monetaire/comprendre-strategie-monetaire)

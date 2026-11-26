@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-25T21:05:00+01:00",
-    "resume": "Mercredi 25 novembre 2026 : inflation PCE plus forte que prévu hors énergie et projet de nouveaux droits de douane américains, la tech replonge et le CAC 40 repasse sous 8 000 points (-0,75 % à 7 980,57). Ton portefeuille vaut 724,75 € pour 799,28 € investis, soit -74,53 €. STMicroelectronics (34,24 €) reste sous son niveau de sortie de 38,61 €, Stellantis (3,24 €) sous 3,75 €."
+    "date": "2026-11-26T21:10:00+01:00",
+    "resume": "Jeudi 26 novembre 2026 : Wall Street fermée pour Thanksgiving, Paris rachète les valeurs de l'IA et l'automobile, et le CAC 40 repasse au-dessus de 8 100 points (+1,61 % à 8 108,74). Ton portefeuille vaut 745,43 € pour 799,28 € investis, soit -53,85 €. Stellantis (+8,9 % à 3,53 €) et STMicroelectronics (35,77 €) rebondissent mais restent sous leurs niveaux de sortie de 3,75 € et 38,61 €."
   },
   "actifs": [
     {
@@ -105,15 +105,24 @@
         {
           "d": "2026-11-25",
           "p": 5.6
+        },
+        {
+          "d": "2026-11-26",
+          "p": 6.07
         }
       ],
-      "prix": 5.6,
-      "prixDate": "2026-11-25",
-      "variationJour": -3.45
+      "prix": 6.07,
+      "prixDate": "2026-11-26",
+      "variationJour": 8.39
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
       "actus": [
+        {
+          "date": "2026-11-26",
+          "titre": "Air Liquide progresse de 0,99 % à 190,32 €, à environ 2 % de son plus haut de six mois",
+          "url": "https://investir.lesechos.fr/marches-indices/les-points-bourse/alors-que-wall-street-celebre-thanksgiving-retour-en-grace-du-cac-40-au-dessus-des-8100-points-2264861"
+        },
         {
           "date": "2026-11-25",
           "titre": "Air Liquide termine à l'équilibre (+0,18 % à 188,46 €), à environ 3 % de son record du 12 novembre",
@@ -138,11 +147,6 @@
           "date": "2026-11-11",
           "titre": "Air Liquide gagne près de 1 % à 192,16 €, nouveau plus haut de clôture sur six mois, sans annonce propre",
           "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c"
-        },
-        {
-          "date": "2026-11-10",
-          "titre": "Air Liquide termine à 190,34 €, son plus haut cours de clôture depuis au moins six mois, sans annonce propre au groupe",
-          "url": "https://www.abcbourse.com/cotation/AIp"
         }
       ],
       "isin": "FR0000120073",
@@ -232,11 +236,15 @@
         {
           "d": "2026-11-25",
           "p": 188.46
+        },
+        {
+          "d": "2026-11-26",
+          "p": 190.32
         }
       ],
-      "prix": 188.46,
-      "prixDate": "2026-11-25",
-      "variationJour": 0.18
+      "prix": 190.32,
+      "prixDate": "2026-11-26",
+      "variationJour": 0.99
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
@@ -363,11 +371,15 @@
         {
           "d": "2026-11-25",
           "p": 227.6
+        },
+        {
+          "d": "2026-11-26",
+          "p": 233.8
         }
       ],
-      "prix": 227.6,
-      "prixDate": "2026-11-25",
-      "variationJour": -0.91
+      "prix": 233.8,
+      "prixDate": "2026-11-26",
+      "variationJour": 2.72
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -464,15 +476,24 @@
         {
           "d": "2026-11-25",
           "p": 90.0
+        },
+        {
+          "d": "2026-11-26",
+          "p": 91.9
         }
       ],
-      "prix": 90.0,
-      "prixDate": "2026-11-25",
-      "variationJour": -1.69
+      "prix": 91.9,
+      "prixDate": "2026-11-26",
+      "variationJour": 2.11
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
       "actus": [
+        {
+          "date": "2026-11-26",
+          "titre": "Rebond des valeurs de l'IA en Europe et en Asie après un Nasdaq qui a effacé l'essentiel de sa chute mercredi",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-rebondit-thanksgiving-met-en-sourdine-les-craintes-sur-l-ia-76d5a6fc8193ab4edf5817126e19413b"
+        },
         {
           "date": "2026-11-25",
           "titre": "Inflation PCE plus forte que prévu et nouveaux droits de douane : le Nasdaq a chuté jusqu'à 4,6 % avant de réduire ses pertes",
@@ -497,11 +518,6 @@
           "date": "2026-11-20",
           "titre": "Nvidia chute de 14 % sur un examen de ses comptes par la SEC, le Nasdaq finit à -5,28 %",
           "url": "https://stockinvest.us/digest/digest-us-market-close-2026-11-20"
-        },
-        {
-          "date": "2026-11-20",
-          "titre": "Le Nasdaq recule de plus de 4 % vendredi (provisoire) et plus de 7 % sur la semaine, sa pire semaine depuis avril 2025",
-          "url": "https://www.moneyvox.fr/bourse/actualites/111354/cac-40-en-baisse-de-pres-de-2-krach-de-ia-ubisoft-le-journal-de-la-bourse-du-vendredi-20-novembre-2026"
         }
       ],
       "isin": "FR0011871110",
@@ -591,15 +607,24 @@
         {
           "d": "2026-11-25",
           "p": 91.83
+        },
+        {
+          "d": "2026-11-26",
+          "p": 95.85
         }
       ],
-      "prix": 91.83,
-      "prixDate": "2026-11-25",
-      "variationJour": -3.5
+      "prix": 95.85,
+      "prixDate": "2026-11-26",
+      "variationJour": 4.38
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
+        {
+          "date": "2026-11-26",
+          "titre": "Soitec rebondit de 6,9 % à 90,96 € avec le retour des achats sur les semi-conducteurs",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-rebondit-thanksgiving-met-en-sourdine-les-craintes-sur-l-ia-76d5a6fc8193ab4edf5817126e19413b"
+        },
         {
           "date": "2026-11-25",
           "titre": "Soitec perd 6,9 % à 85,06 € dans la nouvelle vague de ventes sur les puces",
@@ -624,11 +649,6 @@
           "date": "2026-11-19",
           "titre": "Soitec bondit de 12 % à 109,25 € après ses résultats, après avoir gagné plus de 20 % en séance",
           "url": "https://www.moneyvox.fr/bourse/actualites/111326/cac-40-euphorie-aura-ete-de-courte-duree-retrouvez-les-infos-bourse-du-19-novembre"
-        },
-        {
-          "date": "2026-11-18",
-          "titre": "Soitec relève son objectif annuel : environ 40 % de croissance, portée par la photonique pour l'IA",
-          "url": "https://www.abcbourse.com/marches/newsContent/706332"
         }
       ],
       "isin": "FR0013227113",
@@ -754,11 +774,15 @@
         {
           "d": "2026-11-25",
           "p": 85.06
+        },
+        {
+          "d": "2026-11-26",
+          "p": 90.96
         }
       ],
-      "prix": 85.06,
-      "prixDate": "2026-11-25",
-      "variationJour": -6.92
+      "prix": 90.96,
+      "prixDate": "2026-11-26",
+      "variationJour": 6.94
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -805,15 +829,24 @@
         {
           "d": "2026-11-13",
           "p": 10.997
+        },
+        {
+          "d": "2026-11-26",
+          "p": 9.11
         }
       ],
-      "prix": 10.997,
-      "prixDate": "2026-11-13",
-      "variationJour": -7.31
+      "prix": 9.11,
+      "prixDate": "2026-11-26",
+      "variationJour": 8.66
     },
     {
       "activite": "Un seul produit qui achète environ 1 400 grandes entreprises de 23 pays développés, pondérées selon leur taille. Les États-Unis pèsent environ 70 % et la tech environ 25 %.",
       "actus": [
+        {
+          "date": "2026-11-26",
+          "titre": "Wall Street fermée pour Thanksgiving : l'ETF Monde coté à Paris reprend 2,85 % en suivant le rebond de la veille au soir",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-rebondit-thanksgiving-met-en-sourdine-les-craintes-sur-l-ia-76d5a6fc8193ab4edf5817126e19413b"
+        },
         {
           "date": "2026-11-25",
           "titre": "Washington propose de nouveaux droits de douane contre 14 partenaires, dont l'Union européenne et la Chine",
@@ -921,15 +954,24 @@
         {
           "d": "2026-11-25",
           "p": 5.935
+        },
+        {
+          "d": "2026-11-26",
+          "p": 6.104
         }
       ],
-      "prix": 5.935,
-      "prixDate": "2026-11-25",
-      "variationJour": -1.88
+      "prix": 6.104,
+      "prixDate": "2026-11-26",
+      "variationJour": 2.85
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
       "actus": [
+        {
+          "date": "2026-11-26",
+          "titre": "Rebond des valeurs de l'IA en Europe et en Asie après un Nasdaq qui a effacé l'essentiel de sa chute mercredi",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-rebondit-thanksgiving-met-en-sourdine-les-craintes-sur-l-ia-76d5a6fc8193ab4edf5817126e19413b"
+        },
         {
           "date": "2026-11-25",
           "titre": "Inflation PCE plus forte que prévu et nouveaux droits de douane : le Nasdaq a chuté jusqu'à 4,6 % avant de réduire ses pertes",
@@ -954,11 +996,6 @@
           "date": "2026-11-20",
           "titre": "Nvidia chute de 14 % sur un examen de ses comptes par la SEC, le Nasdaq finit à -5,28 %, plus bas qu'à la clôture de Paris",
           "url": "https://stockinvest.us/digest/digest-us-market-close-2026-11-20"
-        },
-        {
-          "date": "2026-11-20",
-          "titre": "Le Nasdaq recule de plus de 4 % vendredi (provisoire) et plus de 7 % sur la semaine, sa pire semaine depuis avril 2025",
-          "url": "https://www.moneyvox.fr/bourse/actualites/111354/cac-40-en-baisse-de-pres-de-2-krach-de-ia-ubisoft-le-journal-de-la-bourse-du-vendredi-20-novembre-2026"
         }
       ],
       "isin": "FR001400ZGR7",
@@ -1052,11 +1089,15 @@
         {
           "d": "2026-11-25",
           "p": 6.023
+        },
+        {
+          "d": "2026-11-26",
+          "p": 6.286
         }
       ],
-      "prix": 6.023,
-      "prixDate": "2026-11-25",
-      "variationJour": -3.65
+      "prix": 6.286,
+      "prixDate": "2026-11-26",
+      "variationJour": 4.37
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -1104,15 +1145,24 @@
         {
           "d": "2026-11-13",
           "p": 7.151
+        },
+        {
+          "d": "2026-11-26",
+          "p": 6.893
         }
       ],
-      "prix": 7.151,
-      "prixDate": "2026-11-13",
-      "variationJour": -0.78
+      "prix": 6.893,
+      "prixDate": "2026-11-26",
+      "variationJour": 2.79
     },
     {
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
+        {
+          "date": "2026-11-26",
+          "titre": "STMicroelectronics reprend 4,5 % à 35,77 € avec le rebond des puces européennes, sur un volume deux fois plus faible que la moyenne",
+          "url": "https://www.ideal-investisseur.fr/bourse-cryptos/le-cac-40-progresse-de-pres-de-2-a-lapproche-de-la-cloture-porte-par-lautomobile-et-les-semi-conducteurs-34096.html"
+        },
         {
           "date": "2026-11-25",
           "titre": "Les semi-conducteurs européens rechutent avec le Nasdaq : STMicroelectronics perd 4,7 % à 34,24 €, Infineon 6,5 %",
@@ -1137,11 +1187,6 @@
           "date": "2026-11-19",
           "titre": "STMicroelectronics finit en tête du CAC 40 (+1,6 % vers 41,17 €) malgré le reflux des semi-conducteurs en fin de séance",
           "url": "https://www.zonebourse.com/actualite-bourse/paris-recule-eclipsee-par-les-debuts-d-anthropic-ce785ed2dd80f02d"
-        },
-        {
-          "date": "2026-11-18",
-          "titre": "STMicroelectronics prend la tête du CAC 40 (+1,8 %) grâce à l'effet Nvidia",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-0692f2cf5b61cac9ed1d93c1f5dd71f0"
         }
       ],
       "isin": "NL0000226223",
@@ -1267,11 +1312,15 @@
         {
           "d": "2026-11-25",
           "p": 34.235
+        },
+        {
+          "d": "2026-11-26",
+          "p": 35.77
         }
       ],
-      "prix": 34.235,
-      "prixDate": "2026-11-25",
-      "variationJour": -4.69
+      "prix": 35.77,
+      "prixDate": "2026-11-26",
+      "variationJour": 4.48
     },
     {
       "isin": "NL00150001Q9",
@@ -1285,8 +1334,18 @@
       "marche": "L'automobile subit une demande prudente, une transition électrique coûteuse et la concurrence chinoise. Le marché américain pèse lourd dans les profits du groupe.",
       "potentiel": "Le potentiel repose sur un redressement des ventes et des marges aux États-Unis, après une très forte baisse du titre en 2026. Une part vaut environ 4 €, ce qui la rend accessible.",
       "risques": "Le titre reste en tendance baissière et très loin de sa moyenne 200 jours. Un nouveau recul des ventes, des dépréciations ou des droits de douane pèseraient encore. Un cours bas ne suffit jamais à faire une bonne affaire.",
-      "rendezvous": [],
+      "rendezvous": [
+        {
+          "date": "2026-12-01",
+          "titre": "Entrée en vigueur des quotas européens sur les voitures hybrides importées"
+        }
+      ],
       "actus": [
+        {
+          "date": "2026-11-26",
+          "titre": "Stellantis s'envole de 8,9 % à 3,53 €, en tête du CAC 40, porté par les quotas européens sur les hybrides importés",
+          "url": "https://investir.lesechos.fr/marches-indices/les-points-bourse/alors-que-wall-street-celebre-thanksgiving-retour-en-grace-du-cac-40-au-dessus-des-8100-points-2264861"
+        },
         {
           "date": "2026-11-25",
           "titre": "Bruxelles plafonne les importations de voitures hybrides dès le 1er décembre : Stellantis rebondit de 3,75 % à 3,24 €",
@@ -1311,16 +1370,11 @@
           "date": "2026-11-17",
           "titre": "Deux dégradations : Oddo BHF passe à sous-performance (objectif 3 €) et LBBW à conserver (objectif 3,50 €) ; le titre finit à 3,32 €",
           "url": "https://www.boursorama.com/bourse/actualites/avis-d-analystes-france-deux-degradations-pour-stellantis-c82785498d2ebc72417dd8fc3500c875"
-        },
-        {
-          "date": "2026-11-16",
-          "titre": "Stellantis touche 3,36 € en séance, plus bas depuis cinq ans, et finit à 3,38 € (-3,7 %), lanterne rouge du CAC 40 sans annonce nouvelle",
-          "url": "https://www.ideal-investisseur.fr/actions-b/laction-stellantis-signe-un-plus-bas-de-cinq-ans-et-ferme-la-marche-du-cac-40/29421.html"
         }
       ],
-      "prix": 3.237,
-      "prixDate": "2026-11-25",
-      "variationJour": 3.75,
+      "prix": 3.526,
+      "prixDate": "2026-11-26",
+      "variationJour": 8.93,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1385,6 +1439,10 @@
         {
           "d": "2026-11-25",
           "p": 3.237
+        },
+        {
+          "d": "2026-11-26",
+          "p": 3.526
         }
       ]
     },
@@ -1402,6 +1460,11 @@
       "risques": "Il dépend d'un seul pays et de quelques secteurs, avec un poids important du luxe. Il recoupe en partie l'ETF Monde pour ce qui concerne les grandes valeurs françaises.",
       "rendezvous": [],
       "actus": [
+        {
+          "date": "2026-11-26",
+          "titre": "Le CAC 40 reprend 1,61 % à 8 108,74 points pendant que Wall Street est fermée pour Thanksgiving",
+          "url": "https://investir.lesechos.fr/marches-indices/les-points-bourse/alors-que-wall-street-celebre-thanksgiving-retour-en-grace-du-cac-40-au-dessus-des-8100-points-2264861"
+        },
         {
           "date": "2026-11-25",
           "titre": "Le CAC 40 repasse sous 8 000 points (-0,75 %), plombé par les valeurs liées à l'IA",
@@ -1426,16 +1489,11 @@
           "date": "2026-11-19",
           "titre": "Le CAC 40 recule de 0,81 % à 8 080,74 points, -3,44 % sur la semaine",
           "url": "https://www.zonebourse.com/actualite-bourse/paris-recule-eclipsee-par-les-debuts-d-anthropic-ce785ed2dd80f02d"
-        },
-        {
-          "date": "2026-11-18",
-          "titre": "Le CAC 40 recule de 0,85 % à 8 146,83 points malgré Nvidia",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-0692f2cf5b61cac9ed1d93c1f5dd71f0"
         }
       ],
-      "prix": 40.71,
-      "prixDate": "2026-11-25",
-      "variationJour": -0.76,
+      "prix": 41.38,
+      "prixDate": "2026-11-26",
+      "variationJour": 1.65,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1500,47 +1558,15 @@
         {
           "d": "2026-11-25",
           "p": 40.71
+        },
+        {
+          "d": "2026-11-26",
+          "p": 41.38
         }
       ]
     }
   ],
   "agenda": [
-    {
-      "id": "soitec-s1-2026",
-      "date": "2026-11-18",
-      "titre": "Soitec : résultats du 1er semestre (après la clôture)",
-      "detail": "Date annoncée par Soitec dans son communiqué du 22 juillet. La société visait alors une croissance de plus de 30 % du chiffre d'affaires au 2e trimestre."
-    },
-    {
-      "id": "fomc-minutes-2026-10",
-      "date": "2026-11-18",
-      "titre": "Fed : compte rendu de la réunion d'octobre",
-      "detail": "Publication à 20h00 heure de Paris, date indicative. À lire pour le débat sur une hausse des taux"
-    },
-    {
-      "id": "anthropic-ipo-2026",
-      "date": "2026-11-18",
-      "titre": "Anthropic : première cotation au Nasdaq",
-      "detail": "Fait : prix fixé à 83 $, ouverture à 111,50 $ (+34 %) puis repli vers 96 $ en fin d'après-midi, pour une levée record de 81,3 milliards de dollars (Yahoo Finance). Wall Street s'est retournée en baisse après les débuts du titre."
-    },
-    {
-      "id": "ez-hicp-final-2026-10",
-      "date": "2026-11-18",
-      "titre": "Zone euro : inflation d'octobre (estimation finale)",
-      "detail": "Annoncée mercredi par Moneyvox, avant le compte rendu de la Fed. L'estimation rapide était de 4,0 %."
-    },
-    {
-      "id": "vusion-cmd-2026-11",
-      "date": "2026-11-18",
-      "titre": "Vusion : journée investisseurs (Capital Markets Day)",
-      "detail": "Annoncée par ABC Bourse le 16 novembre, alors qu'Oddo BHF relève son objectif à 215 €. Repère pour l'idée spéculative du soir."
-    },
-    {
-      "id": "us-housing-2026-10",
-      "date": "2026-11-18",
-      "titre": "États-Unis : mises en chantier d'octobre",
-      "detail": "Attendues à 1,245 million d'unités contre 1,221 million en septembre (Reuters via Boursorama). Un repère sur l'immobilier américain, sensible aux taux à 10 ans proches de 5,1 %."
-    },
     {
       "id": "apec-trilaterale-2026-11-19",
       "date": "2026-11-19",
@@ -1647,7 +1673,7 @@
       "id": "bce-comptes-2026-11-26",
       "date": "2026-11-26",
       "titre": "BCE : compte rendu de la réunion d'octobre",
-      "detail": "Jeudi à 13h30 heure de Paris : il dira si une hausse des taux a été discutée, avant la décision du 17 décembre."
+      "detail": "Publié : les responsables de la BCE jugent probable une nouvelle hausse des taux, sauf amélioration nette des perspectives d'inflation (TMGM). L'euro gagne environ 0,1 % vers 1,0986 dollar."
     },
     {
       "id": "fr-ipc-2026-11-27",
@@ -1659,7 +1685,7 @@
       "id": "opep-2026-11-29",
       "date": "2026-11-29",
       "titre": "OPEP+ : réunion ministérielle sur la production 2027",
-      "detail": "Dimanche 29 novembre, heure non annoncée : décision clé pour le prix du pétrole."
+      "detail": "Dimanche 29 novembre : décision sur les quotas de production, alors que le Brent est remonté vers 96 dollars jeudi après des attaques contre des installations pétrolières au Moyen-Orient (ABC Bourse)."
     },
     {
       "id": "ez-flash-hicp-2026-11",
@@ -1949,6 +1975,11 @@
     {
       "d": "2026-11-25",
       "valeur": 724.75,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-26",
+      "valeur": 745.43,
       "investi": 799.28
     }
   ]

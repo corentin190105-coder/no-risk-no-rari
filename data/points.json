@@ -1,6 +1,305 @@
 {
   "points": [
     {
+      "date": "2026-11-26",
+      "titre": "Wall Street en congé, Paris rachète l'IA et l'automobile : le CAC 40 repasse au-dessus de 8 100 points",
+      "resume": "Sans Wall Street, fermée pour Thanksgiving, la Bourse de Paris a profité du rebond de la tech de la veille au soir : le CAC 40 gagne 1,61 % à 8 108,74 points, avec 38 valeurs sur 40 en hausse mais des volumes faibles, autour de 3,2 milliards d'euros échangés (Investir). Stellantis (+8,9 %), Renault (+5,7 %) et STMicroelectronics (+4,5 %) mènent la hausse, portés par les quotas européens sur les hybrides et le retour des achats sur les puces. Le compte rendu de la BCE confirme qu'une hausse des taux en décembre reste probable, et le pétrole remonte vers 96 dollars.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 108,74 pts",
+          "variation": 1.61
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 014,74 pts",
+          "variation": 2.04
+        },
+        {
+          "nom": "S&P 500 (fermé jeudi, clôture de mercredi)",
+          "valeur": "7 182,78 pts",
+          "variation": -0.25
+        },
+        {
+          "nom": "Nasdaq Composite (fermé jeudi, clôture de mercredi)",
+          "valeur": "23 585,80 pts",
+          "variation": -0.62
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "57 499,16 pts",
+          "variation": 0.86
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "22 226,88 pts",
+          "variation": 1.19
+        },
+        {
+          "nom": "Brent (vers 16h20)",
+          "valeur": "≈ 95,95 $",
+          "variation": 1.4
+        },
+        {
+          "nom": "Or (provisoire)",
+          "valeur": "≈ 3 593 $",
+          "variation": 0.81
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,0986 $",
+          "variation": 0.1
+        }
+      ],
+      "macro": [
+        {
+          "titre": "BCE : le compte rendu garde la porte ouverte à une hausse en décembre",
+          "texte": "Le compte rendu de la réunion d'octobre, publié jeudi à 13h30, montre que les responsables de la BCE jugent probable une nouvelle hausse des taux, sauf amélioration nette des perspectives d'inflation (TMGM). Avec une inflation de la zone euro à 4,0 % en octobre, la décision du 17 décembre dépendra beaucoup de l'estimation rapide de novembre, attendue le 1er décembre. L'euro en profite légèrement, vers 1,0986 dollar."
+        },
+        {
+          "titre": "Pétrole : le Brent remonte vers 96 dollars avec les attaques au Moyen-Orient",
+          "texte": "Le baril de Brent gagne environ 1,4 % vers 95,95 dollars en fin d'après-midi (ABC Bourse), après une attaque déjouée contre le complexe saoudien de Ras Tanura, une raffinerie visée par les Houthis et des navires touchés par des mines près du détroit d'Ormuz. La réunion de l'OPEP+ de dimanche, qui peut revoir les quotas de production, sera le prochain test. Un pétrole cher pèse sur l'inflation et donc sur les décisions des banques centrales."
+        },
+        {
+          "titre": "Droits de douane : le marché parie sur un compromis à 15 %",
+          "texte": "Au lendemain du projet américain de nouveaux droits de douane contre 14 partenaires, dont l'Union européenne, les investisseurs ont misé jeudi sur des taxes limitées à 15 % pour l'Europe, selon la presse boursière. Ce n'est qu'une hypothèse de marché : ni le taux ni le calendrier ne sont confirmés par Washington. Le rebond du jour peut donc s'inverser si le projet se durcit."
+        },
+        {
+          "titre": "Thanksgiving : un rebond à prendre avec prudence",
+          "texte": "Wall Street était fermée jeudi et rouvre vendredi pour une séance courte, avec des volumes faibles en Europe comme aux États-Unis (Reuters via Boursorama). Un mouvement de 1,6 % sur des volumes minces est moins solide qu'une hausse soutenue par beaucoup d'échanges. Vendredi, l'inflation française de novembre et le PIB du 3e trimestre donneront un nouveau repère."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 745.43,
+        "pv": -53.85,
+        "texte": "Ton portefeuille vaut 745,43 € pour 799,28 € investis, soit -53,85 €, en hausse d'environ 20,70 € sur la journée grâce au rebond de toutes tes lignes, surtout l'ETF Nasdaq-100 (+4,37 %), Stellantis (+8,93 %) et STMicroelectronics (+4,48 %). STMicroelectronics (35,77 €) et Stellantis (3,53 €) restent toutefois sous leurs niveaux de sortie de 38,61 € et 3,75 €, mais ce rebond offre un meilleur prix de sortie qu'hier soir."
+      },
+      "valeurs": [
+        {
+          "nom": "Stellantis",
+          "texte": "Ce qui a changé depuis hier : le titre s'envole de 8,93 % à 3,53 €, plus forte hausse du CAC 40 (Investir), avec les quotas européens sur les hybrides importés qui entrent en vigueur le 1er décembre. Le volume dépasse sa moyenne 20 jours (6,1 millions contre 5,1 millions), mais le cours reste sous sa moyenne 20 jours (3,63 €) et sous ton niveau de sortie de 3,75 €."
+        },
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Le titre reprend 4,48 % à 35,77 € avec tout le secteur des puces européen (ASML +3,2 %, Infineon +3,6 %), mais sur un volume deux fois plus faible que sa moyenne 20 jours. Il reste à 2,84 € sous ton niveau de sortie de 38,61 € et sous ses moyennes 20 et 50 jours (39,76 € et 42,81 €)."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Le titre gagne 0,99 % à 190,32 €, au-dessus de ses moyennes 20 et 50 jours (188,68 € et 177,74 €) et à environ 2 % de son plus haut de six mois (194,70 €). C'est ta seule action en gain, avec environ 8,20 € de plus-value latente."
+        },
+        {
+          "nom": "Renault",
+          "texte": "Le titre gagne 5,74 % à 28,94 € et clôture au-dessus de 28,00 €, le seuil fixé hier, mais il a déjà fait environ 1,6 ATR en une séance : l'entrée prévue n'est plus intéressante à ce prix (voir l'analyse court terme)."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Maurel & Prom",
+          "isin": "FR0000051070",
+          "risque": "Très élevé",
+          "prix": "≈ 6,50 € la part",
+          "texte": "Maurel & Prom est un petit producteur français de pétrole et de gaz, présent surtout au Gabon, en Angola et en Tanzanie, dont les profits suivent de près le prix du baril. Jeudi, le Brent est remonté vers 95,95 dollars (+1,4 % vers 16h20, ABC Bourse) après une série d'attaques contre des installations pétrolières au Moyen-Orient, et l'action a gagné 2,2 % à 6,50 € (Yahoo Finance), une part très abordable pour un petit budget. Le titre reste pourtant loin sous ses moyennes 50 et 200 jours (7,68 € et 8,65 €) : le marché doute encore de la durée de cette tension. Le principal risque : la réunion de l'OPEP+ du dimanche 29 novembre peut relancer l'offre et faire retomber le baril, et une petite valeur pétrolière amplifie fortement ces mouvements."
+        },
+        {
+          "nom": "ArcelorMittal",
+          "isin": "LU1598757687",
+          "risque": "Élevé",
+          "prix": "≈ 52 € la part",
+          "texte": "ArcelorMittal est le deuxième producteur d'acier au monde, très présent en Europe, et son cours suit le cycle industriel et la protection du marché européen contre l'acier importé. Jeudi, le titre a rebondi d'environ 3 % à 52 € (Yahoo Finance, Amsterdam) au contact de son support de 50,26 € (Idéal Investisseur), dans une séance où les valeurs cycliques ont profité de l'espoir de droits de douane américains limités à 15 % pour l'Europe. Il reste sous sa moyenne 50 jours (56,82 €) et 24 % sous son plus haut de l'année (68,56 €). Le principal risque : si le projet américain contre l'Europe se durcit, ou si le support de 50 € cède, la baisse peut reprendre vite sur un titre aussi cyclique."
+        },
+        {
+          "nom": "Capgemini",
+          "isin": "FR0000125338",
+          "risque": "Modéré",
+          "prix": "≈ 121 € la part",
+          "texte": "Capgemini aide les grandes entreprises à installer leurs logiciels, leur cloud et désormais leurs outils d'IA, ce qui en fait un bon baromètre du retour de confiance sur l'IA en Europe. Jeudi, le groupe a annoncé le succès de son 13e plan d'actionnariat salarié : 321 millions d'euros souscrits à 106,89 € par action, une augmentation de capital effective le 17 décembre (Zonebourse), un signal de confiance des salariés. Le titre finit à 121 € (+0,75 %), au-dessus de sa moyenne 50 jours (117,65 €) mais encore sous sa moyenne 20 jours (123,46 € selon Idéal Investisseur). Le principal risque : l'IA peut aussi réduire le besoin en consultants, et la création d'actions nouvelles dilue légèrement les actionnaires actuels."
+        }
+      ],
+      "idee": {
+        "nom": "Maurel & Prom",
+        "isin": "FR0000051070",
+        "risque": "Très élevé",
+        "prix": "≈ 6,50 € la part",
+        "texte": "Maurel & Prom est un petit producteur français de pétrole et de gaz, présent surtout au Gabon, en Angola et en Tanzanie, dont les profits suivent de près le prix du baril. Jeudi, le Brent est remonté vers 95,95 dollars (+1,4 % vers 16h20, ABC Bourse) après une série d'attaques contre des installations pétrolières au Moyen-Orient, et l'action a gagné 2,2 % à 6,50 € (Yahoo Finance), une part très abordable pour un petit budget. Le titre reste pourtant loin sous ses moyennes 50 et 200 jours (7,68 € et 8,65 €) : le marché doute encore de la durée de cette tension. Le principal risque : la réunion de l'OPEP+ du dimanche 29 novembre peut relancer l'offre et faire retomber le baril, et une petite valeur pétrolière amplifie fortement ces mouvements."
+      },
+      "concept": {
+        "terme": "Le resserrement monétaire",
+        "texte": "Le resserrement monétaire désigne une politique par laquelle une banque centrale rend l'argent plus cher et plus rare pour freiner l'inflation. Son outil principal est la hausse des taux directeurs, qui renchérit le crédit pour les ménages et les entreprises, ce qui ralentit la consommation et l'investissement. La banque centrale peut aussi réduire la taille de son bilan, en cessant de racheter des obligations. Jeudi, le compte rendu de la BCE a montré que ses dirigeants jugent probable une nouvelle hausse des taux en décembre, avec une inflation de la zone euro à 4,0 % en octobre. Pour un investisseur, un resserrement pèse souvent davantage sur les actions de croissance, dont la valeur repose sur des profits lointains, que sur les sociétés aux revenus réguliers. Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "BCE : qu'est-ce que la politique monétaire ?",
+            "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/what-is-monetary-policy.fr.html"
+          },
+          {
+            "titre": "Banque de France : 3 minutes pour comprendre la stratégie monétaire",
+            "url": "https://www.banque-france.fr/fr/strategie-monetaire/comprendre-strategie-monetaire"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le marché a rebondi fortement jeudi, mais il n'est pas encore porteur pour agir à court terme : la hausse s'est faite un jour férié américain, sur des volumes faibles, et le CAC 40 (8 108,74 points) reste sous sa moyenne 20 jours (8 151,67 points). La BCE et la Fed restent sur une ligne de hausse des taux en décembre, et le projet de droits de douane américains contre l'Europe n'est pas chiffré. Aucune idée ne passe les critères Favorable ce soir et je n'ajoute pas d'idée Spéculatif ; le journal compte 3 idées closes, toutes Spéculatif et perdantes : l'échantillon est trop petit pour juger la méthode, mais il justifie de rester exigeant. Sur tes lignes : Stellantis (3,53 €) et STMicroelectronics (35,77 €) restent sous leurs niveaux de sortie (3,75 € et 38,61 €), les deux ventes prévues sont toujours actives, et ce rebond en offre un meilleur prix qu'hier ; Air Liquide (190,32 €) reste loin de 171 €. Si tu vends, saisis l'opération dans ton journal.",
+        "retro": "Bilan à 5 jours (idées du 19 novembre) : l'idée Spéculatif sur Riber est close à -7,3 %, invalidée dès le 20 novembre ; Airbus (Attendre, 198,46 €) n'a jamais clôturé au-dessus de 199,50 €, et l'avis a évité environ -2,3 % (193,84 € ce soir) ; Groupe ADP (Attendre, sans niveau faute d'ATR) passe de 119,50 € à 117,60 € (-1,6 %) ; Soitec n'avait pas de nouvelle entrée. Bilan définitif à 10 jours (idées du 12 novembre) : TotalEnergies (Attendre, 80,60 €) n'a pas déclenché son entrée à 81,80 € et finit à 78,36 €, soit environ -2,8 % évités ; Viridien (Attendre, 94,15 €) finit à 95,40 €, sous l'entrée de 98,00 €, et je n'ai pas vérifié séance par séance si une clôture au-dessus de 97,70 € a eu lieu entre-temps ; Air France-KLM (Éviter, 14,30 €) finit à 14,23 €, quasiment inchangé. Leçon honnête : dans un marché baissier, les avis Attendre ont surtout évité des pertes, mais ils n'ont produit aucun gain.",
+        "opportunites": [
+          {
+            "nom": "Renault",
+            "isin": "FR0000131906",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Entrée en vigueur des quotas européens sur les voitures hybrides importées le mardi 1er décembre (Commission européenne)",
+            "cours": "28,94 €",
+            "entree": "28,20 €, seulement sur un repli qui tient en clôture",
+            "invalidation": "27,20 €",
+            "objectif": "30,40 €",
+            "ratio": "2,2",
+            "frais": "Si l'entrée est touchée : 14 actions, environ 395 €, perte maximale d'environ 16 € frais compris, gain visé d'environ 29 € net de 2 € de frais",
+            "these": "Renault fabrique des voitures sous les marques Renault, Dacia et Alpine et vend surtout en Europe. Le catalyseur reste daté : à partir du 1er décembre, Bruxelles plafonne les importations de voitures hybrides, avec un quota d'environ 191 780 véhicules pour la Chine, ce qui peut protéger les parts de marché des constructeurs européens. Ce qui a changé depuis hier : le titre a clôturé à 28,94 € (+5,74 %, Idéal Investisseur), au-dessus du seuil de 28,00 € que je fixais, avec un volume proche de sa moyenne 20 jours et au-dessus de ses moyennes 20 et 50 jours (27,98 € et 27,10 €, data/cours.json). Mais acheter à 28,94 € avec l'invalidation d'hier à 27,00 € et un objectif sous la résistance de 30,44 € (plus haut de six mois) donnerait un ratio gain/risque inférieur à 1 : l'entrée prévue n'a plus de sens. Un repli vers 28,20 €, avec une invalidation à 27,20 € (1 ATR de 0,97 € et 3,5 % sous l'entrée) et un objectif à 30,40 €, redonnerait un ratio de 2,2. Ce qui contredit l'idée : la hausse du jour s'est faite sur une mesure déjà connue, le Maroc, où Renault produit des Dacia, est aussi plafonné, et je n'ai vérifié ce soir ni le consensus, ni les dirigeants, ni les positions courtes. L'idée reste Attendre, et l'entrée risque de ne pas être atteinte.",
+            "risque": "Un rebond de jour férié peut s'effacer dès la réouverture de Wall Street, et l'objectif bute sur le plus haut de six mois (30,44 €)."
+          },
+          {
+            "nom": "ArcelorMittal",
+            "isin": "LU1598757687",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Aucun catalyseur daté identifié : rebond technique sur support et débat sur les droits de douane américains contre l'Europe",
+            "cours": "52,00 € (Amsterdam)",
+            "entree": "aucune ce soir",
+            "invalidation": "50,00 € (support)",
+            "objectif": "à fixer avec l'ATR",
+            "ratio": "non calculé",
+            "frais": "Pas de plan chiffré : valeur absente de data/suivi.json, donc sans ATR fiable",
+            "these": "ArcelorMittal produit de l'acier pour l'automobile, la construction et l'industrie, avec une forte présence en Europe. Jeudi, le titre a rebondi d'environ 3 % à 52 € (Yahoo Finance) au contact de son support de 50,26 € (Idéal Investisseur), dans une séance favorable aux valeurs cycliques. Il reste sous ses moyennes 50 et 200 jours (56,82 € et 55,90 €) et environ 24 % sous son plus haut de l'année (68,56 €). Il manque un catalyseur daté et un ATR fiable : la valeur n'est pas dans data/suivi.json, je la cite donc seulement comme valeur à ajouter au suivi. Ce qui contredit l'idée : le projet américain de droits de douane vise l'Europe, et le groupe a déjà dû passer une charge liée aux frappes sur son aciérie ukrainienne de Kryvyi Rih (Boursorama).",
+            "risque": "Une cassure de 50 € en clôture ouvrirait la voie à une nouvelle baisse sur un titre très cyclique."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "Psychologie de l'investisseur : le biais d'ancrage, ou pourquoi le prix d'achat n'est pas un repère",
+        "niveau": "Intermédiaire",
+        "texte": "Le biais d'ancrage est la tendance à juger une situation à partir d'un premier chiffre retenu, même quand ce chiffre n'a plus de rapport avec la décision à prendre. En Bourse, l'ancre la plus fréquente est le prix d'achat : on se dit qu'on vendra « quand on sera revenu à son prix », comme si le marché connaissait ce prix. Or le cours futur d'une action dépend de ses résultats, de ses perspectives et du contexte, jamais du prix auquel tu l'as payée. Une autre ancre courante est le plus haut récent : une action qui a perdu 50 % paraît « pas chère », alors qu'elle peut encore baisser si ses profits reculent. L'ancrage pousse à garder trop longtemps une ligne perdante et à vendre trop tôt une ligne gagnante, ce qui rejoint l'aversion à la perte vue le 12 novembre. Pour s'en protéger, on fixe à l'avance un niveau de sortie fondé sur l'analyse, et on se pose une seule question : « si je n'avais pas cette action, l'achèterais-je aujourd'hui à ce prix ? » Si la réponse est non, le prix d'achat ne doit pas servir d'excuse pour la garder.",
+        "exemple": "Stellantis a été acheté à 4,04 € le 3 novembre. Jeudi, le titre rebondit de 8,9 % à 3,53 €, ce qui peut donner envie d'attendre un retour à 4,04 € pour « ne rien perdre ». Mais il faudrait encore une hausse d'environ 14,6 % pour y revenir, et rien dans les résultats ou la tendance (cours sous ses moyennes 20 et 50 jours) n'indique que ce prix est un objectif probable. Le niveau de sortie de 3,75 € a été fixé à partir de l'analyse, pas du prix payé : c'est lui qui doit guider la décision.",
+        "references": [
+          {
+            "titre": "AMF : mieux connaître ses réactions pour mieux investir, comprendre les biais comportementaux",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/actualites-mises-en-garde/mieux-connaitre-ses-reactions-pour-mieux-investir-comprendre-les-biais-comportementaux"
+          },
+          {
+            "titre": "Investopedia : Anchoring ⚠️",
+            "url": "https://www.investopedia.com/terms/a/anchoring.asp"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Tu as acheté une action 50 € et elle vaut 40 €. Selon le biais d'ancrage, quelle est l'erreur la plus fréquente ?",
+          "choix": [
+            "Vendre immédiatement sans réfléchir",
+            "Attendre qu'elle revienne à 50 € avant de décider, comme si ce prix comptait pour le marché",
+            "Fixer un niveau de sortie à partir de l'analyse",
+            "Comparer l'action à ses concurrents"
+          ],
+          "bonne": 1,
+          "explication": "Le prix d'achat est une ancre personnelle : le marché ne le connaît pas. La bonne question est de savoir si tu achèterais l'action aujourd'hui à 40 €."
+        },
+        {
+          "question": "Quel est l'outil principal d'une banque centrale qui mène un resserrement monétaire ?",
+          "choix": [
+            "Baisser les impôts",
+            "Racheter davantage d'obligations",
+            "Relever ses taux directeurs",
+            "Imprimer de nouveaux billets"
+          ],
+          "bonne": 2,
+          "explication": "Relever les taux directeurs rend le crédit plus cher, ce qui freine la demande et donc l'inflation. Racheter plus d'obligations ferait l'inverse."
+        },
+        {
+          "question": "Révision : une action a un bêta de 0,6. Si son marché monte de 5 %, quelle hausse peut-on attendre en moyenne ?",
+          "choix": [
+            "Environ 8,3 %",
+            "Environ 5 %",
+            "Environ 0,6 %",
+            "Environ 3 %"
+          ],
+          "bonne": 3,
+          "explication": "Le bêta multiplie le mouvement moyen du marché : 5 % × 0,6 = 3 %. C'est une moyenne statistique, pas une promesse séance par séance."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-27",
+          "titre": "France : inflation préliminaire de novembre et PIB du 3e trimestre (8h45) ; séance courte à Wall Street"
+        },
+        {
+          "date": "2026-11-29",
+          "titre": "OPEP+ : réunion ministérielle sur la production 2027"
+        },
+        {
+          "date": "2026-12-01",
+          "titre": "Zone euro : estimation rapide de l'inflation de novembre ; entrée en vigueur des quotas européens sur les hybrides importés ; audition de Jensen Huang (Nvidia) au Congrès"
+        },
+        {
+          "date": "2026-12-04",
+          "titre": "États-Unis : rapport sur l'emploi de novembre"
+        },
+        {
+          "date": "2026-12-09",
+          "titre": "Fed : décision sur les taux (20h00, heure de Paris)"
+        },
+        {
+          "date": "2026-12-10",
+          "titre": "États-Unis : inflation de novembre (CPI)"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Investir (Les Echos) : retour en grâce du CAC 40 au-dessus des 8 100 points",
+          "url": "https://investir.lesechos.fr/marches-indices/les-points-bourse/alors-que-wall-street-celebre-thanksgiving-retour-en-grace-du-cac-40-au-dessus-des-8100-points-2264861"
+        },
+        {
+          "titre": "Reuters via Boursorama : l'Europe rebondit, Thanksgiving met en sourdine les craintes sur l'IA",
+          "url": "https://www.boursorama.com/bourse/actualites/l-europe-rebondit-thanksgiving-met-en-sourdine-les-craintes-sur-l-ia-76d5a6fc8193ab4edf5817126e19413b"
+        },
+        {
+          "titre": "Idéal Investisseur : le CAC 40 progresse, porté par l'automobile et les semi-conducteurs",
+          "url": "https://www.ideal-investisseur.fr/bourse-cryptos/le-cac-40-progresse-de-pres-de-2-a-lapproche-de-la-cloture-porte-par-lautomobile-et-les-semi-conducteurs-34096.html"
+        },
+        {
+          "titre": "ABC Bourse : le baril monte avec les attaques au Moyen-Orient",
+          "url": "https://www.abcbourse.com/marches/petrole-le-baril-monte-alors-que-les-attaques-se-multiplient-sur-les-infrastru_706734"
+        },
+        {
+          "titre": "TMGM : l'euro progresse après le compte rendu de la BCE",
+          "url": "https://www.tmgm.com/fr/analysis/market-news/article/euro-ticks-higher-as-ecb-minutes-reveal-appetite-for-further-tightening-202611261440"
+        },
+        {
+          "titre": "Idéal Investisseur : ArcelorMittal rebondit sur son support",
+          "url": "https://www.ideal-investisseur.fr/actions-b/laction-arcelormittal-rebondit-au-contact-de-son-support-a-5026/30271.html"
+        },
+        {
+          "titre": "Zonebourse : succès du 13e plan d'actionnariat salarié de Capgemini",
+          "url": "https://www.zonebourse.com/actualite-bourse/succes-du-treizieme-plan-da-actionnariat-salarie-de-capgemini-ce7851d9d98ef724"
+        },
+        {
+          "titre": "Yahoo Finance : Maurel & Prom (cours de clôture)",
+          "url": "https://finance.yahoo.com/quote/MAU.PA/"
+        },
+        {
+          "titre": "Yahoo Finance : ArcelorMittal (cours de clôture)",
+          "url": "https://finance.yahoo.com/quote/MT.AS/"
+        },
+        {
+          "titre": "Yahoo Finance : or, contrat à terme",
+          "url": "https://finance.yahoo.com/quote/GC%3DF/"
+        },
+        {
+          "titre": "data/cours.json : cours, moyennes et ATR (Yahoo Finance, non officiel, 18h41)",
+          "url": "https://github.com/corentin190105-coder/no-risk-no-rari/blob/main/data/cours.json"
+        }
+      ]
+    },
+    {
       "date": "2026-11-25",
       "titre": "Inflation américaine et droits de douane : la tech plonge, Paris repasse sous 8 000 points",
       "resume": "L'inflation PCE d'octobre, à 3,3 % hors énergie et alimentation, et un projet de nouveaux droits de douane américains contre 14 partenaires, dont l'Union européenne, ont relancé la vente des valeurs liées à l'IA. Le CAC 40 efface une hausse de plus de 1 % en matinée et finit à 7 980,57 points (-0,75 %), plombé par STMicroelectronics et Schneider, alors que l'automobile et Rémy Cointreau résistent. À Wall Street, le Nasdaq a chuté jusqu'à 4,6 % avant de réduire fortement ses pertes (chiffres provisoires).",
@@ -7921,170 +8220,6 @@
         {
           "titre": "Yahoo Finance : la Fed maintient ses taux (10 voix contre 2)",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-080642111.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "titre": "Paris gagne 0,51 % avec le rebond des semi-conducteurs et le recul du pétrole, à la veille de la Fed",
-      "resume": "Le CAC 40 a fini à 7 887,14 points (+0,51 %), aidé par un pétrole en repli et par le retour des acheteurs sur la tech : STMicroelectronics a bondi d'environ 7 %. HSBC et ses résultats ont pesé sur les banques européennes en début de séance. À Wall Street, les indices progressent avant la décision de la Fed demain soir, et Boeing recule d'environ 10 %.",
-      "humeur": "hausse",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 887,14 pts",
-          "variation": 0.51
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "cours non confirmé ce soir",
-          "variation": 0.0
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "≈ 7 690 pts (séance en cours)",
-          "variation": 0.5
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "≈ 26 270 pts (Composite, milieu de séance)",
-          "variation": 0.38
-        },
-        {
-          "nom": "Brent",
-          "valeur": "en repli, cours non confirmé ce soir",
-          "variation": 0.0
-        },
-        {
-          "nom": "Or",
-          "valeur": "cours non confirmé ce soir",
-          "variation": 0.0
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "cours non confirmé ce soir",
-          "variation": 0.0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Banques centrales",
-          "texte": "La Fed décide demain mercredi 28 octobre, avec un statu quo attendu sur la fourchette de 3,75 à 4 %. La BCE suit jeudi 29 octobre, avec un taux de dépôt à 2,50 %, et le marché surveille surtout le ton de leurs messages sur d'éventuelles hausses en décembre."
-        },
-        {
-          "titre": "Taux français",
-          "texte": "Le taux de l'OAT à dix ans reste proche de 4,9 %, ce qui maintient une pression sur les valeurs sensibles aux taux. La détente de lundi n'a donc pas été prolongée franchement aujourd'hui."
-        },
-        {
-          "titre": "Pétrole",
-          "texte": "Le pétrole a reculé, ce qui a soutenu l'appétit pour le risque. Le Brent reste toutefois à un niveau élevé, autour de 115 $ selon notre dernier relevé confirmé, dans un contexte géopolitique encore tendu."
-        },
-        {
-          "titre": "Inflation",
-          "texte": "L'inflation de la zone euro était de 3,8 % en septembre. Le PIB américain et l'indice PCE, publiés jeudi, serviront de test à la Fed."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 375.48,
-        "pv": -23.72,
-        "texte": "Ton portefeuille gagne environ 5,7 € sur la séance grâce à STMicroelectronics (+7 %), mais reste en moins-value latente depuis tes achats du 5 octobre. Les deux ETF n'ont pas de nouveau cours confirmé ce soir."
-      },
-      "valeurs": [
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Le titre a bondi d'environ 7 % à Paris, les investisseurs rachetant les semi-conducteurs délaissés ces dernières semaines. Résultats du 3e trimestre jeudi 29 octobre avant l'ouverture."
-        },
-        {
-          "nom": "Schneider Electric et Legrand",
-          "texte": "Les deux valeurs liées aux centres de données ont gagné environ 3 % et 2,5 % avec le rebond de la tech."
-        },
-        {
-          "nom": "Anthropic",
-          "texte": "Le dossier d'introduction en bourse (formulaire S-1) déposé auprès de la SEC pour une cotation au Nasdaq, annoncé lundi, continue d'alimenter l'enthousiasme sur l'IA."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Dassault Systèmes",
-          "isin": "FR0014003TT8",
-          "risque": "Modéré",
-          "prix": "≈ 24 € la part (dernier cours vérifié le 23 octobre)",
-          "texte": "Le spécialiste français des logiciels de conception et de jumeaux numériques publie ses résultats du 3e trimestre demain, 28 octobre, avec un chiffre d'affaires attendu entre 1,50 et 1,54 milliard d'euros. L'IA appliquée à l'industrie est le thème porteur : le titre a rebondi d'environ 12 % en un mois. Son prix permet d'acheter plusieurs parts avec un petit budget. Le principal risque est une publication décevante, car le titre est sensible aux prévisions annuelles, et il reste en recul sur douze mois."
-        },
-        {
-          "nom": "Schneider Electric",
-          "isin": "FR0000121972",
-          "risque": "Modéré",
-          "prix": "cours non confirmé ce soir (part plus chère, à vérifier avant tout ordre)",
-          "texte": "Schneider fournit l'électricité et le refroidissement des centres de données qui font tourner l'IA, et a relevé ses perspectives annuelles lors de son dernier trimestre. Le titre a gagné près de 3 % aujourd'hui avec le rebond de la tech. Le secteur profite de la demande exceptionnelle des centres de données. Le risque principal est que le marché en attende déjà beaucoup : le titre a reculé malgré de bons chiffres, et une dépense d'IA moins forte chez les géants américains le pénaliserait."
-        },
-        {
-          "nom": "Voltalia",
-          "isin": "FR0011995588",
-          "risque": "Très élevé",
-          "prix": "≈ 5 € la part (dernier cours vérifié début septembre, à revérifier)",
-          "texte": "Voltalia développe et exploite des parcs solaires et éoliens, un thème porté par les besoins en électricité de l'IA. Le 23 octobre, elle a confirmé son objectif d'EBITDA 2026 entre 210 et 230 millions d'euros. Sa part à petit prix en fait une idée accessible. Le risque est élevé : le groupe a prévenu en septembre qu'il serait en perte nette en 2026 et le titre avait alors chuté de 17 %, il est donc très volatil et endetté."
-        }
-      ],
-      "idee": {
-        "nom": "Dassault Systèmes",
-        "isin": "FR0014003TT8",
-        "risque": "Modéré",
-        "prix": "≈ 24 € la part (dernier cours vérifié le 23 octobre)",
-        "texte": "Le spécialiste français des logiciels de conception et de jumeaux numériques publie ses résultats du 3e trimestre demain, 28 octobre, avec un chiffre d'affaires attendu entre 1,50 et 1,54 milliard d'euros. L'IA appliquée à l'industrie est le thème porteur : le titre a rebondi d'environ 12 % en un mois. Son prix permet d'acheter plusieurs parts avec un petit budget. Le principal risque est une publication décevante, car le titre est sensible aux prévisions annuelles, et il reste en recul sur douze mois."
-      },
-      "concept": {
-        "terme": "La rotation sectorielle",
-        "texte": "La rotation sectorielle désigne le mouvement des investisseurs qui vendent des actions d'un secteur pour en acheter d'un autre, selon la situation économique ou l'humeur du marché. Aujourd'hui, les semi-conducteurs ont rebondi à Paris (STMicroelectronics environ +7 %) après plusieurs semaines délaissées, pendant que d'autres secteurs patientaient. Ces mouvements sont rapides et difficiles à prévoir, car chacun arrive après que la nouvelle est connue. Pour un investisseur long terme, l'enseignement est surtout la diversification : l'AMF rappelle qu'il vaut mieux répartir son épargne sur plusieurs secteurs et zones géographiques. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
-        "references": [
-          {
-            "titre": "AMF : Bien diversifier son épargne pour atteindre ses objectifs ⚠️",
-            "url": "https://www.amf-france.org/sites/institutionnel/files/pdf/71321/fr/Bien_diversifier_son_epargne_pour_atteindre_ses_objectifs.pdf"
-          },
-          {
-            "titre": "Investopedia : Sector Rotation ⚠️",
-            "url": "https://www.investopedia.com/terms/s/sectorrotation.asp"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-28",
-          "titre": "Dassault Systèmes : résultats du 3e trimestre"
-        },
-        {
-          "date": "2026-10-28",
-          "titre": "Fed : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "STMicroelectronics, Air Liquide, Amundi : résultats du 3e trimestre"
-        },
-        {
-          "date": "2026-11-03",
-          "titre": "États-Unis : élections de mi-mandat"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "BFM Bourse : le CAC 40 se rapproche des 7 900 points",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-entre-l-accalmie-des-cours-du-petrole-et-la-hausse-des-valeurs-liees-a-l-ia-le-cac-40-se-rapproche-des-7900-points-1172555.html"
-        },
-        {
-          "titre": "Boursorama : La tech reprend la main, Paris suit le mouvement",
-          "url": "https://www.boursorama.com/bourse/actualites/la-tech-reprend-la-main-paris-suit-le-mouvement-41c47ef105516e98655b497a4b70ea06"
-        },
-        {
-          "titre": "Boursorama : Les Bourses européennes terminent majoritairement en hausse",
-          "url": "https://www.boursorama.com/bourse/actualites/les-bourses-europeennes-terminent-majoritairement-en-hausse-56d6c88d9cec3ad6bb560f2fc594bbe8"
-        },
-        {
-          "titre": "Boursorama : Wall Street poursuit son élan avant la Fed",
-          "url": "https://www.boursorama.com/bourse/actualites/wall-street-poursuit-son-elan-avant-la-fed-f7ca8742a7f73a72908fe0244d19ca91"
         }
       ]
     }
