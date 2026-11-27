@@ -1,6 +1,317 @@
 {
   "points": [
     {
+      "date": "2026-11-27",
+      "titre": "Wall Street rebondit après Thanksgiving, le CAC 40 boucle une semaine à +2,9 % avant le verdict de S&P sur la France",
+      "resume": "Le CAC 40 gagne 0,58 % à 8 156,09 points et reprend 2,88 % sur la semaine, après une chute de 5,3 % la semaine précédente (Investir), porté par le retour de Wall Street et la tech : STMicroelectronics (+3,9 %) et Soitec (+5 %) mènent la hausse. À New York, la séance écourtée finit en nette hausse (S&P 500 +1,6 %, Nasdaq +2,3 %, CNBC). En France, l'inflation ralentit à 2,9 % mais le PIB du 3e trimestre est révisé à -0,2 %, et S&P doit rendre ce soir son verdict sur la note A+ du pays.",
+      "humeur": "hausse",
+      "indices": [
+        {
+          "nom": "CAC 40",
+          "valeur": "8 156,09 pts",
+          "variation": 0.58
+        },
+        {
+          "nom": "Euro Stoxx 50",
+          "valeur": "6 089,20 pts",
+          "variation": 1.24
+        },
+        {
+          "nom": "S&P 500 (séance écourtée, clôture à 19h)",
+          "valeur": "7 297,49 pts",
+          "variation": 1.6
+        },
+        {
+          "nom": "Nasdaq Composite (séance écourtée, clôture à 19h)",
+          "valeur": "24 129,50 pts",
+          "variation": 2.31
+        },
+        {
+          "nom": "Nikkei 225",
+          "valeur": "58 711,11 pts",
+          "variation": 2.11
+        },
+        {
+          "nom": "Hang Seng",
+          "valeur": "22 694,77 pts",
+          "variation": 2.11
+        },
+        {
+          "nom": "Brent",
+          "valeur": "≈ 94,15 $",
+          "variation": -2.3
+        },
+        {
+          "nom": "Or",
+          "valeur": "≈ 3 654 $",
+          "variation": 2.43
+        },
+        {
+          "nom": "Euro/dollar",
+          "valeur": "≈ 1,0933 $",
+          "variation": -0.36
+        }
+      ],
+      "macro": [
+        {
+          "titre": "Note de la France : S&P rend son verdict ce soir",
+          "texte": "L'agence S&P doit dire après la clôture si elle maintient la note A+ de la France, assortie d'une perspective stable ; la rumeur la plus répandue sur la place évoque un passage de la perspective à négative (Investir). Le verdict n'était pas encore connu à l'heure de ce point. Un changement pourrait tendre le taux de l'OAT à 10 ans, stable autour de 4,70 % (Boursier.com), et peser lundi sur les banques françaises."
+        },
+        {
+          "titre": "France : l'inflation ralentit, la croissance recule",
+          "texte": "L'Insee a publié une inflation de novembre à 2,9 % sur un an (3,2 % en harmonisé, contre 3,7 % en octobre), nettement sous les attentes, mais aussi un PIB du 3e trimestre révisé à -0,2 % au lieu de -0,1 % (Boursier.com). Ce mélange d'inflation qui reflue et d'activité qui faiblit réduit un peu la pression pour une hausse des taux de la BCE le 17 décembre. L'estimation de l'inflation de la zone euro, mardi 1er décembre, sera le prochain repère."
+        },
+        {
+          "titre": "Pétrole : le Brent recule avant l'OPEP+",
+          "texte": "Le baril de Brent perd environ 2,3 % vers 94,15 dollars en fin de journée et le gaz européen recule de 3,3 % (Anadolu), après avoir dépassé 97 dollars dans la matinée sur de nouvelles attaques au Moyen-Orient. L'OPEP+ fixe dimanche 29 novembre sa trajectoire de production pour 2027. Un baril qui baisse allège l'inflation, mais pèse sur les valeurs pétrolières."
+        },
+        {
+          "titre": "Wall Street : une semaine de rebond après la correction",
+          "texte": "Après Thanksgiving, les indices américains finissent la semaine écourtée en forte hausse, le Dow Jones signant sa meilleure semaine depuis 2022 (CNBC), une semaine après être passés en zone de correction le 20 novembre (MLQ). La tech et l'IA, chahutées en novembre, mènent le mouvement. Les volumes restent modestes des deux côtés de l'Atlantique (4,0 milliards d'euros échangés à Paris, Boursier.com) : ce rebond doit encore être confirmé."
+        }
+      ],
+      "portefeuille": {
+        "valeur": 755.14,
+        "pv": -44.14,
+        "texte": "Ton portefeuille vaut 755,14 € pour 799,28 € investis, soit -44,14 €, en hausse d'environ 9,70 € sur la journée grâce à STMicroelectronics (+3,86 %) et à l'ETF Nasdaq-100 (+1,64 %). STMicroelectronics (37,15 €) et Stellantis (3,58 €) restent sous leurs niveaux de sortie de 38,61 € et 3,75 €, et le plan de vente reste valable."
+      },
+      "valeurs": [
+        {
+          "nom": "STMicroelectronics",
+          "texte": "Ce qui a changé depuis hier : deuxième séance de hausse, +3,86 % à 37,15 €, sur un volume enfin proche de sa moyenne 20 jours (2,84 millions contre 2,77 millions), et Oddo BHF a réitéré son opinion « surperformance » avec un objectif de 72 € (Boursier.com). Le plus haut du jour (37,69 €) n'a pas touché ton niveau de sortie de 38,61 €, et le cours reste sous ses moyennes 20 et 50 jours (39,52 € et 42,69 €)."
+        },
+        {
+          "nom": "Stellantis",
+          "texte": "Le rebond ralentit après +8,9 % jeudi : +1,55 % à 3,58 €, avec un plus haut à 3,64 €, toujours sous ton niveau de sortie de 3,75 € et sous sa moyenne 50 jours (3,82 €). Les quotas européens sur les hybrides importés entrent en vigueur mardi 1er décembre."
+        },
+        {
+          "nom": "Air Liquide",
+          "texte": "Le titre gagne 0,86 % à 191,96 €, à 1,4 % de son plus haut de six mois (194,70 €) et au-dessus de ses moyennes 20 et 50 jours (189,24 € et 178,32 €). C'est ta ligne la plus solide, avec environ 9,90 € de plus-value latente."
+        },
+        {
+          "nom": "Thales",
+          "texte": "Thales gagne 2,31 % à 239,20 € après l'annonce de négociations exclusives pour acheter 51,6 % de Lumibird à son PDG, sur la base de 30,10 € par action, soit une prime de 24,7 % sur le cours moyen d'un mois, distribution exceptionnelle de 11,34 € comprise (Boursier.com). Lumibird bondit de 18 % vers 29 €."
+        }
+      ],
+      "idees": [
+        {
+          "nom": "Thales",
+          "isin": "FR0000121329",
+          "risque": "Modéré",
+          "prix": "≈ 239 € la part",
+          "texte": "Thales fabrique de l'électronique de défense, d'aéronautique et de cybersécurité, et il a annoncé vendredi des négociations exclusives pour acheter 51,6 % de Lumibird, spécialiste français des lasers, sur la base de 30,10 € par action (Boursier.com). Cette opération renforce le groupe dans la photonique, une technologie clé pour les viseurs, les télémètres et les armes laser, alors que les budgets militaires européens augmentent. Le titre a gagné 2,31 % à 239,20 € et repasse au-dessus de ses moyennes 20 et 50 jours (228,79 € et 228,51 €, Yahoo Finance). Le principal risque : une part coûte près d'un tiers de ton portefeuille, et toute avancée vers un cessez-le-feu en Ukraine pèse en général sur les valeurs de défense."
+        },
+        {
+          "nom": "Soitec",
+          "isin": "FR0013227113",
+          "risque": "Élevé",
+          "prix": "≈ 95,50 € la part",
+          "texte": "Soitec produit des plaquettes de silicium spéciales utilisées dans les puces des smartphones, des voitures et des centres de données, y compris pour la photonique sur silicium qui sert à faire circuler les données de l'IA. Vendredi, le titre a repris 5 % à 95,52 € avec le retour des achats sur les valeurs liées à l'IA en Europe et au Nasdaq (Boursier.com). Il reste pourtant sous ses moyennes 20 et 50 jours (101,08 € et 125,54 €) et environ 52 % sous son plus haut de six mois (200,50 €) : c'est un rebond dans une tendance baissière, pas encore un retournement. Le principal risque : le titre bouge en moyenne d'environ 9 € par séance (ATR sur 14 jours), et l'idée Spéculatif du 11 novembre sur Soitec a fini à -9,3 %."
+        },
+        {
+          "nom": "Eramet",
+          "isin": "FR0000131757",
+          "risque": "Très élevé",
+          "prix": "≈ 17 € la part",
+          "texte": "Eramet est un groupe minier français présent dans le manganèse, le nickel et le lithium, des métaux utilisés dans l'acier et les batteries. La période de souscription de son augmentation de capital d'environ 500 millions d'euros, au prix de 14,49 € par action nouvelle et soutenue par l'État et ses actionnaires de référence, s'est terminée vendredi (Boursier.com, Idéal Investisseur) : l'argent doit servir à réduire sa dette, et la fin de l'opération peut alléger la pression vendeuse sur le titre. La part est abordable, autour de 17 €. Le principal risque : l'action a perdu environ la moitié de sa valeur en un mois, la dilution est forte, et le prix des métaux reste le premier moteur du résultat."
+        }
+      ],
+      "idee": {
+        "nom": "Thales",
+        "isin": "FR0000121329",
+        "risque": "Modéré",
+        "prix": "≈ 239 € la part",
+        "texte": "Thales fabrique de l'électronique de défense, d'aéronautique et de cybersécurité, et il a annoncé vendredi des négociations exclusives pour acheter 51,6 % de Lumibird, spécialiste français des lasers, sur la base de 30,10 € par action (Boursier.com). Cette opération renforce le groupe dans la photonique, une technologie clé pour les viseurs, les télémètres et les armes laser, alors que les budgets militaires européens augmentent. Le titre a gagné 2,31 % à 239,20 € et repasse au-dessus de ses moyennes 20 et 50 jours (228,79 € et 228,51 €, Yahoo Finance). Le principal risque : une part coûte près d'un tiers de ton portefeuille, et toute avancée vers un cessez-le-feu en Ukraine pèse en général sur les valeurs de défense."
+      },
+      "concept": {
+        "terme": "La note souveraine",
+        "texte": "La note souveraine est l'appréciation, par une agence de notation comme S&P, Moody's ou Fitch, de la capacité d'un État à rembourser sa dette à temps. Elle s'exprime par des lettres, de AAA pour la meilleure qualité à D pour un défaut de paiement, et s'accompagne d'une perspective (positive, stable ou négative) qui indique le sens probable de la prochaine décision. Une note plus basse peut renchérir les emprunts de l'État, car certains investisseurs exigent alors un taux plus élevé, et elle pèse souvent sur les banques du pays, qui détiennent beaucoup de sa dette. Vendredi soir, S&P devait dire si elle maintient la note A+ de la France, avec une perspective stable, alors que le taux de l'OAT à 10 ans tourne autour de 4,70 % (Boursier.com). Notion présentée à titre éducatif, sans conseil.",
+        "references": [
+          {
+            "titre": "Vie publique : Dette publique, le rôle des agences de notation",
+            "url": "https://www.vie-publique.fr/questions-reponses/289661-dette-publique-le-role-des-agences-de-notation"
+          },
+          {
+            "titre": "Vie publique : Qu'est-ce qu'une agence de notation ?",
+            "url": "https://www.vie-publique.fr/fiches/270095-quest-ce-quune-agence-de-notation"
+          }
+        ]
+      },
+      "courtTerme": {
+        "contexte": "Le rebond de la semaine (+2,88 % pour le CAC 40) reste fragile pour agir à court terme : il s'appuie sur des volumes modestes, une séance américaine écourtée, et le verdict de S&P sur la France tombe après la clôture, avec un risque sur les banques et l'OAT dès lundi. Le CAC 40 (8 156 points) finit juste sous sa moyenne 20 jours (8 161 points) et au-dessus de la 50 jours (8 016 points). Aucune idée ne passe les critères Favorable et je n'ajoute pas d'idée Spéculatif ; le journal compte 3 idées closes, toutes Spéculatif et perdantes (-9,29 %, -4,55 % et -7,30 %) : l'échantillon est trop petit pour juger la méthode, mais il justifie de rester exigeant. Sur tes lignes : STMicroelectronics (37,15 €) et Stellantis (3,58 €) restent sous 38,61 € et 3,75 €, la vente prévue reste active et ce rebond en offre le meilleur prix depuis le 24 novembre ; Air Liquide (191,96 €) reste loin de 171 €. Le radar automatique a une séance de retard ce soir (cours du 25 novembre).",
+        "retro": "Bilan à 5 jours (idées du 20 novembre) : Airbus (Attendre, 189,96 €) a touché son entrée de 195,50 € au plus tard vendredi (plus haut 196,78 €) et finit à 195,72 €, soit un résultat quasi nul, environ -0,9 % net de frais, sans vérification séance par séance des jours précédents ; Sanofi (Attendre, sans niveau) passe de 84,92 € à environ 97,70 € (+15 %), un gain manqué, porté par le rachat d'Insmed annoncé ensuite et imprévisible ; STMicroelectronics (Éviter, 36,72 €) finit à 37,15 € (+1,2 %) et Vallourec (Éviter, 15,48 €) à 15,56 € (+0,5 %), deux avis sans conséquence. Bilan définitif à 10 jours (idées du 13 novembre) : TotalEnergies (Attendre, 82,17 €) est descendu sous l'entrée sur repli de 80,90 € puis sous l'invalidation de 78,80 € et finit à 78,56 € : l'idée aurait coûté environ -3,6 % net, un vrai échec du plan. Bilan du vendredi des 3 idées du 13 novembre, comparées au CAC 40 (-2,5 %, de 8 368,91 à 8 156,09 points) : AXA passe de 47 € à environ 44,90 € (-4,5 %) et OVHcloud de 14,90 € à environ 12,65 € (-15,1 %), au dernier cours du radar qui a une séance de retard, et je n'ai pas de cours fiable pour Poujoulat ; aucune ne bat le marché.",
+        "opportunites": [
+          {
+            "nom": "Renault",
+            "isin": "FR0000131906",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Entrée en vigueur des quotas européens sur les voitures hybrides importées le mardi 1er décembre (Commission européenne)",
+            "cours": "29,30 €",
+            "entree": "28,20 €, seulement sur un repli qui tient en clôture",
+            "invalidation": "27,20 €",
+            "objectif": "30,40 €",
+            "ratio": "2,2",
+            "frais": "Si l'entrée est touchée : 14 actions, environ 395 €, perte maximale d'environ 16 € frais compris, gain visé d'environ 28,80 € net de 2 € de frais",
+            "these": "Renault fabrique des voitures sous les marques Renault, Dacia et Alpine, surtout pour le marché européen. Le catalyseur est daté : les quotas européens sur les hybrides importés entrent en vigueur le 1er décembre, ce qui protège les constructeurs qui produisent en Europe. Le titre a gagné 1,24 % vendredi à 29,30 €, après +5,74 % jeudi, sur un volume proche de sa moyenne 20 jours (1,05 fois, Yahoo Finance). Il est au-dessus de ses moyennes 20 et 50 jours (28,06 € et 27,14 €), donc en tendance haussière, mais à seulement 1,14 € de son plus haut de six mois (30,44 €), qui sert de résistance. Acheter à 29,30 € avec une invalidation à 1 ATR (0,97 €) donnerait un objectif au-delà de cette résistance : le ratio ne tient que sur un repli vers 28,20 €. Consensus, dirigeants et positions courtes ne sont pas vérifiés ce soir. Ce qui contredit l'idée : la mesure est connue et déjà en partie dans le cours, et le Maroc, où Renault produit des Dacia, est aussi plafonné.",
+            "risque": "Le repli peut ne jamais venir, et une note de la France abaissée ce soir peut peser lundi sur toutes les valeurs françaises."
+          },
+          {
+            "nom": "Exosens",
+            "isin": "FR001400Q9V2",
+            "compte": "PEA",
+            "avis": "Attendre",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Commande de 6 000 tubes intensificateurs de lumière pour le programme allemand « Soldat du futur », annoncée le 27 novembre",
+            "cours": "≈ 54,30 €",
+            "entree": "aucune ce soir",
+            "invalidation": "non fixée",
+            "objectif": "non fixé",
+            "ratio": "non calculé",
+            "frais": "Pas de plan chiffré : valeur absente de data/suivi.json, donc sans ATR fiable ; à ajouter au suivi",
+            "these": "Exosens fabrique des tubes de vision nocturne et des détecteurs pour la défense et l'industrie. Vendredi, le groupe a annoncé une commande majeure de 6 000 tubes intensificateurs de lumière destinés aux jumelles du programme allemand d'équipement des fantassins, piloté par Rheinmetall, avec des livraisons à partir de début 2027 (Boursier.com). Le titre a bondi de 6,4 % vers 54,30 €. C'est un vrai fait nouveau, mais son effet sur le chiffre d'affaires ne commence qu'en 2027 et le cours en a déjà intégré une partie en une séance. Le titre était encore sous ses moyennes 20 et 50 jours mercredi (52,81 € et 56,47 €, radar). Il manque un ATR fiable : la valeur n'est pas dans data/suivi.json, je la cite donc comme valeur à ajouter au suivi. Ce qui contredit l'idée : un rebond d'une séance sur une commande dans une tendance baissière se dégonfle souvent, et un recul des valeurs de défense en cas de détente en Ukraine pèserait sur le titre.",
+            "risque": "Une petite valeur peut rendre en quelques jours une hausse obtenue sur une seule annonce."
+          },
+          {
+            "nom": "Lumibird",
+            "isin": "FR0000038242",
+            "compte": "PEA",
+            "avis": "Éviter",
+            "horizon": "2 à 10 jours",
+            "catalyseur": "Négociations exclusives de Thales pour acheter 51,6 % du capital, annoncées le 27 novembre",
+            "cours": "≈ 29 €",
+            "entree": "aucune",
+            "invalidation": "non fixée",
+            "objectif": "30,10 € (prix de l'offre, plafond probable)",
+            "ratio": "défavorable",
+            "frais": "2 € d'aller-retour sur 200 € coûtent 1 point, soit près d'un tiers du gain restant",
+            "these": "Lumibird conçoit des lasers pour la défense, l'industrie et la mesure. Thales négocie l'achat de 51,6 % du capital à son PDG, sur la base de 30,10 € par action, distribution exceptionnelle de 11,34 € par action comprise, tirée de la vente de l'activité médicale à IPG Photonics (Boursier.com). Le titre a bondi de 18 % vers 29 € : il se cale déjà juste sous le prix proposé, comme presque toujours dans ce type d'opération. Le gain restant est d'environ 3,8 % brut, moins 1 point de frais, pour un risque de chute marquée si les négociations échouent. Le calendrier est long : l'acquisition du bloc, puis une offre sur le reste du capital, demandent des autorisations. Ce qui contredirait cet avis : une surenchère d'un autre acheteur, que rien n'annonce aujourd'hui.",
+            "risque": "Si les négociations échouent, le titre peut perdre une grande partie de sa hausse du jour."
+          }
+        ]
+      },
+      "lecon": {
+        "titre": "Gestion du risque : le ratio gain/risque et le taux de réussite, deux chiffres à lire ensemble",
+        "niveau": "Intermédiaire",
+        "texte": "Le ratio gain/risque compare ce qu'une opération peut rapporter si l'objectif est atteint à ce qu'elle coûte si le niveau d'invalidation est touché : acheter à 10 € avec une sortie à 9 € et un objectif à 12 € donne un ratio de 2, soit 2 € espérés pour 1 € risqué. Ce chiffre ne suffit pas seul : il faut le lire avec le taux de réussite, c'est-à-dire la part des opérations qui atteignent leur objectif. On les combine dans l'espérance de gain : taux de réussite × gain moyen, moins taux d'échec × perte moyenne. Avec un ratio de 2, il suffit en théorie de gagner un peu plus d'une fois sur trois pour être gagnant avant frais ; avec un ratio de 1, il faut gagner plus d'une fois sur deux. Les frais réduisent le gain et augmentent la perte : sur de petits montants, 2 € d'aller-retour pèsent lourd. Enfin, un taux de réussite mesuré sur quelques opérations ne veut presque rien dire : il faut des dizaines d'opérations pour distinguer une méthode d'un coup de chance. C'est pour cela que le journal des idées du site garde tous les résultats, bons comme mauvais.",
+        "exemple": "Le plan Renault de ce soir prévoit 14 actions à 28,20 €, une sortie à 27,20 € et un objectif à 30,40 €. Perte maximale : 14 € + 2 € de frais = 16 € ; gain visé : 30,80 € - 2 € = 28,80 €, soit un ratio net d'environ 1,8. Avec 40 % de réussite, l'espérance vaut 0,4 × 28,80 - 0,6 × 16 = +1,92 € par opération ; avec 30 %, elle tombe à 0,3 × 28,80 - 0,7 × 16 = -2,56 €. Le journal du site compte 3 idées closes, 0 gagnante : beaucoup trop peu pour conclure, mais assez pour ne pas surestimer son taux de réussite.",
+        "references": [
+          {
+            "titre": "AMF : Rendement et risque, deux inséparables",
+            "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/cadrer-son-projet/rendement-et-risque-deux-inseparables"
+          },
+          {
+            "titre": "Investopedia : Risk/Reward Ratio ⚠️",
+            "url": "https://www.investopedia.com/terms/r/riskrewardratio.asp"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Une méthode gagne 30 % du temps, avec un gain moyen de 20 € et une perte moyenne de 10 € (ratio de 2). Quelle est son espérance par opération, avant frais ?",
+          "choix": [
+            "-1 €",
+            "+2 €",
+            "+6 €",
+            "-3 €"
+          ],
+          "bonne": 0,
+          "explication": "0,3 × 20 € - 0,7 × 10 € = 6 € - 7 € = -1 €. Un bon ratio ne suffit pas si le taux de réussite est trop faible."
+        },
+        {
+          "question": "Une agence fait passer la perspective de la note d'un État de « stable » à « négative ». Qu'est-ce que cela signifie ?",
+          "choix": [
+            "La note est abaissée immédiatement",
+            "L'État est en défaut de paiement",
+            "L'agence juge plus probable une baisse de la note dans les prochains mois",
+            "La BCE doit relever ses taux"
+          ],
+          "bonne": 2,
+          "explication": "La perspective indique le sens probable de la prochaine décision. La note elle-même ne change pas tant que l'agence ne l'a pas abaissée."
+        },
+        {
+          "question": "Révision : un cours monte de 4 % sur un volume deux fois plus faible que sa moyenne 20 jours. Comment lire ce mouvement ?",
+          "choix": [
+            "Il est très solide, car la hausse est forte",
+            "Il est moins fiable, car peu d'acheteurs y ont participé",
+            "Le volume n'a aucune importance",
+            "C'est un signal de vente certain"
+          ],
+          "bonne": 1,
+          "explication": "Un mouvement soutenu par beaucoup d'échanges est plus crédible. Sur un faible volume, il peut s'inverser facilement, sans que ce soit une certitude."
+        }
+      ],
+      "rendezvous": [
+        {
+          "date": "2026-11-29",
+          "titre": "OPEP+ : réunion ministérielle sur la production 2027"
+        },
+        {
+          "date": "2026-11-30",
+          "titre": "BCE : audition de Christine Lagarde devant la commission ECON du Parlement européen"
+        },
+        {
+          "date": "2026-12-01",
+          "titre": "Zone euro : estimation rapide de l'inflation de novembre (11h) ; entrée en vigueur des quotas européens sur les hybrides importés ; audition de Jensen Huang (Nvidia) au Congrès"
+        },
+        {
+          "date": "2026-12-04",
+          "titre": "États-Unis : rapport sur l'emploi de novembre"
+        },
+        {
+          "date": "2026-12-09",
+          "titre": "Fed : décision sur les taux (20h00, heure de Paris)"
+        },
+        {
+          "date": "2026-12-10",
+          "titre": "États-Unis : inflation de novembre (CPI)"
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Boursier.com : clôture de Paris du 27 novembre 2026",
+          "url": "https://www.boursier.com/indices/actualites/news/cloture-paris-le-cac-40-prolonge-son-rebond-mais-attention-a-la-mise-a-jour-de-la-note-de-la-france-par-sp-global-ratings-999110.html"
+        },
+        {
+          "titre": "Investir : les investisseurs profitent des soldes avant le verdict de S&P",
+          "url": "https://investir.lesechos.fr/marches-indices/les-points-bourse/les-investisseurs-profitent-des-soldes-sur-les-actions-a-paris-avant-le-verdict-de-lagence-sp-sur-la-france-2265092"
+        },
+        {
+          "titre": "AFP via Bourse Direct : la Bourse de Paris termine la semaine dans le vert",
+          "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie/la-bourse-de-paris-termine-la-semaine-dans-le-vert-afp-fdd939d9b729d454c876027d2b292ed26c1652a8"
+        },
+        {
+          "titre": "CNBC : clôture de Wall Street",
+          "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+        },
+        {
+          "titre": "MLQ : Wall Street ouvre en hausse le jour du Black Friday",
+          "url": "https://mlq.ai/news/wall-street-opens-higher-on-black-friday-as-ai-stocks-rebound/"
+        },
+        {
+          "titre": "Anadolu : le Brent recule avant la réunion de l'OPEP+",
+          "url": "https://www.aa.com.tr/fr/%C3%A9conomie/les-cours-du-p%C3%A9trole-et-du-gaz-reculent-le-brent-r%C3%A9duit-ses-gains-hebdomadaires-avant-la-r%C3%A9union-de-l-opep-/4140865"
+        },
+        {
+          "titre": "XTB : note de la France, S&P rend son verdict ce soir",
+          "url": "https://www.xtb.com/fr/analyses-marches/note-france-sp-verdict-27-11-2026"
+        },
+        {
+          "titre": "Idéal Investisseur : Eramet lance une augmentation de capital de 500 M€",
+          "url": "https://www.ideal-investisseur.fr/actions-b/eramet-lance-une-augmentation-de-capital-de-500-m-soutenue-par-letat-a-64/29280.html"
+        },
+        {
+          "titre": "ABC Bourse : Eramet consent une forte décote pour son augmentation de capital",
+          "url": "https://www.abcbourse.com/marches/eramet-consent-une-forte-decote-pour-son-augmentation-de-capital-et-chute-en-bou_706071"
+        },
+        {
+          "titre": "Investir : dernière danse de Christine Lagarde à Bruxelles ce lundi",
+          "url": "https://investir.lesechos.fr/marches-indices/les-points-bourse/derniere-danse-de-christine-lagarde-a-bruxelles-ce-lundi-2265048"
+        }
+      ]
+    },
+    {
       "date": "2026-11-26",
       "titre": "Wall Street en congé, Paris rachète l'IA et l'automobile : le CAC 40 repasse au-dessus de 8 100 points",
       "resume": "Sans Wall Street, fermée pour Thanksgiving, la Bourse de Paris a profité du rebond de la tech de la veille au soir : le CAC 40 gagne 1,61 % à 8 108,74 points, avec 38 valeurs sur 40 en hausse mais des volumes faibles, autour de 3,2 milliards d'euros échangés (Investir). Stellantis (+8,9 %), Renault (+5,7 %) et STMicroelectronics (+4,5 %) mènent la hausse, portés par les quotas européens sur les hybrides et le retour des achats sur les puces. Le compte rendu de la BCE confirme qu'une hausse des taux en décembre reste probable, et le pétrole remonte vers 96 dollars.",
@@ -8060,166 +8371,6 @@
         {
           "title": "Boursorama : Wall Street ouvre dans le rouge, la tech pénalisée par Alphabet",
           "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-dans-le-rouge-la-tech-penalisee-par-alphabet-0b6cf4e018d698c7834ff1125034b701"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "titre": "Paris stable à 7 887 points avant la Fed et la BCE, Stellantis s'envole et Dassault Systèmes chute",
-      "resume": "Le CAC 40 termine quasiment inchangé à 7 886,96 points, dans une séance attentiste avant la décision de la Fed ce soir, maintenue avec dix voix contre deux, et celle de la BCE demain. Stellantis gagne environ 15 % après de bons résultats, tandis que Dassault Systèmes perd 4,5 % pour un relèvement d'objectifs jugé trop timide.",
-      "humeur": "stable",
-      "indices": [
-        {
-          "nom": "CAC 40",
-          "valeur": "7 886,96 pts",
-          "variation": 0.0
-        },
-        {
-          "nom": "Euro Stoxx 50",
-          "valeur": "cours non confirmé ce soir",
-          "variation": 0.0
-        },
-        {
-          "nom": "S&P 500",
-          "valeur": "≈ 7 720 pts (séance en cours, proche de l'équilibre)",
-          "variation": 0.0
-        },
-        {
-          "nom": "Nasdaq",
-          "valeur": "≈ 26 480 pts (Composite, séance en cours)",
-          "variation": 0.0
-        },
-        {
-          "nom": "Brent",
-          "valeur": "≈ 115,13 $ (relevé de 14h32)",
-          "variation": 0.0
-        },
-        {
-          "nom": "Or",
-          "valeur": "≈ 4 047,74 $ l'once (relevé de 14h32)",
-          "variation": 0.0
-        },
-        {
-          "nom": "Euro/dollar",
-          "valeur": "≈ 1,1132 (relevé de 14h32)",
-          "variation": 0.0
-        }
-      ],
-      "macro": [
-        {
-          "titre": "Banques centrales",
-          "texte": "La Fed a maintenu ses taux avec un vote de dix voix contre deux, et son président Kevin Warsh a noté que les conditions financières se sont resserrées depuis la hausse de septembre. La BCE décide demain, avec un taux de dépôt à 2,50 %."
-        },
-        {
-          "titre": "Taux",
-          "texte": "Le rendement américain à dix ans tournait autour de 5 % avant la décision. Des taux aussi élevés pèsent sur les valeurs de croissance et sur les entreprises endettées."
-        },
-        {
-          "titre": "Pétrole",
-          "texte": "Le Brent reste autour de 115 $, ce qui entretient l'inflation et les craintes pour la croissance, dans un contexte géopolitique tendu."
-        },
-        {
-          "titre": "Inflation",
-          "texte": "L'inflation de la zone euro était de 3,8 % en septembre. Le PIB américain et l'indice PCE, publiés demain, serviront de test pour la Fed."
-        }
-      ],
-      "portefeuille": {
-        "valeur": 375.48,
-        "pv": -23.72,
-        "texte": "Pas de nouveau cours de clôture confirmé ce soir pour tes trois lignes, donc la valeur reste celle de la dernière séance confirmée. Demain, STMicroelectronics publie ses résultats, un moment important pour ta ligne la plus volatile."
-      },
-      "valeurs": [
-        {
-          "nom": "Soitec",
-          "texte": "Le titre avait clôturé hier autour de 121,95 €, en nette hausse avec le rebond des semi-conducteurs, et se maintenait vers 122 à 123 € en séance aujourd'hui."
-        },
-        {
-          "nom": "Air Liquide",
-          "texte": "Le titre recule d'environ 0,4 % vers 173,7 € en séance, à la veille de son chiffre d'affaires du troisième trimestre."
-        },
-        {
-          "nom": "STMicroelectronics",
-          "texte": "Après son bond d'environ 7 % hier, le titre attend ses résultats du troisième trimestre demain avant l'ouverture."
-        }
-      ],
-      "idees": [
-        {
-          "nom": "Stellantis",
-          "isin": "NL00150001Q9",
-          "risque": "Élevé",
-          "prix": "≈ 4,3 € la part",
-          "texte": "Le constructeur a bondi d'environ 15 % aujourd'hui après des résultats trimestriels meilleurs qu'attendu, un bon exemple du poids du consensus. Sa part à moins de 5 € est accessible à un petit budget sur un PEA, sans fraction. Le principal risque est le secteur automobile, très cyclique, avec des volumes de ventes qui reculent encore d'environ 1 % sur un an et un titre qui a beaucoup varié ces derniers mois."
-        },
-        {
-          "nom": "Capgemini",
-          "isin": "FR0000125338",
-          "risque": "Modéré",
-          "prix": "≈ 90 € la part (dernier cours vérifié en avril, à revérifier)",
-          "texte": "Le groupe de services numériques relève ses prévisions de croissance 2026 à 8,5 à 9 %, portées par la demande autour de l'IA. C'est une façon plus diversifiée de s'exposer à ce thème que les fabricants de puces. Le principal risque est la pression sur les marges, avec un résultat net semestriel en recul de 31 % à cause du plan de restructuration, et un cours qui peut réagir fort à ses publications."
-        },
-        {
-          "nom": "Engie",
-          "isin": "FR0010208488",
-          "risque": "Modéré",
-          "prix": "≈ 23 € la part (cours du 30 septembre, à revérifier)",
-          "texte": "Avec un pétrole autour de 115 $, l'énergie reste au centre de l'actualité, et Engie, qui relève sa prévision de résultat net récurrent 2026 à 4,9 à 5,5 milliards d'euros, publie ses résultats le 5 novembre. L'action est souvent suivie pour son dividende, ce qui en fait un profil plus calme. Le principal risque est la météo douce, qui pèse sur ses volumes en France, et la sensibilité aux taux élevés."
-        }
-      ],
-      "idee": {
-        "nom": "Stellantis",
-        "isin": "NL00150001Q9",
-        "risque": "Élevé",
-        "prix": "≈ 4,3 € la part",
-        "texte": "Le constructeur a bondi d'environ 15 % aujourd'hui après des résultats trimestriels meilleurs qu'attendu, un bon exemple du poids du consensus. Sa part à moins de 5 € est accessible à un petit budget sur un PEA, sans fraction. Le principal risque est le secteur automobile, très cyclique, avec des volumes de ventes qui reculent encore d'environ 1 % sur un an et un titre qui a beaucoup varié ces derniers mois."
-      },
-      "concept": {
-        "terme": "Le consensus des analystes",
-        "texte": "Le consensus est la moyenne des prévisions publiées par les analystes financiers sur une entreprise, par exemple son chiffre d'affaires ou son bénéfice du trimestre. Il sert de repère au marché : une société qui fait mieux que ce consensus voit souvent son cours monter, et l'inverse si elle déçoit. C'est ce qui s'est passé aujourd'hui avec Dassault Systèmes, qui a relevé ses objectifs mais pas assez aux yeux des analystes, et recule d'environ 4,5 %. Un bon résultat ne suffit donc pas, c'est l'écart avec ce que le marché attendait qui compte. Cette notion est présentée à titre éducatif et ne constitue pas un conseil.",
-        "references": [
-          {
-            "titre": "BFM Bourse (Tradingsat) : définition du consensus ⚠️",
-            "url": "https://www.tradingsat.com/lexique-boursier/definition-consensus-46.html"
-          },
-          {
-            "titre": "Boursedescredits : définition du consensus ⚠️",
-            "url": "https://www.boursedescredits.com/lexique-definition-consensus-1115.php"
-          }
-        ]
-      },
-      "rendezvous": [
-        {
-          "date": "2026-10-29",
-          "titre": "BCE : décision sur les taux"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "STMicroelectronics, Air Liquide, Amundi : résultats du 3e trimestre"
-        },
-        {
-          "date": "2026-10-29",
-          "titre": "États-Unis : PIB du 3e trimestre et indice PCE"
-        },
-        {
-          "date": "2026-11-03",
-          "titre": "États-Unis : élections de mi-mandat"
-        },
-        {
-          "date": "2026-11-05",
-          "titre": "Engie : résultats des neuf premiers mois"
-        }
-      ],
-      "sources": [
-        {
-          "titre": "Boursorama : La Bourse de Paris termine à l'équilibre avant la Fed et la BCE",
-          "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-a-l-equilibre-avant-la-fed-et-la-bce-9658d4f2f07a5755904ee891ed458cab"
-        },
-        {
-          "titre": "Boursorama : Le CAC 40 freiné, Stellantis en pole position",
-          "url": "https://www.boursorama.com/bourse/actualites/le-cac-40-freine-stellantis-en-pole-position-81f6e1fbb42c34e1611ef26b42005fbe"
-        },
-        {
-          "titre": "Yahoo Finance : la Fed maintient ses taux (10 voix contre 2)",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-080642111.html"
         }
       ]
     }

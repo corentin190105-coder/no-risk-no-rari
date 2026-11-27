@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-11-26T21:10:00+01:00",
-    "resume": "Jeudi 26 novembre 2026 : Wall Street fermée pour Thanksgiving, Paris rachète les valeurs de l'IA et l'automobile, et le CAC 40 repasse au-dessus de 8 100 points (+1,61 % à 8 108,74). Ton portefeuille vaut 745,43 € pour 799,28 € investis, soit -53,85 €. Stellantis (+8,9 % à 3,53 €) et STMicroelectronics (35,77 €) rebondissent mais restent sous leurs niveaux de sortie de 3,75 € et 38,61 €."
+    "date": "2026-11-27T21:30:00+01:00",
+    "resume": "Vendredi 27 novembre 2026 : Wall Street rouvre en nette hausse après Thanksgiving et le CAC 40 gagne 0,58 % à 8 156,09 points (+2,88 % sur la semaine), avant le verdict de S&P sur la note de la France attendu ce soir. Ton portefeuille vaut 755,14 € pour 799,28 € investis, soit -44,14 €. STMicroelectronics (37,15 €) et Stellantis (3,58 €) remontent mais restent sous leurs niveaux de sortie de 38,61 € et 3,75 €."
   },
   "actifs": [
     {
@@ -109,11 +109,15 @@
         {
           "d": "2026-11-26",
           "p": 6.07
+        },
+        {
+          "d": "2026-11-27",
+          "p": 6.54
         }
       ],
-      "prix": 6.07,
-      "prixDate": "2026-11-26",
-      "variationJour": 8.39
+      "prix": 6.54,
+      "prixDate": "2026-11-27",
+      "variationJour": 7.74
     },
     {
       "activite": "Leader mondial des gaz industriels, avec environ 600 sites de production d'hydrogène. L'hydrogène est une activité parmi d'autres.",
@@ -240,15 +244,24 @@
         {
           "d": "2026-11-26",
           "p": 190.32
+        },
+        {
+          "d": "2026-11-27",
+          "p": 191.96
         }
       ],
-      "prix": 190.32,
-      "prixDate": "2026-11-26",
-      "variationJour": 0.99
+      "prix": 191.96,
+      "prixDate": "2026-11-27",
+      "variationJour": 0.86
     },
     {
       "activite": "Groupe français de défense, aéronautique, spatial et cybersécurité. Il développe aussi des capteurs quantiques et de la cryptographie post-quantique.",
       "actus": [
+        {
+          "date": "2026-11-27",
+          "titre": "Thales entre en négociations exclusives pour acheter 51,6 % du spécialiste des lasers Lumibird, valorisé 30,10 € par action",
+          "url": "https://www.boursier.com/indices/actualites/news/cloture-paris-le-cac-40-prolonge-son-rebond-mais-attention-a-la-mise-a-jour-de-la-note-de-la-france-par-sp-global-ratings-999110.html"
+        },
         {
           "date": "2026-11-19",
           "titre": "Thales parmi les rares hausses du CAC 40 (+0,7 %) dans une séance de repli",
@@ -273,11 +286,6 @@
           "date": "2026-11-06",
           "titre": "La défense européenne reste vendue après la victoire démocrate aux États-Unis, qui fait craindre une baisse des dépenses militaires américaines",
           "url": "https://rekto.substack.com/p/vendredi-6-novembre-2026"
-        },
-        {
-          "date": "2026-11-05",
-          "titre": "La défense européenne recule : Rheinmetall perd environ 16 % après une nouvelle baisse de son objectif de ventes 2026",
-          "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-at-6-219-70-down-1-58-prozent/70466022"
         }
       ],
       "isin": "FR0000121329",
@@ -375,11 +383,15 @@
         {
           "d": "2026-11-26",
           "p": 233.8
+        },
+        {
+          "d": "2026-11-27",
+          "p": 239.2
         }
       ],
-      "prix": 233.8,
-      "prixDate": "2026-11-26",
-      "variationJour": 2.72
+      "prix": 239.2,
+      "prixDate": "2026-11-27",
+      "variationJour": 2.31
     },
     {
       "activite": "Premier gestionnaire d'actifs européen (filiale du Crédit Agricole) et leader européen des ETF. Il touche un pourcentage des sommes qu'il gère, dont les frais de tes ETF Amundi.",
@@ -480,11 +492,15 @@
         {
           "d": "2026-11-26",
           "p": 91.9
+        },
+        {
+          "d": "2026-11-27",
+          "p": 93.9
         }
       ],
-      "prix": 91.9,
-      "prixDate": "2026-11-26",
-      "variationJour": 2.11
+      "prix": 93.9,
+      "prixDate": "2026-11-27",
+      "variationJour": 2.18
     },
     {
       "activite": "Version historique (depuis 2012) de l'ETF Nasdaq-100 éligible PEA. Même indice et mêmes frais (0,30 %) que PNAS, mais une part autour de 80 €.",
@@ -611,15 +627,24 @@
         {
           "d": "2026-11-26",
           "p": 95.85
+        },
+        {
+          "d": "2026-11-27",
+          "p": 97.45
         }
       ],
-      "prix": 95.85,
-      "prixDate": "2026-11-26",
-      "variationJour": 4.38
+      "prix": 97.45,
+      "prixDate": "2026-11-27",
+      "variationJour": 1.67
     },
     {
       "activite": "Entreprise iséroise (Bernin, environ 2 300 salariés) qui fabrique les plaques de silicium spéciales sur lesquelles d'autres gravent les puces. Elle ne fabrique pas de puces : elle vend le matériau de départ.",
       "actus": [
+        {
+          "date": "2026-11-27",
+          "titre": "Soitec remonte de 5 % à plus de 95 € avec le retour des achats sur les valeurs liées à l'IA",
+          "url": "https://www.boursier.com/indices/actualites/news/cloture-paris-le-cac-40-prolonge-son-rebond-mais-attention-a-la-mise-a-jour-de-la-note-de-la-france-par-sp-global-ratings-999110.html"
+        },
         {
           "date": "2026-11-26",
           "titre": "Soitec rebondit de 6,9 % à 90,96 € avec le retour des achats sur les semi-conducteurs",
@@ -644,11 +669,6 @@
           "date": "2026-11-20",
           "titre": "Soitec perd 11,85 % à 96,30 € et efface le bond de jeudi avec le recul des semi-conducteurs",
           "url": "https://www.zonebourse.com/actualite-bourse/l-ia-fait-de-nouveau-derailler-les-bourses-mondiales-ce785ed3dd88f32d"
-        },
-        {
-          "date": "2026-11-19",
-          "titre": "Soitec bondit de 12 % à 109,25 € après ses résultats, après avoir gagné plus de 20 % en séance",
-          "url": "https://www.moneyvox.fr/bourse/actualites/111326/cac-40-euphorie-aura-ete-de-courte-duree-retrouvez-les-infos-bourse-du-19-novembre"
         }
       ],
       "isin": "FR0013227113",
@@ -778,11 +798,15 @@
         {
           "d": "2026-11-26",
           "p": 90.96
+        },
+        {
+          "d": "2026-11-27",
+          "p": 95.52
         }
       ],
-      "prix": 90.96,
-      "prixDate": "2026-11-26",
-      "variationJour": 6.94
+      "prix": 95.52,
+      "prixDate": "2026-11-27",
+      "variationJour": 5.01
     },
     {
       "activite": "Seul moyen d'approcher le Bitcoin depuis un PEA. Attention, ce n'est pas du Bitcoin : l'ETF détient jusqu'à 30 entreprises liées au Bitcoin (MicroStrategy, mineurs comme Cleanspark ou Marathon, plateformes comme Coinbase).",
@@ -958,11 +982,15 @@
         {
           "d": "2026-11-26",
           "p": 6.104
+        },
+        {
+          "d": "2026-11-27",
+          "p": 6.171
         }
       ],
-      "prix": 6.104,
-      "prixDate": "2026-11-26",
-      "variationJour": 2.85
+      "prix": 6.171,
+      "prixDate": "2026-11-27",
+      "variationJour": 1.1
     },
     {
       "activite": "Les 100 plus grosses entreprises non financières du Nasdaq : Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, Broadcom. Même indice et mêmes frais que PUST, avec une part autour de 5 € pensée pour investir chaque mois.",
@@ -1093,11 +1121,15 @@
         {
           "d": "2026-11-26",
           "p": 6.286
+        },
+        {
+          "d": "2026-11-27",
+          "p": 6.389
         }
       ],
-      "prix": 6.286,
-      "prixDate": "2026-11-26",
-      "variationJour": 4.37
+      "prix": 6.389,
+      "prixDate": "2026-11-27",
+      "variationJour": 1.64
     },
     {
       "activite": "Même indice que DCAM (MSCI World, environ 1 400 entreprises de 23 pays développés), géré par BlackRock. Exception à retenir : il est irlandais mais bien éligible au PEA grâce à sa réplication par swap.",
@@ -1159,6 +1191,11 @@
       "activite": "Géant franco-italien (environ 49 000 salariés) qui conçoit et fabrique ses propres puces : microcontrôleurs, capteurs, puces de puissance pour voitures électriques, et photonique sur silicium à Crolles.",
       "actus": [
         {
+          "date": "2026-11-27",
+          "titre": "STMicroelectronics gagne 3,9 % à 37,15 € ; Oddo BHF réitère son opinion « surperformance » avec un objectif de 72 € après une rencontre avec la direction",
+          "url": "https://www.boursier.com/indices/actualites/news/cloture-paris-le-cac-40-prolonge-son-rebond-mais-attention-a-la-mise-a-jour-de-la-note-de-la-france-par-sp-global-ratings-999110.html"
+        },
+        {
           "date": "2026-11-26",
           "titre": "STMicroelectronics reprend 4,5 % à 35,77 € avec le rebond des puces européennes, sur un volume deux fois plus faible que la moyenne",
           "url": "https://www.ideal-investisseur.fr/bourse-cryptos/le-cac-40-progresse-de-pres-de-2-a-lapproche-de-la-cloture-porte-par-lautomobile-et-les-semi-conducteurs-34096.html"
@@ -1182,11 +1219,6 @@
           "date": "2026-11-20",
           "titre": "STMicroelectronics chute de 10,8 % à 36,72 €, plus forte baisse du CAC 40, emportée par la vente mondiale sur les puces de l'IA",
           "url": "https://www.zonebourse.com/actualite-bourse/l-ia-fait-de-nouveau-derailler-les-bourses-mondiales-ce785ed3dd88f32d"
-        },
-        {
-          "date": "2026-11-19",
-          "titre": "STMicroelectronics finit en tête du CAC 40 (+1,6 % vers 41,17 €) malgré le reflux des semi-conducteurs en fin de séance",
-          "url": "https://www.zonebourse.com/actualite-bourse/paris-recule-eclipsee-par-les-debuts-d-anthropic-ce785ed2dd80f02d"
         }
       ],
       "isin": "NL0000226223",
@@ -1316,11 +1348,15 @@
         {
           "d": "2026-11-26",
           "p": 35.77
+        },
+        {
+          "d": "2026-11-27",
+          "p": 37.15
         }
       ],
-      "prix": 35.77,
-      "prixDate": "2026-11-26",
-      "variationJour": 4.48
+      "prix": 37.15,
+      "prixDate": "2026-11-27",
+      "variationJour": 3.86
     },
     {
       "isin": "NL00150001Q9",
@@ -1372,9 +1408,9 @@
           "url": "https://www.boursorama.com/bourse/actualites/avis-d-analystes-france-deux-degradations-pour-stellantis-c82785498d2ebc72417dd8fc3500c875"
         }
       ],
-      "prix": 3.526,
-      "prixDate": "2026-11-26",
-      "variationJour": 8.93,
+      "prix": 3.58,
+      "prixDate": "2026-11-27",
+      "variationJour": 1.55,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1443,6 +1479,10 @@
         {
           "d": "2026-11-26",
           "p": 3.526
+        },
+        {
+          "d": "2026-11-27",
+          "p": 3.58
         }
       ]
     },
@@ -1491,9 +1531,9 @@
           "url": "https://www.zonebourse.com/actualite-bourse/paris-recule-eclipsee-par-les-debuts-d-anthropic-ce785ed2dd80f02d"
         }
       ],
-      "prix": 41.38,
-      "prixDate": "2026-11-26",
-      "variationJour": 1.65,
+      "prix": 41.615,
+      "prixDate": "2026-11-27",
+      "variationJour": 0.57,
       "historique": [
         {
           "d": "2026-11-04",
@@ -1562,17 +1602,15 @@
         {
           "d": "2026-11-26",
           "p": 41.38
+        },
+        {
+          "d": "2026-11-27",
+          "p": 41.615
         }
       ]
     }
   ],
   "agenda": [
-    {
-      "id": "apec-trilaterale-2026-11-19",
-      "date": "2026-11-19",
-      "titre": "Sommet Trump, Xi, Poutine à Shenzhen (APEC)",
-      "detail": "Fait : déclaration commune sur la stabilité des flux d'énergie et un dialogue sur la réduction des risques nucléaires ; selon Donald Trump, Xi Jinping est d'accord pour garder ouvert le détroit d'Ormuz (Al Jazeera). Rien d'annoncé sur les droits de douane ou les puces."
-    },
     {
       "id": "vallourec-q3-2026",
       "date": "2026-11-20",
@@ -1686,6 +1724,12 @@
       "date": "2026-11-29",
       "titre": "OPEP+ : réunion ministérielle sur la production 2027",
       "detail": "Dimanche 29 novembre : décision sur les quotas de production, alors que le Brent est remonté vers 96 dollars jeudi après des attaques contre des installations pétrolières au Moyen-Orient (ABC Bourse)."
+    },
+    {
+      "id": "lagarde-econ-2026-11-30",
+      "date": "2026-11-30",
+      "titre": "BCE : audition de Christine Lagarde devant la commission ECON du Parlement européen",
+      "detail": "Son dernier dialogue monétaire avant la fin de son mandat (Investir) ; un indice possible sur la décision du 17 décembre, la veille de l'inflation de la zone euro."
     },
     {
       "id": "ez-flash-hicp-2026-11",
@@ -1980,6 +2024,11 @@
     {
       "d": "2026-11-26",
       "valeur": 745.43,
+      "investi": 799.28
+    },
+    {
+      "d": "2026-11-27",
+      "valeur": 755.14,
       "investi": 799.28
     }
   ]

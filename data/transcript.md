@@ -553,3 +553,13 @@ Le resserrement monétaire désigne une politique par laquelle une banque centra
 **Références**
 - [BCE : qu'est-ce que la politique monétaire ?](https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/what-is-monetary-policy.fr.html)
 - [Banque de France : 3 minutes pour comprendre la stratégie monétaire](https://www.banque-france.fr/fr/strategie-monetaire/comprendre-strategie-monetaire)
+
+## Q: Qu'est-ce que la note souveraine ?
+
+_2026-11-27 21:04 CET_
+
+La note souveraine est l'appréciation, par une agence de notation comme S&P, Moody's ou Fitch, de la capacité d'un État à rembourser sa dette à temps. Elle s'exprime par des lettres, de AAA pour la meilleure qualité à D pour un défaut de paiement, et s'accompagne d'une perspective (positive, stable ou négative) qui indique le sens probable de la prochaine décision. Une note plus basse peut renchérir les emprunts de l'État, car certains investisseurs exigent alors un taux plus élevé, et elle pèse souvent sur les banques du pays, qui détiennent beaucoup de sa dette. Vendredi soir, S&P devait dire si elle maintient la note A+ de la France, avec une perspective stable, alors que le taux de l'OAT à 10 ans tourne autour de 4,70 % (Boursier.com). Notion présentée à titre éducatif, sans conseil.
+
+**Références**
+- [Vie publique : Dette publique, le rôle des agences de notation](https://www.vie-publique.fr/questions-reponses/289661-dette-publique-le-role-des-agences-de-notation)
+- [Vie publique : Qu'est-ce qu'une agence de notation ?](https://www.vie-publique.fr/fiches/270095-quest-ce-quune-agence-de-notation)
